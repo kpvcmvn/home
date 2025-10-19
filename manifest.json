@@ -1,0 +1,23 @@
+{
+  "short_name": "PV Vinh Sơn",
+  "name": "Phụng Vụ Vinh Sơn",
+  "description": "Ứng dụng đọc kinh phụng vụ hằng ngày kính các Thánh và Chân phước trong gia đình Vinh Sơn.",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/O6FNk2F.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.imgur.com/O6FNk2F.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}

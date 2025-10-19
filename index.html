@@ -1,0 +1,151 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Phụng Vụ Vinh Sơn</title>
+    <meta name="theme-color" content="#111827"/>
+    <link rel="manifest" href="/manifest.json">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    :root {
+      --bg-primary: #111827; /* bg-gray-900 */
+      --bg-secondary: #1f2937; /* bg-gray-800 */
+      --bg-tertiary: #374151; /* bg-gray-700 */
+      --text-primary: #f3f4f6; /* text-gray-200 */
+      --text-secondary: #9ca3af; /* text-gray-400 */
+      --text-accent: #f59e0b; /* text-amber-500 */
+      --border-accent: #f59e0b; /* border-amber-400 */
+      --highlight-bg: rgba(251, 191, 36, 0.1);
+    }
+
+    .theme-classic {
+      --bg-primary: #fdf6e3;
+      --bg-secondary: #f5ead5;
+      --bg-tertiary: #eee8d5;
+      --text-primary: #586e75;
+      --text-secondary: #839496;
+      --text-accent: #b58900;
+      --border-accent: #b58900;
+      --highlight-bg: rgba(181, 137, 0, 0.1);
+    }
+
+    .theme-light {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f9fafb; /* gray-50 */
+      --bg-tertiary: #f3f4f6; /* gray-100 */
+      --text-primary: #1f2937; /* gray-800 */
+      --text-secondary: #6b7280; /* gray-500 */
+      --text-accent: #d97706; /* amber-600 */
+      --border-accent: #d97706; /* amber-600 */
+      --highlight-bg: rgba(245, 158, 11, 0.1);
+    }
+    
+    .theme-dark {
+      --bg-primary: #111827;
+      --bg-secondary: #1f2937;
+      --bg-tertiary: #374151;
+      --text-primary: #f3f4f6;
+      --text-secondary: #9ca3af;
+      --text-accent: #fbbf24; /* amber-400 */
+      --border-accent: #fbbf24; /* amber-400 */
+      --highlight-bg: rgba(251, 191, 36, 0.1);
+    }
+
+    .theme-black {
+      --bg-primary: #000000;
+      --bg-secondary: #171717;
+      --bg-tertiary: #262626;
+      --text-primary: #e5e5e5;
+      --text-secondary: #a3a3a3;
+      --text-accent: #f59e0b; /* amber-500 */
+      --border-accent: #f59e0b; /* amber-500 */
+      --highlight-bg: rgba(245, 158, 11, 0.1);
+    }
+
+    .theme-light-blue {
+      --bg-primary: #f0f9ff;      /* sky-50 */
+      --bg-secondary: #e0f2fe;    /* sky-100 */
+      --bg-tertiary: #bae6fd;     /* sky-200 */
+      --text-primary: #0c4a6e;    /* sky-900 */
+      --text-secondary: #0369a1; /* sky-700 */
+      --text-accent: #0284c7;     /* sky-600 */
+      --border-accent: #0284c7;   /* sky-600 */
+      --highlight-bg: rgba(2, 132, 199, 0.1);
+    }
+
+    .theme-wood {
+      --bg-primary: #f5f5dc;      /* beige */
+      --bg-secondary: #e3d1b1;    /* light wood */
+      --bg-tertiary: #d2b48c;     /* tan */
+      --text-primary: #5c4033;    /* dark brown */
+      --text-secondary: #805533;  /* lighter brown */
+      --text-accent: #8b4513;     /* saddlebrown */
+      --border-accent: #8b4513;   /* saddlebrown */
+      --highlight-bg: rgba(139, 69, 19, 0.1);
+    }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      transition: background-color 0.3s, color 0.3s;
+    }
+    
+    @media print {
+      body {
+        background-color: #fff !important;
+      }
+      body * {
+        visibility: hidden;
+      }
+      #print-content, #print-content * {
+        visibility: visible;
+      }
+      #print-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        color: #000 !important;
+        background-color: #fff !important;
+      }
+       #print-content .prose, #print-content .prose * {
+        color: #000 !important;
+      }
+      @page {
+        size: A4;
+        margin: 2cm;
+      }
+    }
+  </style>
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "vite": "https://aistudiocdn.com/vite@^7.1.10",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.4"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/service-worker.js').then(registration => {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          }, err => {
+            console.log('ServiceWorker registration failed: ', err);
+          });
+        });
+      }
+    </script>
+  </body>
+</html>
