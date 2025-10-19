@@ -4,13 +4,13 @@
   "description": "Ứng dụng đọc kinh phụng vụ hằng ngày kính các Thánh và Chân phước trong gia đình Vinh Sơn.",
   "icons": [
     {
-      "src": "https://i.imgur.com/O6FNk2F.png",
+      "src": "https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "https://i.imgur.com/O6FNk2F.png",
+      "src": "https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
