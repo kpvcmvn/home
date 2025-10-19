@@ -7,8 +7,8 @@ const urlsToCache = [
   // Caching the external libraries is more important.
   'https://cdn.tailwindcss.com',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
-  'https://i.imgur.com/gA3Q62z.jpg', // logo
-  'https://i.imgur.com/O6FNk2F.png', // manifest icon
+  'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png', // logo
+  'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png', // manifest icon
   'https://unpkg.com/@babel/standalone/babel.min.js',
   'https://aistudiocdn.com/@google/genai@^1.25.0',
   'https://aistudiocdn.com/react@^19.2.0/',
