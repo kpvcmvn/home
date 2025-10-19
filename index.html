@@ -8,6 +8,16 @@
     <link rel="manifest" href="./manifest.json">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.25.0",
+    "react": "https://esm.sh/react@18.2.0",
+    "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/"
+  }
+}
+</script>
   <style>
     :root {
       --bg-primary: #111827; /* bg-gray-900 */
@@ -95,55 +105,34 @@
     @media print {
       body {
         background-color: #fff !important;
+      }
+      body * {
+        visibility: hidden;
+      }
+      #print-content, #print-content * {
+        visibility: visible;
+      }
+      #print-content {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        color: #000 !important;
+        background-color: #fff !important;
+      }
+       #print-content .prose, #print-content .prose * {
         color: #000 !important;
       }
-
-      /* Các component đã có class print:hidden để tự ẩn đi.
-         Chúng ta chỉ cần reset lại layout của các container. */
-      
-      #root > div, main.container, main > div {
-        display: block !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        min-height: auto !important;
-        max-width: none !important;
-        box-shadow: none !important;
-        border: none !important;
-        background-color: transparent !important;
-      }
-      
-      /* Đảm bảo toàn bộ nội dung trong vùng in có màu đen */
-      #print-content, #print-content * {
-        color: black !important;
-      }
-
-      /* Reset lại style của prose để tương thích với nền trắng */
-      #print-content .prose {
-        max-width: none !important;
-      }
-
-      /* Cài đặt trang in */
       @page {
         size: A4;
         margin: 2cm;
       }
     }
   </style>
-<script type="importmap">
-{
-  "imports": {
-    "react": "https://aistudiocdn.com/react@^19.2.0",
-    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
-    "react/": "https://aistudiocdn.com/react@^19.2.0/",
-    "vite": "https://aistudiocdn.com/vite@^7.1.10",
-    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.4"
-  }
-}
-</script>
 </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/index.tsx"></script>
+    <script type="module" src="./index.js"></script>
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
