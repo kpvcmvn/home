@@ -4,11 +4,7 @@ const urlsToCache = [
   './index.html',
   'https://cdn.tailwindcss.com',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
-  'https://i.imgur.com/O6FNk2F.png',
-  'https://aistudiocdn.com/@google/genai@^1.25.0',
-  'https://aistudiocdn.com/react@^19.2.0/',
-  'https://aistudiocdn.com/react@^19.2.0',
-  'https://aistudiocdn.com/react-dom@^19.2.0/'
+  'https://i.imgur.com/O6FNk2F.png'
 ];
 
 self.addEventListener('install', event => {
