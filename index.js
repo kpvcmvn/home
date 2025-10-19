@@ -2337,13 +2337,13 @@ const DEFAULT_SETTINGS = {
            { id: 'evening-prayer', title: { vi: 'Kinh Ban Tối', en: 'Evening Prayer'}, content: { vi: 'Nội dung kinh ban tối...', en: 'Evening prayer content...'}},
         ],
     },
-    logoUrl: 'https://i.imgur.com/gA3Q62z.jpg',
+    logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
     headerSubtitle: { vi: 'Nguồn tài liệu cho Tu sĩ và Giáo dân', en: 'Resources for Religious and Laity' },
     mainSections: [
       { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers' }, icon: 'fa-book-pray' }
     ],
-    supportEmail: 'admin@example.com',
+    supportEmail: 'bantruyenthong.vinhson@gmail.com',
     sectionsConfig: SECTIONS_CONFIG,
     aboutContent: {
       title: { vi: 'Về Ứng Dụng', en: 'About The App' },
