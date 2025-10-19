@@ -1,8 +1,7 @@
 const CACHE_NAME = 'phung-vu-vinh-son-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/index.tsx',
+  './',
+  './index.html',
   'https://cdn.tailwindcss.com',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css',
   'https://i.imgur.com/O6FNk2F.png',
