@@ -2322,7 +2322,7 @@ const DEFAULT_SETTINGS = {
     fontSize: 16,
     adminPassword: 'admin123',
     footerContent: { 
-        vi: 'Nội dung được cung cấp cho mục đích phụng vụ và học hỏi. <br/> Mọi quyền được bảo lưu © 2025.',
+        vi: 'Bản quyền thuộc Ban Truyền Thông. <br/> Tu Hội Truyền Giáo - Tỉnh dòng Việt nam © 2025.',
         en: 'Content provided for liturgical and study purposes. <br/> All rights reserved © 2025.' 
     },
     feastTypes: [
@@ -2333,22 +2333,48 @@ const DEFAULT_SETTINGS = {
     ],
     mainSectionContents: {
         prayers: [
-           { id: 'morning-prayer', title: { vi: 'Kinh Lạy Cha', en: 'Our Father'}, content: { vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.'}},
-           { id: 'evening-prayer', title: { vi: 'Kinh Ban Tối', en: 'Evening Prayer'}, content: { vi: 'Nội dung kinh ban tối...', en: 'Evening prayer content...'}},
+           { id: 'laycha', title: { vi: 'Kinh Lạy Cha', en: 'Our Father', es: 'Padre Nuestro', fr: 'Notre Père', la: 'Pater Noster'}, 
+           content: { 
+            vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', 
+            en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.', 
+          
+            es: 'Padre nuestro que estás en los cielos, santificado sea tu nombre; venga tu reino; hágase tu voluntad, así en la tierra como en el cielo. Danos hoy nuestro pan de cada día; y perdona nuestras deudas, así como nosotros perdonamos a nuestros deudores; y no nos dejes caer en la tentación, mas líbranos del mal. Amén.',
+          
+            fr: 'Notre Père qui es aux cieux, que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd\'hui notre pain de ce jour; pardonne-nous nos offenses, comme nous pardonnons aussi à ceux qui nous ont offensés; et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen.',
+          
+            la: 'Pater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem, sed libera nos a malo. Amen.'
+           }},
+
+           { id: 'kinhmung', title: { 
+            vi: 'Kinh Kính Mừng', 
+            en: 'Hail Mary', 
+            es: 'Dios te salve María', 
+            fr: 'Je vous salue Marie', 
+            la: 'Ave Maria'}, 
+           content: { 
+
+            vi: 'Nội dung kinh ban tối...', 
+            en: 'Evening prayer content...',
+            es: 'Contenido de la oración vespertina...',
+            fr: 'Contenu de la prière du soir...',
+            la: 'Contentum orationis vespertinae...'
+          
+          }},
+          
         ],
     },
     logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
-    headerSubtitle: { vi: 'Nguồn tài liệu cho Tu sĩ và Giáo dân', en: 'Resources for Religious and Laity' },
+    headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family', es: 'Para la Familia Vicenciana', fr: 'Pour la Famille Vincentienne', la: 'Pro Familia Vincentiana' },
     mainSections: [
-      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers' }, icon: 'fa-book-pray' }
+      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers', es: 'Oraciones', fe: 'Prières', la: 'Orationes'}, icon: 'fa-book-pray' }
     ],
     supportEmail: 'bantruyenthong.vinhson@gmail.com',
     sectionsConfig: SECTIONS_CONFIG,
     aboutContent: {
       title: { vi: 'Về Ứng Dụng', en: 'About The App' },
       p1: {
-          vi: '<strong>Phụng Vụ Vinh Sơn</strong> là một ứng dụng web được thiết kế để cung cấp các bài đọc và tài liệu phụng vụ cho các ngày lễ trong lịch Vinh Sơn. Mục tiêu của chúng tôi là làm cho các nguồn tài liệu này dễ dàng truy cập cho các thành viên của Tu Hội Truyền Giáo (các cha Laza), Tu Hội Nữ Tử Bác Ái, và tất cả những ai quan tâm đến linh đạo Vinh Sơn.',
+          vi: '<strong>Phụng Vụ Vinh Sơn</strong> là một ứng dụng web được thiết kế để cung cấp các bài đọc và tài liệu phụng vụ cho các ngày lễ trong lịch Vinh Sơn. Mục tiêu của chúng tôi là làm cho các nguồn tài liệu này dễ dàng truy cập cho các thành viên của Tu Hội Truyền Giáo, Tu Hội Nữ Tử Bác Ái, và tất cả những ai quan tâm đến linh đạo Vinh Sơn.',
           en: '<strong>Vincentian Liturgy</strong> is a web application designed to provide liturgical readings and materials for feast days in the Vincentian calendar. Our goal is to make these resources easily accessible to members of the Congregation of the Mission, the Daughters of Charity, and all who are interested in Vincentian spirituality.'
       },
       p2_title: { vi: 'Ứng dụng này bao gồm:', en: 'This application features:' },
