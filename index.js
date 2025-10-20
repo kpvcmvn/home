@@ -2367,10 +2367,10 @@ const DEFAULT_SETTINGS = {
         en: 'Content provided for liturgical and study purposes. <br/> All rights reserved © 2025.' 
     },
     feastTypes: [
-        { name: { vi: 'Đại lễ', en: 'Solemnity', es:'Solemnidad', fr: 'Solennité', la: 'Sollemnitas' } },
-        { name: { vi: 'Lễ kính', en: 'Feast' , es:'Fiesta', fr: 'Fête', la: 'Festum'} },
-        { name: { vi: 'Lễ nhớ', en: 'Memorial' , es:'Memoria', fr: 'Mémoire', la: 'Memoria'} },
-        { name: { vi: 'Kỷ niệm', en: 'Commemoration', es:'Conmemoración', fr: 'Commémoration', la: 'Commemoratio' } },
+        { name: { vi: 'Đại lễ', en: 'Solemnity' } },
+        { name: { vi: 'Lễ kính', en: 'Feast' } },
+        { name: { vi: 'Lễ nhớ', en: 'Memorial' } },
+        { name: { vi: 'Kỷ niệm', en: 'Commemoration' } },
     ],
     mainSectionContents: {
         prayers: [
@@ -2443,20 +2443,20 @@ const DEFAULT_SETTINGS = {
             fr: 'Salut, ô Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, salut. Enfants dÈve, exilés, nous crions vers vous. Vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes. Ô vous, notre avocate, tournez vers nous vos regards miséricordieux. Et après cet exil, montrez-nous Jésus, le fruit béni de vos entrailles. Ô clémente, ô miséricordieuse, ô douce Vierge Marie.',
             la: 'Sálve Regína, Máter misericórdiæ, víta, dulcédo, et spes nóstra, sálve. Ad te clamámus, éxsules fílii Hévæ. Ad te suspirámus, geméntes et fléntes in hac lacrimárum válle. Éia érgo, Advocáta nóstra, íllos túos misericórdes óculos ad nos convérte. Et Iésum, benedíctum frúctum véntris túi, nóbis post hoc exsílium osténde. O clémens, O pía, O dúlcis Vírgo María.'
           }},
-          //  { id: '', title: { 
-          //   vi: '', 
-          //   en: '', 
-          //   es: '', 
-          //   fr: '', 
-          //   la: ''}, 
-          //  content: { 
+           { id: 'sangdanh', title: { 
+            vi: '', 
+            en: '', 
+            es: '', 
+            fr: '', 
+            la: ''}, 
+           content: { 
 
-          //   vi: '', 
-          //   en: '', 
-          //   es: '',
-          //   fr: '',
-          //   la: ''
-          // }},
+            vi: '', 
+            en: '', 
+            es: '',
+            fr: '',
+            la: ''
+          }},
         ],
     },
     logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
