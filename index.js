@@ -2353,14 +2353,55 @@ const DEFAULT_SETTINGS = {
             la: 'Ave Maria'}, 
            content: { 
 
-            vi: 'Nội dung kinh ban tối...', 
-            en: 'Evening prayer content...',
-            es: 'Contenido de la oración vespertina...',
-            fr: 'Contenu de la prière du soir...',
-            la: 'Contentum orationis vespertinae...'
+            vi: 'Kính mừng Maria đầy ơn phước, Đức Chúa Trời ở cùng Bà, Bà có phước lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phước lạ. Thánh Maria Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội, khi này và trong giờ lâm tử. Amen.', 
+            en: 'Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
+            es: 'Dios te salve, María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.',
+            fr: 'e vous salue, Marie, pleine de grâce ; le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à lheure de notre mort. Amen.',
+            la: 'Áve María, grátia pléna, Dóminus técum. Benedícta tu in muliéribus, et benedíctus frúctus véntris túi, Iésus. Sáncta María, Máter Déi, óra pro nóbis peccatóribus, nunc et in hóra mórtis nóstræ. Ámen.'
           
           }},
-          
+          { id: 'sangdanh', title: { 
+            vi: 'Sáng Danh', 
+            en: 'Glory Be', 
+            es: 'Gloria', 
+            fr: 'Gloire au Père', 
+            la: 'Gloria Patri'}, 
+           content: { 
+
+            vi: 'Sáng danh Đức Chúa Cha, và Đức Chúa Con, và Đức Chúa Thánh Thần. Như đã có trước vô cùng, và bây giờ, và hằng có, và đời đời chẳng cùng. Amen.', 
+            en: 'Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.', 
+            es: 'Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.',
+            fr: 'Gloire au Père, et au Fils, et au Saint-Esprit. Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.',
+            la: 'Glória Pátri, et Fílio, et Spirítui Sáncto. Sicut érat in princípio, et nunc et sémper, et in sǽcula sæculórum. Ámen.'
+          }},
+           { id: 'kinhtinkinh', title: { 
+            vi: '', 
+            en: '', 
+            es: '', 
+            fr: '', 
+            la: ''}, 
+           content: { 
+
+            vi: '', 
+            en: '', 
+            es: '',
+            fr: '',
+            la: ''
+          }},
+           { id: 'sangdanh', title: { 
+            vi: '', 
+            en: '', 
+            es: '', 
+            fr: '', 
+            la: ''}, 
+           content: { 
+
+            vi: '', 
+            en: '', 
+            es: '',
+            fr: '',
+            la: ''
+          }},
         ],
     },
     logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
