@@ -2375,18 +2375,18 @@ const DEFAULT_SETTINGS = {
             la: 'Glória Pátri, et Fílio, et Spirítui Sáncto. Sicut érat in princípio, et nunc et sémper, et in sǽcula sæculórum. Ámen.'
           }},
            { id: 'kinhtinkinh', title: { 
-            vi: '', 
-            en: '', 
-            es: '', 
-            fr: '', 
-            la: ''}, 
+            vi: 'Kinh Tin Kính', 
+            en: 'Apostles Creed', 
+            es: 'Credo de los Apóstoles', 
+            fr: 'Symbole des Apôtres', 
+            la: 'Symbolum Apostolorum)'}, 
            content: { 
 
-            vi: '', 
-            en: '', 
-            es: '',
-            fr: '',
-            la: ''
+            vi: 'Tôi tin kính Đức Chúa Trời là Cha phép tắc vô cùng dựng nên trời đất. Tôi tin kính Đức Chúa Giêsu Kitô là Con Một Đức Chúa Cha, cùng là Chúa chúng tôi. Bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi Bà Maria đồng trinh, chịu nạn đời quan Phongxiô Philatô, chịu đóng đanh trên cây Thánh giá, chết và táng xác, xuống ngục tổ tông, ngày thứ ba bởi trong kẻ chết mà sống lại, lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng. Ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết. Tôi tin kính Đức Chúa Thánh Thần. Tôi tin có Hội Thánh hằng có ở khắp thế này, các Thánh thông công. Tôi tin phép tha tội. Tôi tin xác loài người ngày sau sống lại. Tôi tin hằng sống vậy. Amen.', 
+            en: 'I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.', 
+            es: 'Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la santa Iglesia católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.',
+            fr: 'Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre. Et en Jésus Christ, son Fils unique, notre Seigneur, qui a été conçu du Saint-Esprit, est né de la Vierge Marie, a souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli, est descendu aux enfers, le troisième jour est ressuscité des morts, est monté aux cieux, est assis à la droite de Dieu le Père tout-puissant, d’où il viendra juger les vivants et les morts. Je crois au Saint-Esprit, à la sainte Église catholique, à la communion des saints, à la rémission des péchés, à la résurrection de la chair, à la vie éternelle. Amen.',
+            la: 'Crédo in Déum Pátrem omnipoténtem, Creatórem cæli et térræ. Et in Iésum Chrístum, Fílium éius unícum, Dóminum nóstrum: qui concéptus est de Spíritu Sáncto, nátus ex María Vírgine, pássus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos: tértia díe resurréxit a mórtuis: ascéndit ad cælos: sédet ad déxteram Déi Pátris omnipoténtis: índe ventúrus est iudicáre vívos et mórtuos. Crédo in Spíritum Sánctum, sánctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, cárnis resurrectiónem, vítam ætérnam. Ámen.'
           }},
            { id: 'sangdanh', title: { 
             vi: '', 
