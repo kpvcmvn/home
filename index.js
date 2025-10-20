@@ -248,7 +248,8 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     //   es: 'Hija de la Caridad',
     //   fr: 'Fille de la Charité',
     //   la: 'Filia Caritatis'
-    // },
+    // 
+    },
     type: 'Lễ nhớ',
     sections: {
       biography: placeholder,
@@ -285,35 +286,35 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
       },
       massReadings: {
         vi: `<strong>THÁNH LỄ</strong>
-<strong>Ca nhập lễ</strong>
-(Lm 3, 22-23)
-Lòng thương xót của Đức Chúa không bao giờ chấm dứt, vì lòng nhân từ của Người không bao giờ cạn. Mỗi sáng sớm, lòng nhân từ của Người lại mới mẻ.
-<strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, xin cho chúng con luôn biết noi gương ngài trong việc rao giảng Tin Mừng với lòng can đảm và kiên trung, để nhờ đó chúng con được tham dự vào vinh quang của Chúa trên trời. Chúng con cầu xin.
-<strong>Bài đọc</strong>
-<em></em>
-<strong>Đáp ca</strong>
-<strong>Tung hô Tin Mừng</strong>
-<strong>Tin Mừng</strong>
-<strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin nhận lấy lễ vật chúng con dâng lên trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, để nhờ đó chúng con được củng cố trong đức tin và lòng can đảm rao giảng Tin Mừng. Chúng con cầu xin.
-<strong>Ca hiệp lễ</strong>
-<strong>Lời nguyện hiệp lễ</strong>`,
+            <strong>Ca nhập lễ</strong>
+              (Lm 3, 22-23)
+              Lòng thương xót của Đức Chúa không bao giờ chấm dứt, vì lòng nhân từ của Người không bao giờ cạn. Mỗi sáng sớm, lòng nhân từ của Người lại mới mẻ.
+              <strong>Lời nguyện nhập lễ</strong>
+              Lạy Chúa, trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, xin cho chúng con luôn biết noi gương ngài trong việc rao giảng Tin Mừng với lòng can đảm và kiên trung, để nhờ đó chúng con được tham dự vào vinh quang của Chúa trên trời. Chúng con cầu xin.
+              <strong>Bài đọc</strong>
+              <em></em>
+              <strong>Đáp ca</strong>
+              <strong>Tung hô Tin Mừng</strong>
+              <strong>Tin Mừng</strong>
+              <strong>Lời nguyện tiến lễ</strong>
+              Lạy Chúa, xin nhận lấy lễ vật chúng con dâng lên trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, để nhờ đó chúng con được củng cố trong đức tin và lòng can đảm rao giảng Tin Mừng. Chúng con cầu xin.
+              <strong>Ca hiệp lễ</strong>
+              <strong>Lời nguyện hiệp lễ</strong>`,
         en: `<strong>MASS</strong>
-<strong>Entrance Antiphon</strong>
-(Lam 3:22-23)
-The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness.
-<strong>Collect</strong>
-O God, who in the memorial of Saint Francis Regis Clet give us a model of courage and perseverance in proclaiming the Gospel, grant us, we pray, to share in the glory of your heavenly kingdom. Through our Lord Jesus Christ, your Son.
-<strong>Reading</strong>
-<em></em>
-<strong>Responsorial Psalm</strong>
-<strong>Gospel Acclamation</strong>
-<strong>Gospel</strong>
-<strong>Prayer over the Offerings</strong>
-O Lord, graciously accept the offerings we bring on the memorial of Saint Francis Regis Clet, that we may be strengthened in faith and courage to proclaim the Gospel. Through Christ our Lord.
-<strong>Communion Antiphon</strong>
-<strong>Prayer after Communion</strong>`,
+                <strong>Entrance Antiphon</strong>
+                (Lam 3:22-23)
+                The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness.
+                <strong>Collect</strong>
+                O God, who in the memorial of Saint Francis Regis Clet give us a model of courage and perseverance in proclaiming the Gospel, grant us, we pray, to share in the glory of your heavenly kingdom. Through our Lord Jesus Christ, your Son.
+                <strong>Reading</strong>
+                <em></em>
+                <strong>Responsorial Psalm</strong>
+                <strong>Gospel Acclamation</strong>
+                <strong>Gospel</strong>
+                <strong>Prayer over the Offerings</strong>
+                O Lord, graciously accept the offerings we bring on the memorial of Saint Francis Regis Clet, that we may be strengthened in faith and courage to proclaim the Gospel. Through Christ our Lord.
+                <strong>Communion Antiphon</strong>
+                <strong>Prayer after Communion</strong>`,
       },
       officeOfReadings: placeholder,
       lauds: placeholder,
@@ -321,7 +322,8 @@ O Lord, graciously accept the offerings we bring on the memorial of Saint Franci
       vespers: placeholder,
       compline: placeholder,
     }
-  },
+},
+
   {
     id: 'bl-pierre-rene-rogue',
     date: '03-03',
