@@ -2276,17 +2276,13 @@ const DEFAULT_SETTINGS = {
           }},
            { id: 'sangdanh', title: { 
             vi: '', 
-            en: '', 
-            es: '', 
-            fr: '', 
-            la: ''}, 
+            en: ''
+          }, 
            content: { 
 
             vi: '', 
             en: '', 
-            es: '',
-            fr: '',
-            la: ''
+            
           }},
         ],
     },
@@ -2468,28 +2464,28 @@ const App = () => {
   //     sessionStorage.removeItem('isAdmin');
   // };
   
-  const handleSaveSettings = (newSettings) => {
-    setSettings(prev => ({...prev, ...newSettings}));
-  };
+  // const handleSaveSettings = (newSettings) => {
+  //   setSettings(prev => ({...prev, ...newSettings}));
+  // };
   
-  const handleOpenEditFeast = (feast) => {
-    setEditingFeast(feast);
-    setShowEditFeast(true);
-  };
+  // const handleOpenEditFeast = (feast) => {
+  //   setEditingFeast(feast);
+  //   setShowEditFeast(true);
+  // };
 
-  const handleSaveFeast = (feastToSave) => {
-      setFeasts(prevFeasts => {
-          const index = prevFeasts.findIndex(f => f.id === feastToSave.id);
-          if (index > -1) {
-              const newFeasts = [...prevFeasts];
-              newFeasts[index] = feastToSave;
-              return newFeasts;
-          }
-          return [...prevFeasts, feastToSave];
-      });
-      setShowEditFeast(false);
-      setEditingFeast(null);
-  };
+  // const handleSaveFeast = (feastToSave) => {
+  //     setFeasts(prevFeasts => {
+  //         const index = prevFeasts.findIndex(f => f.id === feastToSave.id);
+  //         if (index > -1) {
+  //             const newFeasts = [...prevFeasts];
+  //             newFeasts[index] = feastToSave;
+  //             return newFeasts;
+  //         }
+  //         return [...prevFeasts, feastToSave];
+  //     });
+  //     setShowEditFeast(false);
+  //     setEditingFeast(null);
+  // };
 
   const handleDeleteFeast = (feastToDelete) => {
       if (window.confirm(getML({vi: "Bạn có chắc muốn xóa lễ này?", en: "Are you sure you want to delete this feast?"}))) {
