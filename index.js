@@ -45,9 +45,7 @@ const SECTIONS_CONFIG = [
 const placeholder = {
   vi: `<p class="text-center text-gray-400 italic">Nội dung cho phần này đang được cập nhật...</p>`,
   en: `<p class="text-center text-gray-400 italic">Content for this section is being updated...</p>`,
-  // es: `<p class="text-center text-gray-400 italic">El contenido de esta sección se está actualizando...</p>`,
-  // fr: `<p class="text-center text-gray-400 italic">Le contenu de cette section est en cours de mise à jour...</p>`,
-  // la: `<p class="text-center text-gray-400 italic">Contentus huius sectionis renovatur...</p>`,
+
 };
 const FEASTS = [
   {
@@ -56,16 +54,12 @@ const FEASTS = [
     title: { 
       vi: 'Thánh Nữ Ê-li-za-bét An-na Xe-tôn',
       en: 'St. Elizabeth Ann Seton',
-      // es: 'Santa Isabel Ana Seton',
-      // fr: 'Sainte Élisabeth-Ann Seton',
-      // la: 'Sancta Elisabeth Anna Seton'
+    
     },
     subtitle: {
       vi: 'Nữ tu',
       en: 'Religious',
-      // es: 'Religiosa',
-      // fr: 'Religieuse',
-      // la: 'Religiosa'
+
     },
     type: 'Lễ nhớ',
     sections: {
@@ -82,25 +76,7 @@ She married William Seton at the age of 20, and from this marriage, she had five
 Upon her return to the United States, Elizabeth, a devout Episcopalian, now felt strongly attracted to Catholic doctrine. Her family, not understanding her quest, abandoned her. Elizabeth then faced many personal and family trials. Finally, on March 14, 1805, she was received into the Catholic Church.
 While maintaining an intense spiritual life and regularly caring for the education of her children, she pursued her own interest in being fully committed to charitable works. In 1809, she founded the Congregation of the Sisters of Charity in the diocese of Baltimore, with St. Joseph as its patron, for the education of young girls. Under the guidance of Bishop Cheverus, she wished to be affiliated with the Company of the Daughters of Charity of St. Vincent de Paul, but the political situation at the time prevented this plan. On January 4, 1821, Elizabeth Ann Seton died in Emmitsburg. She was also the originator of five branches of American Sisters of Charity. The Emmitsburg branch would merge with the Company of the Daughters of Charity on March 25, 1850.
 Formed by the Word of God, with a fervent love for the Church, Elizabeth Ann Seton left a solid legacy of thought. She was beatified by Pope John XXIII on March 17, 1963, and canonized by Pope Paul VI on September 14, 1975.`,
-//         es: `<strong>Biografía</strong>
-// Elizabeth Ann Bayley nació en Nueva York el 28 de agosto de 1774, en vísperas de los acontecimientos que llevarían a los Estados Unidos de América a su Independencia. Huérfana de madre a los tres años, creció en una familia marcada por el segundo matrimonio de su padre y su pertenencia a la Iglesia Episcopal.
-// Se casó con William Seton a los 20 años, y de este matrimonio tuvo cinco hijos. Durante un viaje de negocios a Italia, su esposo murió en Pisa el 27 de diciembre de 1803. Fue acogida y consolada por una amigable familia católica: la familia Felicchi, en la que descubrió una profunda caridad.
-// A su regreso a los Estados Unidos, Elizabeth, una devota episcopaliana, se sintió fuertemente atraída por la doctrina católica. Su familia, al no comprender su búsqueda, la abandonó. Elizabeth enfrentó entonces muchas pruebas personales y familiares. Finalmente, el 14 de marzo de 1805, fue recibida en la Iglesia Católica.
-// Mientras mantenía una intensa vida espiritual y cuidaba regularmente la educación de sus hijos, persiguió su propio interés de comprometerse plenamente con las obras de caridad. En 1809, fundó la Congregación de las Hermanas de la Caridad en la diócesis de Baltimore, con San José como patrón, para la educación de las jóvenes. Bajo la guía del obispo Cheverus, deseaba afiliarse a la Compañía de las Hijas de la Caridad de San Vicente de Paúl, pero la situación política de la época impidió este plan. El 4 de enero de 1821, Elizabeth Ann Seton murió en Emmitsburg. También fue la fundadora de cinco ramas de Hermanas de la Caridad americanas. La rama de Emmitsburg se fusionaría con la Compañía de las Hijas de la Caridad el 25 de marzo de 1850.
-// Formada por la Palabra de Dios, con un ferviente amor por la Iglesia, Elizabeth Ann Seton dejó un sólido legado de pensamiento. Fue beatificada por el Papa Juan XXIII el 17 de marzo de 1963 y canonizada por el Papa Pablo VI el 14 de septiembre de 1975.`,
-//         fr: `<strong>Biographie</strong>
-// Elizabeth Ann Bayley est née à New York le 28 août 1774, à la veille des événements qui allaient conduire les États-Unis d'Amérique à leur indépendance. Orpheline de sa mère à l'âge de trois ans, elle a grandi dans une famille marquée par le remariage de son père et leur appartenance à l'Église épiscopalienne.
-// Elle a épousé William Seton à l'âge de 20 ans, et de ce mariage, elle a eu cinq enfants. Lors d'un voyage d'affaires en Italie, son mari est décédé à Pise le 27 décembre 1803. Elle a été accueillie et réconfortée par une famille catholique amie : la famille Felicchi, chez qui elle a découvert une profonde charité.
-// À son retour aux États-Unis, Elizabeth, une fervente épiscopalienne, se sentit fortement attirée par la doctrine catholique. Sa famille, ne comprenant pas sa quête, l'abandonna. Elizabeth a alors dû faire face à de nombreuses épreuves personnelles et familiales. Finalement, le 14 mars 1805, elle fut reçue dans l'Église catholique.
-// Tout en menant une vie spirituelle intense et en s'occupant régulièrement de l'éducation de ses enfants, elle a poursuivi son propre intérêt à s'engager pleinement dans les œuvres de charité. En 1809, elle a fondé la Congrégation des Sœurs de la Charité dans le diocèse de Baltimore, avec saint Joseph comme patron, pour l'éducation des jeunes filles. Sous la direction de Mgr Cheverus, elle souhaitait être affiliée à la Compagnie des Filles de la Charité de saint Vincent de Paul, mais la situation politique de l'époque a empêché ce projet. Le 4 janvier 1821, Elizabeth Ann Seton est décédée à Emmitsburg. Elle est également à l'origine de cinq branches de Sœurs de la Charité américaines. La branche d'Emmitsburg fusionnera avec la Compagnie des Filles de la Charité le 25 mars 1850.
-// Formée par la Parole de Dieu, avec un amour fervent pour l'Église, Elizabeth Ann Seton a laissé un solide héritage de pensée. Elle a été béatifiée par le pape Jean XXIII le 17 mars 1963 et canonisée par le pape Paul VI le 14 septembre 1975.`,
-//         la: `<strong>Vita</strong>
-// Elisabeth Anna Bayley nata est Novi Eboraci die 28 Augusti 1774, pridie eventuum qui Civitates Foederatas Americae ad libertatem ducerent. Matre orbata tres annos nata, in familia crevit patris secundis nuptiis et adhaesione ad Ecclesiam Episcopalem notata.
-// Gulielmo Seton nupsit viginti annos nata, et ex hoc matrimonio quinque filios habuit. In itinere negotiatorio in Italiam, maritus eius Pisis obiit die 27 Decembris 1803. A familia catholica amica excepta et consolata est: familia Felicchi, in qua profundam caritatem invenit.
-// In Civitates Foederatas reversa, Elisabeth, devota episcopaliana, nunc ad doctrinam catholicam vehementer attracta sensit. Familia eius, hanc quaestionem non intelligens, eam deseruit. Elisabeth tunc multis personalibus et familiaribus probationibus obviam ivit. Denique, die 14 Martii 1805, in Ecclesiam Catholicam recepta est.
-// Dum vitam spiritualem intensam gerebat et filiorum educationi regulariter vacabat, proprium studium se plene operibus caritatis dedicandi secuta est. Anno 1809, Congregationem Sororum Caritatis in dioecesi Baltimorensi fundavit, Sancto Iosepho patrono, ad puellarum educationem. Sub ductu Episcopi Cheverus, cum Societate Filiarum Caritatis Sancti Vincentii a Paulo affiliari cupiebat, sed rerum politicarum condicio tunc temporis hoc consilium impedivit. Die 4 Ianuarii 1821, Elisabeth Anna Seton Emmitsburgi obiit. Fuit etiam origo quinque ramorum Sororum Caritatis Americanarum. Ramus Emmitsburgensis cum Societate Filiarum Caritatis die 25 Martii 1850 uniretur.
-// Verbo Dei formata, ferventi amore erga Ecclesiam, Elisabeth Anna Seton solidum cogitationis legatum reliquit. A Papa Ioanne XXIII beatificata est die 17 Martii 1963, et a Papa Paulo VI canonizata die 14 Septembris 1975.`
-    
+   
 },
       massReadings: {
         vi: `<strong>THÁNH LỄ</strong>
@@ -151,79 +127,7 @@ Lord God, may the sacrifice we offer you on this memorial of Saint Elizabeth Ann
 The Lord says: I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
 <strong>Prayer after Communion</strong>
 Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
-//         es: `<strong>MISA</strong>
-// <strong>Antífona de entrada (Jer 17, 7-8)</strong>
-// Bendito el hombre que confía en el Señor y pone en el Señor su confianza. Será como un árbol plantado junto al agua, que junto a la corriente echa sus raíces.
-// <strong>Oración colecta</strong>
-// Oh, Dios, que coronaste con el don de la verdadera fe a santa Isabel Ana Seton, concédenos, te rogamos, que, por su ejemplo e intercesión, crezcamos en amor por ti y nos dediquemos con celo al servicio de los necesitados. Por nuestro Señor Jesucristo, tu Hijo.
-// <strong>Lectura (1 Jn 3, 14-18)</strong>
-// <em>Lectura de la primera carta del apóstol san Juan.</em>
-// Queridos hermanos, nosotros sabemos que hemos pasado de la muerte a la vida, porque amamos a los hermanos. El que no ama permanece en la muerte. Todo el que odia a su hermano es un homicida. Y sabéis que ningún homicida tiene vida eterna permanente en él. En esto hemos conocido el amor: en que él dio su vida por nosotros. Así también nosotros debemos dar la vida por los hermanos. Si alguno que posee bienes del mundo ve a su hermano que está necesitado y le cierra sus entrañas, ¿cómo puede permanecer en él el amor de Dios? Hijitos, no amemos de palabra ni de boca, sino de obra y de verdad.
-// <strong>Salmo responsorial (Sal 16)</strong>
-// <strong>R. ¡Tú eres mi heredad, Señor!</strong>
-// Protégeme, Dios mío, que me refugio en ti. Yo digo al Señor: «Tú eres mi bien». <strong>R.</strong>
-// Bendeciré al Señor, que me aconseja, hasta de noche me instruye internamente. Tengo siempre presente al Señor, con él a mi derecha no vacilaré. <strong>R.</strong>
-// Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha. <strong>R.</strong>
-// <strong>Aclamación del Evangelio (Jn 15, 16)</strong>
-// Aleluya, aleluya. Yo os he elegido del mundo —dice el Señor—, para que vayáis y deis fruto, y vuestro fruto permanezca. Aleluya, aleluya.
-// <strong>Evangelio (Jn 15, 9-17)</strong>
-// <strong>Lectura del santo Evangelio según san Juan.</strong>
-// En aquel tiempo, dijo Jesús a sus discípulos: «Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Si guardáis mis mandamientos, permaneceréis en mi amor; lo mismo que yo he guardado los mandamientos de mi Padre y permanezco en su amor. Os he hablado de esto para que mi alegría esté en vosotros, y vuestra alegría llegue a plenitud. Este es mi mandamiento: que os améis unos a otros como yo os he amado. Nadie tiene amor más grande que el que da la vida por sus amigos. Vosotros sois mis amigos, si hacéis lo que yo os mando. Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor: a vosotros os llamo amigos, porque todo lo que he oído a mi Padre os lo he dado a conocer. No sois vosotros los que me habéis elegido, soy yo quien os he elegido y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca. De modo que lo que pidáis al Padre en mi nombre os lo dé. Esto os mando: que os améis unos a otros».
-// <strong>Oración sobre las ofrendas</strong>
-// Señor, que el sacrificio que te ofrecemos en esta memoria de santa Isabel Ana Seton sea un signo de nuestro amoroso servicio a ti y a nuestro prójimo. Te lo pedimos por Cristo nuestro Señor.
-// <strong>Antífona de comunión (Jn 8, 12)</strong>
-// Dice el Señor: Yo soy la luz del mundo; el que me sigue no caminará en tinieblas, sino que tendrá la luz de la vida.
-// <strong>Oración después de la comunión</strong>
-// Señor, que esta Eucaristía, que hemos compartido en memoria de santa Isabel Ana Seton, nos llene del espíritu de tu amor. Que aprendamos a amarte y a servirte en nuestros hermanos. Te lo pedimos por Cristo nuestro Señor.`,
-//         fr: `<strong>MESSE</strong>
-// <strong>Antienne d'ouverture (Jr 17, 7-8)</strong>
-// Béni soit l'homme qui met sa foi dans le Seigneur, dont le Seigneur est la confiance. Il est comme un arbre planté près des eaux, qui étend ses racines vers le courant.
-// <strong>Prière d'ouverture</strong>
-// Dieu qui as comblé sainte Élisabeth-Ann Seton du don de la vraie foi, accorde-nous, nous t'en prions, par son exemple et son intercession, de grandir dans ton amour et de nous dévouer avec zèle au service des nécessiteux. Par Jésus Christ, ton Fils, notre Seigneur.
-// <strong>Lecture (1 Jn 3, 14-18)</strong>
-// <em>Lecture de la première lettre de saint Jean.</em>
-// Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n'aime pas demeure dans la mort. Quiconque a de la haine pour son frère est un meurtrier, et vous savez que pas un meurtrier n'a la vie éternelle demeurant en lui. Voici comment nous avons connu l'amour : il a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Si quelqu'un, qui a les biens de ce monde, voit son frère dans le besoin et lui ferme ses entrailles, comment l'amour de Dieu demeurerait-il en lui ? Petits enfants, n'aimons pas en paroles ni par des discours, mais par des actes et en vérité.
-// <strong>Psaume responsorial (Ps 16)</strong>
-// <strong>R. Tu es, Seigneur, le partage de mon héritage !</strong>
-// Garde-moi, mon Dieu : j'ai fait de toi mon refuge. J'ai dit au Seigneur : « Tu es mon Dieu ! Je n'ai pas d'autre bonheur que toi. » <strong>R.</strong>
-// Je bénis le Seigneur qui me conseille : même la nuit mon cœur m'avertit. Je garde le Seigneur devant moi sans relâche ; il est à ma droite, je suis inébranlable. <strong>R.</strong>
-// Tu m'apprendras le chemin de la vie : devant ta face, débordement de joie ! À ta droite, éternité de délices ! <strong>R.</strong>
-// <strong>Acclamation de l'Évangile (Jn 15, 16)</strong>
-// Alléluia, alléluia. C'est moi qui vous ai choisis du milieu du monde, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure, dit le Seigneur. Alléluia, alléluia.
-// <strong>Évangile (Jn 15, 9-17)</strong>
-// <strong>Lecture du saint Évangile selon saint Jean.</strong>
-// En ce temps-là, Jésus disait à ses disciples : « Comme le Père m'a aimé, moi aussi je vous ai aimés. Demeurez dans mon amour. Si vous gardez mes commandements, vous demeurerez dans mon amour, comme moi, j'ai gardé les commandements de mon Père, et je demeure dans son amour. Je vous ai dit cela pour que ma joie soit en vous, et que votre joie soit parfaite. Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés. Il n’y a pas de plus grand amour que de donner sa vie pour ceux qu’on aime. Vous êtes mes amis si vous faites ce que je vous commande. Je ne vous appelle plus serviteurs, car le serviteur ne sait pas ce que fait son maître ; je vous appelle mes amis, parce que tout ce que j'ai entendu de mon Père, je vous l'ai fait connaître. Ce n'est pas vous qui m'avez choisi, c'est moi qui vous ai choisis et établis, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure. Alors, tout ce que vous demanderez au Père en mon nom, il vous le donnera. Ce que je vous commande, c'est de vous aimer les uns les autres. »
-// <strong>Prière sur les offrandes</strong>
-// Seigneur notre Dieu, que le sacrifice que nous t'offrons en cette mémoire de sainte Élisabeth-Ann Seton soit un signe de notre service aimant envers toi et notre prochain. Nous te le demandons par le Christ notre Seigneur.
-// <strong>Antienne de la communion (Jn 8, 12)</strong>
-// Le Seigneur dit : Je suis la lumière du monde. Celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie.
-// <strong>Prière après la communion</strong>
-// Seigneur, que cette Eucharistie, que nous avons partagée en mémoire de sainte Élisabeth-Ann Seton, nous remplisse de l'esprit de ton amour. Puissions-nous apprendre à t'aimer et à te servir en nos frères et sœurs. Nous te le demandons par le Christ notre Seigneur.`,
-//         la: `<strong>MISSA</strong>
-// <strong>Antiphona ad introitum (Ier 17, 7-8)</strong>
-// Benedictus vir qui confidit in Domino, et erit Dominus fiducia eius. Et erit quasi lignum quod transplantatur super aquas, quod ad humorem mittit radices suas.
-// <strong>Collecta</strong>
-// Deus, qui sanctam Elisabeth Annam Seton verae fidei dono coronavisti, concede, quaesumus, ut, eius exemplo et intercessione, in tui amore crescamus et egentium servitio ardenter nos impendamus. Per Dominum nostrum Iesum Christum Filium tuum.
-// <strong>Lectio (1 Io 3, 14-18)</strong>
-// <em>Lectio Epistulae primae beati Ioannis Apostoli.</em>
-// Carissimi, nos scimus quoniam transivimus de morte in vitam, quoniam diligimus fratres. Qui non diligit, manet in morte. Omnis qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam aeternam in se manentem. In hoc cognovimus caritatem, quoniam ille animam suam pro nobis posuit; et nos debemus pro fratribus animas ponere. Qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo, quomodo caritas Dei manet in eo? Filioli, non diligamus verbo nec lingua, sed opere et veritate.
-// <strong>Psalmus responsorius (Ps 16)</strong>
-// <strong>R. Tu es, Domine, pars hereditatis meae.</strong>
-// Conserva me, Deus, quoniam speravi in te. Dixi Domino: «Dominus meus es tu, bonum mihi non est sine te». <strong>R.</strong>
-// Benedicam Dominum, qui tribuit mihi intellectum; insuper et usque ad noctem increpuerunt me renes mei. Providebam Dominum in conspectu meo semper; quoniam a dextris est mihi, non commovebor. <strong>R.</strong>
-// Notas mihi facies vias vitae, adimpletionem laetitiae cum vultu tuo, delectationes in dextera tua usque in finem. <strong>R.</strong>
-// <strong>Acclamatio ad Evangelium (Io 15, 16)</strong>
-// Alleluia, alleluia. Ego vos elegi de mundo, ut eatis et fructum afferatis, et fructus vester maneat, dicit Dominus. Alleluia, alleluia.
-// <strong>Evangelium (Io 15, 9-17)</strong>
-// <strong>Lectio sancti Evangelii secundum Ioannem.</strong>
-// In illo tempore, dixit Iesus discipulis suis: «Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea. Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei praecepta servavi, et maneo in eius dilectione. Haec locutus sum vobis, ut gaudium meum in vobis sit, et gaudium vestrum impleatur. Hoc est praeceptum meum, ut diligatis invicem, sicut dilexi vos. Maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis. Vos amici mei estis, si feceritis quae ego praecipio vobis. Iam non dico vos servos, quia servus nescit quid faciat dominus eius; vos autem dixi amicos, quia omnia quaecumque audivi a Patre meo, nota feci vobis. Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum afferatis, et fructus vester maneat; ut quodcumque petieritis Patrem in nomine meo, det vobis. Haec mando vobis, ut diligatis invicem».
-// <strong>Oratio super oblata</strong>
-// Domine Deus, sacrificium quod tibi offerimus in hac memoria sanctae Elisabeth Annae Seton, sit signum nostri amoris et servitii erga te et proximum. Per Christum Dominum nostrum.
-// <strong>Antiphona ad communionem (Io 8, 12)</strong>
-// Dicit Dominus: Ego sum lux mundi. Qui sequitur me, non ambulabit in tenebris, sed habebit lumen vitae.
-// <strong>Post communionem</strong>
-// Domine, haec Eucharistia, quam in memoriam sanctae Elisabeth Annae Seton sumpsimus, nos spiritu tui amoris impleat. Discamus te diligere et tibi in fratribus nostris servire. Per Christum Dominum nostrum.`
-     
+   
 },
       officeOfReadings: placeholder,
       lauds: placeholder,
@@ -238,17 +142,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
       vi: 'Chân phước Rô-sa-li Ren-đu',
       en: 'Bl. Rosalie Rendu',
-      // es: 'Beata Rosalía Rendu',
-      // fr: 'Bienheureuse Rosalie Rendu',
-      // la: 'Beata Rosalia Rendu'
+   
     },
     subtitle: {
       vi: 'Nữ Tử Bác Ái',
       en: 'Daughter of Charity',
-    //   es: 'Hija de la Caridad',
-    //   fr: 'Fille de la Charité',
-    //   la: 'Filia Caritatis'
-    // 
+    
     },
     type: 'Lễ nhớ',
     sections: {
@@ -267,16 +166,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
       vi: 'Thánh Phan-xi-cô Rê-gi-xê Cờ-lê',
       en: 'St. Francis Regis Clet',
-      // es: 'San Francisco Régis Clet',
-      // fr: 'Saint François-Régis Clet',
-      // la: 'Sanctus Franciscus Regis Clet'
+     
     },
     subtitle: {
       vi: 'Linh mục, Tử đạo',
       en: 'Priest, Martyr',
-      // es: 'Sacerdote, Mártir',
-      // fr: 'Prêtre, Martyr',
-      // la: 'Sacerdos, Martyr'
+      
     },
     type: 'Lễ nhớ',
     sections: {
@@ -330,16 +225,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
       vi: 'Chân phước Pi-e Rơ-nê Rô-gơ',
       en: 'Bl. Pierre-René Rogue',
-      // es: 'Beato Pedro Renato Rogue',
-      // fr: 'Bienheureux Pierre-René Rogue',
-      // la: 'Beatus Petrus Renatus Rogue'
+      
     },
     subtitle: {
       vi: 'Linh mục, Tử đạo',
       en: 'Priest, Martyr',
-      // es: 'Sacerdote, Mártir',
-      // fr: 'Prêtre, Martyr',
-      // la: 'Sacerdos, Martyr'
+      
     },
     type: 'Lễ nhớ',
     sections: {
@@ -358,16 +249,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
         vi: 'Chân phước Lindalva Justo de Oliveira',
         en: 'Bl. Lindalva Justo de Oliveira',
-        // es: 'Beata Lindalva Justo de Oliveira',
-        // fr: 'Bienheureuse Lindalva Justo de Oliveira',
-        // la: 'Beata Lindalva Justo de Oliveira'
+     
     },
     subtitle: {
         vi: 'Nữ Tử Bác Ái, Tử đạo',
         en: 'Daughter of Charity, Martyr',
-        // es: 'Hija de la Caridad, Mártir',
-        // fr: 'Fille de la Charité, Martyre',
-        // la: 'Filia Caritatis, Martyr'
+       
     },
     type: 'Lễ nhớ',
     sections: {
@@ -386,16 +273,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
         vi: 'Chân phước Mác-ga-ri-ta Ru-tan',
         en: 'Bl. Marguerite Rutan',
-        // es: 'Beata Margarita Rutan',
-        // fr: 'Bienheureuse Marguerite Rutan',
-        // la: 'Beata Margarita Rutan'
+  
     },
     subtitle: {
         vi: 'Nữ Tử Bác Ái, Tử đạo',
         en: 'Daughter of Charity, Martyr',
-        // es: 'Hija de la Caridad, Mártir',
-        // fr: 'Fille de la Charité, Martyre',
-        // la: 'Filia Caritatis, Martyr'
+    
     },
     type: 'Lễ nhớ',
     sections: {
@@ -414,26 +297,19 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
       vi: 'Kỷ niệm Thành lập Tu hội Truyền giáo',
       en: 'Commemoration of the Founding of the Congregation of the Mission',
-      // es: 'Conmemoración de la Fundación de la Congregación de la Misión',
-      // fr: 'Commémoration de la Fondation de la Congrégation de la Mission',
-      // la: 'Commemoratio Fundationis Congregationis Missionis'
+      
     },
     subtitle: {
       vi: 'Ngày 17 tháng 4 năm 1625',
       en: 'April 17, 1625',
-      // es: '17 de abril de 1625',
-      // fr: '17 avril 1625',
-      // la: '17 Aprilis 1625'
+      
     },
     type: 'Kỷ niệm',
     sections: {
       biography: {
         vi: '<strong>Lịch sử</strong><br>Thánh Vinh Sơn Phaolô, do lòng trắc ẩn trước sự nghèo đói về mặt thiêng liêng của người dân nông thôn, đã thành lập Tu hội Truyền giáo vào ngày 17 tháng 4 năm 1625, thông qua một hợp đồng với gia đình de Gondi. Cộng đoàn mới gồm các linh mục và tu sĩ đã tự hiến dâng để rao giảng các cuộc đại phúc cho người nghèo ở nông thôn và đào tạo một hàng giáo sĩ đức hạnh. Điều này đã đánh dấu sự khởi đầu của một gia đình thiêng liêng trên toàn thế giới, cam kết loan báo Tin Mừng và phục vụ những người bị bỏ rơi nhất.',
         en: '<strong>History</strong><br>St. Vincent de Paul, moved by the spiritual poverty of the rural people, established the Congregation of the Mission on April 17, 1625, through a contract with the de Gondi family. The new community of priests and brothers dedicated themselves to preaching missions to the poor in the countryside and forming a virtuous clergy. This marked the beginning of a worldwide spiritual family committed to evangelizing and serving the most abandoned.',
-        // es: '<strong>Historia</strong><br>San Vicente de Paúl, movido por la pobreza espiritual de la gente del campo, estableció la Congregación de la Misión el 17 de abril de 1625, mediante un contrato con la familia de Gondi. La nueva comunidad de sacerdotes y hermanos se dedicó a predicar misiones a los pobres del campo y a formar un clero virtuoso. Esto marcó el comienzo de una familia espiritual mundial comprometida con la evangelización y el servicio a los más abandonados.',
-        // fr: '<strong>Histoire</strong><br>Saint Vincent de Paul, ému par la pauvreté spirituelle des populations rurales, a fondé la Congrégation de la Mission le 17 avril 1625, par un contrat avec la famille de Gondi. La nouvelle communauté de prêtres et de frères s\'est consacrée à la prédication de missions pour les pauvres dans les campagnes et à la formation d\'un clergé vertueux. Cela a marqué le début d\'une famille spirituelle mondiale engagée dans l\'évangélisation et le service des plus abandonnés.',
-        // la: '<strong>Historia</strong><br>Sanctus Vincentius a Paulo, paupertate spirituali populi rustici motus, Congregationem Missionis die 17 Aprilis 1625 condidit, per contractum cum familia de Gondi. Nova communitas sacerdotum et fratrum se dedicaverunt ad missiones praedicandas pauperibus in agris et ad clerum virtuosum formandum. Hoc initium notavit familiae spiritualis per orbem terrarum commissae evangelizandi et serviendi maxime derelictis.'
-     
+        
       },
       massReadings: placeholder,
       officeOfReadings: placeholder,
@@ -449,16 +325,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
         vi: 'Lễ Cung nghinh Xương Thánh Vinh Sơn',
         en: 'Transfer of the Relics of St. Vincent',
-        // es: 'Traslación de las Reliquias de San Vicente',
-        // fr: 'Translation des Reliques de Saint Vincent',
-        // la: 'Translatio Reliquiarum S. Vincentii'
+        
     },
     subtitle: {
         vi: 'Kỷ niệm việc di chuyển thánh tích của Thánh Vinh Sơn Phaolô',
         en: 'Commemoration of the moving of the relics of St. Vincent de Paul',
-        // es: 'Conmemoración del traslado de las reliquias de San Vicente de Paúl',
-        // fr: 'Commémoration du transfert des reliques de Saint Vincent de Paul',
-        // la: 'Commemoratio translationis reliquiarum S. Vincentii a Paulo'
+       
     },
     type: 'Kỷ niệm',
     sections: {
@@ -477,16 +349,12 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     title: {
       vi: 'Thánh Lu-y-sa đờ Ma-ri-lắc',
       en: 'St. Louise de Marillac',
-      // es: 'Santa Luisa de Marillac',
-      // fr: 'Sainte Louise de Marillac',
-      // la: 'Sancta Ludovica de Marillac'
+    
     },
     subtitle: {
       vi: 'Đồng sáng lập Tu hội Nữ Tử Bác Ái',
       en: 'Co-foundress of the Daughters of Charity',
-      // es: 'Cofundadora de las Hijas de la Caridad',
-      // fr: 'Co-fondatrice des Filles de la Charité',
-      // la: 'Cofundatrix Filiarum Caritatis'
+    
     },
     type: 'Đại lễ',
     sections: {
@@ -501,22 +369,7 @@ St. Louise de Marillac was born on August 12, 1591, probably in Paris, into a no
 After her husband's death in 1625, Louise went through a period of spiritual distress. It was during this time that she met St. Vincent de Paul, who became her spiritual director. Under his guidance, Louise found her true calling in serving the poor.
 In 1633, with St. Vincent, Louise gathered the first country girls to form the Company of the Daughters of Charity, a community of unenclosed sisters who lived among the poor to serve them. Louise trained the sisters, organized their work, and traveled throughout France establishing communities to serve the destitute, the sick, orphans, and the abandoned.
 With immense trust in Providence, a keen intellect, and a heart full of love, Louise became a great organizer of charity. She died in Paris on March 15, 1660, a few months before St. Vincent. She was canonized by Pope Pius XI in 1934 and declared Patroness of Christian Social Workers by Pope John XXIII in 1960.`,
-//         es: `<strong>Biografía</strong>
-// Santa Luisa de Marillac nació el 12 de agosto de 1591, probablemente en París, en el seno de una familia noble. Nunca conoció a su madre. De joven, deseaba consagrarse a Dios en la vida religiosa, pero su frágil salud se lo impidió. En su lugar, se casó con Antonio Le Gras, secretario de la reina, en 1613. Tuvieron un hijo, Miguel.
-// Tras la muerte de su esposo en 1625, Luisa atravesó un período de angustia espiritual. Fue durante este tiempo que conoció a San Vicente de Paúl, quien se convirtió en su director espiritual. Bajo su guía, Luisa encontró su verdadera vocación en el servicio a los pobres.
-// En 1633, junto con San Vicente, Luisa reunió a las primeras jóvenes del campo para formar la Compañía de las Hijas de la Caridad, una comunidad de hermanas sin clausura que vivían entre los pobres para servirles. Luisa formó a las hermanas, organizó su trabajo y viajó por toda Francia estableciendo comunidades para servir a los desamparados, los enfermos, los huérfanos y los abandonados.
-// Con una inmensa confianza en la Providencia, un intelecto agudo y un corazón lleno de amor, Luisa se convirtió en una gran organizadora de la caridad. Murió en París el 15 de marzo de 1660, pocos meses antes que San Vicente. Fue canonizada por el Papa Pío XI en 1934 y declarada Patrona de los Asistentes Sociales Cristianos por el Papa Juan XXIII en 1960.`,
-//         fr: `<strong>Biographie</strong>
-// Sainte Louise de Marillac est née le 12 août 1591, probablement à Paris, dans une famille noble. Elle n'a jamais connu sa mère. Jeune femme, elle désirait se consacrer à Dieu dans la vie religieuse, mais sa santé fragile l'en empêcha. À la place, elle épousa Antoine Le Gras, secrétaire de la reine, en 1613. Ils eurent un fils, Michel.
-// Après la mort de son mari en 1625, Louise traversa une période de détresse spirituelle. C'est à cette époque qu'elle rencontra saint Vincent de Paul, qui devint son directeur spirituel. Sous sa direction, Louise trouva sa véritable vocation dans le service des pauvres.
-// En 1633, avec saint Vincent, Louise rassembla les premières filles de la campagne pour former la Compagnie des Filles de la Charité, une communauté de sœurs non cloîtrées qui vivaient au milieu des pauvres pour les servir. Louise forma les sœurs, organisa leur travail et parcourut la France pour établir des communautés au service des démunis, des malades, des orphelins et des abandonnés.
-// Avec une immense confiance en la Providence, une intelligence vive et un cœur plein d'amour, Louise devint une grande organisatrice de la charité. Elle mourut à Paris le 15 mars 1660, quelques mois avant saint Vincent. Elle fut canonisée par le pape Pie XI en 1934 et déclarée patronne des travailleurs sociaux chrétiens par le pape Jean XXIII en 1960.`,
-//         la: `<strong>Vita</strong>
-// Sancta Ludovica de Marillac nata est die 12 Augusti 1591, verisimiliter Lutetiae Parisiorum, in familia nobili. Matrem suam numquam novit. Iuvenis, Deo se in vita religiosa consecrare cupiebat, sed infirma valetudo eam impedivit. Potius, Antonio Le Gras, reginae secretario, anno 1613 nupsit. Unum filium, Michaelem, habuerunt.
-// Post mortem mariti anno 1625, Ludovica tempus angustiae spiritualis transiit. Hoc tempore Sanctum Vincentium a Paulo convenit, qui eius director spiritualis factus est. Sub eius ductu, Ludovica veram suam vocationem in servitio pauperum invenit.
-// Anno 1633, cum Sancto Vincentio, Ludovica primas puellas rusticas congregavit ad Societatem Filiarum Caritatis formandam, communitatem sororum non clausuratarum quae inter pauperes vivebant ut eis servirent. Ludovica sorores instituit, opera earum ordinavit et per totam Galliam iter fecit ad communitates instituendas ad egenos, infirmos, orphanos et derelictos adiuvandos.
-// Cum immensa fiducia in Providentiam, acuto ingenio et corde pleno amore, Ludovica magna caritatis ordinatrix facta est. Lutetiae Parisiorum obiit die 15 Martii 1660, paucis mensibus ante Sanctum Vincentium. A Pio Papa XI anno 1934 canonizata est et a Ioanne Papa XXIII anno 1960 Patronam Operariorum Socialium Christianorum declarata est.`
-      
+ 
 },
       massReadings: {
         vi: `<strong>THÁNH LỄ</strong>
@@ -735,9 +588,9 @@ const Header = ({
   languages,
   defaultLanguage,
   onLanguageChange,
-  onAdminClick,
-  onLogout,
-  isAdmin,
+  // onAdminClick,
+  // onLogout,
+  // isAdmin,
   logoUrl,
   title,
   subtitle,
@@ -749,14 +602,14 @@ const Header = ({
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isLangMenuOpen, setIsLangMenuOpen] = useState(false);
   const [showThemeSwitcher, setShowThemeSwitcher] = useState(false);
-  const [isAdminMenuOpen, setIsAdminMenuOpen] = useState(false);
+  // const [isAdminMenuOpen, setIsAdminMenuOpen] = useState(false);
   
   const menuRef = useRef(null);
   const buttonRef = useRef(null);
   const langMenuRef = useRef(null);
   const langButtonRef = useRef(null);
-  const adminMenuRef = useRef(null);
-  const adminButtonRef = useRef(null);
+  // const adminMenuRef = useRef(null);
+  // const adminButtonRef = useRef(null);
   
   const getML = (textObj) => getMultilingualText(textObj, currentLanguage, defaultLanguage);
 
@@ -768,9 +621,9 @@ const Header = ({
       if (langMenuRef.current && !langMenuRef.current.contains(event.target) && langButtonRef.current && !langButtonRef.current.contains(event.target)) {
         setIsLangMenuOpen(false);
       }
-      if (adminMenuRef.current && !adminMenuRef.current.contains(event.target) && adminButtonRef.current && !adminButtonRef.current.contains(event.target)) {
-        setIsAdminMenuOpen(false);
-      }
+      // if (adminMenuRef.current && !adminMenuRef.current.contains(event.target) && adminButtonRef.current && !adminButtonRef.current.contains(event.target)) {
+      //   setIsAdminMenuOpen(false);
+      // }
     };
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
@@ -845,92 +698,92 @@ const Header = ({
             { onClick: onAboutClick, className: "menu-btn", "aria-label": getML({ vi: "Về ứng dụng", en: "About the app" }) },
             React.createElement("i", { className: "fas fa-info-circle" })
           ),
-          React.createElement(
-            "div",
-            { className: "relative" },
-            React.createElement(
-              "button",
-              { ref: adminButtonRef, onClick: () => isAdmin ? setIsAdminMenuOpen(prev => !prev) : onAdminClick(), className: `menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}`, "aria-label": "Admin Menu" },
-              React.createElement("i", { className: "fas fa-user-shield" })
-            ),
-            isAdmin && isAdminMenuOpen && React.createElement(
-              "div",
-              { ref: adminMenuRef, className: "absolute right-0 mt-2 w-48 bg-[var(--bg-secondary)] rounded-lg shadow-xl py-1 text-sm" },
-              React.createElement(
-                "a",
-                {
-                  href: "#",
-                  onClick: (e) => { e.preventDefault(); onAdminClick(); setIsAdminMenuOpen(false); },
-                  className: "flex items-center px-4 py-2 text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)] hover:text-[var(--text-primary)]"
-                },
-                React.createElement("i", { className: "fas fa-cogs fa-fw mr-2" }), " ", getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' })
-              ),
-              React.createElement(
-                "a",
-                {
-                  href: "#",
-                  onClick: (e) => { e.preventDefault(); onLogout(); setIsAdminMenuOpen(false); },
-                  className: "flex items-center px-4 py-2 text-red-400 hover:bg-red-500/10"
-                },
-                React.createElement("i", { className: "fas fa-sign-out-alt fa-fw mr-2" }), " ", getML({ vi: 'Đăng Xuất', en: 'Logout' })
-              )
-            )
-          )
-        ),
-        React.createElement(
-          "div",
-          { className: "md:hidden" },
-          React.createElement(
-            "button",
-            { ref: buttonRef, onClick: () => setIsMenuOpen(!isMenuOpen), className: "text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors h-10 w-10 flex items-center justify-center bg-[var(--bg-secondary)] rounded-lg", "aria-label": "Open menu" },
-            React.createElement("i", { className: `fas ${isMenuOpen ? 'fa-times' : 'fa-bars'}` })
-          )
-        )
-      ),
-      isMenuOpen && React.createElement(
-        "div",
-        { ref: menuRef, className: "md:hidden animate-fade-in-down bg-[var(--bg-secondary)] shadow-lg absolute top-full left-0 w-full" },
-        React.createElement(
-          "nav",
-          { className: "flex flex-col p-4 space-y-2" },
-          React.createElement(
-            "div",
-            { className: "mobile-menu-btn" },
-            React.createElement("i", { className: "fas fa-language w-6" }),
-            React.createElement(
-              "select",
-              { onChange: (e) => { onLanguageChange(e.target.value); setIsMenuOpen(false); }, value: currentLanguage, className: "bg-transparent w-full focus:outline-none" },
-              languages.map(lang => React.createElement(
-                "option",
-                { key: lang.code, value: lang.code, className: "bg-[var(--bg-primary)] text-[var(--text-primary)]" },
-                lang.name
-              ))
-            )
-          ),
-          React.createElement(
-            "button",
-            { onClick: () => { setShowThemeSwitcher(true); setIsMenuOpen(false); }, className: "mobile-menu-btn" },
-            React.createElement("i", { className: "fas fa-palette w-6" }),
-            React.createElement("span", null, getML({ vi: "Đổi Giao Diện", en: "Change Theme" }))
-          ),
-          React.createElement(
-            "button",
-            { onClick: () => { onAboutClick(); setIsMenuOpen(false); }, className: "mobile-menu-btn" },
-            React.createElement("i", { className: "fas fa-info-circle w-6" }),
-            React.createElement("span", null, getML({ vi: "Về Ứng Dụng", en: "About App" }))
-          ),
-          React.createElement(
-            "button",
-            { onClick: () => { onAdminClick(); setIsMenuOpen(false); }, className: `mobile-menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}` },
-            React.createElement("i", { className: "fas fa-user-shield w-6" }),
-            React.createElement("span", null, isAdmin ? getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' }) : 'Admin')
-          ),
-          isAdmin && React.createElement(
-            "button",
-            { onClick: () => { onLogout(); setIsMenuOpen(false); }, className: "mobile-menu-btn text-red-400" },
-            React.createElement("i", { className: "fas fa-sign-out-alt w-6" }),
-            React.createElement("span", null, getML({ vi: 'Đăng Xuất', en: 'Logout' }))
-          )
+          // React.createElement(
+          //   "div",
+          //   { className: "relative" },
+          //   // React.createElement(
+          //   //   "button",
+          //   //   { ref: adminButtonRef, onClick: () => isAdmin ? setIsAdminMenuOpen(prev => !prev) : onAdminClick(), className: `menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}`, "aria-label": "Admin Menu" },
+          //   //   React.createElement("i", { className: "fas fa-user-shield" })
+          //   // ),
+          //   isAdmin && isAdminMenuOpen && React.createElement(
+          //     "div",
+          //     { ref: adminMenuRef, className: "absolute right-0 mt-2 w-48 bg-[var(--bg-secondary)] rounded-lg shadow-xl py-1 text-sm" },
+          //     React.createElement(
+          //       "a",
+          //       {
+          //         href: "#",
+          //         onClick: (e) => { e.preventDefault(); onAdminClick(); setIsAdminMenuOpen(false); },
+          //         className: "flex items-center px-4 py-2 text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)] hover:text-[var(--text-primary)]"
+          //       },
+          //       React.createElement("i", { className: "fas fa-cogs fa-fw mr-2" }), " ", getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' })
+          //     ),
+          //     React.createElement(
+          //       "a",
+          //       {
+          //         href: "#",
+          //         onClick: (e) => { e.preventDefault(); onLogout(); setIsAdminMenuOpen(false); },
+          //         className: "flex items-center px-4 py-2 text-red-400 hover:bg-red-500/10"
+          //       },
+          //       React.createElement("i", { className: "fas fa-sign-out-alt fa-fw mr-2" }), " ", getML({ vi: 'Đăng Xuất', en: 'Logout' })
+          //     )
+          //   )
+          // )
+      //   ),
+      //   React.createElement(
+      //     "div",
+      //     { className: "md:hidden" },
+      //     React.createElement(
+      //       "button",
+      //       { ref: buttonRef, onClick: () => setIsMenuOpen(!isMenuOpen), className: "text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors h-10 w-10 flex items-center justify-center bg-[var(--bg-secondary)] rounded-lg", "aria-label": "Open menu" },
+      //       React.createElement("i", { className: `fas ${isMenuOpen ? 'fa-times' : 'fa-bars'}` })
+      //     )
+      //   )
+      // ),
+      // isMenuOpen && React.createElement(
+      //   "div",
+      //   { ref: menuRef, className: "md:hidden animate-fade-in-down bg-[var(--bg-secondary)] shadow-lg absolute top-full left-0 w-full" },
+      //   React.createElement(
+      //     "nav",
+      //     { className: "flex flex-col p-4 space-y-2" },
+      //     React.createElement(
+      //       "div",
+      //       { className: "mobile-menu-btn" },
+      //       React.createElement("i", { className: "fas fa-language w-6" }),
+      //       React.createElement(
+      //         "select",
+      //         { onChange: (e) => { onLanguageChange(e.target.value); setIsMenuOpen(false); }, value: currentLanguage, className: "bg-transparent w-full focus:outline-none" },
+      //         languages.map(lang => React.createElement(
+      //           "option",
+      //           { key: lang.code, value: lang.code, className: "bg-[var(--bg-primary)] text-[var(--text-primary)]" },
+      //           lang.name
+      //         ))
+      //       )
+      //     ),
+      //     React.createElement(
+      //       "button",
+      //       { onClick: () => { setShowThemeSwitcher(true); setIsMenuOpen(false); }, className: "mobile-menu-btn" },
+      //       React.createElement("i", { className: "fas fa-palette w-6" }),
+      //       React.createElement("span", null, getML({ vi: "Đổi Giao Diện", en: "Change Theme" }))
+      //     ),
+      //     React.createElement(
+      //       "button",
+      //       { onClick: () => { onAboutClick(); setIsMenuOpen(false); }, className: "mobile-menu-btn" },
+      //       React.createElement("i", { className: "fas fa-info-circle w-6" }),
+      //       React.createElement("span", null, getML({ vi: "Về Ứng Dụng", en: "About App" }))
+      //     ),
+          // React.createElement(
+          //   "button",
+          //   { onClick: () => { onAdminClick(); setIsMenuOpen(false); }, className: `mobile-menu-btn ${isAdmin ? 'text-[var(--text-accent)]' : ''}` },
+          //   React.createElement("i", { className: "fas fa-user-shield w-6" }),
+          //   React.createElement("span", null, isAdmin ? getML({ vi: 'Bảng Điều Khiển', en: 'Admin Panel' }) : 'Admin')
+          // ),
+          // isAdmin && React.createElement(
+          //   "button",
+          //   { onClick: () => { onLogout(); setIsMenuOpen(false); }, className: "mobile-menu-btn text-red-400" },
+          //   React.createElement("i", { className: "fas fa-sign-out-alt w-6" }),
+          //   React.createElement("span", null, getML({ vi: 'Đăng Xuất', en: 'Logout' }))
+          // )
         )
       )
     ),
@@ -1181,22 +1034,22 @@ const FeastList = ({ feasts, onSelectFeast, feastTypes, getML, mainSections, onS
             ),
             React.createElement("input", {
               type: "text",
-              placeholder: getML({ vi: "Tìm lễ...", en: "Search feasts..." }),
+              placeholder: getML({ vi: "Tìm kiếm...", en: "Search..." }),
               value: searchTerm,
               onChange: handleSearchChange,
               className: "w-full bg-[var(--bg-secondary)] text-[var(--text-primary)] border border-[var(--bg-tertiary)] rounded-lg shadow-sm py-3 px-4 pl-12 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)] focus:border-[var(--border-accent)] transition-all duration-300",
-              "aria-label": getML({ vi: "Tìm kiếm lễ", en: "Search for feasts" })
+              "aria-label": getML({ vi: "Tìm kiếm", en: "Search" })
             })
           ),
-          isAdmin && React.createElement(
-            "button",
-            {
-              onClick: onAddNewFeast,
-              className: "bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0 w-full justify-center sm:w-auto"
-            },
-            React.createElement("i", { className: "fas fa-plus mr-2" }),
-            React.createElement("span", null, getML({ vi: 'Thêm Lễ', en: 'Add Feast' }))
-          )
+          // isAdmin && React.createElement(
+          //   "button",
+          //   {
+          //     onClick: onAddNewFeast,
+          //     className: "bg-blue-500/20 text-blue-300 px-4 py-3 rounded-lg hover:bg-blue-500/30 transition-colors duration-300 font-semibold flex items-center flex-shrink-0 w-full justify-center sm:w-auto"
+          //   },
+          //   React.createElement("i", { className: "fas fa-plus mr-2" }),
+          //   React.createElement("span", null, getML({ vi: 'Thêm Lễ', en: 'Add Feast' }))
+          // )
         ),
         React.createElement(
           "div",
@@ -1403,8 +1256,8 @@ const SectionView = ({
   feastTitle,
   sectionTitle,
   content,
-  isAdmin,
-  onEdit,
+  // isAdmin,
+  // onEdit,
   getML,
   fontSize,
   onFontSizeChange,
@@ -1443,8 +1296,8 @@ const SectionView = ({
             onClick: () => onFontSizeChange(fontSize + 1), 
             disabled: fontSize >= 28, 
             className: "toolbar-btn", 
-            "aria-label": getML({ vi: "Tăng cỡ chữ", en: "Increase font size", es: "Aumentar el tamaño de la fuente", fr: "Augmenter la taille de la police", la: "Augere magnitudinem litterarum" }),
-            title: getML({ vi: "Tăng cỡ chữ", en: "Increase font size", es: "Aumentar el tamaño de la fuente", fr: "Augmenter la taille de la police", la: "Augere magnitudinem litterarum"  })
+            "aria-label": getML({ vi: "Tăng cỡ chữ", en: "Increase font size" }),
+            title: getML({ vi: "Tăng cỡ chữ", en: "Increase font size" })
           },
           React.createElement("i", { className: "fas fa-plus text-xs" })
         ),
@@ -1933,420 +1786,420 @@ const Modal = ({ children, onClose, title, size = '2xl' }) => {
   );
 };
 
-// START OF FILE: components/AdminLogin.tsx
-const AdminLogin = ({ onClose, onLogin, adminPassword, getML }) => {
-    const [password, setPassword] = useState('');
-    const [error, setError] = useState('');
-    const inputRef = useRef(null);
+// // START OF FILE: components/AdminLogin.tsx
+// const AdminLogin = ({ onClose, onLogin, adminPassword, getML }) => {
+//     const [password, setPassword] = useState('');
+//     const [error, setError] = useState('');
+//     const inputRef = useRef(null);
 
-    useEffect(() => {
-        inputRef.current?.focus();
-    }, []);
+//     useEffect(() => {
+//         inputRef.current?.focus();
+//     }, []);
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        if (password === adminPassword) {
-            onLogin();
-        } else {
-            setError(getML({ vi: 'Mật khẩu không đúng.', en: 'Incorrect password.'}));
-            setPassword('');
-        }
-    };
+//     const handleSubmit = (e) => {
+//         e.preventDefault();
+//         if (password === adminPassword) {
+//             onLogin();
+//         } else {
+//             setError(getML({ vi: 'Mật khẩu không đúng.', en: 'Incorrect password.'}));
+//             setPassword('');
+//         }
+//     };
 
-    return React.createElement(
-        Modal,
-        { onClose: onClose, title: getML({ vi: "Đăng nhập Admin", en: "Admin Login" }), size: 'sm' },
-        React.createElement(
-            "form",
-            { onSubmit: handleSubmit, className: "space-y-4" },
-            React.createElement(
-                "div",
-                null,
-                React.createElement("label", { htmlFor: "password", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Mật khẩu", en: "Password" })),
-                React.createElement("input", {
-                    ref: inputRef,
-                    type: "password",
-                    id: "password",
-                    value: password,
-                    onChange: (e) => setPassword(e.target.value),
-                    className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]",
-                })
-            ),
-            error && React.createElement("p", { className: "text-red-400 text-sm" }, error),
-            React.createElement(
-                "div",
-                { className: "flex justify-end pt-4" },
-                React.createElement(
-                    "button",
-                    { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
-                    getML({ vi: "Đăng nhập", en: "Login" })
-                )
-            )
-        )
-    );
-};
+//     return React.createElement(
+//         Modal,
+//         { onClose: onClose, title: getML({ vi: "Đăng nhập Admin", en: "Admin Login" }), size: 'sm' },
+//         React.createElement(
+//             "form",
+//             { onSubmit: handleSubmit, className: "space-y-4" },
+//             React.createElement(
+//                 "div",
+//                 null,
+//                 React.createElement("label", { htmlFor: "password", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Mật khẩu", en: "Password" })),
+//                 React.createElement("input", {
+//                     ref: inputRef,
+//                     type: "password",
+//                     id: "password",
+//                     value: password,
+//                     onChange: (e) => setPassword(e.target.value),
+//                     className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]",
+//                 })
+//             ),
+//             error && React.createElement("p", { className: "text-red-400 text-sm" }, error),
+//             React.createElement(
+//                 "div",
+//                 { className: "flex justify-end pt-4" },
+//                 React.createElement(
+//                     "button",
+//                     { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
+//                     getML({ vi: "Đăng nhập", en: "Login" })
+//                 )
+//             )
+//         )
+//     );
+// };
 
-// START OF FILE: components/SimpleRichTextEditor.tsx
-const SimpleRichTextEditor = ({ value, onChange, height = 200 }) => {
-  const textareaRef = useRef(null);
+// // START OF FILE: components/SimpleRichTextEditor.tsx
+// const SimpleRichTextEditor = ({ value, onChange, height = 200 }) => {
+//   const textareaRef = useRef(null);
 
-  const applyTag = (tag) => {
-    const textarea = textareaRef.current;
-    if (!textarea) return;
+//   const applyTag = (tag) => {
+//     const textarea = textareaRef.current;
+//     if (!textarea) return;
 
-    const start = textarea.selectionStart;
-    const end = textarea.selectionEnd;
-    const selectedText = value.substring(start, end);
-    let newText;
+//     const start = textarea.selectionStart;
+//     const end = textarea.selectionEnd;
+//     const selectedText = value.substring(start, end);
+//     let newText;
 
-    if (tag === 'br') {
-        newText = `${value.substring(0, start)}<br/>${value.substring(end)}`;
-    } else {
-        newText = `${value.substring(0, start)}<${tag}>${selectedText}</${tag}>${value.substring(end)}`;
-    }
+//     if (tag === 'br') {
+//         newText = `${value.substring(0, start)}<br/>${value.substring(end)}`;
+//     } else {
+//         newText = `${value.substring(0, start)}<${tag}>${selectedText}</${tag}>${value.substring(end)}`;
+//     }
     
-    onChange(newText);
+//     onChange(newText);
     
-    setTimeout(() => {
-        textarea.focus();
-        if (tag !== 'br') {
-          textarea.setSelectionRange(start + tag.length + 2, end + tag.length + 2);
-        } else {
-          textarea.setSelectionRange(start + 5, start + 5);
-        }
-    }, 0);
-  };
+//     setTimeout(() => {
+//         textarea.focus();
+//         if (tag !== 'br') {
+//           textarea.setSelectionRange(start + tag.length + 2, end + tag.length + 2);
+//         } else {
+//           textarea.setSelectionRange(start + 5, start + 5);
+//         }
+//     }, 0);
+//   };
 
-  const buttons = [
-    { tag: 'strong', icon: 'fa-bold', label: 'Bold' },
-    { tag: 'em', icon: 'fa-italic', label: 'Italic' },
-    { tag: 'p', icon: 'fa-paragraph', label: 'Paragraph' },
-    { tag: 'br', icon: 'fa-level-down-alt', label: 'Line Break', transform: 'rotate-90' },
-  ];
+//   const buttons = [
+//     { tag: 'strong', icon: 'fa-bold', label: 'Bold' },
+//     { tag: 'em', icon: 'fa-italic', label: 'Italic' },
+//     { tag: 'p', icon: 'fa-paragraph', label: 'Paragraph' },
+//     { tag: 'br', icon: 'fa-level-down-alt', label: 'Line Break', transform: 'rotate-90' },
+//   ];
 
-  return React.createElement(
-    "div",
-    { className: "relative" },
-    React.createElement(
-      "div",
-      { className: "flex items-center space-x-2 p-2 bg-[var(--bg-tertiary)] rounded-t-md border-b border-[var(--bg-primary)]" },
-      buttons.map(btn => React.createElement(
-        "button",
-        { 
-          key: btn.tag, 
-          type: "button",
-          onClick: () => applyTag(btn.tag),
-          className: "h-8 w-8 flex items-center justify-center rounded bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:bg-[var(--bg-primary)] hover:text-[var(--text-primary)] transition-colors",
-          title: btn.label
-        },
-        React.createElement("i", { className: `fas ${btn.icon}`, style: { transform: btn.transform || 'none'} })
-      ))
-    ),
-    React.createElement("textarea", {
-      ref: textareaRef,
-      value: value,
-      onChange: (e) => onChange(e.target.value),
-      className: "w-full p-3 bg-[var(--bg-tertiary)] text-[var(--text-primary)] rounded-b-md focus:outline-none focus:ring-2 focus:ring-inset focus:ring-[var(--border-accent)] font-mono text-sm",
-      style: { height: `${height}px`, resize: 'vertical' }
-    })
-  );
-};
+//   return React.createElement(
+//     "div",
+//     { className: "relative" },
+//     React.createElement(
+//       "div",
+//       { className: "flex items-center space-x-2 p-2 bg-[var(--bg-tertiary)] rounded-t-md border-b border-[var(--bg-primary)]" },
+//       buttons.map(btn => React.createElement(
+//         "button",
+//         { 
+//           key: btn.tag, 
+//           type: "button",
+//           onClick: () => applyTag(btn.tag),
+//           className: "h-8 w-8 flex items-center justify-center rounded bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:bg-[var(--bg-primary)] hover:text-[var(--text-primary)] transition-colors",
+//           title: btn.label
+//         },
+//         React.createElement("i", { className: `fas ${btn.icon}`, style: { transform: btn.transform || 'none'} })
+//       ))
+//     ),
+//     React.createElement("textarea", {
+//       ref: textareaRef,
+//       value: value,
+//       onChange: (e) => onChange(e.target.value),
+//       className: "w-full p-3 bg-[var(--bg-tertiary)] text-[var(--text-primary)] rounded-b-md focus:outline-none focus:ring-2 focus:ring-inset focus:ring-[var(--border-accent)] font-mono text-sm",
+//       style: { height: `${height}px`, resize: 'vertical' }
+//     })
+//   );
+// };
 
 
-// START OF FILE: components/MultilingualInput.tsx
-const MultilingualInput = ({ label, values, onChange, languages, getML }) => {
-    const [currentLang, setCurrentLang] = useState(languages[0]?.code || 'vi');
+// // START OF FILE: components/MultilingualInput.tsx
+// const MultilingualInput = ({ label, values, onChange, languages, getML }) => {
+//     const [currentLang, setCurrentLang] = useState(languages[0]?.code || 'vi');
 
-    return React.createElement(
-        "div",
-        null,
-        React.createElement("label", { className: "block text-sm font-medium text-[var(--text-secondary)] mb-2" }, label),
-        React.createElement(
-            "div",
-            { className: "flex items-center space-x-1 mb-2 border-b border-[var(--bg-tertiary)] overflow-x-auto" },
-            languages.filter(l=>l.enabled).map(lang => React.createElement(
-                "button",
-                {
-                    key: lang.code,
-                    type: "button",
-                    onClick: () => setCurrentLang(lang.code),
-                    className: `px-3 py-1 text-sm font-semibold rounded-t-md whitespace-nowrap ${currentLang === lang.code ? 'bg-[var(--bg-tertiary)] text-[var(--text-primary)]' : 'text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)]/50'}`
-                },
-                lang.name
-            ))
-        ),
-        React.createElement("input", {
-            type: "text",
-            value: values[currentLang] || '',
-            onChange: e => onChange({ ...values, [currentLang]: e.target.value }),
-            className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]",
-        })
-    );
-};
+//     return React.createElement(
+//         "div",
+//         null,
+//         React.createElement("label", { className: "block text-sm font-medium text-[var(--text-secondary)] mb-2" }, label),
+//         React.createElement(
+//             "div",
+//             { className: "flex items-center space-x-1 mb-2 border-b border-[var(--bg-tertiary)] overflow-x-auto" },
+//             languages.filter(l=>l.enabled).map(lang => React.createElement(
+//                 "button",
+//                 {
+//                     key: lang.code,
+//                     type: "button",
+//                     onClick: () => setCurrentLang(lang.code),
+//                     className: `px-3 py-1 text-sm font-semibold rounded-t-md whitespace-nowrap ${currentLang === lang.code ? 'bg-[var(--bg-tertiary)] text-[var(--text-primary)]' : 'text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)]/50'}`
+//                 },
+//                 lang.name
+//             ))
+//         ),
+//         React.createElement("input", {
+//             type: "text",
+//             value: values[currentLang] || '',
+//             onChange: e => onChange({ ...values, [currentLang]: e.target.value }),
+//             className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]",
+//         })
+//     );
+// };
 
-// START OF FILE: components/MultilingualTextEditor.tsx
-const MultilingualTextEditor = ({ label, values, onChange, languages, getML, height }) => {
-    const [currentLang, setCurrentLang] = useState(languages[0]?.code || 'vi');
+// // START OF FILE: components/MultilingualTextEditor.tsx
+// const MultilingualTextEditor = ({ label, values, onChange, languages, getML, height }) => {
+//     const [currentLang, setCurrentLang] = useState(languages[0]?.code || 'vi');
 
-    return React.createElement(
-        "div",
-        null,
-        React.createElement("label", { className: "block text-sm font-medium text-[var(--text-secondary)] mb-2" }, label),
-        React.createElement(
-            "div",
-            { className: "flex items-center space-x-1 mb-2 border-b border-[var(--bg-tertiary)] overflow-x-auto" },
-            languages.filter(l=>l.enabled).map(lang => React.createElement(
-                "button",
-                {
-                    key: lang.code,
-                    type: "button",
-                    onClick: () => setCurrentLang(lang.code),
-                    className: `px-3 py-1 text-sm font-semibold rounded-t-md whitespace-nowrap ${currentLang === lang.code ? 'bg-[var(--bg-tertiary)] text-[var(--text-primary)]' : 'text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)]/50'}`
-                },
-                lang.name
-            ))
-        ),
-        React.createElement(SimpleRichTextEditor, {
-            value: values[currentLang] || '',
-            onChange: text => onChange({ ...values, [currentLang]: text }),
-            height: height
-        })
-    );
-};
+//     return React.createElement(
+//         "div",
+//         null,
+//         React.createElement("label", { className: "block text-sm font-medium text-[var(--text-secondary)] mb-2" }, label),
+//         React.createElement(
+//             "div",
+//             { className: "flex items-center space-x-1 mb-2 border-b border-[var(--bg-tertiary)] overflow-x-auto" },
+//             languages.filter(l=>l.enabled).map(lang => React.createElement(
+//                 "button",
+//                 {
+//                     key: lang.code,
+//                     type: "button",
+//                     onClick: () => setCurrentLang(lang.code),
+//                     className: `px-3 py-1 text-sm font-semibold rounded-t-md whitespace-nowrap ${currentLang === lang.code ? 'bg-[var(--bg-tertiary)] text-[var(--text-primary)]' : 'text-[var(--text-secondary)] hover:bg-[var(--bg-tertiary)]/50'}`
+//                 },
+//                 lang.name
+//             ))
+//         ),
+//         React.createElement(SimpleRichTextEditor, {
+//             value: values[currentLang] || '',
+//             onChange: text => onChange({ ...values, [currentLang]: text }),
+//             height: height
+//         })
+//     );
+// };
 
-// START OF FILE: components/EditFeastModal.tsx
-const EditFeastModal = ({ feast, onSave, onClose, getML, languages, feastTypes, sectionsConfig }) => {
-    const [editedFeast, setEditedFeast] = useState(feast || {
-        id: '',
-        date: '01-01',
-        title: {},
-        subtitle: {},
-        type: feastTypes[0]?.name.vi || 'Lễ nhớ',
-        sections: {}
-    });
+// // START OF FILE: components/EditFeastModal.tsx
+// const EditFeastModal = ({ feast, onSave, onClose, getML, languages, feastTypes, sectionsConfig }) => {
+//     const [editedFeast, setEditedFeast] = useState(feast || {
+//         id: '',
+//         date: '01-01',
+//         title: {},
+//         subtitle: {},
+//         type: feastTypes[0]?.name.vi || 'Lễ nhớ',
+//         sections: {}
+//     });
 
-    const slugify = (text) => text.toString().toLowerCase()
-        .replace(/\s+/g, '-')
-        .replace(/[^\w\-]+/g, '')
-        .replace(/\-\-+/g, '-')
-        .replace(/^-+/, '')
-        .replace(/-+$/, '');
+//     const slugify = (text) => text.toString().toLowerCase()
+//         .replace(/\s+/g, '-')
+//         .replace(/[^\w\-]+/g, '')
+//         .replace(/\-\-+/g, '-')
+//         .replace(/^-+/, '')
+//         .replace(/-+$/, '');
 
-    const handleFieldChange = (field, value) => {
-        setEditedFeast(prev => ({ ...prev, [field]: value }));
-    };
+//     const handleFieldChange = (field, value) => {
+//         setEditedFeast(prev => ({ ...prev, [field]: value }));
+//     };
     
-    useEffect(() => {
-        if (!feast) { // only for new feasts
-            const newId = slugify(editedFeast.title.vi || editedFeast.title.en || `feast-${Date.now()}`);
-            handleFieldChange('id', newId);
-        }
-    }, [editedFeast.title]);
+//     useEffect(() => {
+//         if (!feast) { // only for new feasts
+//             const newId = slugify(editedFeast.title.vi || editedFeast.title.en || `feast-${Date.now()}`);
+//             handleFieldChange('id', newId);
+//         }
+//     }, [editedFeast.title]);
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        const finalFeast = { ...editedFeast };
-        if (!finalFeast.id) {
-            finalFeast.id = slugify(finalFeast.title.vi || finalFeast.title.en || `feast-${Date.now()}`);
-        }
-        // Ensure all sections exist
-        sectionsConfig.forEach(s => {
-            if (!finalFeast.sections[s.key]) {
-                finalFeast.sections[s.key] = placeholder;
-            }
-        });
-        onSave(finalFeast);
-    };
+//     const handleSubmit = (e) => {
+//         e.preventDefault();
+//         const finalFeast = { ...editedFeast };
+//         if (!finalFeast.id) {
+//             finalFeast.id = slugify(finalFeast.title.vi || finalFeast.title.en || `feast-${Date.now()}`);
+//         }
+//         // Ensure all sections exist
+//         sectionsConfig.forEach(s => {
+//             if (!finalFeast.sections[s.key]) {
+//                 finalFeast.sections[s.key] = placeholder;
+//             }
+//         });
+//         onSave(finalFeast);
+//     };
 
-    return React.createElement(
-        Modal,
-        { onClose: onClose, title: getML(feast ? { vi: "Sửa Lễ", en: "Edit Feast" } : { vi: "Thêm Lễ Mới", en: "Add New Feast" }), size: "2xl" },
-        React.createElement(
-            "form",
-            { onSubmit: handleSubmit, className: "space-y-4" },
-            React.createElement(MultilingualInput, { label: getML({ vi: "Tiêu đề", en: "Title"}), values: editedFeast.title, onChange: val => handleFieldChange('title', val), languages, getML }),
-            React.createElement(MultilingualInput, { label: getML({ vi: "Phụ đề", en: "Subtitle"}), values: editedFeast.subtitle, onChange: val => handleFieldChange('subtitle', val), languages, getML }),
-            React.createElement(
-                "div",
-                { className: "grid grid-cols-1 md:grid-cols-2 gap-4" },
-                React.createElement(
-                    "div",
-                    null,
-                    React.createElement("label", { htmlFor: "feast-id", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "ID", en: "ID" })),
-                    React.createElement("input", { type: "text", id: "feast-id", value: editedFeast.id, onChange: e => handleFieldChange('id', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" })
-                ),
-                React.createElement(
-                    "div",
-                    null,
-                    React.createElement("label", { htmlFor: "feast-date", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Ngày (MM-DD)", en: "Date (MM-DD)" })),
-                    React.createElement("input", { type: "text", id: "feast-date", pattern: "\\d{2}-\\d{2}", placeholder: "01-04", value: editedFeast.date, onChange: e => handleFieldChange('date', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" })
-                )
-            ),
-             React.createElement(
-                "div",
-                null,
-                React.createElement("label", { htmlFor: "feast-type", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Loại Lễ", en: "Feast Type" })),
-                React.createElement(
-                    "select",
-                    { id: "feast-type", value: editedFeast.type, onChange: e => handleFieldChange('type', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" },
-                    feastTypes.map(type => React.createElement("option", { key: getML(type.name), value: type.name.vi }, getML(type.name)))
-                )
-            ),
-            React.createElement(
-                "div",
-                { className: "flex justify-end pt-4" },
-                React.createElement(
-                    "button",
-                    { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
-                    getML({ vi: "Lưu", en: "Save" })
-                )
-            )
-        )
-    );
-};
+//     return React.createElement(
+//         Modal,
+//         { onClose: onClose, title: getML(feast ? { vi: "Sửa Lễ", en: "Edit Feast" } : { vi: "Thêm Lễ Mới", en: "Add New Feast" }), size: "2xl" },
+//         React.createElement(
+//             "form",
+//             { onSubmit: handleSubmit, className: "space-y-4" },
+//             React.createElement(MultilingualInput, { label: getML({ vi: "Tiêu đề", en: "Title"}), values: editedFeast.title, onChange: val => handleFieldChange('title', val), languages, getML }),
+//             React.createElement(MultilingualInput, { label: getML({ vi: "Phụ đề", en: "Subtitle"}), values: editedFeast.subtitle, onChange: val => handleFieldChange('subtitle', val), languages, getML }),
+//             React.createElement(
+//                 "div",
+//                 { className: "grid grid-cols-1 md:grid-cols-2 gap-4" },
+//                 React.createElement(
+//                     "div",
+//                     null,
+//                     React.createElement("label", { htmlFor: "feast-id", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "ID", en: "ID" })),
+//                     React.createElement("input", { type: "text", id: "feast-id", value: editedFeast.id, onChange: e => handleFieldChange('id', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" })
+//                 ),
+//                 React.createElement(
+//                     "div",
+//                     null,
+//                     React.createElement("label", { htmlFor: "feast-date", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Ngày (MM-DD)", en: "Date (MM-DD)" })),
+//                     React.createElement("input", { type: "text", id: "feast-date", pattern: "\\d{2}-\\d{2}", placeholder: "01-04", value: editedFeast.date, onChange: e => handleFieldChange('date', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" })
+//                 )
+//             ),
+//              React.createElement(
+//                 "div",
+//                 null,
+//                 React.createElement("label", { htmlFor: "feast-type", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, getML({ vi: "Loại Lễ", en: "Feast Type" })),
+//                 React.createElement(
+//                     "select",
+//                     { id: "feast-type", value: editedFeast.type, onChange: e => handleFieldChange('type', e.target.value), className: "w-full bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-[var(--border-accent)]" },
+//                     feastTypes.map(type => React.createElement("option", { key: getML(type.name), value: type.name.vi }, getML(type.name)))
+//                 )
+//             ),
+//             React.createElement(
+//                 "div",
+//                 { className: "flex justify-end pt-4" },
+//                 React.createElement(
+//                     "button",
+//                     { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
+//                     getML({ vi: "Lưu", en: "Save" })
+//                 )
+//             )
+//         )
+//     );
+// };
 
-// START OF FILE: components/EditSectionModal.tsx
-const EditSectionModal = ({ sectionContent, sectionTitle, onSave, onClose, getML, languages }) => {
-    const [content, setContent] = useState(sectionContent || {});
+// // START OF FILE: components/EditSectionModal.tsx
+// const EditSectionModal = ({ sectionContent, sectionTitle, onSave, onClose, getML, languages }) => {
+//     const [content, setContent] = useState(sectionContent || {});
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        onSave(content);
-    };
+//     const handleSubmit = (e) => {
+//         e.preventDefault();
+//         onSave(content);
+//     };
 
-    return React.createElement(
-        Modal,
-        { onClose: onClose, title: `${getML({vi: "Sửa Mục", en: "Edit Section"})}: ${sectionTitle}`, size: '4xl'},
-        React.createElement(
-            "form",
-            { onSubmit: handleSubmit, className: "space-y-4" },
-            React.createElement(MultilingualTextEditor, {
-                label: getML({vi: "Nội dung", en: "Content"}),
-                values: content,
-                onChange: setContent,
-                languages,
-                getML,
-                height: 400
-            }),
-            React.createElement(
-                "div",
-                { className: "flex justify-end pt-4" },
-                React.createElement(
-                    "button",
-                    { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
-                    getML({ vi: "Lưu", en: "Save" })
-                )
-            )
-        )
-    );
-};
+//     return React.createElement(
+//         Modal,
+//         { onClose: onClose, title: `${getML({vi: "Sửa Mục", en: "Edit Section"})}: ${sectionTitle}`, size: '4xl'},
+//         React.createElement(
+//             "form",
+//             { onSubmit: handleSubmit, className: "space-y-4" },
+//             React.createElement(MultilingualTextEditor, {
+//                 label: getML({vi: "Nội dung", en: "Content"}),
+//                 values: content,
+//                 onChange: setContent,
+//                 languages,
+//                 getML,
+//                 height: 400
+//             }),
+//             React.createElement(
+//                 "div",
+//                 { className: "flex justify-end pt-4" },
+//                 React.createElement(
+//                     "button",
+//                     { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
+//                     getML({ vi: "Lưu", en: "Save" })
+//                 )
+//             )
+//         )
+//     );
+// };
 
-// START OF FILE: components/EditGenericContentModal.tsx
-const EditGenericContentModal = ({ item, onSave, onClose, getML, languages }) => {
-    const [editedItem, setEditedItem] = useState(item || { id: '', title: {}, content: {} });
+// // START OF FILE: components/EditGenericContentModal.tsx
+// const EditGenericContentModal = ({ item, onSave, onClose, getML, languages }) => {
+//     const [editedItem, setEditedItem] = useState(item || { id: '', title: {}, content: {} });
 
-    const slugify = (text) => text.toString().toLowerCase()
-        .replace(/\s+/g, '-')
-        .replace(/[^\w\-]+/g, '')
-        .replace(/\-\-+/g, '-')
-        .replace(/^-+/, '')
-        .replace(/-+$/, '');
+//     const slugify = (text) => text.toString().toLowerCase()
+//         .replace(/\s+/g, '-')
+//         .replace(/[^\w\-]+/g, '')
+//         .replace(/\-\-+/g, '-')
+//         .replace(/^-+/, '')
+//         .replace(/-+$/, '');
 
-    const handleFieldChange = (field, value) => {
-        setEditedItem(prev => ({ ...prev, [field]: value }));
-    };
+//     const handleFieldChange = (field, value) => {
+//         setEditedItem(prev => ({ ...prev, [field]: value }));
+//     };
     
-    useEffect(() => {
-        if (!item) { // only for new items
-            const newId = slugify(editedItem.title.vi || editedItem.title.en || `item-${Date.now()}`);
-            handleFieldChange('id', newId);
-        }
-    }, [editedItem.title]);
+//     useEffect(() => {
+//         if (!item) { // only for new items
+//             const newId = slugify(editedItem.title.vi || editedItem.title.en || `item-${Date.now()}`);
+//             handleFieldChange('id', newId);
+//         }
+//     }, [editedItem.title]);
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        onSave(editedItem);
-    };
+//     const handleSubmit = (e) => {
+//         e.preventDefault();
+//         onSave(editedItem);
+//     };
 
-    return React.createElement(
-        Modal,
-        { onClose: onClose, title: getML(item ? { vi: "Sửa Mục", en: "Edit Item" } : { vi: "Thêm Mục Mới", en: "Add New Item" }), size: "4xl" },
-        React.createElement(
-            "form",
-            { onSubmit: handleSubmit, className: "space-y-4" },
-            React.createElement(MultilingualInput, { label: getML({ vi: "Tiêu đề", en: "Title"}), values: editedItem.title, onChange: val => handleFieldChange('title', val), languages, getML }),
-            React.createElement(MultilingualTextEditor, { label: getML({ vi: "Nội dung", en: "Content"}), values: editedItem.content, onChange: val => handleFieldChange('content', val), languages, getML, height: 300 }),
-            React.createElement(
-                "div",
-                { className: "flex justify-end pt-4" },
-                React.createElement(
-                    "button",
-                    { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
-                    getML({ vi: "Lưu", en: "Save" })
-                )
-            )
-        )
-    );
-};
+//     return React.createElement(
+//         Modal,
+//         { onClose: onClose, title: getML(item ? { vi: "Sửa Mục", en: "Edit Item" } : { vi: "Thêm Mục Mới", en: "Add New Item" }), size: "4xl" },
+//         React.createElement(
+//             "form",
+//             { onSubmit: handleSubmit, className: "space-y-4" },
+//             React.createElement(MultilingualInput, { label: getML({ vi: "Tiêu đề", en: "Title"}), values: editedItem.title, onChange: val => handleFieldChange('title', val), languages, getML }),
+//             React.createElement(MultilingualTextEditor, { label: getML({ vi: "Nội dung", en: "Content"}), values: editedItem.content, onChange: val => handleFieldChange('content', val), languages, getML, height: 300 }),
+//             React.createElement(
+//                 "div",
+//                 { className: "flex justify-end pt-4" },
+//                 React.createElement(
+//                     "button",
+//                     { type: "submit", className: "px-4 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
+//                     getML({ vi: "Lưu", en: "Save" })
+//                 )
+//             )
+//         )
+//     );
+// };
 
-// START OF FILE: components/AdminPanelModal.tsx
-const AdminPanelModal = ({ settings, onSave, onClose, getML }) => {
-    const [editedSettings, setEditedSettings] = useState(settings);
+// // START OF FILE: components/AdminPanelModal.tsx
+// const AdminPanelModal = ({ settings, onSave, onClose, getML }) => {
+//     const [editedSettings, setEditedSettings] = useState(settings);
 
-    const handleSave = () => {
-        onSave(editedSettings);
-        onClose();
-    };
+//     const handleSave = () => {
+//         onSave(editedSettings);
+//         onClose();
+//     };
     
-    const handleValueChange = (key, value) => {
-        setEditedSettings(prev => ({...prev, [key]: value}));
-    };
+//     const handleValueChange = (key, value) => {
+//         setEditedSettings(prev => ({...prev, [key]: value}));
+//     };
     
-    return React.createElement(
-      Modal,
-      { onClose: onClose, title: getML({ vi: "Bảng Điều Khiển Admin", en: "Admin Panel" }), size: "4xl" },
-      React.createElement(
-        "div",
-        { className: "space-y-6" },
-        React.createElement("div", null, 
-          React.createElement("h4", {className: "text-lg font-semibold mb-2 text-[var(--text-accent)]"}, "Ngôn Ngữ"),
-          React.createElement(
-            "div",
-            {className: "space-y-2"},
-            editedSettings.languages.map((lang, index) => React.createElement(
-              "div", { key: lang.code, className: "flex items-center gap-4" },
-              React.createElement("input", { type: "checkbox", checked: lang.enabled, onChange: e => {
-                const newLangs = [...editedSettings.languages];
-                newLangs[index].enabled = e.target.checked;
-                handleValueChange('languages', newLangs);
-              }, id: `lang-${lang.code}` }),
-              React.createElement("label", { htmlFor: `lang-${lang.code}` }, lang.name)
-            )),
-             React.createElement("div", { className: "pt-2" },
-                React.createElement("label", { htmlFor: "default-lang", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, "Ngôn ngữ mặc định"),
-                 React.createElement("select", { id: "default-lang", value: editedSettings.defaultLanguage, onChange: e => handleValueChange('defaultLanguage', e.target.value), className: "w-full md:w-1/2 bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2" },
-                    editedSettings.languages.filter(l=>l.enabled).map(lang => React.createElement("option", { key: lang.code, value: lang.code }, lang.name))
-                )
-            )
-          )
-        ),
-        React.createElement("div", null, 
-          React.createElement("h4", {className: "text-lg font-semibold mb-2 text-[var(--text-accent)]"}, "Bảo mật"),
-          React.createElement("label", { htmlFor: "admin-pass", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, "Mật khẩu Admin mới"),
-          React.createElement("input", { type: "password", id: "admin-pass", placeholder: "Để trống nếu không đổi", onChange: e => handleValueChange('adminPassword', e.target.value), className: "w-full md:w-1/2 bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2" })
-        ),
-         React.createElement(
-            "div",
-            { className: "flex justify-end pt-4" },
-            React.createElement(
-                "button",
-                { type: "button", onClick: handleSave, className: "px-6 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
-                getML({ vi: "Lưu Cài Đặt", en: "Save Settings" })
-            )
-        )
-      )
-    );
-};
+//     return React.createElement(
+//       Modal,
+//       { onClose: onClose, title: getML({ vi: "Bảng Điều Khiển Admin", en: "Admin Panel" }), size: "4xl" },
+//       React.createElement(
+//         "div",
+//         { className: "space-y-6" },
+//         React.createElement("div", null, 
+//           React.createElement("h4", {className: "text-lg font-semibold mb-2 text-[var(--text-accent)]"}, "Ngôn Ngữ"),
+//           React.createElement(
+//             "div",
+//             {className: "space-y-2"},
+//             editedSettings.languages.map((lang, index) => React.createElement(
+//               "div", { key: lang.code, className: "flex items-center gap-4" },
+//               React.createElement("input", { type: "checkbox", checked: lang.enabled, onChange: e => {
+//                 const newLangs = [...editedSettings.languages];
+//                 newLangs[index].enabled = e.target.checked;
+//                 handleValueChange('languages', newLangs);
+//               }, id: `lang-${lang.code}` }),
+//               React.createElement("label", { htmlFor: `lang-${lang.code}` }, lang.name)
+//             )),
+//              React.createElement("div", { className: "pt-2" },
+//                 React.createElement("label", { htmlFor: "default-lang", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, "Ngôn ngữ mặc định"),
+//                  React.createElement("select", { id: "default-lang", value: editedSettings.defaultLanguage, onChange: e => handleValueChange('defaultLanguage', e.target.value), className: "w-full md:w-1/2 bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2" },
+//                     editedSettings.languages.filter(l=>l.enabled).map(lang => React.createElement("option", { key: lang.code, value: lang.code }, lang.name))
+//                 )
+//             )
+//           )
+//         ),
+//         React.createElement("div", null, 
+//           React.createElement("h4", {className: "text-lg font-semibold mb-2 text-[var(--text-accent)]"}, "Bảo mật"),
+//           React.createElement("label", { htmlFor: "admin-pass", className: "block text-sm font-medium text-[var(--text-secondary)] mb-1" }, "Mật khẩu Admin mới"),
+//           React.createElement("input", { type: "password", id: "admin-pass", placeholder: "Để trống nếu không đổi", onChange: e => handleValueChange('adminPassword', e.target.value), className: "w-full md:w-1/2 bg-[var(--bg-tertiary)] text-[var(--text-primary)] border border-[var(--bg-primary)] rounded-lg p-2" })
+//         ),
+//          React.createElement(
+//             "div",
+//             { className: "flex justify-end pt-4" },
+//             React.createElement(
+//                 "button",
+//                 { type: "button", onClick: handleSave, className: "px-6 py-2 bg-[var(--text-accent)] text-[var(--bg-primary)] rounded-lg font-semibold hover:opacity-90 transition-opacity" },
+//                 getML({ vi: "Lưu Cài Đặt", en: "Save Settings" })
+//             )
+//         )
+//       )
+//     );
+// };
 
 // START OF FILE: App.tsx
 const DEFAULT_SETTINGS = {
@@ -2354,9 +2207,7 @@ const DEFAULT_SETTINGS = {
     languages: [
       { code: 'vi', name: 'Tiếng Việt', enabled: true },
       { code: 'en', name: 'English', enabled: true },
-      { code: 'es', name: 'Español', enabled: true },
-      { code: 'fr', name: 'Français', enabled: true },
-      { code: 'la', name: 'Latina', enabled: true },
+   
     ],
     defaultLanguage: 'vi',
     theme: 'light',
@@ -2378,70 +2229,50 @@ const DEFAULT_SETTINGS = {
            content: { 
             vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', 
             en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.', 
-          
-            es: 'Padre nuestro que estás en los cielos, santificado sea tu nombre; venga tu reino; hágase tu voluntad, así en la tierra como en el cielo. Danos hoy nuestro pan de cada día; y perdona nuestras deudas, así como nosotros perdonamos a nuestros deudores; y no nos dejes caer en la tentación, mas líbranos del mal. Amén.',
-          
-            fr: 'Notre Père qui es aux cieux, que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd\'hui notre pain de ce jour; pardonne-nous nos offenses, comme nous pardonnons aussi à ceux qui nous ont offensés; et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen.',
-          
-            la: 'Pater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem, sed libera nos a malo. Amen.'
-           }},
+          }},
 
            { id: 'kinhmung', title: { 
             vi: 'Kinh Kính Mừng', 
             en: 'Hail Mary', 
-            es: 'Dios te salve María', 
-            fr: 'Je vous salue Marie', 
-            la: 'Ave Maria'}, 
+          }, 
            content: { 
 
             vi: 'Kính mừng Maria đầy ơn phước, Đức Chúa Trời ở cùng Bà, Bà có phước lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phước lạ. Thánh Maria Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội, khi này và trong giờ lâm tử. Amen.', 
             en: 'Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
-            es: 'Dios te salve, María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.',
-            fr: 'e vous salue, Marie, pleine de grâce ; le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à lheure de notre mort. Amen.',
-            la: 'Áve María, grátia pléna, Dóminus técum. Benedícta tu in muliéribus, et benedíctus frúctus véntris túi, Iésus. Sáncta María, Máter Déi, óra pro nóbis peccatóribus, nunc et in hóra mórtis nóstræ. Ámen.'
-          
+            
           }},
           { id: 'sangdanh', title: { 
             vi: 'Sáng Danh', 
             en: 'Glory Be', 
-            es: 'Gloria', 
-            fr: 'Gloire au Père', 
-            la: 'Gloria Patri'}, 
+  
+          }, 
            content: { 
 
             vi: 'Sáng danh Đức Chúa Cha, và Đức Chúa Con, và Đức Chúa Thánh Thần. Như đã có trước vô cùng, và bây giờ, và hằng có, và đời đời chẳng cùng. Amen.', 
-            en: 'Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.', 
-            es: 'Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.',
-            fr: 'Gloire au Père, et au Fils, et au Saint-Esprit. Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.',
-            la: 'Glória Pátri, et Fílio, et Spirítui Sáncto. Sicut érat in princípio, et nunc et sémper, et in sǽcula sæculórum. Ámen.'
+            en: 'Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.'
+            
           }},
            { id: 'kinhtinkinh', title: { 
             vi: 'Kinh Tin Kính', 
             en: 'Apostles Creed', 
-            es: 'Credo de los Apóstoles', 
-            fr: 'Symbole des Apôtres', 
-            la: 'Symbolum Apostolorum)'}, 
+            
+          }, 
            content: { 
 
             vi: 'Tôi tin kính Đức Chúa Trời là Cha phép tắc vô cùng dựng nên trời đất. Tôi tin kính Đức Chúa Giêsu Kitô là Con Một Đức Chúa Cha, cùng là Chúa chúng tôi. Bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi Bà Maria đồng trinh, chịu nạn đời quan Phongxiô Philatô, chịu đóng đanh trên cây Thánh giá, chết và táng xác, xuống ngục tổ tông, ngày thứ ba bởi trong kẻ chết mà sống lại, lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng. Ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết. Tôi tin kính Đức Chúa Thánh Thần. Tôi tin có Hội Thánh hằng có ở khắp thế này, các Thánh thông công. Tôi tin phép tha tội. Tôi tin xác loài người ngày sau sống lại. Tôi tin hằng sống vậy. Amen.', 
             en: 'I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.', 
-            es: 'Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la santa Iglesia católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.',
-            fr: 'Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre. Et en Jésus Christ, son Fils unique, notre Seigneur, qui a été conçu du Saint-Esprit, est né de la Vierge Marie, a souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli, est descendu aux enfers, le troisième jour est ressuscité des morts, est monté aux cieux, est assis à la droite de Dieu le Père tout-puissant, d’où il viendra juger les vivants et les morts. Je crois au Saint-Esprit, à la sainte Église catholique, à la communion des saints, à la rémission des péchés, à la résurrection de la chair, à la vie éternelle. Amen.',
-            la: 'Crédo in Déum Pátrem omnipoténtem, Creatórem cæli et térræ. Et in Iésum Chrístum, Fílium éius unícum, Dóminum nóstrum: qui concéptus est de Spíritu Sáncto, nátus ex María Vírgine, pássus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos: tértia díe resurréxit a mórtuis: ascéndit ad cælos: sédet ad déxteram Déi Pátris omnipoténtis: índe ventúrus est iudicáre vívos et mórtuos. Crédo in Spíritum Sánctum, sánctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, cárnis resurrectiónem, vítam ætérnam. Ámen.'
+            
           }},
            { id: 'kinhlaynuvuong', title: { 
             vi: 'Kinh Lạy Nữ Vương', 
             en: 'Hail Holy Queen', 
-            es: 'Salve Regina', 
-            fr: 'Salut, Ô Reine', 
-            la: 'Salve Regina'}, 
+        
+          }, 
            content: { 
 
             vi: 'Lạy Nữ Vương, Mẹ nhân lành, làm cho chúng con được sống, được vui, được cậy. Thân lạy Mẹ, chúng con, con cháu Evà ở chốn khách đầy, kêu đến cùng Bà. Chúng con ở nơi khóc lóc, than thở, kêu khẩn Bà thương. Hỡi ôi! Bà là Nữ Bào Chữa chúng con, xin ghé mắt thương xem chúng con. Đến sau khỏi đày, xin cho chúng con được thấy Đức Chúa Giêsu, Con lòng Bà gồm phước lạ. Ôi khoan thay! Nhân thay! Dịu thay! Thánh Maria trọn đời đồng trinh. Amen.', 
             en: 'Hail, holy Queen, Mother of Mercy, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.', 
-            es: 'Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra. Dios te salve. A ti llamamos los desterrados hijos de Eva. A ti suspiramos, gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos. Y después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clemente, oh piadosa, oh dulce Virgen María!',
-            fr: 'Salut, ô Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, salut. Enfants dÈve, exilés, nous crions vers vous. Vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes. Ô vous, notre avocate, tournez vers nous vos regards miséricordieux. Et après cet exil, montrez-nous Jésus, le fruit béni de vos entrailles. Ô clémente, ô miséricordieuse, ô douce Vierge Marie.',
-            la: 'Sálve Regína, Máter misericórdiæ, víta, dulcédo, et spes nóstra, sálve. Ad te clamámus, éxsules fílii Hévæ. Ad te suspirámus, geméntes et fléntes in hac lacrimárum válle. Éia érgo, Advocáta nóstra, íllos túos misericórdes óculos ad nos convérte. Et Iésum, benedíctum frúctum véntris túi, nóbis post hoc exsílium osténde. O clémens, O pía, O dúlcis Vírgo María.'
+           
           }},
            { id: 'sangdanh', title: { 
             vi: '', 
@@ -2459,11 +2290,12 @@ const DEFAULT_SETTINGS = {
           }},
         ],
     },
-    logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
+    // logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
+     logoUrl: './Images/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
-    headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family', es: 'Para la Familia Vicenciana', fr: 'Pour la Famille Vincentienne', la: 'Pro Familia Vincentiana' },
+    headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family' },
     mainSections: [
-      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers', es: 'Oraciones', fe: 'Prières', la: 'Orationes'}, icon: 'fa-book-pray' }
+      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers'}, icon: 'fa-book-pray' }
     ],
     supportEmail: 'bantruyenthong.vinhson@gmail.com',
     sectionsConfig: SECTIONS_CONFIG,
@@ -2536,14 +2368,14 @@ const App = () => {
   const [selectedMainSectionId, setSelectedMainSectionId] = useState(null);
   const [selectedGenericContent, setSelectedGenericContent] = useState(null);
   
-  const [isAdmin, setIsAdmin] = useState(false);
-  const [showAdminLogin, setShowAdminLogin] = useState(false);
-  const [showAdminPanel, setShowAdminPanel] = useState(false);
-  const [showEditFeast, setShowEditFeast] = useState(false);
-  const [editingFeast, setEditingFeast] = useState(null);
-  const [showEditSection, setShowEditSection] = useState(false);
-  const [showEditGenericContent, setShowEditGenericContent] = useState(false);
-  const [editingGenericContent, setEditingGenericContent] = useState(null);
+  // const [isAdmin, setIsAdmin] = useState(false);
+  // const [showAdminLogin, setShowAdminLogin] = useState(false);
+  // const [showAdminPanel, setShowAdminPanel] = useState(false);
+  // const [showEditFeast, setShowEditFeast] = useState(false);
+  // const [editingFeast, setEditingFeast] = useState(null);
+  // const [showEditSection, setShowEditSection] = useState(false);
+  // const [showEditGenericContent, setShowEditGenericContent] = useState(false);
+  // const [editingGenericContent, setEditingGenericContent] = useState(null);
 
   const getML = useCallback((textObj) => {
     return getMultilingualText(textObj, settings.language, settings.defaultLanguage);
@@ -2617,24 +2449,24 @@ const App = () => {
   const handleSelectMainSection = (sectionId) => navigate('genericList', { mainSectionId: sectionId, feast: null, sectionKey: null, genericContent: null });
   const handleSelectGenericContent = (item) => navigate('genericDetail', { genericContent: item });
   
-  const handleAdminClick = () => {
-      if (isAdmin) {
-          setShowAdminPanel(true);
-      } else {
-          setShowAdminLogin(true);
-      }
-  };
+  // const handleAdminClick = () => {
+  //     if (isAdmin) {
+  //         setShowAdminPanel(true);
+  //     } else {
+  //         setShowAdminLogin(true);
+  //     }
+  // };
 
-  const handleLogin = () => {
-      setIsAdmin(true);
-      sessionStorage.setItem('isAdmin', 'true');
-      setShowAdminLogin(false);
-  };
+  // const handleLogin = () => {
+  //     setIsAdmin(true);
+  //     sessionStorage.setItem('isAdmin', 'true');
+  //     setShowAdminLogin(false);
+  // };
 
-  const handleLogout = () => {
-      setIsAdmin(false);
-      sessionStorage.removeItem('isAdmin');
-  };
+  // const handleLogout = () => {
+  //     setIsAdmin(false);
+  //     sessionStorage.removeItem('isAdmin');
+  // };
   
   const handleSaveSettings = (newSettings) => {
     setSettings(prev => ({...prev, ...newSettings}));
@@ -2848,19 +2680,19 @@ const App = () => {
       onTitleClick: handleTitleClick,
       onAboutClick: () => navigate('about')
     }),
-    React.createElement(
-      "main",
-      { className: "w-full max-w-4xl mx-auto p-4 flex-grow container" },
-      renderContent()
-    ),
-    React.createElement(Footer, { content: getML(settings.footerContent) }),
-    React.createElement(ScrollToTopButton, null),
-    showAdminLogin && React.createElement(AdminLogin, { onClose: () => setShowAdminLogin(false), onLogin: handleLogin, adminPassword: settings.adminPassword, getML: getML }),
-    isAdmin && showAdminPanel && React.createElement(AdminPanelModal, { onClose: () => setShowAdminPanel(false), onSave: handleSaveSettings, settings: settings, getML: getML }),
-    isAdmin && showEditFeast && React.createElement(EditFeastModal, { onClose: () => { setShowEditFeast(false); setEditingFeast(null); }, onSave: handleSaveFeast, feast: editingFeast, getML: getML, languages: settings.languages, feastTypes: settings.feastTypes, sectionsConfig: settings.sectionsConfig }),
-    isAdmin && showEditSection && React.createElement(EditSectionModal, { onClose: () => setShowEditSection(false), onSave: handleSaveSectionContent, sectionContent: selectedFeast?.sections[selectedSectionKey], sectionTitle: getML(getSectionTitle(selectedSectionKey)), getML: getML, languages: settings.languages }),
-    isAdmin && showEditGenericContent && React.createElement(EditGenericContentModal, { onClose: () => { setShowEditGenericContent(false); setEditingGenericContent(null); }, onSave: handleSaveGenericContent, item: editingGenericContent, getML: getML, languages: settings.languages })
-  );
+    //   React.createElement(
+    //     "main",
+    //     { className: "w-full max-w-4xl mx-auto p-4 flex-grow container" },
+    //     renderContent()
+    //   ),
+    //   React.createElement(Footer, { content: getML(settings.footerContent) }),
+    //   React.createElement(ScrollToTopButton, null),
+    //   showAdminLogin && React.createElement(AdminLogin, { onClose: () => setShowAdminLogin(false), onLogin: handleLogin, adminPassword: settings.adminPassword, getML: getML }),
+    //   isAdmin && showAdminPanel && React.createElement(AdminPanelModal, { onClose: () => setShowAdminPanel(false), onSave: handleSaveSettings, settings: settings, getML: getML }),
+    //   isAdmin && showEditFeast && React.createElement(EditFeastModal, { onClose: () => { setShowEditFeast(false); setEditingFeast(null); }, onSave: handleSaveFeast, feast: editingFeast, getML: getML, languages: settings.languages, feastTypes: settings.feastTypes, sectionsConfig: settings.sectionsConfig }),
+    //   isAdmin && showEditSection && React.createElement(EditSectionModal, { onClose: () => setShowEditSection(false), onSave: handleSaveSectionContent, sectionContent: selectedFeast?.sections[selectedSectionKey], sectionTitle: getML(getSectionTitle(selectedSectionKey)), getML: getML, languages: settings.languages }),
+    //   isAdmin && showEditGenericContent && React.createElement(EditGenericContentModal, { onClose: () => { setShowEditGenericContent(false); setEditingGenericContent(null); }, onSave: handleSaveGenericContent, item: editingGenericContent, getML: getML, languages: settings.languages })
+    );
 };
 
 // START OF FILE: index.tsx
