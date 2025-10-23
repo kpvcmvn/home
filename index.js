@@ -2157,6 +2157,142 @@ en: `<strong>MASS</strong>
     }
 },
 
+ // 17 Thánh Lu-i Mác-ti-nô và Thánh Ma-ri-a Giê-li Ghê-ranh
+  {
+    id: 'st-paul-apostle',
+    date: '07-12',
+    title: { 
+      vi: 'Thánh Lu-i Mác-ti-nô và Thánh Ma-ri-a Giê-li Ghê-ranh',
+      en: 'St. Louis Martin and Marie-Azélie Guérin',
+     
+    },
+    subtitle: {
+      vi: 'Song thân của Thánh Tê-rê-sa Hài Đồng Giêsu',
+      en: 'Parents of St. Thérèse of the Child Jesus',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Các ngài được biết đến nhiều vì là song thân của Thánh Tê-rê-sa Hài Đồng Giêsu, nhưng theo cách riêng mình, các ngài cũng là những mẫu gương thánh thiện để chúng ta noi theo. Các ngài là đôi vợ chồng đầu tiên được phong thánh. 
+        Thánh Lu-i Mác-ti-nô sinh tại Bourdeaux ngày 22 tháng 8 năm 1823. Là một thanh niên có một đức tin sâu sắc và chuyên chăm cầu nguyện, có thời ông đã mong mỏi được dâng hiến cho Thiên Chúa trong nhà tế bần của Thánh Cả Bernard, nhưng gặp khó khăn trong việc học tiếng Latin, ông đành trở thành một thợ đồng hồ và định cư tại Alençon. Thánh Ma-ri-a Giê-li Ghê-ranh sinh tại Gandelain, gần Saint-Denis-sur Sarthon, vào ngày 23 Tháng 12 năm 1831. Cô đã làm việc như một người thợ thêu thùa tại Alençon. Cô cũng đã từng bị cuốn hút bởi đời sống các nữ tu, nhưng sức khỏe không ổn định của mình và những nhận xét tiêu cực của sơ bề trên dòng Nữ Tử Bác Ái tại Alençon làm cô nản lòng. Ơn Chúa quan phòng, Giê-li gặp được Lu-i trên cầu Thánh Leonard: cô gặp được một thanh niên mà những đức tính cao quý của anh, cung cách kính cẩn và vẻ trang nghiêm của anh đã để lại cho cô một ấn tượng sâu sắc. Một giọng nói trong lặng lẽ thì thầm: “Đây là người đàn ông đã dành sẵn cho con”. Họ đã kết hôn vài tháng sau đó tại nhà thờ Đức Bà thành Alençon, vào đêm 13 tháng 6, năm 1858. Họ có nhiều niềm vui khi chào đón đến chín đứa con. Bốn người con đã chết trong thời thơ ấu, nhưng điều đó không dìm họ trong đau buồn cũng không làm suy yếu được đức tin sâu sắc của họ, họ vẫn kiên trì tham dự thánh lễ hàng ngày và có lòng sùng kính đặc biệt với Đức Trinh Nữ Maria. Người con gái cuối cùng của họ là thánh nữ Têrêsa Hài Đồng Giêsu, tiến sĩ Hội Thánh. Lu-i Mác-ti-nô và Giê-li Ghê-ranh là những gương mẫu tuyệt vời của tình yêu vợ chồng, của một gia đình Kitô giáo cần cù lo lắng cho người khác, hào phóng với người nghèo và được linh hứng từ một tinh thần truyền giáo mẫu mực, luôn sẵn sàng giúp đỡ các hoạt động của giáo xứ. Hơn nữa Lu-i Mác-ti-nô là một thành viên tích cực của Hiệp hội Thánh Vinh Sơn Phaolô trong suốt cuộc đời của mình. Giê-li Ghê-ranh qua đời tại Alencon ngày 28 tháng 8 năm 1877 sau một thời gian dài bệnh tật. Lu-i Mác-ti-nô chuyển đến Lisieux để bảo đảm một tương lai tốt hơn cho năm cô con gái của mình. Sau khi dâng lên Thiên Chúa tất cả những người con gái của mình, ông cố, như người ta thường gọi ông, can đảm chịu đựng nhiều đau đớn vì một căn bệnh. Ông qua đời gần Evreux ngày 29 tháng 7 năm 1894. Các ngài được phong chân phước tại Lisieux vào ngày 19 tháng 10 năm 2008. Và vào ngày 18 tháng 10 năm 2015, Đức Giáo Hoàng Phanxicô đã nâng hai ngài lên bậc hiển thánh tại quảng trường thánh Phêrô.`,
+       
+en: `<strong>Biography</strong>
+Saints are not just priests and nuns. They are laypeople too, and on October 18, for the first time in the history of the Catholic Church, a married couple was canonized as saints. We hope all those apps, which include Saint of the Day and liturgical calendars, will be updated to include this special couple, Blessed Louis and Marie Zélie Guerin Martin, the parents of  St. Thérèse of Lisieux. The announcement, made at the Vatican on March 3, noted the intent of Pope Francis to canonize them during the World Synod of Bishops on the family in October.
+
+When in Lisieux, France, during the year that this couple was beatified, I was blessed to be able to pray at the reliquary containing the remains of these two famous parents. One of the printed materials in the Lisieux Basilica instructed:  They are not saints because their daughter was St. Therese; she is a saint because of them. It’s an important point to remember because they earned this distinction by their exemplary lives, the fruit of which included St. Therese and her sister,  Leonia, whose cause is also in the canonization process.
+
+The Martins are the first couple in the history of the Church to be brought through the canonization process as a couple. According to a scholar of the Martin family, although their causes were first brought separately in 1957, Pope Paul VI united them into a single cause in 1971 in recognition that they became holy as a couple.
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
 
 
  // 3 Thánh Phaolô Tông Đồ
