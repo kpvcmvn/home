@@ -337,6 +337,7 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
+  
  // Thánh Phaolô Tông Đồ
   {
     id: 'st-paul-apostle',
@@ -607,6 +608,161 @@ en: `<strong>MASS</strong>
     }
   },
 
+
+ // Chân phước Gio-sép-phin Ni-cô-li
+  {
+    id: 'bl-giuseppina-nicoli',
+    date: '02-03',
+    title: { 
+      vi: 'Chân phước Gio-sép-phin Ni-cô-li',
+      en: 'Bl. Giuseppina Nicoli',
+     
+    },
+    subtitle: {
+      vi: 'Trinh nữ',
+      en: 'Religious',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+Giuseppina Nicoli was born at Casatisma, Pavia, Italy, on 18 November 1863, the fifth of 10 siblings. At the age of 20 she entered the Daughters of Charity of St Vincent de Paul in Turin, Italy. Two years later, in 1885, she was sent to Sardinia, Italy, where she spent most of her consecrated life. On Christmas Eve 1888 she took simple vows. In 1893, at age 30, she contracted tuberculosis which slowly consumed her holy life dedicated to God and neighbour. Her assignment in Sardinia reaped an abundant harvest. Not only did she care for the poor, orphans and the infirm, she also concerned herself with their evangelization.
+
+At Cagliari she taught catechism to the young students and workers of the Society of the Pious Union of the Sons of Mary, which she had founded and directed and which had St Aloysius Gonzaga as its patron.
+
+In 1899 she was sent to Sassari to run an orphanage, and while there she opened the first Italian section of the "Daughters of Charity" society, dedicated to mending, sewing and distributing clothing to the poor. These women also taught catechism to approximately 800 children every Sunday. For the older students she opened the School of Religion where they were trained to teach the faith to others.
+
+In 1910 she was named provincial bursar of the Turin Province, which gave her the opportunity to return to "the Continent", as the people of Sardinia called it.
+
+In 1912 she was assigned as Directress to the novitiate in Turin. But this duty lasted only nine months due to a deterioration in her lung condition, which spurred her superiors to relocate her to Sardinia, whose warmer climate could benefit her health.
+
+Sr Giuseppina, who had left a warm and hospitable environment in Sassari, found upon her return in 1913 that the atmosphere had completely changed due to anticlericalism and the influence of private interests on behalf of politicians and civil administrators.
+
+Although these same political and civil officials personally admired and esteemed Sr Giuseppina for her abilities and holiness, she suffered the calumny of being said to be incapable of administering the very orphanage she had previously administered successfully. All this led her superiors to transfer her back to Cagliari on 7 August 1914.
+
+The hostilities of World War I did not spare the island of Sardinia and Sr Nicoli and her Sisters set to assisting the wounded. They adapted the kindergarten where they were assigned into a hospital and lovingly nursed the injured.
+
+In Cagliari she was called by the local Bishop to set up the Dorotean Society, whose members were consecrated lay women. With the young women who joined her, Sr Giuseppina founded the "Young Women of Charity" in 1917, and opened with them in the poor, overpopulated suburb of Marina del Poetto a facility for the care of children afflicted with rickets and scrofulosis, a form of tuberculosis.
+
+Other apostolic works that developed with the assistance of Bl. Nicoli were those of the Propagation of the Faith and the Holy Childhood Society. She founded the St Teresa Circle, the first group for young Catholic women in Cagliari and the nucleus of what would later become the Women's Catholic Action. Sr Nicoli also established the Josephite Association (with St Joseph as its patron) for religious instruction, to which the more well-to-do belonged.
+
+This kaleidoscope of apostolic works which brought so much spiritual and material benefit to many is an example of the great things God can do in those who are entirely dedicated to him.
+
+After her death at the age of 61, on 31 December 1924, a handwritten prayer was found tucked in the hollow of the Crucifix she had received at her first vows. In this prayer she had written: "I want to serve you faithfully, practicing poverty, chastity and obedience, and for love of you to serve the poor".
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
 // Chân phước Rô-sa-li Ren-đu
   {
     id: 'bl-rosalie-rendu',
@@ -762,6 +918,7 @@ en: `<strong>MASS</strong>
       compline: placeholder,
     }
   },
+  // Chân phước Mác-ga-ri-ta Ru-tan
   {
     id: 'bl-marguerite-rutan',
     date: '04-09',
