@@ -24,6 +24,32 @@
         display: none !important;
       }
     </style>
+ <script>
+  // Ẩn đúng nút chứa chữ "Admin" mà không ảnh hưởng các nút khác
+  window.addEventListener('load', () => {
+    function hideAdminButton() {
+      const buttons = document.querySelectorAll('.mobile-menu-btn');
+      buttons.forEach(btn => {
+        const text = (btn.textContent || '').trim().toLowerCase();
+        if (text === 'admin' || text.includes('admin')) {
+          btn.style.display = 'none';
+        }
+      });
+    }
+
+    // Chạy khi trang load
+    hideAdminButton();
+
+    // Quan sát DOM, nếu React render lại menu thì chạy lại
+    const observer = new MutationObserver(() => hideAdminButton());
+    observer.observe(document.body, { childList: true, subtree: true });
+  });
+</script>
+
+
+
+
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <script type="importmap">
 {
