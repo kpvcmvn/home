@@ -7,12 +7,23 @@
     <meta name="theme-color" content="#111827"/>
     <link rel="manifest" href="./manifest.json">
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- 💡 Thêm đoạn CSS này -->
-  <style>
-    [aria-label="Admin Menu"] {
-      display: none !important;
-    }
-  </style>
+   <!-- 🌟 CSS ẩn triệt để mọi nút Admin ở mọi thiết bị -->
+    <style>
+      /* Ẩn mọi nút hoặc icon admin trên mọi thiết bị */
+      [aria-label="Admin Menu"],
+      button[aria-label="Admin Menu"],
+      .menu-btn[aria-label="Admin Menu"],
+      [aria-label="Admin"],
+      button[aria-label="Admin"],
+      .fa-user-shield,
+      i.fa-user-shield,
+      [data-role="admin"],
+      [data-menu="admin"],
+      .admin-btn,
+      .admin-icon {
+        display: none !important;
+      }
+    </style>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <script type="importmap">
 {
