@@ -50,7 +50,7 @@ const placeholder = {
   // la: `<p class="text-center text-gray-400 italic">Contentus huius sectionis renovatur...</p>`,
 };
 const FEASTS = [
-  // Thánh Ê-li-za-bét An-na Xe-tôn
+  // 1 Thánh Ê-li-za-bét An-na Xe-tôn
   {
     id: 'st-elizabeth-ann-seton',
     date: '01-04',
@@ -206,7 +206,7 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     }
   },
 
-  // Chân phước Lin-đan-ba Giút-ta Ô-li-bây-ra
+  // 2 Chân phước Lin-đan-ba Giút-ta Ô-li-bây-ra
   {
     id: 'bl-lindanba-justa-olibayra',
     date: '01-07',
@@ -338,7 +338,7 @@ en: `<strong>MASS</strong>
     }
   },
   
- // Thánh Phaolô Tông Đồ
+ // 3 Thánh Phaolô Tông Đồ
   {
     id: 'st-paul-apostle',
     date: '01-25',
@@ -470,7 +470,7 @@ en: `<strong>MASS</strong>
     }
   },
 
- // Chân phước Ma-ri-a An-na Va-i-ô và Ô-đi-la Bôm-gác-tăng
+ // 4 Chân phước Ma-ri-a An-na Va-i-ô và Ô-đi-la Bôm-gác-tăng
   {
     id: 'bl-maria-anna-vaio-and-odila-bomgactang',
     date: '02-01',
@@ -609,7 +609,7 @@ en: `<strong>MASS</strong>
   },
 
 
- // Chân phước Gio-sép-phin Ni-cô-li
+ // 5 Chân phước Gio-sép-phin Ni-cô-li
   {
     id: 'bl-giuseppina-nicoli',
     date: '02-03',
@@ -763,7 +763,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-// Chân phước Rô-sa-li Răng-đi
+// 6 Chân phước Rô-sa-li Răng-đi
   {
     id: 'bl-rosalie-rendu',
     date: '02-07',
@@ -900,7 +900,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-   // Di chuyển hài cốt Thánh Vinh Sơn Phaolô
+   // 7 Di chuyển hài cốt Thánh Vinh Sơn Phaolô
   {
     id: 'st-translation-of-relics-paul-apostle',
     date: '04-26',
@@ -1032,7 +1032,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-// Thánh Gian-na Bơ-rét-ta Mô-la
+// 8 Thánh Gian-na Bơ-rét-ta Mô-la
   {
     id: 'st-gianna-beretta-molla',
     date: '04-28',
@@ -1180,7 +1180,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-  // Chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la
+  // 9 Chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la
   {
     id: 'bl-ceferino-gimnez-malla', 
     date: '05-05',
@@ -1312,7 +1312,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-  // Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
+  // 10 Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
   {
     id: 'st-francis-regis-clet',
     date: '07-09',
@@ -1376,111 +1376,151 @@ en: `<strong>MASS</strong>
     }
 },
 
-// Chân phước Pi-e Rơ-nê Rô-gơ
+// 11 Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich
   {
-    id: 'bl-pierre-rene-rogue',
-    date: '03-03',
-    title: {
-      vi: 'Chân phước Pi-e Rơ-nê Rô-gơ',
-      en: 'Bl. Pierre-René Rogue',
-      // es: 'Beato Pedro Renato Rogue',
-      // fr: 'Bienheureux Pierre-René Rogue',
-      // la: 'Beatus Petrus Renatus Rogue'
+    id: 'sbt-miriam-teresa-demjanovich',
+    date: '05-08',
+    title: { 
+      vi: 'Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich',
+      en: 'Bl. Miriam Teresa Demjanovich',
+     
     },
     subtitle: {
-      vi: 'Linh mục, Tử đạo',
-      en: 'Priest, Martyr',
-      // es: 'Sacerdote, Mártir',
-      // fr: 'Prêtre, Martyr',
-      // la: 'Sacerdos, Martyr'
+      vi: 'Trinh nữ',
+      en: 'Virgin',
+      
     },
     type: 'Lễ nhớ',
     sections: {
-      biography: placeholder,
-      massReadings: placeholder,
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
-    }
-  },
-  // Chân phước Lin-đa-va Giút-ta Đê Ô-li-bô-ra
-  {
-    id: 'bl-lindalva-justo-de-oliveira',
-    date: '04-09',
-    title: {
-        vi: 'Chân phước Lindalva Justo de Oliveira',
-        en: 'Bl. Lindalva Justo de Oliveira',
-        // es: 'Beata Lindalva Justo de Oliveira',
-        // fr: 'Bienheureuse Lindalva Justo de Oliveira',
-        // la: 'Beata Lindalva Justo de Oliveira'
-    },
-    subtitle: {
-        vi: 'Nữ Tử Bác Ái, Tử đạo',
-        en: 'Daughter of Charity, Martyr',
-        // es: 'Hija de la Caridad, Mártir',
-        // fr: 'Fille de la Charité, Martyre',
-        // la: 'Filia Caritatis, Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-      biography: placeholder,
-      massReadings: placeholder,
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
-    }
-  },
-  // Chân phước Mác-ga-ri-ta Ru-tan
-  {
-    id: 'bl-marguerite-rutan',
-    date: '04-09',
-    title: {
-        vi: 'Chân phước Mác-ga-ri-ta Ru-tan',
-        en: 'Bl. Marguerite Rutan',
-        // es: 'Beata Margarita Rutan',
-        // fr: 'Bienheureuse Marguerite Rutan',
-        // la: 'Beata Margarita Rutan'
-    },
-    subtitle: {
-        vi: 'Nữ Tử Bác Ái, Tử đạo',
-        en: 'Daughter of Charity, Martyr',
-        // es: 'Hija de la Caridad, Mártir',
-        // fr: 'Fille de la Charité, Martyre',
-        // la: 'Filia Caritatis, Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-      biography: placeholder,
-      massReadings: placeholder,
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
     }
   },
 
-// Thánh Lu-y-sa đờ Ma-ri-lắc
+// Thánh Louise de Marillac
   {
     id: 'st-louise-de-marillac',
     date: '05-09',
     title: {
-      vi: 'Thánh Lu-y-sa đờ Ma-ri-lắc',
+      vi: 'Thánh Louise de Marillac',
       en: 'St. Louise de Marillac',
-      // es: 'Santa Luisa de Marillac',
-      // fr: 'Sainte Louise de Marillac',
-      // la: 'Sancta Ludovica de Marillac'
+    
     },
     subtitle: {
       vi: 'Đồng sáng lập Tu hội Nữ Tử Bác Ái',
       en: 'Co-foundress of the Daughters of Charity',
-      // es: 'Cofundadora de las Hijas de la Caridad',
-      // fr: 'Co-fondatrice des Filles de la Charité',
-      // la: 'Cofundatrix Filiarum Caritatis'
+      
     },
     type: 'Đại lễ',
     sections: {
@@ -1548,13 +1588,166 @@ The Lord says: Amen, I say to you, whatever you did for one of these least broth
 Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
 
 },
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
+        officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
     }
   },
+
+ // 3 Thánh Phaolô Tông Đồ
+  {
+    id: 'st-paul-apostle',
+    date: '01-25',
+    title: { 
+      vi: 'Thánh Phaolô Tông Đồ',
+      en: 'St. Paul Apostle',
+     
+    },
+    subtitle: {
+      vi: 'Kỷ niệm thành lập Tu Hội Truyền Giáo',
+      en: 'Commemoration of the Founding of the Congregation of the Mission',
+      
+    },
+    type: 'Lễ kính',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
 ];
 
 
