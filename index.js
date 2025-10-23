@@ -2177,9 +2177,9 @@ const DEFAULT_SETTINGS = {
     languages: [
       { code: 'vi', name: 'Tiếng Việt', enabled: true },
       { code: 'en', name: 'English', enabled: true },
-      { code: 'es', name: 'Español', enabled: true },
-      { code: 'fr', name: 'Français', enabled: true },
-      { code: 'la', name: 'Latina', enabled: true },
+      // { code: 'es', name: 'Español', enabled: true },
+      // { code: 'fr', name: 'Français', enabled: true },
+      // { code: 'la', name: 'Latina', enabled: true },
     ],
     defaultLanguage: 'vi',
     theme: 'light',
