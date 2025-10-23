@@ -1748,7 +1748,7 @@ en: `<strong>MASS</strong>
     }
   },
 
- // 3 Chân phước Mác-ta Vích-ka
+ // 13 Chân phước Mác-ta Vích-ka
   {
     id: 'bl-arta-maria-wiecka',
     date: '05-30',
@@ -1893,7 +1893,137 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
+// 14 Thánh Phaolô Tông Đồ
+  {
+    id: 'bl-marie-madelein-containe-and-companions-martyrs',
+    date: '06-26',
+    title: { 
+      vi: 'Chân phước Marie Madeleine Fontaine và các bạn Tử đạo',
+      en: 'Bl. Marie Madelein Fontaine and Companions Martyrs',
+     
+    },
+    subtitle: {
+      vi: 'hân phước Marie Madeleine Fontaine và các bạn Tử đạo',
+      en: 'Bl. Marie Madelein Fontaine and Companions Martyrs',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Năm 1794, ngay giữa cuộc cách mạng Pháp, bốn Nữ Tử Bác Ái tại Arras (Pas de Calais) đảm trách việc chăm sóc bệnh nhân tại nhà và giáo dục các bé gái. Đó là các Sơ: Sơ Ma-ri-a Mát-len Phông-ten, sinh ngày 22 tháng 4 năm 1723 tại Etrepagny (Eure), gia nhập Tu Hội Nữ Tử Bác Ái ngày 9 tháng 7 năm 1748, là Sơ Phục vụ cộng đoàn. Sơ Marie Françoise Lanel, sinh ngày 24 tháng 8 năm 1745 tại Eu (Seine Maritime), được nhận vào Tu Hội ngày 10 tháng 4 năm 1764. Sơ Thérèse Fantou, sinh ngày 29 tháng 7 năm 1747, nguyên quán Miniac Morvan (Ille et Vilaine). Nữ Tử Bác Ái từ ngày 28 tháng 11 năm 1771. Sơ Jeanne Gérard, sinh tại Cumières (Meuse) ngày 23 tháng 10 năm 1752, gia nhập Tu Hội Nữ Tử Bác Ái ngày 17 tháng 9 năm 1776. Vì từ chối tuyên thệ điều mà lương tâm các chị không cho phép, nên các Sơ bị bắt ngày 15 tháng 2 năm 1794 dựa trên những lời vu khống. Trong lúc bị giam, các Sơ an ủi anh em tù nhân cũng bị tố cáo cách bất công như các Sơ. Sau bốn tháng bị giam, các Sơ được chuyển đến Cambrai để bị xử chém. Trên chiếc xe kéo chở các Sơ đến nơi khổ hình, các Sơ hát bài Ave Maris Stella và lần chuỗi. Khi bước lên máy chém, Sơ Ma-ri-a Mát-len Phông-ten lên tiếng quả quyết: “Anh chị em Kitô hữu, anh chị em đừng đau buồn làm gì, anh chị em sẽ không chết đâu, vì chúng tôi là những nạn nhân cuối cùng”. Và đúng như vậy: ngày 26 tháng 6 năm 1794, chấm dứt khủng bố. Trong khi đó, chân phước Marguerite Rutan, xuất thân từ nhà Dax. Ngài sinh ngày 23 tháng 4 năm 1736 tại Metz và gia nhập Tập Viện tại một cộng đoàn nhỏ, ngày 23 tháng 4 năm 1757. Sơ được phúc tử đạo bởi việc trảm quyết ở Dax ngày 9 tháng 4 năm 1794. Sơ Ma-ri-a Mát-len Phông-ten và các bạn được Đức Thánh Cha Bênêđictô XV phong chân phước ngày 13 tháng 6 năm 1920. Còn Sơ Marguerite Rutan được Đức Giáo Hoàng Benedicto XVI phong chân phước ngày 19 tháng 6 năm 2011.
+        `,
+       
+en: `<strong>Biography</strong>
 
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
 
  // 3 Thánh Phaolô Tông Đồ
   {
