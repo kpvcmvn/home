@@ -4272,7 +4272,7 @@ const DEFAULT_SETTINGS = {
     fontSize: 16,
     adminPassword: 'admin123',
     footerContent: { 
-        vi: 'Bản quyền thuộc Ban Truyền Thông. <br/> Tu Hội Truyền Giáo - Tỉnh dòng Việt nam © 2025.',
+        vi: 'Bản quyền thuộc Ban Truyền Thông <br/> Tu Hội Truyền Giáo - Tỉnh dòng Việt nam © 2025.',
         en: 'Content provided for liturgical and study purposes. <br/> All rights reserved © 2025.' 
     },
     feastTypes: [
@@ -4287,28 +4287,17 @@ const DEFAULT_SETTINGS = {
            content: { 
             vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', 
             en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.', 
-          
-            es: 'Padre nuestro que estás en los cielos, santificado sea tu nombre; venga tu reino; hágase tu voluntad, así en la tierra como en el cielo. Danos hoy nuestro pan de cada día; y perdona nuestras deudas, así como nosotros perdonamos a nuestros deudores; y no nos dejes caer en la tentación, mas líbranos del mal. Amén.',
-          
-            fr: 'Notre Père qui es aux cieux, que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd\'hui notre pain de ce jour; pardonne-nous nos offenses, comme nous pardonnons aussi à ceux qui nous ont offensés; et ne nous soumets pas à la tentation, mais délivre-nous du mal. Amen.',
-          
-            la: 'Pater noster, qui es in caelis, sanctificetur nomen tuum; adveniat regnum tuum; fiat voluntas tua, sicut in caelo et in terra. Panem nostrum quotidianum da nobis hodie; et dimitte nobis debita nostra sicut et nos dimittimus debitoribus nostris; et ne nos inducas in tentationem, sed libera nos a malo. Amen.'
            }},
 
            { id: 'kinhmung', title: { 
             vi: 'Kinh Kính Mừng', 
-            en: 'Hail Mary', 
-            es: 'Dios te salve María', 
-            fr: 'Je vous salue Marie', 
-            la: 'Ave Maria'}, 
+            en: 'Hail Mary'
+          }, 
            content: { 
 
             vi: 'Kính mừng Maria đầy ơn phước, Đức Chúa Trời ở cùng Bà, Bà có phước lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phước lạ. Thánh Maria Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội, khi này và trong giờ lâm tử. Amen.', 
             en: 'Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
-            es: 'Dios te salve, María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.',
-            fr: 'e vous salue, Marie, pleine de grâce ; le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, priez pour nous, pauvres pécheurs, maintenant et à lheure de notre mort. Amen.',
-            la: 'Áve María, grátia pléna, Dóminus técum. Benedícta tu in muliéribus, et benedíctus frúctus véntris túi, Iésus. Sáncta María, Máter Déi, óra pro nóbis peccatóribus, nunc et in hóra mórtis nóstræ. Ámen.'
-          
+            
           }},
           { id: 'sangdanh', title: { 
             vi: 'Sáng Danh', 
@@ -4320,55 +4309,54 @@ const DEFAULT_SETTINGS = {
 
             vi: 'Sáng danh Đức Chúa Cha, và Đức Chúa Con, và Đức Chúa Thánh Thần. Như đã có trước vô cùng, và bây giờ, và hằng có, và đời đời chẳng cùng. Amen.', 
             en: 'Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.', 
-            es: 'Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.',
-            fr: 'Gloire au Père, et au Fils, et au Saint-Esprit. Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.',
-            la: 'Glória Pátri, et Fílio, et Spirítui Sáncto. Sicut érat in princípio, et nunc et sémper, et in sǽcula sæculórum. Ámen.'
-          }},
+           }},
            { id: 'kinhtinkinh', title: { 
             vi: 'Kinh Tin Kính', 
-            en: 'Apostles Creed', 
-            es: 'Credo de los Apóstoles', 
-            fr: 'Symbole des Apôtres', 
-            la: 'Symbolum Apostolorum)'}, 
+            en: 'Apostles Creed'
+          }, 
            content: { 
 
             vi: 'Tôi tin kính Đức Chúa Trời là Cha phép tắc vô cùng dựng nên trời đất. Tôi tin kính Đức Chúa Giêsu Kitô là Con Một Đức Chúa Cha, cùng là Chúa chúng tôi. Bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi Bà Maria đồng trinh, chịu nạn đời quan Phongxiô Philatô, chịu đóng đanh trên cây Thánh giá, chết và táng xác, xuống ngục tổ tông, ngày thứ ba bởi trong kẻ chết mà sống lại, lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng. Ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết. Tôi tin kính Đức Chúa Thánh Thần. Tôi tin có Hội Thánh hằng có ở khắp thế này, các Thánh thông công. Tôi tin phép tha tội. Tôi tin xác loài người ngày sau sống lại. Tôi tin hằng sống vậy. Amen.', 
             en: 'I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.', 
-            es: 'Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra. Creo en Jesucristo, su único Hijo, nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen, padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado, descendió a los infiernos, al tercer día resucitó de entre los muertos, subió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso. Desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la santa Iglesia católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.',
-            fr: 'Je crois en Dieu, le Père tout-puissant, Créateur du ciel et de la terre. Et en Jésus Christ, son Fils unique, notre Seigneur, qui a été conçu du Saint-Esprit, est né de la Vierge Marie, a souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli, est descendu aux enfers, le troisième jour est ressuscité des morts, est monté aux cieux, est assis à la droite de Dieu le Père tout-puissant, d’où il viendra juger les vivants et les morts. Je crois au Saint-Esprit, à la sainte Église catholique, à la communion des saints, à la rémission des péchés, à la résurrection de la chair, à la vie éternelle. Amen.',
-            la: 'Crédo in Déum Pátrem omnipoténtem, Creatórem cæli et térræ. Et in Iésum Chrístum, Fílium éius unícum, Dóminum nóstrum: qui concéptus est de Spíritu Sáncto, nátus ex María Vírgine, pássus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos: tértia díe resurréxit a mórtuis: ascéndit ad cælos: sédet ad déxteram Déi Pátris omnipoténtis: índe ventúrus est iudicáre vívos et mórtuos. Crédo in Spíritum Sánctum, sánctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum, cárnis resurrectiónem, vítam ætérnam. Ámen.'
           }},
            { id: 'kinhlaynuvuong', title: { 
             vi: 'Kinh Lạy Nữ Vương', 
-            en: 'Hail Holy Queen', 
-            es: 'Salve Regina', 
-            fr: 'Salut, Ô Reine', 
-            la: 'Salve Regina'}, 
+            en: 'Hail Holy Queen'
+          }, 
            content: { 
 
             vi: 'Lạy Nữ Vương, Mẹ nhân lành, làm cho chúng con được sống, được vui, được cậy. Thân lạy Mẹ, chúng con, con cháu Evà ở chốn khách đầy, kêu đến cùng Bà. Chúng con ở nơi khóc lóc, than thở, kêu khẩn Bà thương. Hỡi ôi! Bà là Nữ Bào Chữa chúng con, xin ghé mắt thương xem chúng con. Đến sau khỏi đày, xin cho chúng con được thấy Đức Chúa Giêsu, Con lòng Bà gồm phước lạ. Ôi khoan thay! Nhân thay! Dịu thay! Thánh Maria trọn đời đồng trinh. Amen.', 
             en: 'Hail, holy Queen, Mother of Mercy, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.', 
-            es: 'Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra. Dios te salve. A ti llamamos los desterrados hijos de Eva. A ti suspiramos, gimiendo y llorando en este valle de lágrimas. Ea, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos. Y después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre. ¡Oh clemente, oh piadosa, oh dulce Virgen María!',
-            fr: 'Salut, ô Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, salut. Enfants dÈve, exilés, nous crions vers vous. Vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes. Ô vous, notre avocate, tournez vers nous vos regards miséricordieux. Et après cet exil, montrez-nous Jésus, le fruit béni de vos entrailles. Ô clémente, ô miséricordieuse, ô douce Vierge Marie.',
-            la: 'Sálve Regína, Máter misericórdiæ, víta, dulcédo, et spes nóstra, sálve. Ad te clamámus, éxsules fílii Hévæ. Ad te suspirámus, geméntes et fléntes in hac lacrimárum válle. Éia érgo, Advocáta nóstra, íllos túos misericórdes óculos ad nos convérte. Et Iésum, benedíctum frúctum véntris túi, nóbis post hoc exsílium osténde. O clémens, O pía, O dúlcis Vírgo María.'
-          }},
+            }},
            { id: 'thanhgiuse', title: { 
             vi: 'Kinh Thánh Giuse', 
             en: ''
           
           }, 
            content: { 
-
             vi: 'Lạy Thánh Giuse, xưa nay không ai kêu cầu Cha mà vô hiệu. Cha có thần thế trước mặt Đức Chúa Trời đến nỗi người ta có thể nói rằng: “Trên trời, Thánh Giuse truyền lệnh hơn là van xin. Lạy Cha hiền, xin cầu bầu cùng Chúa cho chúng con. Khi ở thế gian này, Cha đã từng là cha nuôi và là vị bảo hộ trung thành của Chúa Con Chí Thánh. Nay xin Cha bào chữa cho chúng con bên toà Chúa. Chúng con trao phó nơi Cha vụ khó khăn này (…) xin Cha giải gỡ giúp chúng con, để thêm một vinh quang mới vào bao nhiêu vinh quang sẵn có của Cha. Lạy Thánh Giuse nhân từ, chúng con tin tưởng, vâng chúng con tin tưởng Cha có thể chấp nhận lời nguyện của chúng con, và giải thoát chúng con khỏi những khổ cực ưu sầu mà chúng con đang gặp phải. Hơn nữa, chúng con vững lòng trông cậy, Cha không bỏ qua điều gì giúp ích cho những người sầu khổ kêu cầu Cha. Chúng con sấp mình dưới chân Cha, tha thiết nài xin Cha đoái thương đến những than van khóc lóc của chúng con, xin Cha lấy tình thương như áo choàng che phủ chúng con và chúc lành cho chúng con. Amen.', 
             en: ''
           }},
         ],
+        prayersoffice: [
+            { id: 'chunhat', title: { 
+              vi: 'Chúa Nhật',
+              en: 'Sunday' 
+              }, 
+            content: { 
+              vi: '<strong>Giáo đầu</strong></br><strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.</br><strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ. </br>Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, </br>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. Amen.</br>Haleluia.', 
+              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. Amen.</br>Heleluia' 
+            }},
+
+
+          ]
     },
     logoUrl: './photos/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
-    headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family', es: 'Para la Familia Vicenciana', fr: 'Pour la Famille Vincentienne', la: 'Pro Familia Vincentiana' },
+    headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family'},
     mainSections: [
-      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers', es: 'Oraciones', fe: 'Prières', la: 'Orationes'}, icon: 'fa-book-pray' }
+      { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers'}, icon: '' },
+      {id: 'prayersoffice', title: { vi: 'Kinh Tối', en: 'Night Prayers'}, icon: '' }
     ],
     supportEmail: 'bantruyenthong.vinhson@gmail.com',
     sectionsConfig: SECTIONS_CONFIG,
