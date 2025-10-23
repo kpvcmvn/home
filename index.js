@@ -2268,17 +2268,13 @@ const DEFAULT_SETTINGS = {
           }},
            { id: 'sangdanh', title: { 
             vi: '', 
-            en: '', 
-            es: '', 
-            fr: '', 
-            la: ''}, 
+            en: ''
+          
+          }, 
            content: { 
 
             vi: '', 
-            en: '', 
-            es: '',
-            fr: '',
-            la: ''
+            en: ''
           }},
         ],
     },
