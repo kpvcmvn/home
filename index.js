@@ -469,8 +469,145 @@ en: `<strong>MASS</strong>
     }
   },
 
+ // Chân phước Ma-ri-a An-na Va-i-ô và Ô-đi-la Bôm-gác-tăng
+  {
+    id: 'bl-maria-anna-vaio-and-odila-bomgactang',
+    date: '02-01',
+    title: { 
+      vi: 'Các chân phước Ma-ri-a An-na Va-i-ô và Ô-đi-la Bôm-gác-tăng',
+      en: 'Bl. Marie-Anne Vayo and Odilia Baumgarten',
+     
+    },
+    subtitle: {
+      vi: 'Nữ Tử Bác Ái - Tử đạo',
+      en: 'Daughters of Charity - Martyrs',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+Marie-Anne Vayo was born May 13, 1734 in the city of Fontainebleau, near Paris. A month after her birth her father died. Her mother gave Maria a Christian upbringing. Since childhood she had close contact with the Daughters of Mercy, who took care for the poor, the sick and the orphans in her city.  When she was twenty-seven she joined the Congregation of the Daughters of Mercy. On September 25, 1761 she started her formation in Paris. A year later, she was sent by the superiors to serve in the St. Louis Hospital in Fontenay. In 1777 she came to Angers along with her sister Odilia Baumgarten, where she started her work with the sick at Saint-Jean hospital.
+
+Odilia Baumgarten was born on November 15, 1750 in Gondrexang in the east of France in the family of a miller. Her father often told her about St. Vincent and the congregation founded by him.  Odilia first met the Daughters of Mercy in the town of Vic-sur-Seille, where she was simply impressed with their lives and work among the poor. There she decided to join them. On August 4, 1774 in Paris, she started her preparation for life in the Congregation. After a short stay in Brest, in 1777 Odilia was sent to Angers to serve the sick in the Saint-Jean hospital.
+
+In 1789, when the French Revolution broke out, religious persecution began. Everyone, who remained loyal to the Church and to the Pope, was punished with confiscation of property, exile and even death. On Easter Friday, 1792, the National Convention issued an order to eliminate religious congregations and orders, which provide formation and take care of the sick. The General Superioress of the Daughters of Mercy wrote then to the sisters who served in Angers: “My dear daughters please do not stop to serve the poor sick unless you are forced to do this. Do not lose your courage; strengthen your faith and hope. Stay in prayer. That’s all you can do now”.
+
+The Jacobins tied to force the sisters to take an oath, which was inconsistent with loyalty to the Church and to the Pope. When the sisters strongly refused, on January 19, 1794 they were arrested and imprisoned. On February 1, they were delivered to the square and joined other 200 prisoners. On February 1, 1794 all were shot. On February 19, 1984 both the Daughters of Mercy along with the other 97 martyrs of the French Revolution consecrated blessed by Pope St. John Paul II.
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
 
 
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+// Chân phước Rô-sa-li Ren-đu
   {
     id: 'bl-rosalie-rendu',
     date: '02-07',
@@ -500,6 +637,10 @@ en: `<strong>MASS</strong>
       compline: placeholder,
     }
   },
+
+
+  
+  // Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
   {
     id: 'st-francis-regis-clet',
     date: '02-18',
@@ -563,6 +704,7 @@ en: `<strong>MASS</strong>
     }
 },
 
+// Chân phước Pi-e Rơ-nê Rô-gơ
   {
     id: 'bl-pierre-rene-rogue',
     date: '03-03',
@@ -591,6 +733,7 @@ en: `<strong>MASS</strong>
       compline: placeholder,
     }
   },
+  // Chân phước Lin-đa-va Giút-ta Đê Ô-li-bô-ra
   {
     id: 'bl-lindalva-justo-de-oliveira',
     date: '04-09',
