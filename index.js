@@ -1312,7 +1312,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-  // 10 Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
+  //  Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
   {
     id: 'st-francis-regis-clet',
     date: '07-09',
@@ -1376,7 +1376,7 @@ en: `<strong>MASS</strong>
     }
 },
 
-// 11 Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich
+// 10 Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich
   {
     id: 'sbt-miriam-teresa-demjanovich',
     date: '05-08',
@@ -1508,7 +1508,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-// Thánh Louise de Marillac
+// 11 Thánh Louise de Marillac
   {
     id: 'st-louise-de-marillac',
     date: '05-09',
@@ -1615,6 +1615,285 @@ Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the 
       // compline: placeholder,
     }
   },
+
+  // 12 Thánh Jeanne antide thouret
+  {
+    id: 'st-Jeanne-antide-thouret',
+    date: '05-23',
+    title: { 
+      vi: 'Thánh Gio-an-na An-ti-đa Tu-rê',
+      en: 'St. Jeanne Antide Thouret',
+     
+    },
+    subtitle: {
+      vi: 'Trinh nữ',
+      en: 'Virgin',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Gio-an-na An-ti-đa Tu-rê sinh tại Sancey-le-Long thuộc giáo phận Besançon, ngày 27 tháng 11 năm 1765. Năm 1787, Gio-an-na gia nhập Tu Hội Nữ Tử Bác Ái. Năm 1793, do cách mạng Pháp loại bỏ các Tu Hội, nên các Sơ buộc phải giải tán. Gio-an-na trở về gia đình. Tại đây, Sơ tiếp tục phục vụ người nghèo và bệnh nhân. Thay thế cha xứ bị đuổi, Sơ duy trì đức tin sống động trong giáo xứ. Năm 1799, vì không thể liên kết với Tu Hội Nữ Tử Bác Ái lúc ấy không còn nữa, Sơ sáng lập Tu Hội các Nữ Tu Bác Ái, tại Besançon, dưới sự bảo trợ của thánh Vinh Sơn Phaolô. Tu Hội phát triển nhanh chóng và năm 1810, lan rộng khắp nước Ý. Việc Đức Thánh Cha Piô VII phê chuẩn Luật dòng, năm 1819, là sự khởi đầu của một thời kỳ thử thách và tranh chấp lâu dài, gây chia rẽ trong Hội Dòng. Sơ Gio-an-na An-ti-đa Tu-rê bị đa số các Sơ trong Tu Hội loại ra. Bị buộc phải rời Besançon, Sơ vẫn tiếp tục khuyên nhủ cộng đoàn của Sơ duy trì công việc phục vụ người nghèo và sự hiệp thông huynh đệ. Sơ giữ một sự thanh thản thiêng liêng lớn lao và một lòng trung thành kiên vững đối với Đức Giáo Hoàng. Sơ qua đời tại Naples ngày 24 tháng 8 năm 1826. Đức Thánh Cha Piô XI phong chân phước cho Sơ ngày 23 tháng 5 năm 1926 và phong thánh cho Sơ ngày 14 tháng giêng năm 1934.
+        `,
+       
+en: `<strong>Biography</strong>
+On May 23 the universal Church celebrates the feast day of St. Jane Antide (Jeanne-Antide) Thouret, a Sister of Charity who worked tirelessly for the faith amidst persecution during the French Revolution. Jane was born in Sancey, France, in 1765 to a poor family. Her mother died when she was 16 years old. The Saint took on many family responsibilities until she joined the Vincentian Sisters in Paris at the age of 22, working among the sick in various hospitals. On 15 August 1797 she returned to France in Besançon where she founded a school for poor girls. On 11 April 1799 she founded a new congregation in Besançon known as the Thouret sisters. During the French Revolution, when many religious and priests were killed, she was ordered to return home to a secular life. Jane refused, and when she tried to escape the authorities, she was badly beaten. St. Jane Antide Thouret finally returned to Sancey, where she cared for the sick and opened a small school for girls until she was forced to flee to Switzerland. She fled to Germany before returning again to Switzerland to found a school and hospital in 1799 and a congregation called the Institute of the Daughters of St. Vincent de Paul. The community eventually expanded into France and Italy. She died 30 years after the founding of her community, in 1828 of natural causes. In 1934, she was canonized by Pope Puis XI.
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+ // 3 Chân phước Mác-ta Vích-ka
+  {
+    id: 'bl-arta-maria-wiecka',
+    date: '05-30',
+    title: { 
+      vi: 'Chân phước Mác-ta Vích-ka',
+      en: 'Bl. Arta Maria Wiecka',
+     
+    },
+    subtitle: {
+      vi: 'Trinh nữ',
+      en: 'Virgin',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Chân phước Mác-ta Vích-ka sinh ngày 12 tháng 01 năm 1876 tại Nowy Wiec, miền Poméranie, vùng biên giới Ba Lan (Pologne). Từ thời niên thiếu, chân phước đã yêu thích cầu nguyện và phục vụ tha nhân. Năm 18 tuổi, chân phước vào Tập Viện các Nữ Tử Bác Ái của Thánh Vinh Sơn ở Cra-cô-vie. Suốt cuộc đời, chân phước tận hiến cho Thiên Chúa, cho việc phục vụ người nghèo về thể xác cũng như tinh thần. Vì tình yêu đam mê dành cho tất cả mọi người ốm đau, chân phước làm việc không phân biệt quan điểm và tôn giáo. Sơ Mác-ta đã biết yêu đến cùng. Một ngày kia, trước sự nguy hiểm lây bệnh, Sơ Mác-ta tự nguyện, thay thế một nhân viên, một người cha trong gia đình, tẩy uế một căn phòng người mắc bệnh dịch sốt chấy rận. Ít lâu sau, Sơ Mác- ta đã chết ở tuổi 30. Sơ Mác-ta được phong chân phước ngày 24 tháng 5 năm 2008, tại Lvov, bên U-crai-na.
+        `,
+       
+en: `<strong>Biography</strong>
+Marta Maria Wiecka was born on 12 January 1874 in Nowy Wieck, Poland, the third of 13 children born to a wealthy Catholic couple. At the age of two Marta fell seriously ill; when the doctors could do no more for her the Wiecka family asked Mary, the Mother of God of Piseczno, to intercede and she recovered. Marta was known as a good-natured, prayerful child who helped her mother with the chores, often taking care of her siblings, and who had a special devotion to St John Nepomucene.
+
+On 3 October 1866, Marta made her first Holy Communion. From then on, Jesus became the centre of her life and she never hesitated to walk the 12 kilometres to the parish church in Skarszewy for Mass.
+
+When she was 16, Marta applied to the Daughters of Charity of St Vincent de Paul in the neighbouring town of Chelmo, but they told her she was too young to enter. Two years later she tried once again to enter the Congregation. Since the Prussian Government, who dominated that part of Poland, had restricted the number of aspirants in the religious community in Chelmo she approached their convent in Krakow and was accepted.
+
+Marta entered the convent on 26 April 1892. On 12 April 1893, she was clothed as a Daughter of Charity and sent on her first mission to a hospital in Lvov. There she quickly acquired the reputation of a Sister who loved her patients and generously served them. In 1894, she was sent to a hospital in Podhajce where she tirelessly served the sick for five years. On 15 August 1897 she made her first vows as a Daughter of Charity, sealing her commitment to serve God in the poor.
+
+In 1899 Sr Marta went to the house of her Order in Bochnia. During this period Sr Marta had a vision of Jesus on the Cross; he urged her to endure adversity with patience and promised her that one day she would be with him. This experience strengthened her to endure the adversity which was not long in coming. A mentally ill man, recently released from the hospital where Sr Marta worked, started a rumour that she was pregnant after having an affair with one of her patients - a student who was a nephew of the parish priest. Sr Marta had to live in the midst of the gossip, and remain in Bochnia until time proved her innocence.
+
+After the unfounded scandal, Sr Marta was sent to serve at the hospital in Sniatyn. She had a wonderful gift for helping people to be reconciled with God, in fact, she let no one in her care die without receiving the Sacrament of Reconciliation.
+
+Both the life and death of Sr Marta demonstrated acts of selfless love. It was in fact this selflessness which cost her her life. A young man, a nurse and father, was assigned to disinfect the room of a typhoid patient. Sr Marta saw his fear and volunteered to perform the task herself. As a result she contracted typhoid. Many prayed for her recovery; even Jews from the local synagogue held a special prayer service for her. Those present at the moment of her death said that she was in ecstasy after receiving her Lord in Holy Communion for the last time. She died on 30 May 1904 in Sniatyn and was buried there. Her grave quickly became the site of prayer and in the years following World War II it became a symbol of unity since various Christian denomination would gather there.
+
+She was beatified on Saturday, 24 May 2008 in the Cathedral of Lvov, Ukraine. Cardinal Tarcisio Bertone, S.D.B., Secretary of State presided at the rite of beatification.
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
 
  // 3 Thánh Phaolô Tông Đồ
   {
