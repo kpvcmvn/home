@@ -1312,70 +1312,6 @@ en: `<strong>MASS</strong>
     }
   },
 
-  //  Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
-  {
-    id: 'st-francis-regis-clet',
-    date: '07-09',
-    title: {
-      vi: 'Thánh Phan-xi-cô Rê-gi-xê Cờ-lê',
-      en: 'St. Francis Regis Clet',
-      // es: 'San Francisco Régis Clet',
-      // fr: 'Saint François-Régis Clet',
-      // la: 'Sanctus Franciscus Regis Clet'
-    },
-    subtitle: {
-      vi: 'Linh mục, Tử đạo',
-      en: 'Priest, Martyr',
-      // es: 'Sacerdote, Mártir',
-      // fr: 'Prêtre, Martyr',
-      // la: 'Sacerdos, Martyr'
-    },
-    type: 'Lễ nhớ',
-    sections: {
-      biography: {
-        vi: '<strong>Tiểu sử</strong><br>Thánh Phan-xi-cô Rê-gi-xê Cờ-lê sinh ngày 19 tháng 5 năm 1748 tại Grenoble, Pháp. Ngài gia nhập Tu hội Truyền giáo và được thụ phong linh mục vào năm 1771. Năm 1785, ngài được gửi đến Trung Quốc để truyền giáo. Trong thời gian ở đó, ngài đã học tiếng Trung và làm việc chăm chỉ để rao giảng Tin Mừng, bất chấp những khó khăn và nguy hiểm do cuộc bách hại đạo diễn ra dưới triều đại nhà Thanh. Ngài bị bắt giữ nhiều lần và cuối cùng bị kết án tử hình vì đức tin của mình. Thánh Phan-xi-cô Rê-gi-xê Cờ-lê đã chịu tử đạo bằng cách bị chém đầu vào ngày 18 tháng 2 năm 1820 tại Nam Kinh, Trung Quốc. Ngài được Giáo hội công nhận là thánh vào ngày 1 tháng 10 năm 2000 bởi Đức Giáo hoàng Gioan Phaolô II.',
-        en: `<strong>Biography</strong><br>St. Francis Regis Clet was born on May 19, 1748, in Grenoble, France. He joined the Congregation of the Mission and was ordained a priest in 1771. In 1785, he was sent to China as a missionary. During his time there, he learned the Chinese language and worked tirelessly to spread the Gospel, despite the challenges and dangers posed by the persecution of Christians under the Qing dynasty. He was arrested multiple times and ultimately sentenced to death for his faith. St. Francis Regis Clet was martyred by beheading on February 18, 1820, in Nanjing, China. He was canonized by Pope John Paul II on October 1, 2000.`
-      },
-      massReadings: {
-        vi: `<strong>THÁNH LỄ</strong>
-            <strong>Ca nhập lễ</strong>
-              (Lm 3, 22-23)
-              Lòng thương xót của Đức Chúa không bao giờ chấm dứt, vì lòng nhân từ của Người không bao giờ cạn. Mỗi sáng sớm, lòng nhân từ của Người lại mới mẻ.
-              <strong>Lời nguyện nhập lễ</strong>
-              Lạy Chúa, trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, xin cho chúng con luôn biết noi gương ngài trong việc rao giảng Tin Mừng với lòng can đảm và kiên trung, để nhờ đó chúng con được tham dự vào vinh quang của Chúa trên trời. Chúng con cầu xin.
-              <strong>Bài đọc</strong>
-              <em></em>
-              <strong>Đáp ca</strong>
-              <strong>Tung hô Tin Mừng</strong>
-              <strong>Tin Mừng</strong>
-              <strong>Lời nguyện tiến lễ</strong>
-              Lạy Chúa, xin nhận lấy lễ vật chúng con dâng lên trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, để nhờ đó chúng con được củng cố trong đức tin và lòng can đảm rao giảng Tin Mừng. Chúng con cầu xin.
-              <strong>Ca hiệp lễ</strong>
-              <strong>Lời nguyện hiệp lễ</strong>`,
-        en: `<strong>MASS</strong>
-                <strong>Entrance Antiphon</strong>
-                (Lam 3:22-23)
-                The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness.
-                <strong>Collect</strong>
-                O God, who in the memorial of Saint Francis Regis Clet give us a model of courage and perseverance in proclaiming the Gospel, grant us, we pray, to share in the glory of your heavenly kingdom. Through our Lord Jesus Christ, your Son.
-                <strong>Reading</strong>
-                <em></em>
-                <strong>Responsorial Psalm</strong>
-                <strong>Gospel Acclamation</strong>
-                <strong>Gospel</strong>
-                <strong>Prayer over the Offerings</strong>
-                O Lord, graciously accept the offerings we bring on the memorial of Saint Francis Regis Clet, that we may be strengthened in faith and courage to proclaim the Gospel. Through Christ our Lord.
-                <strong>Communion Antiphon</strong>
-                <strong>Prayer after Communion</strong>`,
-      },
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
-    }
-},
-
 // 10 Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich
   {
     id: 'sbt-miriam-teresa-demjanovich',
@@ -1893,7 +1829,7 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
-// 14 Thánh Phaolô Tông Đồ
+// 14 Chân phước Marie Madelein Fontaine và các bạn Tử đạo
   {
     id: 'bl-marie-madelein-containe-and-companions-martyrs',
     date: '06-26',
@@ -2024,6 +1960,204 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
+
+// 15 Chân phước Phê-rô Gióc Phờ-rát-sa-ti
+  {
+    id: 'bl-pierre-georges-frassat',
+    date: '07-04',
+    title: { 
+      vi: 'Chân phước Phê-rô Gióc Phờ-rát-sa-ti',
+      en: 'Bl. Pierre Georges Frassat',
+     
+    },
+    subtitle: {
+      vi: 'Giáo dân',
+      en: 'Layman',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Sinh ngày 6 tháng 4 năm 1901, trong một gia đình chống giáo sĩ, thuộc giới trung lưu vùng Piémont, ở Turin, Phê-rô Gióc Phờ-rát-sa-ti mất ngày 4 tháng 7 năm 1925, hôm trước ngày lãnh bằng kỹ sư hầm mỏ. Là nhà thể thao trẻ, ngài thích chạy đua trên núi với các thanh niên khác: khám phá kỳ diệu về thiên nhiên, thời gian tuyệt vời để suy gẫm, cầu nguyện, thờ lạy. Ngài tích cực tham gia nhóm Công Giáo Tiến Hành ở nước Ý. Ngay từ thuở nhỏ, quan tâm đến tất cả những người trong cảnh lầm than, ngài gia nhập Hiệp Hội Thánh Vinh Sơn Phaolô, nơi đây ngài nổi bật vì sự tận tụy với người nghèo và bệnh nhân. Ngài vui vẻ đón nhận hành động của Chúa trong cuộc đời mình và thấm nhuần đức tin, đức mến. Cầu nguyện và thánh lễ hằng ngày nâng đỡ hoạt động của ngài. Đức Thánh Cha Gioan Phaolô II, khi phong chân phước cho ngài ngày 20 tháng 5 năm 1990, xác định ngài là “người của các mối phúc thật”.
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+ //  16 Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
+  {
+    id: 'st-francis-regis-clet',
+    date: '07-09',
+    title: {
+      vi: 'Thánh Phan-xi-cô Rê-gi-xê Cờ-lê',
+      en: 'St. Francis Regis Clet',
+      // es: 'San Francisco Régis Clet',
+      // fr: 'Saint François-Régis Clet',
+      // la: 'Sanctus Franciscus Regis Clet'
+    },
+    subtitle: {
+      vi: 'Linh mục, Tử đạo',
+      en: 'Priest, Martyr',
+      // es: 'Sacerdote, Mártir',
+      // fr: 'Prêtre, Martyr',
+      // la: 'Sacerdos, Martyr'
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: '<strong>Tiểu sử</strong><br>Thánh Phan-xi-cô Rê-gi-xê Cờ-lê sinh ngày 19 tháng 5 năm 1748 tại Grenoble, Pháp. Ngài gia nhập Tu hội Truyền giáo và được thụ phong linh mục vào năm 1771. Năm 1785, ngài được gửi đến Trung Quốc để truyền giáo. Trong thời gian ở đó, ngài đã học tiếng Trung và làm việc chăm chỉ để rao giảng Tin Mừng, bất chấp những khó khăn và nguy hiểm do cuộc bách hại đạo diễn ra dưới triều đại nhà Thanh. Ngài bị bắt giữ nhiều lần và cuối cùng bị kết án tử hình vì đức tin của mình. Thánh Phan-xi-cô Rê-gi-xê Cờ-lê đã chịu tử đạo bằng cách bị chém đầu vào ngày 18 tháng 2 năm 1820 tại Nam Kinh, Trung Quốc. Ngài được Giáo hội công nhận là thánh vào ngày 1 tháng 10 năm 2000 bởi Đức Giáo hoàng Gioan Phaolô II.',
+        en: `<strong>Biography</strong><br>St. Francis Regis Clet was born on May 19, 1748, in Grenoble, France. He joined the Congregation of the Mission and was ordained a priest in 1771. In 1785, he was sent to China as a missionary. During his time there, he learned the Chinese language and worked tirelessly to spread the Gospel, despite the challenges and dangers posed by the persecution of Christians under the Qing dynasty. He was arrested multiple times and ultimately sentenced to death for his faith. St. Francis Regis Clet was martyred by beheading on February 18, 1820, in Nanjing, China. He was canonized by Pope John Paul II on October 1, 2000.`
+      },
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+            <strong>Ca nhập lễ</strong>
+              (Lm 3, 22-23)
+              Lòng thương xót của Đức Chúa không bao giờ chấm dứt, vì lòng nhân từ của Người không bao giờ cạn. Mỗi sáng sớm, lòng nhân từ của Người lại mới mẻ.
+              <strong>Lời nguyện nhập lễ</strong>
+              Lạy Chúa, trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, xin cho chúng con luôn biết noi gương ngài trong việc rao giảng Tin Mừng với lòng can đảm và kiên trung, để nhờ đó chúng con được tham dự vào vinh quang của Chúa trên trời. Chúng con cầu xin.
+              <strong>Bài đọc</strong>
+              <em></em>
+              <strong>Đáp ca</strong>
+              <strong>Tung hô Tin Mừng</strong>
+              <strong>Tin Mừng</strong>
+              <strong>Lời nguyện tiến lễ</strong>
+              Lạy Chúa, xin nhận lấy lễ vật chúng con dâng lên trong ngày kỷ niệm thánh Phan-xi-cô Rê-gi-xê Cờ-lê, để nhờ đó chúng con được củng cố trong đức tin và lòng can đảm rao giảng Tin Mừng. Chúng con cầu xin.
+              <strong>Ca hiệp lễ</strong>
+              <strong>Lời nguyện hiệp lễ</strong>`,
+        en: `<strong>MASS</strong>
+                <strong>Entrance Antiphon</strong>
+                (Lam 3:22-23)
+                The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness.
+                <strong>Collect</strong>
+                O God, who in the memorial of Saint Francis Regis Clet give us a model of courage and perseverance in proclaiming the Gospel, grant us, we pray, to share in the glory of your heavenly kingdom. Through our Lord Jesus Christ, your Son.
+                <strong>Reading</strong>
+                <em></em>
+                <strong>Responsorial Psalm</strong>
+                <strong>Gospel Acclamation</strong>
+                <strong>Gospel</strong>
+                <strong>Prayer over the Offerings</strong>
+                O Lord, graciously accept the offerings we bring on the memorial of Saint Francis Regis Clet, that we may be strengthened in faith and courage to proclaim the Gospel. Through Christ our Lord.
+                <strong>Communion Antiphon</strong>
+                <strong>Prayer after Communion</strong>`,
+      },
+      officeOfReadings: placeholder,
+      lauds: placeholder,
+      middayPrayer: placeholder,
+      vespers: placeholder,
+      compline: placeholder,
+    }
+},
+
+
 
  // 3 Thánh Phaolô Tông Đồ
   {
