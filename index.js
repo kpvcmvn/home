@@ -50,22 +50,19 @@ const placeholder = {
   // la: `<p class="text-center text-gray-400 italic">Contentus huius sectionis renovatur...</p>`,
 };
 const FEASTS = [
+  // Thánh Ê-li-za-bét An-na Xe-tôn
   {
     id: 'st-elizabeth-ann-seton',
     date: '01-04',
     title: { 
       vi: 'Thánh Nữ Ê-li-za-bét An-na Xe-tôn',
       en: 'St. Elizabeth Ann Seton',
-      // es: 'Santa Isabel Ana Seton',
-      // fr: 'Sainte Élisabeth-Ann Seton',
-      // la: 'Sancta Elisabeth Anna Seton'
+     
     },
     subtitle: {
       vi: 'Nữ tu',
       en: 'Religious',
-      // es: 'Religiosa',
-      // fr: 'Religieuse',
-      // la: 'Religiosa'
+      
     },
     type: 'Lễ nhớ',
     sections: {
@@ -180,6 +177,137 @@ The Lord says: I am the light of the world. Whoever follows me will not walk in 
 
 Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
     
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+  {
+    id: 'bl-lindanba-justa-olibayra',
+    date: '01-07',
+    title: { 
+      vi: 'Chân phước Lin-đan-ba Giút-ta Ô-li-bây-ra',
+      en: 'Bl. Lindanba Justa Olibayra',
+     
+    },
+    subtitle: {
+      vi: 'Nữ tu',
+      en: 'Religious',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+Ha-lê-lu-i-a. Ha-lê-lu-i-a.  Ha-lê-lu-i-a.
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+Alleluia, alleluia.  Alleluia, alleluia.
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
 },
       officeOfReadings: {
         vi: `<strong>KINH SÁCH</strong>
