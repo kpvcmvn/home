@@ -2266,14 +2266,14 @@ const DEFAULT_SETTINGS = {
             fr: 'Salut, ô Reine, Mère de miséricorde, notre vie, notre douceur et notre espérance, salut. Enfants dÈve, exilés, nous crions vers vous. Vers vous nous soupirons, gémissant et pleurant dans cette vallée de larmes. Ô vous, notre avocate, tournez vers nous vos regards miséricordieux. Et après cet exil, montrez-nous Jésus, le fruit béni de vos entrailles. Ô clémente, ô miséricordieuse, ô douce Vierge Marie.',
             la: 'Sálve Regína, Máter misericórdiæ, víta, dulcédo, et spes nóstra, sálve. Ad te clamámus, éxsules fílii Hévæ. Ad te suspirámus, geméntes et fléntes in hac lacrimárum válle. Éia érgo, Advocáta nóstra, íllos túos misericórdes óculos ad nos convérte. Et Iésum, benedíctum frúctum véntris túi, nóbis post hoc exsílium osténde. O clémens, O pía, O dúlcis Vírgo María.'
           }},
-           { id: 'sangdanh', title: { 
-            vi: '', 
+           { id: 'thanhgiuse', title: { 
+            vi: 'Kinh Thánh Giuse', 
             en: ''
           
           }, 
            content: { 
 
-            vi: '', 
+            vi: 'Lạy Thánh Giuse, xưa nay không ai kêu cầu Cha mà vô hiệu. Cha có thần thế trước mặt Đức Chúa Trời đến nỗi người ta có thể nói rằng: “Trên trời, Thánh Giuse truyền lệnh hơn là van xin. Lạy Cha hiền, xin cầu bầu cùng Chúa cho chúng con. Khi ở thế gian này, Cha đã từng là cha nuôi và là vị bảo hộ trung thành của Chúa Con Chí Thánh. Nay xin Cha bào chữa cho chúng con bên toà Chúa. Chúng con trao phó nơi Cha vụ khó khăn này (…) xin Cha giải gỡ giúp chúng con, để thêm một vinh quang mới vào bao nhiêu vinh quang sẵn có của Cha. Lạy Thánh Giuse nhân từ, chúng con tin tưởng, vâng chúng con tin tưởng Cha có thể chấp nhận lời nguyện của chúng con, và giải thoát chúng con khỏi những khổ cực ưu sầu mà chúng con đang gặp phải. Hơn nữa, chúng con vững lòng trông cậy, Cha không bỏ qua điều gì giúp ích cho những người sầu khổ kêu cầu Cha. Chúng con sấp mình dưới chân Cha, tha thiết nài xin Cha đoái thương đến những than van khóc lóc của chúng con, xin Cha lấy tình thương như áo choàng che phủ chúng con và chúc lành cho chúng con. Amen.', 
             en: ''
           }},
         ],
