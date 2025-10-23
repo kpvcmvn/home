@@ -206,6 +206,7 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     }
   },
 
+  // Chân phước Lin-đan-ba Giút-ta Ô-li-bây-ra
   {
     id: 'bl-lindanba-justa-olibayra',
     date: '01-07',
@@ -254,7 +255,7 @@ en: `<strong>Biography</strong>
 
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
 
-Ha-lê-lu-i-a. Ha-lê-lu-i-a.  Ha-lê-lu-i-a.
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
 <strong>Tin Mừng (Ga 15, 9 – 17)</strong>
 
@@ -292,7 +293,7 @@ en: `<strong>MASS</strong>
 
 <strong>Gospel Acclamation (Jn 15:16)</strong>
 
-Alleluia, alleluia.  Alleluia, alleluia.
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
 
 <strong>Gospel (Jn 15:9-17)</strong>
 
@@ -336,6 +337,140 @@ Alleluia, alleluia.  Alleluia, alleluia.
       // compline: placeholder,
     }
   },
+ // Thánh Phaolô Tông Đồ
+  {
+    id: 'st-paul-apostle',
+    date: '01-25',
+    title: { 
+      vi: 'Thánh Phaolô Tông Đồ',
+      en: 'St. Paul Apostle',
+     
+    },
+    subtitle: {
+      vi: 'Kỷ niệm thành lập Tu Hội Truyền Giáo',
+      en: 'Commemoration of the Founding of the Congregation of the Mission',
+      
+    },
+    type: 'Lễ kính',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+
+
   {
     id: 'bl-rosalie-rendu',
     date: '02-07',
