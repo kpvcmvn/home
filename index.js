@@ -2298,7 +2298,7 @@ en: `<strong>MASS</strong>
  // 3 Thánh Phaolô Tông Đồ
   {
     id: 'st-paul-apostle',
-    date: '01-25',
+    date: '07-30',
     title: { 
       vi: 'Thánh Phaolô Tông Đồ',
       en: 'St. Paul Apostle',
