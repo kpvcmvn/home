@@ -82,25 +82,7 @@ She married William Seton at the age of 20, and from this marriage, she had five
 Upon her return to the United States, Elizabeth, a devout Episcopalian, now felt strongly attracted to Catholic doctrine. Her family, not understanding her quest, abandoned her. Elizabeth then faced many personal and family trials. Finally, on March 14, 1805, she was received into the Catholic Church.
 While maintaining an intense spiritual life and regularly caring for the education of her children, she pursued her own interest in being fully committed to charitable works. In 1809, she founded the Congregation of the Sisters of Charity in the diocese of Baltimore, with St. Joseph as its patron, for the education of young girls. Under the guidance of Bishop Cheverus, she wished to be affiliated with the Company of the Daughters of Charity of St. Vincent de Paul, but the political situation at the time prevented this plan. On January 4, 1821, Elizabeth Ann Seton died in Emmitsburg. She was also the originator of five branches of American Sisters of Charity. The Emmitsburg branch would merge with the Company of the Daughters of Charity on March 25, 1850.
 Formed by the Word of God, with a fervent love for the Church, Elizabeth Ann Seton left a solid legacy of thought. She was beatified by Pope John XXIII on March 17, 1963, and canonized by Pope Paul VI on September 14, 1975.`,
-//         es: `<strong>Biografía</strong>
-// Elizabeth Ann Bayley nació en Nueva York el 28 de agosto de 1774, en vísperas de los acontecimientos que llevarían a los Estados Unidos de América a su Independencia. Huérfana de madre a los tres años, creció en una familia marcada por el segundo matrimonio de su padre y su pertenencia a la Iglesia Episcopal.
-// Se casó con William Seton a los 20 años, y de este matrimonio tuvo cinco hijos. Durante un viaje de negocios a Italia, su esposo murió en Pisa el 27 de diciembre de 1803. Fue acogida y consolada por una amigable familia católica: la familia Felicchi, en la que descubrió una profunda caridad.
-// A su regreso a los Estados Unidos, Elizabeth, una devota episcopaliana, se sintió fuertemente atraída por la doctrina católica. Su familia, al no comprender su búsqueda, la abandonó. Elizabeth enfrentó entonces muchas pruebas personales y familiares. Finalmente, el 14 de marzo de 1805, fue recibida en la Iglesia Católica.
-// Mientras mantenía una intensa vida espiritual y cuidaba regularmente la educación de sus hijos, persiguió su propio interés de comprometerse plenamente con las obras de caridad. En 1809, fundó la Congregación de las Hermanas de la Caridad en la diócesis de Baltimore, con San José como patrón, para la educación de las jóvenes. Bajo la guía del obispo Cheverus, deseaba afiliarse a la Compañía de las Hijas de la Caridad de San Vicente de Paúl, pero la situación política de la época impidió este plan. El 4 de enero de 1821, Elizabeth Ann Seton murió en Emmitsburg. También fue la fundadora de cinco ramas de Hermanas de la Caridad americanas. La rama de Emmitsburg se fusionaría con la Compañía de las Hijas de la Caridad el 25 de marzo de 1850.
-// Formada por la Palabra de Dios, con un ferviente amor por la Iglesia, Elizabeth Ann Seton dejó un sólido legado de pensamiento. Fue beatificada por el Papa Juan XXIII el 17 de marzo de 1963 y canonizada por el Papa Pablo VI el 14 de septiembre de 1975.`,
-//         fr: `<strong>Biographie</strong>
-// Elizabeth Ann Bayley est née à New York le 28 août 1774, à la veille des événements qui allaient conduire les États-Unis d'Amérique à leur indépendance. Orpheline de sa mère à l'âge de trois ans, elle a grandi dans une famille marquée par le remariage de son père et leur appartenance à l'Église épiscopalienne.
-// Elle a épousé William Seton à l'âge de 20 ans, et de ce mariage, elle a eu cinq enfants. Lors d'un voyage d'affaires en Italie, son mari est décédé à Pise le 27 décembre 1803. Elle a été accueillie et réconfortée par une famille catholique amie : la famille Felicchi, chez qui elle a découvert une profonde charité.
-// À son retour aux États-Unis, Elizabeth, une fervente épiscopalienne, se sentit fortement attirée par la doctrine catholique. Sa famille, ne comprenant pas sa quête, l'abandonna. Elizabeth a alors dû faire face à de nombreuses épreuves personnelles et familiales. Finalement, le 14 mars 1805, elle fut reçue dans l'Église catholique.
-// Tout en menant une vie spirituelle intense et en s'occupant régulièrement de l'éducation de ses enfants, elle a poursuivi son propre intérêt à s'engager pleinement dans les œuvres de charité. En 1809, elle a fondé la Congrégation des Sœurs de la Charité dans le diocèse de Baltimore, avec saint Joseph comme patron, pour l'éducation des jeunes filles. Sous la direction de Mgr Cheverus, elle souhaitait être affiliée à la Compagnie des Filles de la Charité de saint Vincent de Paul, mais la situation politique de l'époque a empêché ce projet. Le 4 janvier 1821, Elizabeth Ann Seton est décédée à Emmitsburg. Elle est également à l'origine de cinq branches de Sœurs de la Charité américaines. La branche d'Emmitsburg fusionnera avec la Compagnie des Filles de la Charité le 25 mars 1850.
-// Formée par la Parole de Dieu, avec un amour fervent pour l'Église, Elizabeth Ann Seton a laissé un solide héritage de pensée. Elle a été béatifiée par le pape Jean XXIII le 17 mars 1963 et canonisée par le pape Paul VI le 14 septembre 1975.`,
-//         la: `<strong>Vita</strong>
-// Elisabeth Anna Bayley nata est Novi Eboraci die 28 Augusti 1774, pridie eventuum qui Civitates Foederatas Americae ad libertatem ducerent. Matre orbata tres annos nata, in familia crevit patris secundis nuptiis et adhaesione ad Ecclesiam Episcopalem notata.
-// Gulielmo Seton nupsit viginti annos nata, et ex hoc matrimonio quinque filios habuit. In itinere negotiatorio in Italiam, maritus eius Pisis obiit die 27 Decembris 1803. A familia catholica amica excepta et consolata est: familia Felicchi, in qua profundam caritatem invenit.
-// In Civitates Foederatas reversa, Elisabeth, devota episcopaliana, nunc ad doctrinam catholicam vehementer attracta sensit. Familia eius, hanc quaestionem non intelligens, eam deseruit. Elisabeth tunc multis personalibus et familiaribus probationibus obviam ivit. Denique, die 14 Martii 1805, in Ecclesiam Catholicam recepta est.
-// Dum vitam spiritualem intensam gerebat et filiorum educationi regulariter vacabat, proprium studium se plene operibus caritatis dedicandi secuta est. Anno 1809, Congregationem Sororum Caritatis in dioecesi Baltimorensi fundavit, Sancto Iosepho patrono, ad puellarum educationem. Sub ductu Episcopi Cheverus, cum Societate Filiarum Caritatis Sancti Vincentii a Paulo affiliari cupiebat, sed rerum politicarum condicio tunc temporis hoc consilium impedivit. Die 4 Ianuarii 1821, Elisabeth Anna Seton Emmitsburgi obiit. Fuit etiam origo quinque ramorum Sororum Caritatis Americanarum. Ramus Emmitsburgensis cum Societate Filiarum Caritatis die 25 Martii 1850 uniretur.
-// Verbo Dei formata, ferventi amore erga Ecclesiam, Elisabeth Anna Seton solidum cogitationis legatum reliquit. A Papa Ioanne XXIII beatificata est die 17 Martii 1963, et a Papa Paulo VI canonizata die 14 Septembris 1975.`
-    
+
 },
       massReadings: {
         vi: `<strong>THÁNH LỄ</strong>
@@ -151,79 +133,7 @@ Lord God, may the sacrifice we offer you on this memorial of Saint Elizabeth Ann
 The Lord says: I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
 <strong>Prayer after Communion</strong>
 Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
-//         es: `<strong>MISA</strong>
-// <strong>Antífona de entrada (Jer 17, 7-8)</strong>
-// Bendito el hombre que confía en el Señor y pone en el Señor su confianza. Será como un árbol plantado junto al agua, que junto a la corriente echa sus raíces.
-// <strong>Oración colecta</strong>
-// Oh, Dios, que coronaste con el don de la verdadera fe a santa Isabel Ana Seton, concédenos, te rogamos, que, por su ejemplo e intercesión, crezcamos en amor por ti y nos dediquemos con celo al servicio de los necesitados. Por nuestro Señor Jesucristo, tu Hijo.
-// <strong>Lectura (1 Jn 3, 14-18)</strong>
-// <em>Lectura de la primera carta del apóstol san Juan.</em>
-// Queridos hermanos, nosotros sabemos que hemos pasado de la muerte a la vida, porque amamos a los hermanos. El que no ama permanece en la muerte. Todo el que odia a su hermano es un homicida. Y sabéis que ningún homicida tiene vida eterna permanente en él. En esto hemos conocido el amor: en que él dio su vida por nosotros. Así también nosotros debemos dar la vida por los hermanos. Si alguno que posee bienes del mundo ve a su hermano que está necesitado y le cierra sus entrañas, ¿cómo puede permanecer en él el amor de Dios? Hijitos, no amemos de palabra ni de boca, sino de obra y de verdad.
-// <strong>Salmo responsorial (Sal 16)</strong>
-// <strong>R. ¡Tú eres mi heredad, Señor!</strong>
-// Protégeme, Dios mío, que me refugio en ti. Yo digo al Señor: «Tú eres mi bien». <strong>R.</strong>
-// Bendeciré al Señor, que me aconseja, hasta de noche me instruye internamente. Tengo siempre presente al Señor, con él a mi derecha no vacilaré. <strong>R.</strong>
-// Me enseñarás el sendero de la vida, me saciarás de gozo en tu presencia, de alegría perpetua a tu derecha. <strong>R.</strong>
-// <strong>Aclamación del Evangelio (Jn 15, 16)</strong>
-// Aleluya, aleluya. Yo os he elegido del mundo —dice el Señor—, para que vayáis y deis fruto, y vuestro fruto permanezca. Aleluya, aleluya.
-// <strong>Evangelio (Jn 15, 9-17)</strong>
-// <strong>Lectura del santo Evangelio según san Juan.</strong>
-// En aquel tiempo, dijo Jesús a sus discípulos: «Como el Padre me ha amado, así os he amado yo; permaneced en mi amor. Si guardáis mis mandamientos, permaneceréis en mi amor; lo mismo que yo he guardado los mandamientos de mi Padre y permanezco en su amor. Os he hablado de esto para que mi alegría esté en vosotros, y vuestra alegría llegue a plenitud. Este es mi mandamiento: que os améis unos a otros como yo os he amado. Nadie tiene amor más grande que el que da la vida por sus amigos. Vosotros sois mis amigos, si hacéis lo que yo os mando. Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor: a vosotros os llamo amigos, porque todo lo que he oído a mi Padre os lo he dado a conocer. No sois vosotros los que me habéis elegido, soy yo quien os he elegido y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca. De modo que lo que pidáis al Padre en mi nombre os lo dé. Esto os mando: que os améis unos a otros».
-// <strong>Oración sobre las ofrendas</strong>
-// Señor, que el sacrificio que te ofrecemos en esta memoria de santa Isabel Ana Seton sea un signo de nuestro amoroso servicio a ti y a nuestro prójimo. Te lo pedimos por Cristo nuestro Señor.
-// <strong>Antífona de comunión (Jn 8, 12)</strong>
-// Dice el Señor: Yo soy la luz del mundo; el que me sigue no caminará en tinieblas, sino que tendrá la luz de la vida.
-// <strong>Oración después de la comunión</strong>
-// Señor, que esta Eucaristía, que hemos compartido en memoria de santa Isabel Ana Seton, nos llene del espíritu de tu amor. Que aprendamos a amarte y a servirte en nuestros hermanos. Te lo pedimos por Cristo nuestro Señor.`,
-//         fr: `<strong>MESSE</strong>
-// <strong>Antienne d'ouverture (Jr 17, 7-8)</strong>
-// Béni soit l'homme qui met sa foi dans le Seigneur, dont le Seigneur est la confiance. Il est comme un arbre planté près des eaux, qui étend ses racines vers le courant.
-// <strong>Prière d'ouverture</strong>
-// Dieu qui as comblé sainte Élisabeth-Ann Seton du don de la vraie foi, accorde-nous, nous t'en prions, par son exemple et son intercession, de grandir dans ton amour et de nous dévouer avec zèle au service des nécessiteux. Par Jésus Christ, ton Fils, notre Seigneur.
-// <strong>Lecture (1 Jn 3, 14-18)</strong>
-// <em>Lecture de la première lettre de saint Jean.</em>
-// Bien-aimés, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui qui n'aime pas demeure dans la mort. Quiconque a de la haine pour son frère est un meurtrier, et vous savez que pas un meurtrier n'a la vie éternelle demeurant en lui. Voici comment nous avons connu l'amour : il a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Si quelqu'un, qui a les biens de ce monde, voit son frère dans le besoin et lui ferme ses entrailles, comment l'amour de Dieu demeurerait-il en lui ? Petits enfants, n'aimons pas en paroles ni par des discours, mais par des actes et en vérité.
-// <strong>Psaume responsorial (Ps 16)</strong>
-// <strong>R. Tu es, Seigneur, le partage de mon héritage !</strong>
-// Garde-moi, mon Dieu : j'ai fait de toi mon refuge. J'ai dit au Seigneur : « Tu es mon Dieu ! Je n'ai pas d'autre bonheur que toi. » <strong>R.</strong>
-// Je bénis le Seigneur qui me conseille : même la nuit mon cœur m'avertit. Je garde le Seigneur devant moi sans relâche ; il est à ma droite, je suis inébranlable. <strong>R.</strong>
-// Tu m'apprendras le chemin de la vie : devant ta face, débordement de joie ! À ta droite, éternité de délices ! <strong>R.</strong>
-// <strong>Acclamation de l'Évangile (Jn 15, 16)</strong>
-// Alléluia, alléluia. C'est moi qui vous ai choisis du milieu du monde, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure, dit le Seigneur. Alléluia, alléluia.
-// <strong>Évangile (Jn 15, 9-17)</strong>
-// <strong>Lecture du saint Évangile selon saint Jean.</strong>
-// En ce temps-là, Jésus disait à ses disciples : « Comme le Père m'a aimé, moi aussi je vous ai aimés. Demeurez dans mon amour. Si vous gardez mes commandements, vous demeurerez dans mon amour, comme moi, j'ai gardé les commandements de mon Père, et je demeure dans son amour. Je vous ai dit cela pour que ma joie soit en vous, et que votre joie soit parfaite. Mon commandement, le voici : Aimez-vous les uns les autres comme je vous ai aimés. Il n’y a pas de plus grand amour que de donner sa vie pour ceux qu’on aime. Vous êtes mes amis si vous faites ce que je vous commande. Je ne vous appelle plus serviteurs, car le serviteur ne sait pas ce que fait son maître ; je vous appelle mes amis, parce que tout ce que j'ai entendu de mon Père, je vous l'ai fait connaître. Ce n'est pas vous qui m'avez choisi, c'est moi qui vous ai choisis et établis, afin que vous alliez, que vous portiez du fruit, et que votre fruit demeure. Alors, tout ce que vous demanderez au Père en mon nom, il vous le donnera. Ce que je vous commande, c'est de vous aimer les uns les autres. »
-// <strong>Prière sur les offrandes</strong>
-// Seigneur notre Dieu, que le sacrifice que nous t'offrons en cette mémoire de sainte Élisabeth-Ann Seton soit un signe de notre service aimant envers toi et notre prochain. Nous te le demandons par le Christ notre Seigneur.
-// <strong>Antienne de la communion (Jn 8, 12)</strong>
-// Le Seigneur dit : Je suis la lumière du monde. Celui qui me suit ne marchera pas dans les ténèbres, mais il aura la lumière de la vie.
-// <strong>Prière après la communion</strong>
-// Seigneur, que cette Eucharistie, que nous avons partagée en mémoire de sainte Élisabeth-Ann Seton, nous remplisse de l'esprit de ton amour. Puissions-nous apprendre à t'aimer et à te servir en nos frères et sœurs. Nous te le demandons par le Christ notre Seigneur.`,
-//         la: `<strong>MISSA</strong>
-// <strong>Antiphona ad introitum (Ier 17, 7-8)</strong>
-// Benedictus vir qui confidit in Domino, et erit Dominus fiducia eius. Et erit quasi lignum quod transplantatur super aquas, quod ad humorem mittit radices suas.
-// <strong>Collecta</strong>
-// Deus, qui sanctam Elisabeth Annam Seton verae fidei dono coronavisti, concede, quaesumus, ut, eius exemplo et intercessione, in tui amore crescamus et egentium servitio ardenter nos impendamus. Per Dominum nostrum Iesum Christum Filium tuum.
-// <strong>Lectio (1 Io 3, 14-18)</strong>
-// <em>Lectio Epistulae primae beati Ioannis Apostoli.</em>
-// Carissimi, nos scimus quoniam transivimus de morte in vitam, quoniam diligimus fratres. Qui non diligit, manet in morte. Omnis qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam aeternam in se manentem. In hoc cognovimus caritatem, quoniam ille animam suam pro nobis posuit; et nos debemus pro fratribus animas ponere. Qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo, quomodo caritas Dei manet in eo? Filioli, non diligamus verbo nec lingua, sed opere et veritate.
-// <strong>Psalmus responsorius (Ps 16)</strong>
-// <strong>R. Tu es, Domine, pars hereditatis meae.</strong>
-// Conserva me, Deus, quoniam speravi in te. Dixi Domino: «Dominus meus es tu, bonum mihi non est sine te». <strong>R.</strong>
-// Benedicam Dominum, qui tribuit mihi intellectum; insuper et usque ad noctem increpuerunt me renes mei. Providebam Dominum in conspectu meo semper; quoniam a dextris est mihi, non commovebor. <strong>R.</strong>
-// Notas mihi facies vias vitae, adimpletionem laetitiae cum vultu tuo, delectationes in dextera tua usque in finem. <strong>R.</strong>
-// <strong>Acclamatio ad Evangelium (Io 15, 16)</strong>
-// Alleluia, alleluia. Ego vos elegi de mundo, ut eatis et fructum afferatis, et fructus vester maneat, dicit Dominus. Alleluia, alleluia.
-// <strong>Evangelium (Io 15, 9-17)</strong>
-// <strong>Lectio sancti Evangelii secundum Ioannem.</strong>
-// In illo tempore, dixit Iesus discipulis suis: «Sicut dilexit me Pater, et ego dilexi vos. Manete in dilectione mea. Si praecepta mea servaveritis, manebitis in dilectione mea, sicut et ego Patris mei praecepta servavi, et maneo in eius dilectione. Haec locutus sum vobis, ut gaudium meum in vobis sit, et gaudium vestrum impleatur. Hoc est praeceptum meum, ut diligatis invicem, sicut dilexi vos. Maiorem hac dilectionem nemo habet, ut animam suam ponat quis pro amicis suis. Vos amici mei estis, si feceritis quae ego praecipio vobis. Iam non dico vos servos, quia servus nescit quid faciat dominus eius; vos autem dixi amicos, quia omnia quaecumque audivi a Patre meo, nota feci vobis. Non vos me elegistis, sed ego elegi vos, et posui vos ut eatis, et fructum afferatis, et fructus vester maneat; ut quodcumque petieritis Patrem in nomine meo, det vobis. Haec mando vobis, ut diligatis invicem».
-// <strong>Oratio super oblata</strong>
-// Domine Deus, sacrificium quod tibi offerimus in hac memoria sanctae Elisabeth Annae Seton, sit signum nostri amoris et servitii erga te et proximum. Per Christum Dominum nostrum.
-// <strong>Antiphona ad communionem (Io 8, 12)</strong>
-// Dicit Dominus: Ego sum lux mundi. Qui sequitur me, non ambulabit in tenebris, sed habebit lumen vitae.
-// <strong>Post communionem</strong>
-// Domine, haec Eucharistia, quam in memoriam sanctae Elisabeth Annae Seton sumpsimus, nos spiritu tui amoris impleat. Discamus te diligere et tibi in fratribus nostris servire. Per Christum Dominum nostrum.`
-     
+    
 },
       officeOfReadings: placeholder,
       lauds: placeholder,
@@ -501,22 +411,7 @@ St. Louise de Marillac was born on August 12, 1591, probably in Paris, into a no
 After her husband's death in 1625, Louise went through a period of spiritual distress. It was during this time that she met St. Vincent de Paul, who became her spiritual director. Under his guidance, Louise found her true calling in serving the poor.
 In 1633, with St. Vincent, Louise gathered the first country girls to form the Company of the Daughters of Charity, a community of unenclosed sisters who lived among the poor to serve them. Louise trained the sisters, organized their work, and traveled throughout France establishing communities to serve the destitute, the sick, orphans, and the abandoned.
 With immense trust in Providence, a keen intellect, and a heart full of love, Louise became a great organizer of charity. She died in Paris on March 15, 1660, a few months before St. Vincent. She was canonized by Pope Pius XI in 1934 and declared Patroness of Christian Social Workers by Pope John XXIII in 1960.`,
-//         es: `<strong>Biografía</strong>
-// Santa Luisa de Marillac nació el 12 de agosto de 1591, probablemente en París, en el seno de una familia noble. Nunca conoció a su madre. De joven, deseaba consagrarse a Dios en la vida religiosa, pero su frágil salud se lo impidió. En su lugar, se casó con Antonio Le Gras, secretario de la reina, en 1613. Tuvieron un hijo, Miguel.
-// Tras la muerte de su esposo en 1625, Luisa atravesó un período de angustia espiritual. Fue durante este tiempo que conoció a San Vicente de Paúl, quien se convirtió en su director espiritual. Bajo su guía, Luisa encontró su verdadera vocación en el servicio a los pobres.
-// En 1633, junto con San Vicente, Luisa reunió a las primeras jóvenes del campo para formar la Compañía de las Hijas de la Caridad, una comunidad de hermanas sin clausura que vivían entre los pobres para servirles. Luisa formó a las hermanas, organizó su trabajo y viajó por toda Francia estableciendo comunidades para servir a los desamparados, los enfermos, los huérfanos y los abandonados.
-// Con una inmensa confianza en la Providencia, un intelecto agudo y un corazón lleno de amor, Luisa se convirtió en una gran organizadora de la caridad. Murió en París el 15 de marzo de 1660, pocos meses antes que San Vicente. Fue canonizada por el Papa Pío XI en 1934 y declarada Patrona de los Asistentes Sociales Cristianos por el Papa Juan XXIII en 1960.`,
-//         fr: `<strong>Biographie</strong>
-// Sainte Louise de Marillac est née le 12 août 1591, probablement à Paris, dans une famille noble. Elle n'a jamais connu sa mère. Jeune femme, elle désirait se consacrer à Dieu dans la vie religieuse, mais sa santé fragile l'en empêcha. À la place, elle épousa Antoine Le Gras, secrétaire de la reine, en 1613. Ils eurent un fils, Michel.
-// Après la mort de son mari en 1625, Louise traversa une période de détresse spirituelle. C'est à cette époque qu'elle rencontra saint Vincent de Paul, qui devint son directeur spirituel. Sous sa direction, Louise trouva sa véritable vocation dans le service des pauvres.
-// En 1633, avec saint Vincent, Louise rassembla les premières filles de la campagne pour former la Compagnie des Filles de la Charité, une communauté de sœurs non cloîtrées qui vivaient au milieu des pauvres pour les servir. Louise forma les sœurs, organisa leur travail et parcourut la France pour établir des communautés au service des démunis, des malades, des orphelins et des abandonnés.
-// Avec une immense confiance en la Providence, une intelligence vive et un cœur plein d'amour, Louise devint une grande organisatrice de la charité. Elle mourut à Paris le 15 mars 1660, quelques mois avant saint Vincent. Elle fut canonisée par le pape Pie XI en 1934 et déclarée patronne des travailleurs sociaux chrétiens par le pape Jean XXIII en 1960.`,
-//         la: `<strong>Vita</strong>
-// Sancta Ludovica de Marillac nata est die 12 Augusti 1591, verisimiliter Lutetiae Parisiorum, in familia nobili. Matrem suam numquam novit. Iuvenis, Deo se in vita religiosa consecrare cupiebat, sed infirma valetudo eam impedivit. Potius, Antonio Le Gras, reginae secretario, anno 1613 nupsit. Unum filium, Michaelem, habuerunt.
-// Post mortem mariti anno 1625, Ludovica tempus angustiae spiritualis transiit. Hoc tempore Sanctum Vincentium a Paulo convenit, qui eius director spiritualis factus est. Sub eius ductu, Ludovica veram suam vocationem in servitio pauperum invenit.
-// Anno 1633, cum Sancto Vincentio, Ludovica primas puellas rusticas congregavit ad Societatem Filiarum Caritatis formandam, communitatem sororum non clausuratarum quae inter pauperes vivebant ut eis servirent. Ludovica sorores instituit, opera earum ordinavit et per totam Galliam iter fecit ad communitates instituendas ad egenos, infirmos, orphanos et derelictos adiuvandos.
-// Cum immensa fiducia in Providentiam, acuto ingenio et corde pleno amore, Ludovica magna caritatis ordinatrix facta est. Lutetiae Parisiorum obiit die 15 Martii 1660, paucis mensibus ante Sanctum Vincentium. A Pio Papa XI anno 1934 canonizata est et a Ioanne Papa XXIII anno 1960 Patronam Operariorum Socialium Christianorum declarata est.`
-      
+     
 },
       massReadings: {
         vi: `<strong>THÁNH LỄ</strong>
@@ -567,79 +462,7 @@ Graciously accept, O Lord, the gifts we bring, and grant that, filled with the s
 The Lord says: Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.
 <strong>Prayer after Communion</strong>
 Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
-//         es: `<strong>MISA</strong>
-// <strong>Antífona de entrada (Prov 31, 20. 26)</strong>
-// Alarga su palma al desvalido y tiende sus manos al pobre. Abre su boca a la sabiduría, y su lengua enseña la piedad.
-// <strong>Oración colecta</strong>
-// Oh, Dios, Padre de las misericordias, que hiciste de santa Luisa una madre para los pobres, concédenos, te rogamos, que, imitando su caridad, sirvamos a Cristo en nuestros hermanos necesitados y así merezcamos ser parte de tu Reino. Por nuestro Señor Jesucristo, tu Hijo.
-// <strong>Lectura (Prov 31, 10-13, 19-20, 30-31)</strong>
-// <em>Lectura del libro de los Proverbios.</em>
-// Una mujer fuerte, ¿quién la hallará? Vale mucho más que las perlas. Su marido se fía de ella, y no le faltan riquezas. Le trae el bien y no el mal, todos los días de su vida. Busca la lana y el lino, y los trabaja con la destreza de sus manos. Aplica sus manos a la rueca, y sus dedos manejan el huso. Tiende su mano al pobre, y alarga sus brazos al necesitado. Engañosa es la gracia, vana la hermosura; la mujer que teme al Señor, ésa será alabada. Dadle el fruto de sus manos, y que en las puertas la alaben sus obras.
-// <strong>Salmo responsorial (Sal 34)</strong>
-// <strong>R. El Señor escucha el clamor de los pobres.</strong>
-// Bendigo al Señor en todo momento, su alabanza está siempre en mi boca. Mi alma se gloría en el Señor: que los humildes lo escuchen y se alegren. <strong>R.</strong>
-// Engrandeced conmigo al Señor, ensalcemos juntos su nombre. Consulté al Señor, y me respondió, me libró de todas mis ansias. <strong>R.</strong>
-// Contempladlo, y quedaréis radiantes, vuestro rostro no se avergonzará. Si el afligido invoca al Señor, él lo escucha y lo salva de sus angustias. <strong>R.</strong>
-// <strong>Aclamación del Evangelio (Mt 11, 28)</strong>
-// Aleluya, aleluya. Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré, dice el Señor. Aleluya, aleluya.
-// <strong>Evangelio (Mt 11, 25-30)</strong>
-// <strong>Lectura del santo Evangelio según san Mateo.</strong>
-// En aquel tiempo, exclamó Jesús: «Te doy gracias, Padre, Señor de cielo y tierra, porque has escondido estas cosas a los sabios y entendidos y se las has revelado a la gente sencilla. Sí, Padre, así te ha parecido mejor. Todo me lo ha entregado mi Padre, y nadie conoce al Hijo más que el Padre, y nadie conoce al Padre sino el Hijo y aquel a quien el Hijo se lo quiera revelar. Venid a mí todos los que estáis cansados y agobiados, y yo os aliviaré. Cargad con mi yugo y aprended de mí, que soy manso y humble de corazón, y encontraréis descanso para vuestras almas. Porque mi yugo es llevadero y mi carga ligera».
-// <strong>Oración sobre las ofrendas</strong>
-// Acepta con bondad, Señor, los dones que te presentamos, y concédenos que, llenos del mismo espíritu de caridad con que dotaste a santa Luisa, te sirvamos a ti y a nuestro prójimo. Por Cristo, nuestro Señor.
-// <strong>Antífona de comunión (Mt 25, 40)</strong>
-// Dice el Señor: En verdad os digo que cuanto hicisteis a uno de estos mis hermanos más pequeños, a mí me lo hicisteis.
-// <strong>Oración después de la comunión</strong>
-// Renovados por el Cuerpo y la Sangre de tu Hijo, te pedimos, Señor, que, siguiendo el ejemplo de santa Luisa, estemos atentos a las necesidades de todos y así nos convirtamos en testigos de tu amor en el mundo. Por Cristo, nuestro Señor.`,
-//         fr: `<strong>MESSE</strong>
-// <strong>Antienne d'ouverture (Pr 31, 20. 26)</strong>
-// Elle ouvre sa main au malheureux et tend les bras au pauvre. Elle ouvre la bouche avec sagesse, et une leçon de bonté est sur sa langue.
-// <strong>Prière d'ouverture</strong>
-// Dieu, Père des miséricordes, qui as fait de sainte Louise une mère pour les pauvres, accorde-nous, nous t'en prions, qu'à l'imitation de sa charité, nous servions le Christ dans nos frères et sœurs dans le besoin et méritions ainsi de faire partie de ton Royaume. Par Jésus Christ, ton Fils.
-// <strong>Lecture (Pr 31, 10-13, 19-20, 30-31)</strong>
-// <em>Lecture du livre des Proverbes.</em>
-// Une femme vaillante, qui la trouvera ? Elle est infiniment plus précieuse que les perles. Le cœur de son mari a confiance en elle, et les profits ne lui feront pas défaut. Elle lui fait du bien, et non du mal, tous les jours de sa vie. Elle se procure de la laine et du lin, et travaille d'une main joyeuse. Elle met la main à la quenouille, et ses doigts tiennent le fuseau. Elle tend la main au malheureux, et ouvre ses bras à l'indigent. La grâce est trompeuse, et la beauté est vaine ; la femme qui craint le Seigneur est celle qui sera louée. Donnez-lui du fruit de ses mains, et qu'aux portes ses œuvres la louent.
-// <strong>Psaume responsorial (Ps 34)</strong>
-// <strong>R. Le Seigneur entend le cri des pauvres.</strong>
-// Je bénirai le Seigneur en tout temps, sa louange sans cesse à mes lèvres. Je me glorifierai dans le Seigneur : que les pauvres m'entendent et soient en fête ! <strong>R.</strong>
-// Magnifiez avec moi le Seigneur, exaltons tous ensemble son nom. J'ai cherché le Seigneur, il m'a répondu, de toutes mes terreurs il m'a délivré. <strong>R.</strong>
-// Qui regarde vers lui resplendira, sans ombre ni trouble au visage. Un pauvre crie, le Seigneur entend, il le sauve de toutes ses angoisses. <strong>R.</strong>
-// <strong>Acclamation de l'Évangile (Mt 11, 28)</strong>
-// Alléluia, alléluia. Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos, dit le Seigneur. Alléluia, alléluia.
-// <strong>Évangile (Mt 11, 25-30)</strong>
-// <strong>Lecture du saint Évangile selon saint Matthieu.</strong>
-// En ce temps-là, Jésus prit la parole et dit : « Père, Seigneur du ciel et de la terre, je proclame ta louange : ce que tu as caché aux sages et aux savants, tu l'as révélé aux tout-petits. Oui, Père, tu l'as voulu ainsi dans ta bienveillance. Tout m'a été remis par mon Père ; personne ne connaît le Fils, sinon le Père, et personne ne connaît le Père, sinon le Fils, et celui à qui le Fils veut le révéler. Venez à moi, vous tous qui peinez sous le poids du fardeau, et moi, je vous procurerai le repos. Prenez sur vous mon joug, devenez mes disciples, car je suis doux et humble de cœur, et vous trouverez le repos pour votre âme. Oui, mon joug est facile à porter, et mon fardeau, léger. »
-// <strong>Prière sur les offrandes</strong>
-// Accepte avec bonté, Seigneur, les dons que nous t'apportons, et accorde-nous, remplis du même esprit de charité dont tu as doté sainte Louise, de te servir, toi et notre prochain. Par le Christ, notre Seigneur.
-// <strong>Antienne de la communion (Mt 25, 40)</strong>
-// Le Seigneur dit : Amen, je vous le dis, chaque fois que vous l'avez fait à l'un de ces plus petits de mes frères, c'est à moi que vous l'avez fait.
-// <strong>Prière après la communion</strong>
-// Renouvelés par le Corps et le Sang de ton Fils, nous te prions, Seigneur, qu'à l'exemple de sainte Louise, nous soyons attentifs aux besoins de tous et devenions ainsi témoins de ton amour dans le monde. Par le Christ, notre Seigneur.`,
-//         la: `<strong>MISSA</strong>
-// <strong>Antiphona ad introitum (Prov 31, 20. 26)</strong>
-// Manum suam aperuit inopi et palmas suas extendit ad pauperem. Os suum aperuit sapientiae, et lex clementiae in lingua eius.
-// <strong>Collecta</strong>
-// Deus, Pater misericordiarum, qui sanctam Ludovicam pauperum matrem effecisti, concede, quaesumus, ut, eius caritatem imitantes, Christo in fratribus nostris egentibus serviamus et sic Regni tui participes esse mereamur. Per Dominum nostrum Iesum Christum Filium tuum.
-// <strong>Lectio (Prov 31, 10-13, 19-20, 30-31)</strong>
-// <em>Lectio libri Proverbiorum.</em>
-// Mulierem fortem quis inveniet? Procul et de ultimis finibus pretium eius. Confidit in ea cor viri sui, et spoliis non indigebit. Reddet ei bonum, et non malum, omnibus diebus vitae suae. Quaesivit lanam et linum, et operata est consilio manuum suarum. Posuit manum suam ad fortia, et digiti eius apprehenderunt fusum. Manum suam aperuit inopi, et palmas suas extendit ad pauperem. Fallax gratia, et vana est pulchritudo; mulier timens Dominum, ipsa laudabitur. Date ei de fructu manuum suarum, et laudent eam in portis opera eius.
-// <strong>Psalmus responsorius (Ps 34)</strong>
-// <strong>R. Clamant pauperes, et Dominus exaudit.</strong>
-// Benedicam Dominum in omni tempore; semper laus eius in ore meo. In Domino laudabitur anima mea; audiant mansueti, et laetentur. <strong>R.</strong>
-// Magnificate Dominum mecum, et exaltemus nomen eius in idipsum. Exquisivi Dominum, et exaudivit me; et ex omnibus tribulationibus meis eripuit me. <strong>R.</strong>
-// Accedite ad eum, et illuminamini, et facies vestrae non confundentur. Iste pauper clamavit, et Dominus exaudivit eum; et ex omnibus tribulationibus eius salvavit eum. <strong>R.</strong>
-// <strong>Acclamatio ad Evangelium (Mt 11, 28)</strong>
-// Alleluia, alleluia. Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos, dicit Dominus. Alleluia, alleluia.
-// <strong>Evangelium (Mt 11, 25-30)</strong>
-// <strong>Lectio sancti Evangelii secundum Matthaeum.</strong>
-// In illo tempore respondens Iesus dixit: «Confiteor tibi, Pater, Domine caeli et terrae, quia abscondisti haec a sapientibus et prudentibus, et revelasti ea parvulis. Ita, Pater, quoniam sic fuit placitum ante te. Omnia mihi tradita sunt a Patre meo. Et nemo novit Filium, nisi Pater; neque Patrem quis novit, nisi Filius, et cui voluerit Filius revelare. Venite ad me, omnes, qui laboratis et onerati estis, et ego reficiam vos. Tollite iugum meum super vos, et discite a me, quia mitis sum et humilis corde, et invenietis requiem animabus vestris. Iugum enim meum suave est, et onus meum leve est».
-// <strong>Oratio super oblata</strong>
-// Oblata nostra, quaesumus, Domine, benigne suscipe, et concede ut, eodem caritatis spiritu repleti, quo sanctam Ludovicam imbuisti, tibi et proximo serviamus. Per Christum Dominum nostrum.
-// <strong>Antiphona ad communionem (Mt 25, 40)</strong>
-// Dicit Dominus: Amen dico vobis: Quamdiu fecistis uni ex his fratribus meis minimis, mihi fecistis.
-// <strong>Post communionem</strong>
-// Corpore et Sanguine Filii tui refecti, quaesumus, Domine, ut, exemplo sanctae Ludovicae, omnium necessitatibus attenti, testes amoris tui in mundo efficiamur. Per Christum Dominum nostrum.`
-    
+
 },
       officeOfReadings: placeholder,
       lauds: placeholder,
