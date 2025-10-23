@@ -910,8 +910,8 @@ en: `<strong>MASS</strong>
      
     },
     subtitle: {
-      vi: 'Di chuyển hài cốt Thánh Vinh Sơn Phaolô',
-      en: 'Translation of the Relics of St. Vincent Paul',
+      vi: 'Kỷ niệm việc di chuyển thánh tích của Thánh Vinh Sơn Phaolô',
+      en: 'Commemoration of the Translation of the Relics of St. Vincent Paul',
       
     },
     type: 'Lễ nhớ',
@@ -1031,6 +1031,156 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
+
+// Thánh Gian-na Bơ-rét-ta Mô-la
+  {
+    id: 'st-gianna-beretta-molla',
+    date: '04-28',
+    title: { 
+      vi: 'Thánh Gian-na Bơ-rét-ta Mô-la',
+      en: 'St. Gianna Beretta Molla',
+     
+    },
+    subtitle: {
+      vi: 'Giáo dân, Hiền mẫu',
+      en: 'Laywoman, Mother',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        Thánh Gian-na Bơ-rét-ta Mô-la sinh ngày 4 tháng 10 năm 1922 tại Magenta (MI); với sự khôn ngoan cảnh giác, cha mẹ cô đã đồng hành cùng thánh nhân trong sự phát triển con người và đức tin Kitô giáo. Cô là một người phụ nữ chân thật và vui vẻ; cô yêu thích câu kinh thánh “những gì là chân thật, cao quý, những gì là chính trực tinh tuyền, những gì là đáng mến và đem lại danh thơm tiếng tốt, những gì là đức hạnh, đáng khen, thì xin anh em hãy để ý” (Pl 4,8). Cô làm việc nhiệt thành trong các hoạt động tông đồ, trong Hội Bác Ái Thánh Vinh Sơn Phao-lô và trong sinh hoạt Công Giáo. Cô theo học đại học Pavia, nơi cô tốt nghiệp ngành Y khoa và Phẫu thuật vào ngày 30 tháng 11 năm 1949. Trong những năm ở Pavia, hàng ngày cô đều đến Nhà thờ Đức Mẹ Núi Cát Minh (Carmel) để cầu nguyện. Cô trở thành bác sĩ ở thị trấn Mesero (MI), nơi cô làm việc cho đến vài ngày trước khi chết. Vào ngày 24 tháng 9 năm 1955, cô kết hôn với ông Pietro Molla. Vào tháng 9 năm 1961, trong lần mang thai khó khăn thứ tư, với sức mạnh của đức tin và lời cầu nguyện, cô đã khẳng định con của của cô sẽ được cứu, thậm chí ngay cả khi cô phải hiến chính mạng sống mình. Cô qua đời một tuần sau khi sinh một bé gái, vào ngày 28 tháng 4 năm 1962, đó là ngày thứ Bảy tuần Bát Nhật Phục Sinh. Cô trỏ nên một chứng nhân đáng ngưỡng mộ về tính thánh thiêng của sự sống.
+        `,
+       
+en: `<strong>Biography</strong>
+Gianna Beretta was born in Magenta (Milan) October 4, 1922. Already as a youth she willingly accepted the gift of faith and the clearly Christian education that she received from her excellent parents. As a result, she experienced life as a marvellous gift from God, had a strong faith in Providence and was convinced of the necessity and effectiveness of prayer.
+
+She diligently dedicated herself to studies during the years of her secondary and university education, while, at the same time, applying her faith through generous apostolic service among the youth of Catholic Action and charitable work among the elderly and needy as a member of the St. Vincent de Paul Society. After earning degrees in Medicine and Surgery from the University of Pavia in 1949, she opened a medical clinic in Mesero (near Magenta) in 1950. She specialized in Pediatrics at the University of Milan in 1952 and there after gave special attention to mothers, babies, the elderly and poor.
+
+While working in the field of medicine-which she considered a Â“missionÂ” and practiced as such-she increased her generous service to Catholic Action, especially among the Â“very youngÂ” and, at the same time, expressed her joie de vivre and love of creation through skiing and mountaineering. Through her prayers and those of others, she reflected upon her vocation, which she also considered a gift from God. Having chosen the vocation of marriage, she embraced it with complete enthusiasm and wholly dedicated herself Â“to forming a truly Christian familyÂ”.
+
+She became engaged to Pietro Molla and was radiant with joy and happiness during the time of their engagement, for which she thanked and praised the Lord. They were married on September 24, 1955, in the Basilica of St. Martin in Magenta, and she became a happy wife. In November 1956, to her great joy, she became the mother of Pierluigi, in December 1957 of Mariolina; in July 1959 of Laura. With simplicity and equilibrium she harmonized the demands of mother, wife, doctor and her passion for life.
+
+In September 1961 towards the end of the second month of pregnancy, she was touched by suffering and the mystery of pain; she had developed a fibroma in her uterus. Before the required surgical operation, and conscious of the risk that her continued pregnancy brought, she pleaded with the surgeon to save the life of the child she was carrying, and entrusted herself to prayer and Providence. The life was saved, for which she thanked the Lord. She spent the seven months remaining until the birth of the child in incomparable strength of spirit and unrelenting dedication to her tasks as mother and doctor. She worried that the baby in her womb might be born in pain, and she asked God to prevent that.
+
+A few days before the child was due, although trusting as always in Providence, she was ready to give her life in order to save that of her child: Â“If you must decided between me and the child, do not hesitate: choose the child - I insist on it. Save himÂ”. On the morning of April 21, 1962, Gianna Emanuela was born. Despite all efforts and treatments to save both of them, on the morning of April 28, amid unspeakable pain and after repeated exclamations of Â“Jesus, I love you. Jesus, I love you», the mother died. She was 39 years old. Her funeral was an occasion of profound grief, faith and prayer. The Servant of God lies in the cemetery of Mesero (4 km from Magenta).
+
+Â“Conscious immolation», was the phrase used by Pope Paul VI to define the act of Blessed Gianna, remembering her at the Sunday Angelus of September 23, 1973, as: Â“A young mother from the diocese of Milan, who, to give life to her daughter, sacrificed her own, with conscious immolationÂ”. The Holy Father in these words clearly refers to Christ on Calvary and in the Eucharist.
+
+Gianna was beatified by Pope John Paul II on April 24, 1994, during the international Year of the Family.
+
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+  
 
   // Thánh Phan-xi-cô Rê-gi-xê Cờ-lê
   {
@@ -1183,69 +1333,8 @@ en: `<strong>MASS</strong>
       compline: placeholder,
     }
   },
-  {
-    id: 'founding-cm',
-    date: '04-17',
-    title: {
-      vi: 'Kỷ niệm Thành lập Tu hội Truyền giáo',
-      en: 'Commemoration of the Founding of the Congregation of the Mission',
-      // es: 'Conmemoración de la Fundación de la Congregación de la Misión',
-      // fr: 'Commémoration de la Fondation de la Congrégation de la Mission',
-      // la: 'Commemoratio Fundationis Congregationis Missionis'
-    },
-    subtitle: {
-      vi: 'Ngày 17 tháng 4 năm 1625',
-      en: 'April 17, 1625',
-      // es: '17 de abril de 1625',
-      // fr: '17 avril 1625',
-      // la: '17 Aprilis 1625'
-    },
-    type: 'Kỷ niệm',
-    sections: {
-      biography: {
-        vi: '<strong>Lịch sử</strong><br>Thánh Vinh Sơn Phaolô, do lòng trắc ẩn trước sự nghèo đói về mặt thiêng liêng của người dân nông thôn, đã thành lập Tu hội Truyền giáo vào ngày 17 tháng 4 năm 1625, thông qua một hợp đồng với gia đình de Gondi. Cộng đoàn mới gồm các linh mục và tu sĩ đã tự hiến dâng để rao giảng các cuộc đại phúc cho người nghèo ở nông thôn và đào tạo một hàng giáo sĩ đức hạnh. Điều này đã đánh dấu sự khởi đầu của một gia đình thiêng liêng trên toàn thế giới, cam kết loan báo Tin Mừng và phục vụ những người bị bỏ rơi nhất.',
-        en: '<strong>History</strong><br>St. Vincent de Paul, moved by the spiritual poverty of the rural people, established the Congregation of the Mission on April 17, 1625, through a contract with the de Gondi family. The new community of priests and brothers dedicated themselves to preaching missions to the poor in the countryside and forming a virtuous clergy. This marked the beginning of a worldwide spiritual family committed to evangelizing and serving the most abandoned.',
-        // es: '<strong>Historia</strong><br>San Vicente de Paúl, movido por la pobreza espiritual de la gente del campo, estableció la Congregación de la Misión el 17 de abril de 1625, mediante un contrato con la familia de Gondi. La nueva comunidad de sacerdotes y hermanos se dedicó a predicar misiones a los pobres del campo y a formar un clero virtuoso. Esto marcó el comienzo de una familia espiritual mundial comprometida con la evangelización y el servicio a los más abandonados.',
-        // fr: '<strong>Histoire</strong><br>Saint Vincent de Paul, ému par la pauvreté spirituelle des populations rurales, a fondé la Congrégation de la Mission le 17 avril 1625, par un contrat avec la famille de Gondi. La nouvelle communauté de prêtres et de frères s\'est consacrée à la prédication de missions pour les pauvres dans les campagnes et à la formation d\'un clergé vertueux. Cela a marqué le début d\'une famille spirituelle mondiale engagée dans l\'évangélisation et le service des plus abandonnés.',
-        // la: '<strong>Historia</strong><br>Sanctus Vincentius a Paulo, paupertate spirituali populi rustici motus, Congregationem Missionis die 17 Aprilis 1625 condidit, per contractum cum familia de Gondi. Nova communitas sacerdotum et fratrum se dedicaverunt ad missiones praedicandas pauperibus in agris et ad clerum virtuosum formandum. Hoc initium notavit familiae spiritualis per orbem terrarum commissae evangelizandi et serviendi maxime derelictis.'
-     
-      },
-      massReadings: placeholder,
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
-    }
-  },
-  {
-    id: 'transfer-relics-st-vincent',
-    date: '04-27',
-    title: {
-        vi: 'Lễ Cung nghinh Xương Thánh Vinh Sơn',
-        en: 'Transfer of the Relics of St. Vincent',
-        // es: 'Traslación de las Reliquias de San Vicente',
-        // fr: 'Translation des Reliques de Saint Vincent',
-        // la: 'Translatio Reliquiarum S. Vincentii'
-    },
-    subtitle: {
-        vi: 'Kỷ niệm việc di chuyển thánh tích của Thánh Vinh Sơn Phaolô',
-        en: 'Commemoration of the moving of the relics of St. Vincent de Paul',
-        // es: 'Conmemoración del traslado de las reliquias de San Vicente de Paúl',
-        // fr: 'Commémoration du transfert des reliques de Saint Vincent de Paul',
-        // la: 'Commemoratio translationis reliquiarum S. Vincentii a Paulo'
-    },
-    type: 'Kỷ niệm',
-    sections: {
-      biography: placeholder,
-      massReadings: placeholder,
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
-    }
-  },
+
+// Thánh Lu-y-sa đờ Ma-ri-lắc
   {
     id: 'st-louise-de-marillac',
     date: '05-09',
