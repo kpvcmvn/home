@@ -182,8 +182,10 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     
 },
       officeOfReadings: {
-        vi: '<strong>KINH SÁCH</strong>',
-        en: '<strong>OFFICE OF READINGS</strong>'
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
       },
       lauds: placeholder,
       middayPrayer: placeholder,
