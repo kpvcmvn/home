@@ -2425,7 +2425,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-  // 18 Thánh Giút-ti-nô Gia-co-bi
+  // 19 Chân phước Ghê-brê Mi-ca-e
   {
     id: 'st-ghebre-michael',
     date: '08-30',
@@ -4364,7 +4364,7 @@ const DEFAULT_SETTINGS = {
           }},
         ],
     },
-    logoUrl: 'https://congregatiomissionis.org/wp-content/uploads/2024/09/Logo-CM-tradicional-sin-fondo.png',
+    logoUrl: './photos/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
     headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family', es: 'Para la Familia Vicenciana', fr: 'Pour la Famille Vincentienne', la: 'Pro Familia Vincentiana' },
     mainSections: [
