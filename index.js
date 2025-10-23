@@ -187,10 +187,25 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
     }
   },
   {
