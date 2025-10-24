@@ -5927,163 +5927,163 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
 
 <strong>THÁNH THI</strong>
 
-              Đêm tối xuống dần trên cõi thế,
-              Đoàn con chạy đến Chúa càn khôn, 
-              Ngàn muôn ơn thánh xin đổ xuống, 
-              Giữ gìn chúng con cả xác hồn. 
+      Đêm tối xuống dần trên cõi thế,
+      Đoàn con chạy đến Chúa càn khôn, 
+      Ngàn muôn ơn thánh xin đổ xuống, 
+      Giữ gìn chúng con cả xác hồn. 
 
-              Mơ thấy Chúa Trời : lòng nguyện ước
-              Thầm mong cảm nghiệm lúc ngủ ngon, 
-              Vầng Đông lấp ló chân trời thẳm
-              Sẽ hát mừng Ngài khúc nhặt khoan.
+      Mơ thấy Chúa Trời : lòng nguyện ước
+      Thầm mong cảm nghiệm lúc ngủ ngon, 
+      Vầng Đông lấp ló chân trời thẳm
+      Sẽ hát mừng Ngài khúc nhặt khoan.
               
-              Ban xuống chuỗi ngày đầy sức sống,
-              Bồi thêm sinh khí kẻo tàn phai, 
-              Chập chờn bóng tối gieo sợ hãi,
-              Xin hãy đốt lên lửa sáng ngời. 
+      Ban xuống chuỗi ngày đầy sức sống,
+      Bồi thêm sinh khí kẻo tàn phai, 
+      Chập chờn bóng tối gieo sợ hãi,
+      Xin hãy đốt lên lửa sáng ngời. 
               
-              Đồng thanh ca tụng Cha hằng hữu,
-              Và Thánh Tử Ngài, Đấng Phục Sinh,
-              Thần Linh thánh ái, ơn phù trợ,
-              Muôn thuở ngàn đời mãi hiển vinh.
+      Đồng thanh ca tụng Cha hằng hữu,
+      Và Thánh Tử Ngài, Đấng Phục Sinh,
+      Thần Linh thánh ái, ơn phù trợ,
+      Muôn thuở ngàn đời mãi hiển vinh.
               
 <strong>Hoặc</strong>
               
-              Muôn lạy Chúa Ki-tô Ánh Sáng,
-              Bừng lên cho khuất dạng đêm đen,
-              Hào quang muôn thuở diệu huyền
-              Soi đường tín hữu đi trên cõi đời.
+      Muôn lạy Chúa Ki-tô Ánh Sáng,
+      Bừng lên cho khuất dạng đêm đen,
+      Hào quang muôn thuở diệu huyền
+      Soi đường tín hữu đi trên cõi đời.
 
-              Cúi xin Đấng tuyệt vời thánh thiện
-              Lắng nghe lời khấn nguyện nài van,
-              Thương ban giấc ngủ yên hàn,
-              Được kề bên Chúa an toàn thong dong.
+      Cúi xin Đấng tuyệt vời thánh thiện
+      Lắng nghe lời khấn nguyện nài van,
+      Thương ban giấc ngủ yên hàn,
+      Được kề bên Chúa an toàn thong dong.
 
-              Dầu mắt ngủ nhưng lòng vẫn thức,
-              Vẫn tin yêu một mực chân tình, 
-              Xin giơ tay hữu uy linh 
-              Như đồn bảo vệ, như thành chở che.
+      Dầu mắt ngủ nhưng lòng vẫn thức,
+      Vẫn tin yêu một mực chân tình, 
+      Xin giơ tay hữu uy linh 
+      Như đồn bảo vệ, như thành chở che.
               
-              Cúi xin Đấng phù trì đoái đến, 
-              Ngăn chước thù độc hiểm gớm ghê,
-              Giữ đoàn con cả đôi bề,
-              Máu Ngài tuôn đổ chuộc về thuở xưa.
+      Cúi xin Đấng phù trì đoái đến, 
+      Ngăn chước thù độc hiểm gớm ghê,
+      Giữ đoàn con cả đôi bề,
+      Máu Ngài tuôn đổ chuộc về thuở xưa.
               
-              Chúa Ki-tô là Vua nhân ái, 
-              Kính dâng Ngài cùng với Chúa Cha, 
-              Hợp cùng Thiên Chúa Ngôi Ba
-              Ngàn muôn phước cả vinh hoa đời đời.
+      Chúa Ki-tô là Vua nhân ái, 
+      Kính dâng Ngài cùng với Chúa Cha, 
+      Hợp cùng Thiên Chúa Ngôi Ba
+      Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
               <i><strong>Tv 87 (88)</strong></i>
 <strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
 <i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
 
-              <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-                  con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
+            con kêu cứu đêm ngày.
 
-              Lạy Chúa là Thiên Chúa cứu độ con,
-              trước Thánh Nhan, đêm ngày con kêu cứu. *
-              Nguyện cho lời kinh vọng tới Ngài
-              xin lắng nghe tiếng lòng thổn thức.
+      Lạy Chúa là Thiên Chúa cứu độ con,
+      trước Thánh Nhan, đêm ngày con kêu cứu. *
+      Nguyện cho lời kinh vọng tới Ngài
+      xin lắng nghe tiếng lòng thổn thức.
               
-              Con nằm đây giữa bao người chết, *
-              như các tử thi vùi trong mồ mả
-              đã bị Chúa quên đi
-              và không được tay Ngài săn sóc.
+      Con nằm đây giữa bao người chết, *
+      như các tử thi vùi trong mồ mả
+      đã bị Chúa quên đi
+      và không được tay Ngài săn sóc.
 
-              Chúa hạ con xuống tận đáy huyệt sâu,
-              giữa chốn tối tăm, giữa lòng vực thẳm. *
-              Cơn giận Chúa đè nặng thân con
-              như sóng cồn xô đẩy dập vùi.
+      Chúa hạ con xuống tận đáy huyệt sâu,
+      giữa chốn tối tăm, giữa lòng vực thẳm. *
+      Cơn giận Chúa đè nặng thân con
+      như sóng cồn xô đẩy dập vùi.
 
-              Chúa làm cho bạn bè xa lánh
-              và coi con như đồ ghê tởm. *
-              Con bị giam cầm không thể thoát ra,
-              mắt mờ đi vì quá nhiều đau khổ.
+      Chúa làm cho bạn bè xa lánh
+      và coi con như đồ ghê tởm. *
+      Con bị giam cầm không thể thoát ra,
+      mắt mờ đi vì quá nhiều đau khổ.
 
-              Lạy Chúa, suốt cả ngày con kêu lên Chúa
-              và giơ tay hướng thẳng về Ngài. *
-              Chúa đâu làm phép lạ
-              cho người đã mạng vong,
-              âm hồn đâu trỗi dậy
-              ca tụng Chúa bao giờ ?
+      Lạy Chúa, suốt cả ngày con kêu lên Chúa
+      và giơ tay hướng thẳng về Ngài. *
+      Chúa đâu làm phép lạ
+      cho người đã mạng vong,
+      âm hồn đâu trỗi dậy
+      ca tụng Chúa bao giờ ?
 
-              Trong mồ mả, ai nói về tình thương của Chúa,
-              cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-              Những kỳ công Chúa, nơi tối tăm ai rõ,
-              đức công chính Ngài, chốn quên lãng ai hay ?
+      Trong mồ mả, ai nói về tình thương của Chúa,
+      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
+      Những kỳ công Chúa, nơi tối tăm ai rõ,
+      đức công chính Ngài, chốn quên lãng ai hay ?
 
-              Phần con đây, con kêu lên Ngài, lạy Chúa,
-              mới tinh sương đã chờ chực nguyện xin. *
-              Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-              ẩn mặt đi mà chẳng đoái hoài.
+      Phần con đây, con kêu lên Ngài, lạy Chúa,
+      mới tinh sương đã chờ chực nguyện xin. *
+      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
+      ẩn mặt đi mà chẳng đoái hoài.
 
-              Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-              Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-              Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-              bấy nỗi kinh hoàng khiến con rời rã.
+      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
+      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
+      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
+      bấy nỗi kinh hoàng khiến con rời rã.
 
-              Bủa vây con suốt ngày ngần ấy thứ,
-              dồn dập tư bề như nước bao la. *
-              Cận thân Chúa khiến lìa xa,
-              chung quanh bầu bạn chỉ là bóng đêm.
+      Bủa vây con suốt ngày ngần ấy thứ,
+      dồn dập tư bề như nước bao la. *
+      Cận thân Chúa khiến lìa xa,
+      chung quanh bầu bạn chỉ là bóng đêm.
 
-              Vinh danh Chúa Cha và Chúa Con,
-              cùng vinh danh Thánh Thần Thiên Chúa,
+      Vinh danh Chúa Cha và Chúa Con,
+      cùng vinh danh Thánh Thần Thiên Chúa,
 
-              tự muôn đời và chính hiện nay
-              luôn mãi đến thiên thu vạn đại. A-men.
+      tự muôn đời và chính hiện nay
+      luôn mãi đến thiên thu vạn đại. A-men.
 
-              <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-                  con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
+            con kêu cứu đêm ngày.
               
 <strong>Lời Chúa</strong>           <i>(Gr 14,9)</i>
 Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa vì được mang danh Ngài. Xin đừng bỏ rơi chúng con, lạy Chúa là Thiên Chúa chúng con.
 <i>(Sau khi nghe lời Chúa, thinh lặng suy niệm trong giây lát).</i>
 <strong>Xướng đáp</strong>  
-              <strong>X</strong> Trong tay Ngài, lạy Chúa,
-              con xin phó thác hồn con.
-              <strong>Đ</strong> Trong tay Ngài, lạy Chúa,
-              con xin phó thác hồn con.
-              <strong>X</strong> Ngài đã cứu chuộc chúng con,
-              lạy Chúa Trời thành tín.
-              <strong>Đ</strong> con xin phó thác hồn con.
-              <strong>X</strong> Vinh danh Chúa Cha và Chúa Con,
-              cùng vinh danh Thánh Thần Thiên Chúa,
-             <strong>Đ</strong> Trong tay Ngài, lạy Chúa,
-              con xin phó thác hồn con.
+      <strong>X</strong> Trong tay Ngài, lạy Chúa,
+      con xin phó thác hồn con.
+      <strong>Đ</strong> Trong tay Ngài, lạy Chúa,
+      con xin phó thác hồn con.
+      <strong>X</strong> Ngài đã cứu chuộc chúng con,
+      lạy Chúa Trời thành tín.
+      <strong>Đ</strong> con xin phó thác hồn con.
+      <strong>X</strong> Vinh danh Chúa Cha và Chúa Con,
+      cùng vinh danh Thánh Thần Thiên Chúa,
+      <strong>Đ</strong> Trong tay Ngài, lạy Chúa,
+      con xin phó thác hồn con.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
-              <strong>ĐC</strong> Lạy Chúa, lúc chúng con còn thức,
-              xin Ngài cứu vớt cho, *
-              khi chúng con đã ngủ,
-              xin Chúa cũng giữ gìn, *
-              để cùng thức tỉnh với Đức Ki-tô,
-              và nghỉ ngơi an bình.
-              
-              Muôn lạy Chúa, giờ đây
-              theo lời Ngài đã hứa,
-              xin để tôi tớ này
-              được an bình ra đi.
+      <strong>ĐC</strong> Lạy Chúa, lúc chúng con còn thức,
+      xin Ngài cứu vớt cho, *
+      khi chúng con đã ngủ,
+      xin Chúa cũng giữ gìn, *
+      để cùng thức tỉnh với Đức Ki-tô,
+      và nghỉ ngơi an bình.
 
-              Vì chính mắt con được thấy ơn cứu độ
-              Chúa đã dành sẵn cho muôn dân : *
-              đó là ánh sáng soi đường cho dân ngoại,
-              là vinh quang của Ít-ra-en dân Ngài.
+      Muôn lạy Chúa, giờ đây
+      theo lời Ngài đã hứa,
+      xin để tôi tớ này
+      được an bình ra đi.
 
-              Vinh danh Chúa Cha và Chúa Con,
-              cùng vinh danh Thánh Thần Thiên Chúa,
+      Vì chính mắt con được thấy ơn cứu độ
+      Chúa đã dành sẵn cho muôn dân : *
+      đó là ánh sáng soi đường cho dân ngoại,
+      là vinh quang của Ít-ra-en dân Ngài.
 
-              tự muôn đời và chính hiện nay
-              luôn mãi đến thiên thu vạn đại. A-men.
+      Vinh danh Chúa Cha và Chúa Con,
+      cùng vinh danh Thánh Thần Thiên Chúa,
 
-              <strong>ĐC</strong> Lạy Chúa, lúc chúng con còn thức,
-              xin Ngài cứu vớt cho, *
-              khi chúng con đã ngủ,
-              xin Chúa cũng giữ gìn, *
-              để cùng thức tỉnh với Đức Ki-tô,
-              và nghỉ ngơi an bình.
+      tự muôn đời và chính hiện nay
+      luôn mãi đến thiên thu vạn đại. A-men.
+
+      <strong>ĐC</strong> Lạy Chúa, lúc chúng con còn thức,
+      xin Ngài cứu vớt cho, *
+      khi chúng con đã ngủ,
+      xin Chúa cũng giữ gìn, *
+      để cùng thức tỉnh với Đức Ki-tô,
+      và nghỉ ngơi an bình.
 
 
 
