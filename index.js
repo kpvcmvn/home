@@ -4273,7 +4273,7 @@ const DEFAULT_SETTINGS = {
     adminPassword: 'admin123',
     footerContent: { 
         vi: 'Bản quyền thuộc Ban Truyền Thông <br/> Tu Hội Truyền Giáo - Tỉnh dòng Việt nam © 2025.',
-        en: 'Content provided for liturgical and study purposes. <br/> All rights reserved © 2025.' 
+        en: 'Copyright belongs to the Media Ministry <br/> Congregation of the Mission - Vietnam Province © 2025.' 
     },
     feastTypes: [
         { name: { vi: 'Đại lễ', en: 'Solemnity' } },
@@ -4283,7 +4283,7 @@ const DEFAULT_SETTINGS = {
     ],
     mainSectionContents: {
         prayers: [
-           { id: 'laycha', title: { vi: 'Kinh Lạy Cha', en: 'Our Father', es: 'Padre Nuestro', fr: 'Notre Père', la: 'Pater Noster'}, 
+           { id: 'laycha', title: { vi: 'Kinh Lạy Cha', en: 'Our Father'}, 
            content: { 
             vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', 
             en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.', 
@@ -4302,9 +4302,7 @@ const DEFAULT_SETTINGS = {
           { id: 'sangdanh', title: { 
             vi: 'Sáng Danh', 
             en: 'Glory Be', 
-            es: 'Gloria', 
-            fr: 'Gloire au Père', 
-            la: 'Gloria Patri'}, 
+           }, 
            content: { 
 
             vi: 'Sáng danh Đức Chúa Cha, và Đức Chúa Con, và Đức Chúa Thánh Thần. Như đã có trước vô cùng, và bây giờ, và hằng có, và đời đời chẳng cùng. Amen.', 
