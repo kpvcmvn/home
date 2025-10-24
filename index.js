@@ -6219,59 +6219,72 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
-              <i><strong>Tv 87 (88)</strong></i>
-<strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
-<i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
+              <i><strong>Tv 85 (86)</strong></i>
+<strong><i>Người khó nghèo cầu nguyện trong cơn quẫn bách</i></strong>
+<i>Chúc tụng Thiên Chúa, Đấng luôn nâng đỡ ủi an chúng ta trong mọi cơn thử thách (2 Cr 1,3.4)</i>
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Phần Ngài, muôn lạy Chúa, Ngài chậm giận, lại giàu tình thương và lòng thành tín.
 
-      Lạy Chúa là Thiên Chúa cứu độ con,
-      trước Thánh Nhan, đêm ngày con kêu cứu. *
-      Nguyện cho lời kinh vọng tới Ngài
-      xin lắng nghe tiếng lòng thổn thức.
-              
-      Con nằm đây giữa bao người chết, *
-      như các tử thi vùi trong mồ mả
-      đã bị Chúa quên đi
-      và không được tay Ngài săn sóc.
+      Lạy Chúa, xin lắng tai và đáp lời con,
+      vì thân con nghèo hèn túng quẫn.
 
-      Chúa hạ con xuống tận đáy huyệt sâu,
-      giữa chốn tối tăm, giữa lòng vực thẳm. *
-      Cơn giận Chúa đè nặng thân con
-      như sóng cồn xô đẩy dập vùi.
+      Xin Chúa bảo toàn sinh mạng con,
+      bởi vì con trung hiếu. *
+      Xin cứu độ tôi tớ Ngài đây,
+      hằng tin tưởng nơi Ngài.
 
-      Chúa làm cho bạn bè xa lánh
-      và coi con như đồ ghê tởm. *
-      Con bị giam cầm không thể thoát ra,
-      mắt mờ đi vì quá nhiều đau khổ.
+      Chính Ngài là Thiên Chúa của con,
+      xin rủ lòng thương con, lạy Chúa : *
+      con kêu con gọi Chúa suốt ngày.
 
-      Lạy Chúa, suốt cả ngày con kêu lên Chúa
-      và giơ tay hướng thẳng về Ngài. *
-      Chúa đâu làm phép lạ
-      cho người đã mạng vong,
-      âm hồn đâu trỗi dậy
-      ca tụng Chúa bao giờ ?
+      Lạy Chúa, xin làm cho con được vui thoả,
+      vì con nâng tâm hồn lên tới Chúa.
 
-      Trong mồ mả, ai nói về tình thương của Chúa,
-      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-      Những kỳ công Chúa, nơi tối tăm ai rõ,
-      đức công chính Ngài, chốn quên lãng ai hay ?
+      Lạy Chúa, Ngài nhân hậu khoan hồng,
+      giàu tình thương với mọi kẻ kêu xin ; *
+      lạy Chúa, xin lắng nghe lời con cầu khẩn,
+      tiếng con van nài, xin để ý lưu tâm.
 
-      Phần con đây, con kêu lên Ngài, lạy Chúa,
-      mới tinh sương đã chờ chực nguyện xin. *
-      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-      ẩn mặt đi mà chẳng đoái hoài.
+      Lâm cảnh ngặt nghèo, con kêu lên Chúa,
+      vì Chúa vẫn đáp lời. *
+      Không một thần linh sánh kịp Ngài, lạy Chúa,
+      việc Ngài làm, quả thật vô song.
 
-      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-      bấy nỗi kinh hoàng khiến con rời rã.
+      Lạy Chúa, muôn dân chính tay Ngài tạo dựng
+      sẽ về phủ phục trước Thánh Nhan
+      và tôn vinh danh Ngài.
 
-      Bủa vây con suốt ngày ngần ấy thứ,
-      dồn dập tư bề như nước bao la. *
-      Cận thân Chúa khiến lìa xa,
-      chung quanh bầu bạn chỉ là bóng đêm.
+      Vì Ngài thật cao cả
+      và làm nên những việc lạ lùng ; *
+      chỉ một mình Ngài là Thiên Chúa.
+
+      Xin dạy con đường lối Ngài, lạy Chúa,
+      để con vững bước theo chân lý của Ngài. *
+      Xin Chúa hướng lòng con,
+      để con biết một niềm kính tôn Danh Thánh.
+
+      Lạy Chúa là Thiên Chúa con thờ,
+      con hết lòng cảm tạ,
+      thánh danh Ngài, con mãi mãi tôn vinh, *
+      vì tình Chúa thương con như trời như biển,
+      Ngài đã kéo con ra khỏi vực thẳm âm ty.
+
+      Lạy Thiên Chúa, phường kiêu ngạo nổi lên chống đối,
+      bè lũ hung tàn tìm hại mạng sống con : *
+      chúng đâu có kể chi đến Ngài.
+
+      Phần Ngài, muôn lạy Chúa,
+      Ngài là Thiên Chúa nhân hậu từ bi, *
+      Ngài chậm giận,
+      lại giàu tình thương và lòng thành tín.
+
+      Xin đoái nhìn và xót thương con, *
+      ban sức mạnh của Ngài và xuống ơn cứu độ
+      cho tôi tớ Ngài đây, con của nữ tỳ Ngài.
+
+      Xin ban cho con một điềm báo phúc,
+      để bọn thù ghét con trông thấy mà hổ thẹn, *
+      vì, lạy Chúa, chính Ngài giúp đỡ ủi an con.
 
       Vinh danh Chúa Cha và Chúa Con,
       cùng vinh danh Thánh Thần Thiên Chúa,
@@ -6279,11 +6292,11 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       tự muôn đời và chính hiện nay
       luôn mãi đến thiên thu vạn đại. A-men.
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Phần Ngài, muôn lạy Chúa, Ngài chậm giận, lại giàu tình thương và lòng thành tín.
+
               
-<strong>Lời Chúa</strong>           <i>(Gr 14,9)</i>
-Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa vì được mang danh Ngài. Xin đừng bỏ rơi chúng con, lạy Chúa là Thiên Chúa chúng con.
+<strong>Lời Chúa</strong>           <i>(1 Tx 5,9-10)</i>
+Thiên Chúa đã không định cho chúng ta phải chịu cơn thịnh nộ, nhưng được hưởng ơn cứu độ, nhờ Đức Giê-su Ki-tô, Chúa chúng ta, Đấng đã chết vì chúng ta, để dầu thức hay ngủ, chúng ta cũng sống với Người.
 <i>(Sau khi nghe lời Chúa, thinh lặng suy niệm trong giây lát).</i>
 <strong>Xướng đáp</strong>  
       <strong>X</strong> Trong tay Ngài, lạy Chúa,
@@ -6330,7 +6343,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       và nghỉ ngơi an bình.
 
 <strong>Lời nguyện</strong> 
-Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+Lạy Chúa, ngày hôm nay chúng con đã khó nhọc gieo hạt giống Nước Trời, giờ đây, xin cho chúng con được nghỉ ngơi lại sức, và xin cho hạt giống chúng con gieo vãi được nẩy nở và trổ bông chín vàng trong ngày mùa sau hết. Chúng con cầu xin
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
       <strong>Cộng đoàn</strong> A-men.
