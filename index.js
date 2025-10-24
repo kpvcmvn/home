@@ -5856,12 +5856,13 @@ const DEFAULT_SETTINGS = {
     ],
     mainSectionContents: {
         prayers: [
+// Kinh Lạy Cha
            { id: 'laycha', title: { vi: 'Kinh Lạy Cha', en: 'Our Father'}, 
            content: { 
             vi: 'Lạy Cha chúng con ở trên trời, chúng con nguyện danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời. Xin Cha cho chúng con hôm nay lương thực hằng ngày, và tha nợ chúng con như chúng con cũng tha kẻ có nợ chúng con. Xin chớ để chúng con sa chước cám dỗ, nhưng cứu chúng con cho khỏi mọi sự dữ. Amen.', 
             en: 'Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come, Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation,but deliver us from evil. Amen.', 
            }},
-
+// Kinh Kính Mừng
            { id: 'kinhmung', title: { 
             vi: 'Kinh Kính Mừng', 
             en: 'Hail Mary'
@@ -5872,6 +5873,7 @@ const DEFAULT_SETTINGS = {
             en: 'Hail Mary, full of grace, the Lord is with thee; blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.',
             
           }},
+// Kinh Sáng Danh
           { id: 'sangdanh', title: { 
             vi: 'Sáng Danh', 
             en: 'Glory Be', 
@@ -5881,6 +5883,7 @@ const DEFAULT_SETTINGS = {
             vi: 'Sáng danh Đức Chúa Cha, và Đức Chúa Con, và Đức Chúa Thánh Thần. Như đã có trước vô cùng, và bây giờ, và hằng có, và đời đời chẳng cùng. Amen.', 
             en: 'Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen.', 
            }},
+// Kinh Tin Kính
            { id: 'kinhtinkinh', title: { 
             vi: 'Kinh Tin Kính', 
             en: 'Apostles Creed'
@@ -5942,6 +5945,17 @@ const DEFAULT_SETTINGS = {
             vi: 'Lạy Chúa là Đấng Israel trông đợi, là Đấng cứu dân trong thời nguy khốn, xin từ trời cao ghé mắt nhân từ nhìn xuống, đến thăm vườn nho này, lấy nước đổ tràn mương cho đâm trồi nảy lộc, xin cho trở nên muôn phần tốt tươi. Mảnh vườn chính bàn tay phải Chúa đã vun trồng, mùa màng thật bát ngát mà thợ gặt thì ít. Vậy chúng con nài xin Chúa là chủ mùa màng hãy sai thợ gặt đến; xin làm cho dân Chúa trở nên đông số, làm cho mọi người vui thỏa, để xây tường lũy Giêrusalem. Nhà đây là nhà của Chúa, chúng con nài xin Chúa, đừng để viên đá nào, không phải do bàn tay rất thánh đặt để, còn những kẻ Chúa đã gọi, thì xin gìn giữ họ, làm cho họ nên thánh trong sự thật. Amen.', 
             en: 'O hope of Israel! Our savior in times of trouble look down from heaven and visit this vineyard fill its streams, multiply its fruits and perfect what your right hand has planted. The harvest is indeed great but the laborers are scarce we ask you, O Lord of the harvest to send laborers into Your Harvest multiply Your family and increase its joys so that the walls of Jerusalem May be built up This is your house, O Lord, This is your house Let there not be in it we beseech you A stone which you Yourself have not places Preserve in Your name Those you have already called and sanctify them in truth. Amen.'
           }},
+  // Kinh cho kỷ niệm 400 năm thành lập Tu Hội Truyền Giáo
+  { id: 'kinhnamthanh400', title: { 
+            vi: 'Kinh năm thánh nhân bốn thế kỷ thành lập Tu Hội Truyền Giáo', 
+            en: 'Prayer for the 400th of the foundation of the Congregation of the Mission'
+          
+          }, 
+           content: { 
+            vi: 'Lạy Chúa giàu lòng thương xót, chúng con ngợi khen và tôn vinh Chúa, Đấng luôn đồng hành với từng bước chân qua những nẻo đường lịch sử chúng con. Chúng con cảm tạ Chúa đã chọn Cha Thánh Vinh Sơn Phaolô và vì Giáo Hội, Chúa đã biến đổi ngài thành một ngôn sứ của lòng bác ái và công bình. Chúa đã gọi ngài trở nên hình ảnh của Đức Kitô, Mục Tử Nhân Lành, Đấng chăm sóc những người bé nhỏ và yếu đuối, những kẻ lạc lối và bị loại trừ. Chính Thần khí sự thật và ánh sáng của Chúa, đã thối bùng trái tim ngài bằng một tình yêu lớn lao. Qua ngài, Chúa đã nâng đỡ Tu Hội nhỏ bé trong bốn thế kỷ qua, và luôn diễn tả sự bao bọc của Chúa với những người nghèo khổ trên Trái Đất này. Xin cho chúng con trở thành con người cầu nguyện, được nuôi dưỡng bằng Thánh Thể Chúa, ngự trên đôi tay chúng con, được nuôi dưỡng bằng Lời Chúa, ủy thác trên môi miệng chúng con. Để chúng con có khả năng cảm thông trước những khổ đau của nhân loại. Xin đốt lên trong tâm hồn chúng con ngọn lửa của lòng nhân hậu và ngọn lửa truyền giáo. Xin cho chúng con đừng bao giờ quên rằng mọi sự đều là ân huệ Chúa ban. Amen.', 
+            en: 'Praise and honor to you, God of mercy, who always accompany our steps along the paths of history. We thank you because you have chosen Vincent de Paul and, for your Church, you converted him into a prophet of charity and justice. You called him to be an icon of Christ, the Good Shepherd, who cares for the least and the fragile, the lost and the excluded. Your Spirit of truth and light, inflamed his heart with a great love. Through him you raised up the Little Company, wich, for four centuries, tells of your solidarity with the poor of the Earth. Make us today men of prayer, capable of his regard for human miseries, nourished by the Eucharist you place in our hands and by the Gospel you entrust to our lips. Let there burn in our hearts the fire of tenderness and mission. Make us never lose the memory that everything is your gift. Amen'
+          }},
+          
 // Da Pacem
 { id: 'dapacem', title: { 
             vi: 'Da Pacem', 
@@ -5953,15 +5967,6 @@ const DEFAULT_SETTINGS = {
             en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
           }},
 
-  { id: 'kinhnamthanh400', title: { 
-            vi: 'Kinh năm thánh nhân bốn thế kỷ thành lập Tu Hội Truyền Giáo', 
-            en: 'Prayer for the 400th of the foundation of the Congregation of the Mission'
-          
-          }, 
-           content: { 
-            vi: 'Lạy Chúa giàu lòng thương xót, chúng con ngợi khen và tôn vinh Chúa, Đấng luôn đồng hành với từng bước chân qua những nẻo đường lịch sử chúng con. Chúng con cảm tạ Chúa đã chọn Cha Thánh Vinh Sơn Phaolô và vì Giáo Hội, Chúa đã biến đổi ngài thành một ngôn sứ của lòng bác ái và công bình. Chúa đã gọi ngài trở nên hình ảnh của Đức Kitô, Mục Tử Nhân Lành, Đấng chăm sóc những người bé nhỏ và yếu đuối, những kẻ lạc lối và bị loại trừ. Chính Thần khí sự thật và ánh sáng của Chúa, đã thối bùng trái tim ngài bằng một tình yêu lớn lao. Qua ngài, Chúa đã nâng đỡ Tu Hội nhỏ bé trong bốn thế kỷ qua, và luôn diễn tả sự bao bọc của Chúa với những người nghèo khổ trên Trái Đất này. Xin cho chúng con trở thành con người cầu nguyện, được nuôi dưỡng bằng Thánh Thể Chúa, ngự trên đôi tay chúng con, được nuôi dưỡng bằng Lời Chúa, ủy thác trên môi miệng chúng con. Để chúng con có khả năng cảm thông trước những khổ đau của nhân loại. Xin đốt lên trong tâm hồn chúng con ngọn lửa của lòng nhân hậu và ngọn lửa truyền giáo. Xin cho chúng con đừng bao giờ quên rằng mọi sự đều là ân huệ Chúa ban. Amen.', 
-            en: 'Praise and honor to you, God of mercy, who always accompany our steps along the paths of history. We thank you because you have chosen Vincent de Paul and, for your Church, you converted him into a prophet of charity and justice. You called him to be an icon of Christ, the Good Shepherd, who cares for the least and the fragile, the lost and the excluded. Your Spirit of truth and light, inflamed his heart with a great love. Through him you raised up the Little Company, wich, for four centuries, tells of your solidarity with the poor of the Earth. Make us today men of prayer, capable of his regard for human miseries, nourished by the Eucharist you place in our hands and by the Gospel you entrust to our lips. Let there burn in our hearts the fire of tenderness and mission. Make us never lose the memory that everything is your gift. Amen'
-          }},
 
            { id: '', title: { 
             vi: '', 
