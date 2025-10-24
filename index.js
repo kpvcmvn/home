@@ -6089,7 +6089,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
 Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
-      <strong>Cộng đoàn</strong>	A-men.
+      <strong>Cộng đoàn</strong> A-men.
 <strong>Ca vãn kính Đức Mẹ</strong> 
       <strong>Kính chào Đức Nữ Vương</strong> (Salve Regina)
       Kính chào Đức Nữ Vương,
@@ -6118,6 +6118,8 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
       Ôi tấm lòng xót thương,
       Ôi dịu hiền nhân hậu,
       Trinh Nữ Ma-ri-a. Amen.
+      
+<strong>Hoặc</strong>
 
       <strong>Kính lạy Bà, Vị Nữ Hoàng Thiên Quốc</strong> (Ave Regina caelorum)
       Kính lạy Bà, Vị Nữ Hoàng Thiên Quốc,
@@ -6129,6 +6131,8 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
       Bà hiển vinh, Bà diễm lệ khôn tày.
       Bên toà Chúa Ki-tô, Ngôi Thánh Tử,
       Cúi lạy Bà, xin nguyện giúp cầu thay.
+
+<strong>Hoặc</strong>
 
       <strong>Lạy Đức Mẹ Chúa Trời</strong> (Sub tuum praesidium)
       Lạy Đức Mẹ Chúa Trời,
@@ -6144,7 +6148,9 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
       Nhưng xin hằng giải thoát
       Khỏi ngàn nỗi hiểm nguy,
       Ôi vinh diệu ai bì
-      Trinh Nữ đầy ơn phước !`, 
+      Trinh Nữ đầy ơn phước !
+      `, 
+
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
 
