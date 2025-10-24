@@ -3097,7 +3097,7 @@ en: `<strong>MASS</strong>
       en: 'Layperson',
       
     },
-    type: 'Đại lễ',
+    type: 'Lễ nhớ',
     sections: {
       biography: {
         vi: `<strong>Tiểu sử</strong>
