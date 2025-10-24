@@ -2951,9 +2951,400 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
-  
+
+    // 23 Thánh Vinh Sơn Phaolô
+  {
+    id: 'st-vincent-de-paul',
+    date: '09-27',
+    title: { 
+      vi: 'Thánh Vinh Sơn Phaolô',
+      en: 'St. Vincent de Paul',
+     
+    },
+    subtitle: {
+      vi: 'Đấng sáng lập Tu Hội Truyền Giáo và Tu Hội Nữ Tử Bác Ái',
+      en: 'Founder of the Congregation of the Mission and the Daughters of Charity',
+      
+    },
+    type: 'Đại lễ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
 
 
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+     // 24 Chân phước Con-tác-đô Phê-ri-ni
+  {
+    id: 'bl-cntardo-ferrini',
+    date: '10-17',
+    title: { 
+      vi: 'Chân phước Con-tác-đô Phê-ri-ni',
+      en: 'Bl. Contardo Ferrini'
+    },
+    subtitle: {
+      vi: 'Giáo dân',
+      en: 'Layperson',
+      
+    },
+    type: 'Đại lễ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+     // 25 Chân phước Pho-tu-na-tô Vê-lát-cô Tô-ba, linh mục Men-ki-o-ra A-đô-ra-ti-ôn Cóc-tê Bu-ê-nô, Giô-sép-pha Mác-ti-nê Pê-rê, trinh nữ và các bạn tử đạo
+  {
+    id: 'bl-fortunato-velasco-tobar-melchiora-adoration-cortes-bueno-josepha-martinez-perez',
+    date: '11-06',
+    title: { 
+      vi: 'Chân phước Pho-tu-na-tô Vê-lát-cô Tô-ba, linh mục Men-ki-o-ra A-đô-ra-ti-ôn Cóc-tê Bu-ê-nô, Giô-sép-pha Mác-ti-nê Pê-rê, trinh nữ và các bạn tử đạo',
+      en: 'Bl. Fortunato Velasco Tobar, Priest, Melchiora Adoration Cortés Bueno, Josepha Martínez Pérez, Virgins, and Companions, Martyr'
+    },
+    subtitle: {
+      vi: 'Chân phước Pho-tu-na-tô Vê-lát-cô Tô-ba, linh mục Men-ki-o-ra A-đô-ra-ti-ôn Cóc-tê Bu-ê-nô, Giô-sép-pha Mác-ti-nê Pê-rê, trinh nữ và các bạn tử đạo',
+      en: 'Bl. Fortunato Velasco Tobar, Priest, Melchiora Adoration Cortés Bueno, Josepha Martínez Pérez, Virgins, and Companions, Martyr',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+        vi: `<strong>THÁNH LỄ</strong>
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+
+
+<strong>Lời nguyện nhập lễ</strong>
+
+
+<strong>Bài đọc (1 Ga 3, 14-18)</strong>
+
+<em>Bài trích thư thứ nhất của thánh Gioan tông đồ.</em>
+
+
+<strong>Đáp ca (Tv 15)</strong>
+
+<strong>Đ. </strong>
+
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+ <strong>Đ.</strong>
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh </strong>
+
+
+<strong>Lời nguyện tiến lễ</strong>
+
+
+<strong>Ca hiệp lễ (Ga 8,12)</strong>
+
+<strong>Lời nguyện hiệp lễ</strong>
+
+`,       
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
 
 ];
 
