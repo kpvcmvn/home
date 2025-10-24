@@ -5890,6 +5890,7 @@ const DEFAULT_SETTINGS = {
             vi: 'Tôi tin kính Đức Chúa Trời là Cha phép tắc vô cùng dựng nên trời đất. Tôi tin kính Đức Chúa Giêsu Kitô là Con Một Đức Chúa Cha, cùng là Chúa chúng tôi. Bởi phép Đức Chúa Thánh Thần mà Người xuống thai, sinh bởi Bà Maria đồng trinh, chịu nạn đời quan Phongxiô Philatô, chịu đóng đanh trên cây Thánh giá, chết và táng xác, xuống ngục tổ tông, ngày thứ ba bởi trong kẻ chết mà sống lại, lên trời ngự bên hữu Đức Chúa Cha phép tắc vô cùng. Ngày sau bởi trời lại xuống phán xét kẻ sống và kẻ chết. Tôi tin kính Đức Chúa Thánh Thần. Tôi tin có Hội Thánh hằng có ở khắp thế này, các Thánh thông công. Tôi tin phép tha tội. Tôi tin xác loài người ngày sau sống lại. Tôi tin hằng sống vậy. Amen.', 
             en: 'I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.', 
           }},
+          // Kinh Lạy Nữ Vương
            { id: 'kinhlaynuvuong', title: { 
             vi: 'Kinh Lạy Nữ Vương', 
             en: 'Hail Holy Queen'
@@ -5899,15 +5900,39 @@ const DEFAULT_SETTINGS = {
             vi: 'Lạy Nữ Vương, Mẹ nhân lành, làm cho chúng con được sống, được vui, được cậy. Thân lạy Mẹ, chúng con, con cháu Evà ở chốn khách đầy, kêu đến cùng Bà. Chúng con ở nơi khóc lóc, than thở, kêu khẩn Bà thương. Hỡi ôi! Bà là Nữ Bào Chữa chúng con, xin ghé mắt thương xem chúng con. Đến sau khỏi đày, xin cho chúng con được thấy Đức Chúa Giêsu, Con lòng Bà gồm phước lạ. Ôi khoan thay! Nhân thay! Dịu thay! Thánh Maria trọn đời đồng trinh. Amen.', 
             en: 'Hail, holy Queen, Mother of Mercy, our life, our sweetness and our hope. To thee do we cry, poor banished children of Eve. To thee do we send up our sighs, mourning and weeping in this valley of tears. Turn then, most gracious Advocate, thine eyes of mercy toward us, and after this our exile, show unto us the blessed fruit of thy womb, Jesus. O clement, O loving, O sweet Virgin Mary.', 
             }},
-           { id: 'thanhgiuse', title: { 
-            vi: 'Kinh Thánh Giuse', 
+// Kinh dâng ngày
+           { id: 'kinhdangngay', title: { 
+            vi: 'Kinh dâng ngày', 
+            en: 'Daily Offering'
+          
+          }, 
+           content: { 
+            vi: 'Lạy Chúa là Thiên Chúa Toàn Năng, Chúa đã cho chúng con sống đến sáng hôm nay; họp nhau trước nhan Chúa, trong Thánh Danh Chúa và hiệp cùng tất cả anh chị em chúng con, chúng con dâng lên Chúa ngày hôm nay, cùng mọi việc làm, mọi chiến đấu, đau khổ và vui mừng của chúng con và của toàn thể gia đình nhân loại. Xin cho kinh nguyện, tư tưởng, lời nói và việc làm của chúng con, nhờ ơn Chúa giúp, được sạch mọi tội lỗi và đẹp lòng Chúa. Xin Chúa khấng ban những ơn ích bởi những việc lành chúng con sẽ làm trong ngày hôm nay, để chỉ cho Hội Thánh, cho Tu Hội, cho gia đình của chúng con, và cho tất cả những người chúng con muốn cầu nguyện. Chớ gì trọn đời sống chúng con, nhất là ngày hôm nay, nhờ Đức Giêsu Kitô Chúa chúng con, và Mẹ Thánh Người, được sáng Danh Chúa và cộng tác vào phần rỗi thế gian. Amen.', 
+            en: 'Eternal Father, I offer you everything I do this day. I offer you my prayers, thoughts, words, joys and sufferings / in union with the Eucharistic sacrifice of your Son Jesus Christ. May the Holy Spirit who guided and empowered Jesus be my guide and strength / so that I can be a witness to your love. I pray that all those who are baptized may mature in their faith / and manifest it through clear, coherent and courageous choices in life. I also pray that the evangelization of the poor of our Congregation of the Mission / may everywhere increase the spirit of missionary animation and cooperation. Amen'
+          }},
+// Kinh Thánh Vinh Sơn
+            { id: 'kinhthanhvinhson', title: { 
+            vi: 'Kinh Thánh Vinh Sơn', 
+            en: 'Official prayer of the society of St. Vincent de Paul'
+          
+          }, 
+           content: { 
+            vi: 'Lạy Chúa, để người nghèo được cứu độ và để hàng giáo sĩ được đào tạo tốt đẹp, Chúa đã đổ muôn ơn tông đồ xuống trên tôi tớ Chúa là Thánh Vinh Sơn Phaolô; chúng con là những người đang muốn học hỏi cuộc sống của thánh nhân. Vậy xin Chúa hằng ban cho chúng con được cháy lửa tình yêu của người, để chúng con biết yêu những gì người đã yêu mến và thực hành những gì người đã truyền dạy. Chúa là Đấng hằng sống và hiển trị muôn đời. Amen.', 
+            en: 'Lord Jesus, You who willed to become poor, give us eyes and a heart directed toward the poor; help us to recognize you in them, in their thirst, their hunger, their loneliness, and their misfortune. Enkindle within our Vincentian Family unity, simplicity, humility, and the fire of love that burned in St. Vincent de Paul. Strengthen us, so that, faithful to the practice of these virtues,/ we may contemplate you and serve you in the person of the poor, and may one day be united with you and them in your Kingdom. Amen'
+          }},
+
+
+                     { id: '', title: { 
+            vi: '', 
             en: ''
           
           }, 
            content: { 
-            vi: 'Lạy Thánh Giuse, xưa nay không ai kêu cầu Cha mà vô hiệu. Cha có thần thế trước mặt Đức Chúa Trời đến nỗi người ta có thể nói rằng: “Trên trời, Thánh Giuse truyền lệnh hơn là van xin. Lạy Cha hiền, xin cầu bầu cùng Chúa cho chúng con. Khi ở thế gian này, Cha đã từng là cha nuôi và là vị bảo hộ trung thành của Chúa Con Chí Thánh. Nay xin Cha bào chữa cho chúng con bên toà Chúa. Chúng con trao phó nơi Cha vụ khó khăn này (…) xin Cha giải gỡ giúp chúng con, để thêm một vinh quang mới vào bao nhiêu vinh quang sẵn có của Cha. Lạy Thánh Giuse nhân từ, chúng con tin tưởng, vâng chúng con tin tưởng Cha có thể chấp nhận lời nguyện của chúng con, và giải thoát chúng con khỏi những khổ cực ưu sầu mà chúng con đang gặp phải. Hơn nữa, chúng con vững lòng trông cậy, Cha không bỏ qua điều gì giúp ích cho những người sầu khổ kêu cầu Cha. Chúng con sấp mình dưới chân Cha, tha thiết nài xin Cha đoái thương đến những than van khóc lóc của chúng con, xin Cha lấy tình thương như áo choàng che phủ chúng con và chúc lành cho chúng con. Amen.', 
+            vi: '', 
             en: ''
           }},
+
+
         ],
         prayersoffice: [
             { id: 'chunhat', title: { 
