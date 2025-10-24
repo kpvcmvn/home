@@ -6085,11 +6085,66 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       để cùng thức tỉnh với Đức Ki-tô,
       và nghỉ ngơi an bình.
 
+<strong>Lời nguyện</strong> 
+Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+<strong>Kết thúc</strong> 
+      <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
+      <strong>Cộng đoàn</strong>	A-men.
+<strong>Ca vãn kính Đức Mẹ</strong> 
+      <strong>Kính chào Đức Nữ Vương</strong> (Salve Regina)
+      Kính chào Đức Nữ Vương,
+      Bà là Mẹ xót thương,
+      Ngọt ngào cho cuộc sống,
+      Kính chào Lẽ Cậy Trông !
 
+      Này con cháu E-và,
+      Thân phận người lưu lạc,
+      Chúng con ngửa trông Bà,
+      Kêu Bà mà khóc lóc,
+      Than thở với rên la
+      Trong lũng đầy nước mắt.
 
-      
-              
-              `, 
+      Bà là Nữ Trạng Sư,
+      Nguyện đưa mắt nhân từ,
+      Phía đoàn con đoái lại ;
+
+      Và sau đời khổ ải,
+      Xin Bà khứng tỏ ra
+      Cho đoàn con được thấy
+      Quả phúc bởi lòng Bà :
+      Đức Giê-su khả ái.
+
+      Ôi lượng cả khoan hồng,
+      Ôi tấm lòng xót thương,
+      Ôi dịu hiền nhân hậu,
+      Trinh Nữ Ma-ri-a. Amen.
+
+      <strong>Kính lạy Bà, Vị Nữ Hoàng Thiên Quốc</strong> (Ave Regina caelorum)
+      Kính lạy Bà, Vị Nữ Hoàng Thiên Quốc,
+      Lạy Nữ Vương trên chín phẩm thiên thần,
+      Là Cội Thiêng là Cửa Trời vinh phúc,
+      Đem Vầng Hồng rực rỡ xuống trần gian.
+
+      Mừng vui lên, mừng vui lên Trinh Nữ,
+      Bà hiển vinh, Bà diễm lệ khôn tày.
+      Bên toà Chúa Ki-tô, Ngôi Thánh Tử,
+      Cúi lạy Bà, xin nguyện giúp cầu thay.
+
+      <strong>Lạy Đức Mẹ Chúa Trời</strong> (Sub tuum praesidium)
+      Lạy Đức Mẹ Chúa Trời,
+      Ngài xiết bao thánh thiện,
+      Này chúng con chạy đến
+      Tìm nương ẩn nơi Ngài.
+
+      Lúc sa vòng gian khổ,
+      Khi gặp cảnh phong trần,
+      Lời con cái nài van,
+      Xin Mẹ đừng chê bỏ.
+
+      Nhưng xin hằng giải thoát
+      Khỏi ngàn nỗi hiểm nguy,
+      Ôi vinh diệu ai bì
+      Trinh Nữ đầy ơn phước !`, 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
 
