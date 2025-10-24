@@ -5921,8 +5921,41 @@ const DEFAULT_SETTINGS = {
             en: 'Lord Jesus, You who willed to become poor, give us eyes and a heart directed toward the poor; help us to recognize you in them, in their thirst, their hunger, their loneliness, and their misfortune. Enkindle within our Vincentian Family unity, simplicity, humility, and the fire of love that burned in St. Vincent de Paul. Strengthen us, so that, faithful to the practice of these virtues,/ we may contemplate you and serve you in the person of the poor, and may one day be united with you and them in your Kingdom. Amen'
           }},
 
+// Kinh kết thúc nguyện gẫm
+            { id: 'kinhketthucnguyengam', title: { 
+            vi: 'Kinh kết thúc nguyện gẫm', 
+            en: 'Prayer after meditation'
+          
+          }, 
+           content: { 
+            vi: 'Lạy Chúa, con xin chúc tụng Chúa đã đến hiện diện và ban ơn cho con trong giờ nguyện gẫm này. Nếu con đã không hưởng dùng ơn ấy cho đúng mức, thì xin Chúa tha thứ cho con. Xin Chúa củng cố những điều con vừa dốc lòng và ban sức mạnh giúp con thực thi trong đời sống, để chứng tỏ con yêu mến Chúa hơn, và phụng sự Chúa đắc lực hơn, qua những người anh em khốn khổ của chúng con. Amen.', 
+            en: 'I adore you, O my God, and love with all my heart. I thank you for having created me, called me into the Congregation of the Mission, and preserved me during the night past. I offer you all my actions of this day; grant that they may be done according to your holy will and for your greater glory. Keep me from sin and from every evil. May your grace be always with me and with all those who are dear to me. Amen.'
+          }},
 
-                     { id: '', title: { 
+// Kinh cầu cho ơn Thiên Triệu
+  { id: 'kinhcauchoonthientrieu', title: { 
+            vi: 'Kinh cầu cho ơn Thiên Triệu', 
+            en: 'Vincentian prayer for vocation'
+          
+          }, 
+           content: { 
+            vi: 'Lạy Chúa là Đấng Israel trông đợi, là Đấng cứu dân trong thời nguy khốn, xin từ trời cao ghé mắt nhân từ nhìn xuống, đến thăm vườn nho này, lấy nước đổ tràn mương cho đâm trồi nảy lộc, xin cho trở nên muôn phần tốt tươi. Mảnh vườn chính bàn tay phải Chúa đã vun trồng, mùa màng thật bát ngát mà thợ gặt thì ít. Vậy chúng con nài xin Chúa là chủ mùa màng hãy sai thợ gặt đến; xin làm cho dân Chúa trở nên đông số, làm cho mọi người vui thỏa, để xây tường lũy Giêrusalem. Nhà đây là nhà của Chúa, chúng con nài xin Chúa, đừng để viên đá nào, không phải do bàn tay rất thánh đặt để, còn những kẻ Chúa đã gọi, thì xin gìn giữ họ, làm cho họ nên thánh trong sự thật. Amen.', 
+            en: 'O hope of Israel! Our savior in times of trouble look down from heaven and visit this vineyard fill its streams, multiply its fruits and perfect what your right hand has planted. The harvest is indeed great but the laborers are scarce we ask you, O Lord of the harvest to send laborers into Your Harvest multiply Your family and increase its joys so that the walls of Jerusalem May be built up This is your house, O Lord, This is your house Let there not be in it we beseech you A stone which you Yourself have not places Preserve in Your name Those you have already called and sanctify them in truth. Amen.'
+          }},
+
+{ id: 'dâpcem', title: { 
+            vi: 'Da Pacem', 
+            en: 'Da Pacem'
+          
+          }, 
+           content: { 
+            vi: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.', 
+            en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
+          }},
+
+
+
+           { id: '', title: { 
             vi: '', 
             en: ''
           
