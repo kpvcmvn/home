@@ -7371,6 +7371,7 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
+            // Thứ Bảy
  { id: 'thubay', title: { 
               vi: 'Thứ Bảy',
               en: 'Saturday' 
@@ -7436,59 +7437,41 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
-              <i><strong>Tv 87 (88)</strong></i>
-<strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
-<i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
+              <i><strong>Tv 4</strong></i>
+<strong><i>Lời tạ ơn</i></strong>
+<i>Thiên Chúa biệt đãi Đức Ki-tô, Đấng Thiên Chúa đã cho sống lại từ cõi chết (thánh Âu-tinh)</i>
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Lạy Chúa, xin thương xót nghe lời con cầu khẩn.
 
-      Lạy Chúa là Thiên Chúa cứu độ con,
-      trước Thánh Nhan, đêm ngày con kêu cứu. *
-      Nguyện cho lời kinh vọng tới Ngài
-      xin lắng nghe tiếng lòng thổn thức.
-              
-      Con nằm đây giữa bao người chết, *
-      như các tử thi vùi trong mồ mả
-      đã bị Chúa quên đi
-      và không được tay Ngài săn sóc.
+      Lạy Thiên Chúa là đèn trời soi xét,
+      khi con kêu, nguyện Chúa đáp lời. *
+      Lúc ngặt nghèo, Chúa đã mở lối thoát cho con,
+      xin thương xót nghe lời con cầu khẩn.
 
-      Chúa hạ con xuống tận đáy huyệt sâu,
-      giữa chốn tối tăm, giữa lòng vực thẳm. *
-      Cơn giận Chúa đè nặng thân con
-      như sóng cồn xô đẩy dập vùi.
+      Phàm nhân hỡi, cho đến bao giờ
+      lòng vẫn còn chai đá *
+      ưa thích chuyện hư không,
+      chạy theo điều giả dối ?
 
-      Chúa làm cho bạn bè xa lánh
-      và coi con như đồ ghê tởm. *
-      Con bị giam cầm không thể thoát ra,
-      mắt mờ đi vì quá nhiều đau khổ.
+      Hãy biết rằng :
+      Chúa biệt đãi người hiếu trung với Chúa ; *
+      khi tôi kêu, Chúa đã nghe lời.
 
-      Lạy Chúa, suốt cả ngày con kêu lên Chúa
-      và giơ tay hướng thẳng về Ngài. *
-      Chúa đâu làm phép lạ
-      cho người đã mạng vong,
-      âm hồn đâu trỗi dậy
-      ca tụng Chúa bao giờ ?
+      Hãy run sợ, và đừng phạm tội nữa,
+      trên giường nằm, suy nghĩ và lặng thinh. *
+      6Hãy tiến dâng lễ tế như luật truyền
+      và tin tưởng vào Chúa.
 
-      Trong mồ mả, ai nói về tình thương của Chúa,
-      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-      Những kỳ công Chúa, nơi tối tăm ai rõ,
-      đức công chính Ngài, chốn quên lãng ai hay ?
+      Biết bao kẻ nói rằng :
+      “Ai sẽ cho ta thấy hạnh phúc ?” *
+      Lạy Chúa, xin toả ánh tôn nhan Ngài trên chúng con.
 
-      Phần con đây, con kêu lên Ngài, lạy Chúa,
-      mới tinh sương đã chờ chực nguyện xin. *
-      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-      ẩn mặt đi mà chẳng đoái hoài.
+      Chúa ban xuống lòng con nhiều hoan lạc
+      hơn khi thiên hạ được mùa, lúa rượu đầy dư.
 
-      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-      bấy nỗi kinh hoàng khiến con rời rã.
-
-      Bủa vây con suốt ngày ngần ấy thứ,
-      dồn dập tư bề như nước bao la. *
-      Cận thân Chúa khiến lìa xa,
-      chung quanh bầu bạn chỉ là bóng đêm.
+      Thư thái bình an, vừa nằm con đã ngủ, *
+      vì chỉ có mình Ngài, lạy Chúa,
+      10ban cho con được sống yên hàn.
 
       Vinh danh Chúa Cha và Chúa Con,
       cùng vinh danh Thánh Thần Thiên Chúa,
@@ -7496,11 +7479,36 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       tự muôn đời và chính hiện nay
       luôn mãi đến thiên thu vạn đại. A-men.
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Lạy Chúa, xin thương xót nghe lời con cầu khẩn.
+
+      <i><strong>133 (134)</strong></i>
+<strong><i>Kinh chiều trong đền thánh</i></strong>
+<i>Nào ca ngợi Chúa đi, hỡi tất cả tôi trung của Chúa, hỡi những ai lớn nhỏ hằng kính sợ Người (Kh 19,5)</i>
+
+      <strong>ĐC</strong> Hãy chúc tụng Thiên Chúa đêm đêm suốt canh dài.
+
+      Hỡi tất cả những người tôi tớ Chúa
+      ứng trực suốt đêm trong thánh điện,
+      nào chúc tụng Chúa đi !
+
+      Hãy giơ tay hướng về cung thánh
+      mà dâng lên lời chúc tụng Người.
+
+      Cúi xin Đấng tạo thành trời đất
+      xuống cho bạn muôn vàn phúc cả
+      từ núi thánh Xi-on.
+
+      Vinh danh Chúa Cha và Chúa Con,
+      cùng vinh danh Thánh Thần Thiên Chúa,
+
+      tự muôn đời và chính hiện nay
+      luôn mãi đến thiên thu vạn đại. A-men.
+
+      <strong>ĐC</strong> Hãy chúc tụng Thiên Chúa đêm đêm suốt canh dài.
+
               
-<strong>Lời Chúa</strong>           <i>(Gr 14,9)</i>
-Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa vì được mang danh Ngài. Xin đừng bỏ rơi chúng con, lạy Chúa là Thiên Chúa chúng con.
+<strong>Lời Chúa</strong>           <i>Đnl 6,4-7</i>
+Nghe đây, hỡi Ít-ra-en, Đức Chúa, Thiên Chúa chúng ta, là Đức Chúa duy nhất. Hãy yêu mến Đức Chúa, Thiên Chúa của anh em, hết lòng hết dạ, hết sức anh em. Những lời này tôi truyền cho anh em hôm nay, anh em phải ghi lòng tạc dạ. Anh em phải lặp lại những lời ấy cho con cái, phải nói lại cho chúng, lúc ngồi trong nhà cũng như lúc đi đường, khi đi ngủ cũng như khi thức dậy.
 <i>(Sau khi nghe lời Chúa, thinh lặng suy niệm trong giây lát).</i>
 <strong>Xướng đáp</strong>  
       <strong>X</strong> Trong tay Ngài, lạy Chúa,
@@ -7547,7 +7555,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       và nghỉ ngơi an bình.
 
 <strong>Lời nguyện</strong> 
-Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+Lạy Chúa, xin viếng thăm chúng con đêm nay, để sớm mai, nhờ quyền năng Chúa, chúng con được thức dậy và hân hoan mừng ngày Đức Ki-tô phục sinh. Người hằng sống và hiển trị muôn đời.
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
       <strong>Cộng đoàn</strong> A-men.
