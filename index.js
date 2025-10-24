@@ -7128,9 +7128,9 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
- { id: 'chunhat', title: { 
-              vi: 'Chúa Nhật',
-              en: 'Sunday' 
+ { id: 'thusau', title: { 
+              vi: 'Thứ Sáu',
+              en: 'Friday' 
               }, 
             content: { 
               vi: `
@@ -7371,9 +7371,9 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
- { id: 'chunhat', title: { 
-              vi: 'Chúa Nhật',
-              en: 'Sunday' 
+ { id: 'thubay', title: { 
+              vi: 'Thứ Bảy',
+              en: 'Saturday' 
               }, 
             content: { 
               vi: `
