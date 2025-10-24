@@ -6463,59 +6463,57 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
-              <i><strong>Tv 87 (88)</strong></i>
-<strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
-<i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
+              <i><strong>Tv 142 (143),1-11</strong></i>
+<strong><i>Lời cầu xin lúc gặp hiểm nguy</i></strong>
+<i>Con người được nên công chính không phải vì làm những việc lề luật dạy, nhưng vì tin vào Đức Ki-tô Giê-su (Gl 2,16)</i>
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Lạy Chúa, xin đừng ẩn mặt đi, vì con vẫn tin cậy nơi Ngài.
 
-      Lạy Chúa là Thiên Chúa cứu độ con,
-      trước Thánh Nhan, đêm ngày con kêu cứu. *
-      Nguyện cho lời kinh vọng tới Ngài
-      xin lắng nghe tiếng lòng thổn thức.
-              
-      Con nằm đây giữa bao người chết, *
-      như các tử thi vùi trong mồ mả
-      đã bị Chúa quên đi
-      và không được tay Ngài săn sóc.
+      Lạy Chúa, xin nghe lời con khẩn nguyện, *
+      lắng nghe con nài van, bởi Ngài thành tín,
+      đáp lại lời con, vì Ngài công minh.
 
-      Chúa hạ con xuống tận đáy huyệt sâu,
-      giữa chốn tối tăm, giữa lòng vực thẳm. *
-      Cơn giận Chúa đè nặng thân con
-      như sóng cồn xô đẩy dập vùi.
+      2Xin chớ đòi tôi tớ ra xét xử, *
+      vì trước thánh nhan Ngài
+      chẳng có người nào là công chính.
 
-      Chúa làm cho bạn bè xa lánh
-      và coi con như đồ ghê tởm. *
-      Con bị giam cầm không thể thoát ra,
-      mắt mờ đi vì quá nhiều đau khổ.
+      3Kẻ thù bách hại con,
+      chà đạp con dưới đất,
+      đẩy vào chốn tối tăm
+      như những người đã chết từ bao thuở.
 
-      Lạy Chúa, suốt cả ngày con kêu lên Chúa
-      và giơ tay hướng thẳng về Ngài. *
-      Chúa đâu làm phép lạ
-      cho người đã mạng vong,
-      âm hồn đâu trỗi dậy
-      ca tụng Chúa bao giờ ?
+      4Hơi thở con chỉ còn thoi thóp,
+      nghe con tim giá lạnh trong mình.
 
-      Trong mồ mả, ai nói về tình thương của Chúa,
-      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-      Những kỳ công Chúa, nơi tối tăm ai rõ,
-      đức công chính Ngài, chốn quên lãng ai hay ?
+      5Nhớ ngày xưa tháng cũ,
+      con hoài niệm mọi công trình của Chúa,
+      và gẫm suy việc tay Chúa làm nên. *
+      6Hai tay cầu Chúa giơ lên,
+      hồn con khát Chúa như miền đất khô.
 
-      Phần con đây, con kêu lên Ngài, lạy Chúa,
-      mới tinh sương đã chờ chực nguyện xin. *
-      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-      ẩn mặt đi mà chẳng đoái hoài.
+      7Xin mau đáp lời con, lạy Chúa,
+      hơi thở con nay đã hầu tàn. *
+      Xin đừng ẩn mặt đi,
+      kẻo con hoá ra người thiên cổ.
 
-      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-      bấy nỗi kinh hoàng khiến con rời rã.
+      8Ngay từ buổi sớm mai,
+      xin cho con nghiệm thấy tình thương của Chúa,
+      vì con vẫn tin cậy nơi Ngài. *
+      Xin chỉ dạy đường lối phải theo,
+      vì con nâng tâm hồn lên cùng Chúa.
 
-      Bủa vây con suốt ngày ngần ấy thứ,
-      dồn dập tư bề như nước bao la. *
-      Cận thân Chúa khiến lìa xa,
-      chung quanh bầu bạn chỉ là bóng đêm.
+      9Xin cứu con thoát khỏi địch thù,
+      lạy Chúa, bên Ngài con trú ẩn.
+
+      10Điều đẹp ý Ngài, xin dạy con thực hiện,
+      bởi Ngài là Thiên Chúa của con. *
+      Xin thần khí tốt lành của Chúa
+      dẫn con đi trên miền đất phẳng phiu.
+
+      11Lạy Chúa, vì danh dự của Ngài,
+      xin cho con được sống. *
+      Bởi vì Ngài công chính,
+      xin cứu con khỏi bước ngặt nghèo.
 
       Vinh danh Chúa Cha và Chúa Con,
       cùng vinh danh Thánh Thần Thiên Chúa,
@@ -6523,11 +6521,10 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       tự muôn đời và chính hiện nay
       luôn mãi đến thiên thu vạn đại. A-men.
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
-              
-<strong>Lời Chúa</strong>           <i>(Gr 14,9)</i>
-Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa vì được mang danh Ngài. Xin đừng bỏ rơi chúng con, lạy Chúa là Thiên Chúa chúng con.
+      <strong>ĐC</strong> Lạy Chúa, xin đừng ẩn mặt đi, vì con vẫn tin cậy nơi Ngài.
+
+<strong>Lời Chúa</strong>           <i>1 Pr 5,8-9a</i>
+Anh em hãy sống tiết độ và tỉnh thức, vì ma quỷ, thù địch của anh em, như sư tử gầm thét, rảo quanh tìm mồi cắn xé. Anh em hãy đứng vững trong đức tin mà chống cự.
 <i>(Sau khi nghe lời Chúa, thinh lặng suy niệm trong giây lát).</i>
 <strong>Xướng đáp</strong>  
       <strong>X</strong> Trong tay Ngài, lạy Chúa,
@@ -6574,7 +6571,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       và nghỉ ngơi an bình.
 
 <strong>Lời nguyện</strong> 
-Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+Lạy Chúa, xin thương chiếu giãi ánh sáng Chúa vào bóng tối đêm nay, và ban cho chúng con là con cái Chúa được nghỉ ngơi an lành, để nhân danh Chúa, chúng con được vui mừng thức dậy hưởng ánh quang ngày mới. Chúng con cầu xin
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
       <strong>Cộng đoàn</strong> A-men.
@@ -6641,7 +6638,7 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
-            
+
             // Thứ Tư
  { id: 'thutu', title: { 
               vi: 'Thứ Tư',
