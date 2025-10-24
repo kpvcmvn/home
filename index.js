@@ -6641,6 +6641,7 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
+            
             // Thứ Tư
  { id: 'thutu', title: { 
               vi: 'Thứ Tư',
@@ -6707,59 +6708,64 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
-              <i><strong>Tv 87 (88)</strong></i>
-<strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
-<i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
+              <i><strong>Tv 30 (31),2-6</strong></i>
+<strong><i>Lời cầu nguyện tin tưởng của người sầu khổ</i></strong>
+<i>Lạy Cha, con xin phó thác hồn con trong tay Cha (Lc 23,46)</i>
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Xin Chúa cứu độ con, và cho con ẩn náu bên Ngài.
 
-      Lạy Chúa là Thiên Chúa cứu độ con,
-      trước Thánh Nhan, đêm ngày con kêu cứu. *
-      Nguyện cho lời kinh vọng tới Ngài
-      xin lắng nghe tiếng lòng thổn thức.
-              
-      Con nằm đây giữa bao người chết, *
-      như các tử thi vùi trong mồ mả
-      đã bị Chúa quên đi
-      và không được tay Ngài săn sóc.
+      Con ẩn náu bên Ngài, lạy Chúa,
+      xin đừng để con phải tủi nhục bao giờ.
 
-      Chúa hạ con xuống tận đáy huyệt sâu,
-      giữa chốn tối tăm, giữa lòng vực thẳm. *
-      Cơn giận Chúa đè nặng thân con
-      như sóng cồn xô đẩy dập vùi.
+      Bởi vì Ngài công chính, xin giải thoát con,
+      ghé tai nghe và mau mau cứu chữa. *
+      Xin Ngài nên như núi đá cho con trú ẩn,
+      như thành trì để cứu độ con.
 
-      Chúa làm cho bạn bè xa lánh
-      và coi con như đồ ghê tởm. *
-      Con bị giam cầm không thể thoát ra,
-      mắt mờ đi vì quá nhiều đau khổ.
+      Núi đá và thành luỹ bảo vệ con, chính là Chúa,
+      vì danh dự Ngài, xin dẫn đường chỉ lối cho con. *
+      Lưới kẻ thù giăng, xin gỡ con ra khỏi,
+      vì nơi con trú ẩn, chính là Ngài.
 
-      Lạy Chúa, suốt cả ngày con kêu lên Chúa
-      và giơ tay hướng thẳng về Ngài. *
-      Chúa đâu làm phép lạ
-      cho người đã mạng vong,
-      âm hồn đâu trỗi dậy
-      ca tụng Chúa bao giờ ?
+      Trong tay Ngài, con xin phó thác hồn con,
+      Ngài đã cứu chuộc con, lạy Chúa Trời thành tín.
 
-      Trong mồ mả, ai nói về tình thương của Chúa,
-      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-      Những kỳ công Chúa, nơi tối tăm ai rõ,
-      đức công chính Ngài, chốn quên lãng ai hay ?
+      Vinh danh Chúa Cha và Chúa Con,
+      cùng vinh danh Thánh Thần Thiên Chúa,
 
-      Phần con đây, con kêu lên Ngài, lạy Chúa,
-      mới tinh sương đã chờ chực nguyện xin. *
-      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-      ẩn mặt đi mà chẳng đoái hoài.
+      tự muôn đời và chính hiện nay
+      luôn mãi đến thiên thu vạn đại. A-men
 
-      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-      bấy nỗi kinh hoàng khiến con rời rã.
+      <strong>ĐC</strong> Xin Chúa cứu độ con, và cho con ẩn náu bên Ngài.
 
-      Bủa vây con suốt ngày ngần ấy thứ,
-      dồn dập tư bề như nước bao la. *
-      Cận thân Chúa khiến lìa xa,
-      chung quanh bầu bạn chỉ là bóng đêm.
+              <i><strong>Tv 129 (130)</strong></i>
+<strong><i>Tiếng kêu từ vực thẳm</i></strong>
+<i>Chính Đức Giê-su sẽ cứu dân Người khỏi tội lỗi (Mt 1,21)</i>
+
+      <strong>ĐC</strong> Từ vực thẳm, con kêu lên Ngài, lạy Chúa.
+
+      (Từ vực thẳm, con kêu lên Ngài, lạy Chúa,)
+      muôn lạy Chúa, xin Ngài nghe tiếng con. *
+      Dám xin Ngài lắng tai để ý,
+      nghe lời con tha thiết nguyện cầu.
+
+      Ôi lạy Chúa, nếu như Ngài chấp tội,
+      nào có ai đứng vững được chăng ? *
+      Nhưng Chúa vẫn rộng lòng tha thứ
+      để chúng con biết kính sợ Ngài.
+
+      Mong đợi Chúa, tôi hết lòng mong đợi,
+      cậy trông ở lời Người. *
+      Hồn tôi trông chờ Chúa,
+      hơn lính canh mong đợi hừng đông.
+
+      Hơn lính canh mong đợi hừng đông,
+      trông cậy Chúa đi, Ít-ra-en hỡi, *
+      bởi Chúa luôn từ ái một niềm,
+      ơn cứu chuộc nơi Người chan chứa.
+
+      Chính Người sẽ cứu chuộc Ít-ra-en
+      cho thoát khỏi tội khiên muôn vàn.
 
       Vinh danh Chúa Cha và Chúa Con,
       cùng vinh danh Thánh Thần Thiên Chúa,
@@ -6767,11 +6773,10 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       tự muôn đời và chính hiện nay
       luôn mãi đến thiên thu vạn đại. A-men.
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> Từ vực thẳm, con kêu lên Ngài, lạy Chúa.
               
-<strong>Lời Chúa</strong>           <i>(Gr 14,9)</i>
-Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa vì được mang danh Ngài. Xin đừng bỏ rơi chúng con, lạy Chúa là Thiên Chúa chúng con.
+<strong>Lời Chúa</strong>           <i>(Ep 4,26-27)</i>
+Anh em đừng phạm tội : chớ để mặt trời lặn mà cơn giận vẫn còn. Đừng để ma quỷ thừa cơ lợi dụng !
 <i>(Sau khi nghe lời Chúa, thinh lặng suy niệm trong giây lát).</i>
 <strong>Xướng đáp</strong>  
       <strong>X</strong> Trong tay Ngài, lạy Chúa,
@@ -6818,7 +6823,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       và nghỉ ngơi an bình.
 
 <strong>Lời nguyện</strong> 
-Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+Lạy Chúa Giê-su Ki-tô khiêm nhường và hiền hậu, ách của Chúa êm ái, gánh của Chúa nhẹ nhàng. Chúng con đến trao vào tay Chúa gánh nặng của ngày hôm nay, xin cho chúng con được nghỉ ngơi bên Chúa là Đấng hằng sống và hiển trị muôn đời.
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
       <strong>Cộng đoàn</strong> A-men.
@@ -6885,6 +6890,7 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
+
  { id: 'thunam', title: { 
               vi: 'Thứ Năm',
               en: 'Thursday' 
@@ -6950,59 +6956,47 @@ tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đạ
       Ngàn muôn phước cả vinh hoa đời đời.
               
               <strong>Ca Vịnh</strong>
-              <i><strong>Tv 87 (88)</strong></i>
-<strong><i>Lời cầu xin trong lúc ngặt nghèo</i></strong>
-<i>Đây là giờ các ông hành động, là lúc thần tăm tối hoành hành (Lc 22,53)</i>
+              <i><strong>Tv 15 (16)</strong></i>
+<strong><i>Chúa là phần gia nghiệp</i></strong>
+<i>Thiên Chúa đã giải thoát Đức Giê-su khỏi những đau khổ do thần chết gây nên mà cho Người sống lại (Cv 2,24)</i>
 
-      <strong>ĐC</strong> Trước Thánh Nhan, lạy Chúa,
-            con kêu cứu đêm ngày.
+      <strong>ĐC</strong> TThân xác con nghỉ ngơi an toàn.
 
-      Lạy Chúa là Thiên Chúa cứu độ con,
-      trước Thánh Nhan, đêm ngày con kêu cứu. *
-      Nguyện cho lời kinh vọng tới Ngài
-      xin lắng nghe tiếng lòng thổn thức.
-              
-      Con nằm đây giữa bao người chết, *
-      như các tử thi vùi trong mồ mả
-      đã bị Chúa quên đi
-      và không được tay Ngài săn sóc.
+      Lạy Chúa Trời, xin giữ gìn con,
+      vì bên Ngài, con đang ẩn náu. *
+      Con thưa cùng Chúa : “Ngài là Chúa con thờ,
+      ngoài Chúa ra, đâu là hạnh phúc ?”
 
-      Chúa hạ con xuống tận đáy huyệt sâu,
-      giữa chốn tối tăm, giữa lòng vực thẳm. *
-      Cơn giận Chúa đè nặng thân con
-      như sóng cồn xô đẩy dập vùi.
+      Còn thần ngoại xứ này,
+      những thần linh xưa con sùng mộ, *
+      4vẫn gia tăng tàn phá,
+      và thiên hạ tới tấp chạy theo.
 
-      Chúa làm cho bạn bè xa lánh
-      và coi con như đồ ghê tởm. *
-      Con bị giam cầm không thể thoát ra,
-      mắt mờ đi vì quá nhiều đau khổ.
+      Máu tế thần, con quyết chẳng dâng,
+      tên của thần, môi con không tụng niệm !
 
-      Lạy Chúa, suốt cả ngày con kêu lên Chúa
-      và giơ tay hướng thẳng về Ngài. *
-      Chúa đâu làm phép lạ
-      cho người đã mạng vong,
-      âm hồn đâu trỗi dậy
-      ca tụng Chúa bao giờ ?
+      5Lạy Chúa, Chúa là phần sản nghiệp con được hưởng,
+      là chén phúc lộc dành cho con ; *
+      số mạng con, chính Ngài nắm giữ.
 
-      Trong mồ mả, ai nói về tình thương của Chúa,
-      cõi âm ty, ai kể lại lòng thành tín của Ngài ? *
-      Những kỳ công Chúa, nơi tối tăm ai rõ,
-      đức công chính Ngài, chốn quên lãng ai hay ?
+      6Phần tuyệt hảo may mắn đã về con,
+      vâng, gia nghiệp ấy làm con thoả mãn.
 
-      Phần con đây, con kêu lên Ngài, lạy Chúa,
-      mới tinh sương đã chờ chực nguyện xin. *
-      Lạy Chúa, thân con đây Chúa nỡ nào ruồng rẫy,
-      ẩn mặt đi mà chẳng đoái hoài.
+      7Con chúc tụng Chúa hằng thương chỉ dạy,
+      ngay cả đêm trường, lòng dạ nhắn nhủ con. *
+      8Con luôn nhớ có Ngài trước mặt,
+      được Ngài ở bên, chẳng nao núng bao giờ.
 
-      Từ thuở bé, con khổ đã nhiều và luôn ngắc ngoải,
-      Chúa làm con kinh hãi, con hoá ra thẫn thờ. *
-      Bao cơn thịnh nộ, Ngài đổ ngập thân con,
-      bấy nỗi kinh hoàng khiến con rời rã.
+      9Vì thế, tâm hồn con mừng rỡ
+      và lòng dạ hân hoan, *
+      thân xác con cũng nghỉ ngơi an toàn.
 
-      Bủa vây con suốt ngày ngần ấy thứ,
-      dồn dập tư bề như nước bao la. *
-      Cận thân Chúa khiến lìa xa,
-      chung quanh bầu bạn chỉ là bóng đêm.
+      10Vì Chúa chẳng đành bỏ mặc con trong cõi âm ty,
+      không để kẻ hiếu trung này hư nát trong phần mộ.
+
+      11Chúa sẽ dạy con biết đường về cõi sống : *
+      trước Thánh Nhan, ôi vui sướng tràn trề,
+      ở bên Ngài, hoan lạc chẳng hề vơi !
 
       Vinh danh Chúa Cha và Chúa Con,
       cùng vinh danh Thánh Thần Thiên Chúa,
@@ -7061,7 +7055,7 @@ Lạy Chúa, Ngài ngự giữa chúng con, và chúng con thuộc về Chúa v�
       và nghỉ ngơi an bình.
 
 <strong>Lời nguyện</strong> 
-Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững bền với Đức Ki-tô, Con Một Chúa, Đấng đã chịu mai táng trong mồ, để cùng Người, chúng con được trỗi dậy và sống một đời sống mới. Người hằng sống và hiển trị muôn đời.
+Lạy Chúa là phần gia nghiệp của chúng con, ngoài Chúa ra, chúng con không tìm đâu được hạnh phúc. Xin cho chúng con vững tin rằng : sau khi đã vượt qua đêm dài của cái chết, chúng con sẽ vui mừng sống bên Chúa mãi mãi. Chúng con cầu xin
 <strong>Kết thúc</strong> 
       <strong>Chủ sự</strong> Xin Thiên Chúa toàn năng cho ta qua một đêm yên ổn và giờ sau hết được chết lành.
       <strong>Cộng đoàn</strong> A-men.
@@ -7128,6 +7122,7 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
 
               en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
             }},
+            // Thứ Sáu
  { id: 'thusau', title: { 
               vi: 'Thứ Sáu',
               en: 'Friday' 
