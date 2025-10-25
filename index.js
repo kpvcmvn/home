@@ -7406,14 +7406,23 @@ and to you, my brothers and sisters,
 that I have greatly sinned,
 in my thoughts and in my words,
 in what I have done and in what I have failed to do,
-hrough my fault, through my fault,
+through my fault, through my fault,
 through my most grievous fault;
 therefore I ask blessed Mary ever-Virgin,
 all the Angels and Saints,
 and you, my brothers and sisters,
 to pray for me to the Lord our God.
 
-<strong>The absolution by the presider follows:</strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<strong>Lord, have mercy.</strong>
+
+You came to call sinners: Christ, have mercy.
+<strong>Christ, have mercy.</strong>
+
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<strong>Lord, have mercy.</strong>
+
+<strong><i>The absolution by the presider follows:</i></strong>
 May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.]
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
@@ -7566,7 +7575,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 
 <strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
 
-    <strong>1</strong> Salve, Regína, mater misericórdiæ;
+  <strong>1</strong> Salve, Regína, mater misericórdiæ;
     vita, dulcédo et spes nostra, salve,
     Ad te clamámus, éxsules filíi Evæ.
     Ad te suspirámus, geméntes et flentes
@@ -7580,7 +7589,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clemens, o pia, o dulcis Virgo María.
 
 
-    <strong>2</strong> Hail, holy Queen, mother of mercy,
+  <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
     To you do we cry,
     poor banished children of Eve.
@@ -7593,7 +7602,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-    <strong>2</strong> Loving mother of the Redeemer,
+  <strong>2</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
