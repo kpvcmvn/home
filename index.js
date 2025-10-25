@@ -5969,14 +5969,43 @@ const DEFAULT_SETTINGS = {
           }},
 
 
-           { id: '', title: { 
-            vi: '', 
-            en: ''
+           { id: 'kinktruyentin', title: { 
+            vi: 'Kinh Truyền Tin', 
+            en: 'The Angelus'
           
           }, 
            content: { 
-            vi: '', 
-            en: ''
+            vi: `
+<strong>Xướng:</strong> Đức Chúa Trời sai Thánh Thiên Thần truyền tin cho Rất Thánh Đức Bà Maria.
+<strong>Đáp:</strong> Và Rất Thánh Đức Bà chịu thai bởi phép Đức Chúa Thánh Thần.
+<i>Kính mừng Maria đầy ơn phúc, Đức Chúa Trời ở cùng Bà, Bà có phúc lạ hơn mọi người nữ, và Giêsu con lòng Bà gồm phúc lạ. 
+Thánh Maria Đức Mẹ Chúa Trời, cầu cho chúng con là kẻ có tội khi nay và trong giờ lâm tử. Amen.</i>
+<strong>Xướng:</strong> Này tôi là tôi tá Đức Chúa Trời.
+<strong>Đáp:</strong> Tôi xin vâng như lời Thánh Thiên Thần truyền.
+<i>Kính mừng... Thánh Maria...</i>
+<strong>Xướng:</strong> Chốc ấy Ngôi Thứ Hai xuống thế làm người.
+<strong>Đáp:</strong> Và ở cùng chúng con.
+<i>Kính mừng... Thánh Maria...</i>
+<strong>Xướng:</strong> Lạy Rất Thánh Đức Mẹ Chúa Trời, xin cầu cho chúng
+<strong>Đáp:</strong> Đáng chịu lấy những sự Chúa Kitô đã hứa.
+<strong>Lời nguyện:</strong> Lạy Chúa, chúng con xin Chúa ban ơn xuống trong linh hồn chúng con là kẻ đã nhờ lời Thánh Thiên Thần truyền, mà biết thật Chúa Kitô là con Chúa đã xuống thế làm Người, thì xin vì công ơn Chúa chịu nạn chịu chết trên cây Thánh Giá, cho chúng con ngày sau khi sống lại được đến nơi vinh hiển, cũng vì công nghiệp Chúa Kitô Chúa chúng con. Amen.
+
+            `, 
+ en: `
+<strong>V:</strong> The Angel of the Lord declared unto Mary,
+<strong>R:</strong> And she conceived of the Holy Spirit.
+<i>Hail Mary, full of grace, the Lord is with thee; blessed art thou among women and blessed is the fruit of thy womb, Jesus. 
+Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</i>
+<strong>V:</strong> Behold the handmaid of the Lord.
+<strong>R:</strong> Be it done unto me according to Your Word.
+<i>Hail Mary... Holy Mary...</i>
+<strong>V:</strong> And the Word was made flesh,
+<strong>R:</strong> And dwelt among us.
+<i>Hail Mary... Holy Mary...</i>
+<strong>V:</strong> Pray for us, O holy Mother of God.
+<strong>R:</strong> That we may be made worthy of the promises of Christ.
+<strong>Let us pray:</strong> Pour forth, we beseech You, O Lord, Your Grace into our hearts; that as we have known the incarnation of Christ, your Son by the message of an angel, so by His passion and cross we may be brought to the glory of His Resurrection. Through the same Christ, our Lord. Amen.
+            `,
           }},
 
 
