@@ -6439,14 +6439,22 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `,             }},
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,            
+     }},
 // Thứ Hai
              { id: 'thuhai', title: { 
               vi: 'Thứ Hai',
@@ -6899,14 +6907,21 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `,             }},
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,               }},
 // Thứ Ba
  { id: 'thuba', title: { 
               vi: 'Thứ Ba',
@@ -7334,14 +7349,21 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `,             }},
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,               }},
 
  // Thứ Tư
  { id: 'thutu', title: { 
@@ -7774,14 +7796,21 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `,             }},
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,               }},
 // Thứ Năm
  { id: 'thunam', title: { 
               vi: 'Thứ Năm',
@@ -8211,13 +8240,20 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
       `,             }},
 // Thứ Sáu
  { id: 'thusau', title: { 
@@ -8648,14 +8684,21 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `, 
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,   
             }},
   // Thứ Bảy
  { id: 'thubay', title: { 
@@ -9103,14 +9146,21 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-<strong>2</strong> Loving mother of the Redeemer,
+<strong>3</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
     yet remained a virgin after as before.
     You who received Gabriel’s joyful greeting,
     have pity on us poor sinners.
-      `, 
+
+    <i>(Easter Season)</i>
+<strong>4</strong> Queen of heaven, rejoice, alleluia.
+    The Son whom you merited to bear, alleluia,
+    has risen as he said, alleluia.
+    Rejoice and be glad, O Virgin Mary, alleluia!
+    For the Lord has truly risen, alleluia.
+      `,   
                 }},
 
 
