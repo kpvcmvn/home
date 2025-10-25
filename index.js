@@ -7401,7 +7401,7 @@ as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> 
 
 <i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
 
-[I confess to almighty God
+I confess to almighty God
 and to you, my brothers and sisters,
 that I have greatly sinned,
 in my thoughts and in my words,
@@ -7412,7 +7412,7 @@ therefore I ask blessed Mary ever-Virgin,
 all the Angels and Saints,
 and you, my brothers and sisters,
 to pray for me to the Lord our God.
-
+<strong><i>or</i></strong>
 You were sent to heal the contrite of heart: Lord, have mercy.
 <strong>Lord, have mercy.</strong>
 
@@ -7423,7 +7423,8 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 <strong>Lord, have mercy.</strong>
 
 <strong><i>The absolution by the presider follows:</i></strong>
-May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen.]
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
