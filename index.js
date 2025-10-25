@@ -79,7 +79,8 @@ Elizabeth Ann Bayley was born in New York on August 28, 1774, on the eve of the 
 She married William Seton at the age of 20, and from this marriage, she had five children. During a business trip to Italy, her husband died in Pisa on December 27, 1803. She was welcomed and comforted by a friendly Catholic family: the Felicchi family, in whom she discovered profound charity.
 Upon her return to the United States, Elizabeth, a devout Episcopalian, now felt strongly attracted to Catholic doctrine. Her family, not understanding her quest, abandoned her. Elizabeth then faced many personal and family trials. Finally, on March 14, 1805, she was received into the Catholic Church.
 While maintaining an intense spiritual life and regularly caring for the education of her children, she pursued her own interest in being fully committed to charitable works. In 1809, she founded the Congregation of the Sisters of Charity in the diocese of Baltimore, with St. Joseph as its patron, for the education of young girls. Under the guidance of Bishop Cheverus, she wished to be affiliated with the Company of the Daughters of Charity of St. Vincent de Paul, but the political situation at the time prevented this plan. On January 4, 1821, Elizabeth Ann Seton died in Emmitsburg. She was also the originator of five branches of American Sisters of Charity. The Emmitsburg branch would merge with the Company of the Daughters of Charity on March 25, 1850.
-Formed by the Word of God, with a fervent love for the Church, Elizabeth Ann Seton left a solid legacy of thought. She was beatified by Pope John XXIII on March 17, 1963, and canonized by Pope Paul VI on September 14, 1975.`,
+Formed by the Word of God, with a fervent love for the Church, Elizabeth Ann Seton left a solid legacy of thought. She was beatified by Pope John XXIII on March 17, 1963, and canonized by Pope Paul VI on September 14, 1975.
+`,
 
 },
       massReadings: {
@@ -2968,11 +2969,11 @@ en: `<strong>MASS</strong>
     sections: {
       biography: {
         vi: `<strong>Tiểu sử</strong>
-        
+
         `,
        
 en: `<strong>Biography</strong>
-
+Born in Pouy, Gascony, on the 24th of April 1581, Vincent De Paul was ordained a priest on the 23rd of September 1600 in Château-l’Évêque. Initially, he was a parish priest in Paris, later becoming a chaplain to the Gondi family. He dedicated himself entirely to helping the poor and for this purpose, he founded the Confraternity of Charity among the laity, and later in 1625, the Congregation of the Mission, to which he entrusted the missions to the people and the task of training the clergy. Furthermore, with the collaboration of Saint Louise de Marillac, he founded the Company of the Daughters of Charity. He died in Paris on the 27th of September 1660. He was beatified on the 13th of August 1729 and was canonized on the 16th of June 1737. Leo XIII proclaimed him the patron of all charitable works.  
 `
 },
       massReadings: {
