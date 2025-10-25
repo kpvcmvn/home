@@ -6216,8 +6216,223 @@ Lạy Thiên Chúa toàn năng, xin cho chúng con được liên kết vững b
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `,             }},
 // Thứ Hai
              { id: 'thuhai', title: { 
               vi: 'Thứ Hai',
@@ -6464,8 +6679,223 @@ Lạy Chúa, ngày hôm nay chúng con đã khó nhọc gieo hạt giống Nư�
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `,             }},
 // Thứ Ba
  { id: 'thuba', title: { 
               vi: 'Thứ Ba',
@@ -6696,8 +7126,223 @@ Lạy Chúa, xin thương chiếu giãi ánh sáng Chúa vào bóng tối đêm 
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `,             }},
 
  // Thứ Tư
  { id: 'thutu', title: { 
@@ -6936,8 +7581,223 @@ Lạy Chúa Giê-su Ki-tô khiêm nhường và hiền hậu, ách của Chúa �
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `,             }},
 // Thứ Năm
  { id: 'thunam', title: { 
               vi: 'Thứ Năm',
@@ -7158,8 +8018,223 @@ Lạy Chúa là phần gia nghiệp của chúng con, ngoài Chúa ra, chúng co
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `,             }},
 // Thứ Sáu
  { id: 'thusau', title: { 
               vi: 'Thứ Sáu',
@@ -7574,7 +8649,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 
 <strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
 
-  <strong>1</strong> Salve, Regína, mater misericórdiæ;
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
     vita, dulcédo et spes nostra, salve,
     Ad te clamámus, éxsules filíi Evæ.
     Ad te suspirámus, geméntes et flentes
@@ -7588,7 +8663,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clemens, o pia, o dulcis Virgo María.
 
 
-  <strong>2</strong> Hail, holy Queen, mother of mercy,
+<strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
     To you do we cry,
     poor banished children of Eve.
@@ -7601,7 +8676,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
     O clement, O loving,
     O sweet Virgin Mary.
 
-  <strong>2</strong> Loving mother of the Redeemer,
+<strong>2</strong> Loving mother of the Redeemer,
     gate of heaven, star of the sea,
     assist your people who have fallen yet strive to rise again.
     To the wonderment of nature you bore your Creator,
@@ -7850,8 +8925,224 @@ Lạy Chúa, xin viếng thăm chúng con đêm nay, để sớm mai, nhờ quy�
     Trinh Nữ đầy ơn phước !
       `, 
 
-              en: '<strong>Opening Verse</strong></br><strong>Leader:</strong> God, come to my assitance.</br><strong>All: </strong> Lord, make haste to help me. </br>Glory to the Father, and to the Son, and to the Holy Spirit: </br>as it was in the beginning, is now, and will be forever. <strong>Amen.</strong></br><strong>Haleluia.</strong> </br><i>(Then a brief period of silence for self-examination. An act of contrition may be said as in the Mass).</i>', 
-            }},
+              en: `
+<strong>INTRODUCTION</strong>
+<strong>Leader:</strong> God, come to my assistance.
+<strong>All:</strong>  Lord, make haste to help me.
+Glory to the Father, and to the Son, and to the Holy Spirit:
+as it was in the beginning, is now, and will be for ever.<strong>Amen.</strong> <strong>(Halleluia)</strong>
+
+<i>(A brief examination of conscience may be made. In the communal celebration of the Office, a Penitential Rite using the formulas of the Mass may be inserted here.)</i>
+
+I confess to almighty God
+and to you, my brothers and sisters,
+that I have greatly sinned,
+in my thoughts and in my words,
+in what I have done and in what I have failed to do,
+through my fault, through my fault,
+through my most grievous fault;
+therefore I ask blessed Mary ever-Virgin,
+all the Angels and Saints,
+and you, my brothers and sisters,
+to pray for me to the Lord our God.
+<strong><i>or</i></strong>
+You were sent to heal the contrite of heart: Lord, have mercy.
+<i>Lord, have mercy.</i>
+You came to call sinners: Christ, have mercy.
+<i>Christ, have mercy.</i>
+You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
+<i>Lord, have mercy.</i>
+
+<strong><i>The absolution by the presider follows:</i></strong>
+<strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
+<strong>All: </strong>Amen.
+
+<strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
+
+<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
+    Đoàn con chạy đến Chúa càn khôn, 
+    Ngàn muôn ơn thánh xin đổ xuống, 
+    Giữ gìn chúng con cả xác hồn. 
+
+    Mơ thấy Chúa Trời : lòng nguyện ước
+    Thầm mong cảm nghiệm lúc ngủ ngon, 
+    Vầng Đông lấp ló chân trời thẳm
+    Sẽ hát mừng Ngài khúc nhặt khoan.
+              
+    Ban xuống chuỗi ngày đầy sức sống,
+    Bồi thêm sinh khí kẻo tàn phai, 
+    Chập chờn bóng tối gieo sợ hãi,
+    Xin hãy đốt lên lửa sáng ngời. 
+              
+    Đồng thanh ca tụng Cha hằng hữu,
+    Và Thánh Tử Ngài, Đấng Phục Sinh,
+    Thần Linh thánh ái, ơn phù trợ,
+    Muôn thuở ngàn đời mãi hiển vinh.      
+  
+<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
+    Bừng lên cho khuất dạng đêm đen,
+    Hào quang muôn thuở diệu huyền
+    Soi đường tín hữu đi trên cõi đời.
+
+    Cúi xin Đấng tuyệt vời thánh thiện
+    Lắng nghe lời khấn nguyện nài van,
+    Thương ban giấc ngủ yên hàn,
+    Được kề bên Chúa an toàn thong dong.
+
+    Dầu mắt ngủ nhưng lòng vẫn thức,
+    Vẫn tin yêu một mực chân tình, 
+    Xin giơ tay hữu uy linh 
+    Như đồn bảo vệ, như thành chở che.
+              
+    Cúi xin Đấng phù trì đoái đến, 
+    Ngăn chước thù độc hiểm gớm ghê,
+    Giữ đoàn con cả đôi bề,
+    Máu Ngài tuôn đổ chuộc về thuở xưa.
+              
+    Chúa Ki-tô là Vua nhân ái, 
+    Kính dâng Ngài cùng với Chúa Cha, 
+    Hợp cùng Thiên Chúa Ngôi Ba
+    Ngàn muôn phước cả vinh hoa đời đời.
+              
+<strong>PSALMODY</strong>
+              <i><strong>Psalm 88</strong></i>
+<strong><i>Prayer of a very sick person</i></strong>
+<i>This is your hour when darkness reigns (Luke 22:53).</i>
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+
+    Lord my God, I call for help by day; *
+    I cry at night before you.
+    Let my prayer come into your presence. *
+    O turn your ear to my cry.
+
+    For my soul is filled with evils; *
+    my life is on the brink of the grave.
+    I am reckoned as one in the tomb: *
+    I have reached the end of my strength,
+
+    like one alone among the dead; *
+    like the slain lying in their graves;
+    like those you remember no more, *
+    cut off, as they are, from your hand.
+
+    You have laid me in the depths of the tomb, *
+    in places that are dark, in the depths.
+    Your anger weighs down upon me: *
+    I am drowned beneath your waves.
+
+    You have taken away my friends *
+    and made me hateful in their sight.
+    Imprisoned, I cannot escape; *
+    my eyes are sunken with grief.
+
+    I call to you, Lord, all the day long; *
+    to you I stretch out my hands.
+    Will you work your wonders for the dead? *
+    Will the shades stand and praise you?
+
+    Will your love be told in the grave *
+    or your faithfulness among the dead?
+    Will your wonders be known in the dark *
+    or your justice in the land of oblivion?
+
+    As for me, Lord, I call to you for help: *
+    in the morning my prayer comes before you.
+    Lord, why do you reject me? *
+    Why do you hide your face?
+
+    Wretched, close to death from my youth, *
+    I have borne your trials; I am numb.
+    Your fury has swept down upon me; *
+    your terrors have utterly destroyed me.
+
+    They surround me all the day like a flood, *
+    they assail me all together.
+    Friend and neighbor you have taken away: *
+    my one companion is darkness.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Day and night I cry to you, my God.
+              
+<strong>READING</strong>           <i>(Jeremiah 14:9a)</i>
+You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our God!
+<i>(After listening to God's word, meditate quietly for a while.)</i>
+
+<strong>RESPONSORY</strong>  
+    <strong>X</strong> Into your hands, Lord, I commend my spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>X</strong> You have redeemed us, Lord God of truth.
+    <strong>Đ</strong> I commend my spirit.
+    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+
+<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+    Lord, now you let your servant go in peace; *
+    your word has been fulfilled:
+
+    my own eyes have seen the salvation *
+    which you have prepared in the sight of every people:
+
+    a light to reveal you to the nations *
+    and the glory of your people Israel.
+
+    Glory to the Father, and to the Son, *
+    and to the Holy Spirit:
+    as it was in the beginning, is now, *
+    and will be for ever. Amen.
+
+    <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
+
+<strong>CONCLUDING PRAYER</strong> 
+All-powerful God keep us united with your Son in his death and burial so that we may rise to new life with him, who lives and reigns for ever and ever. — Amen.
+<strong>BLESSING</strong> 
+<strong>Leader:</strong> May the all-powerful Lord grant us a restful night and a peaceful death.
+<strong>All:</strong> A-men.
+
+<strong>Antiphon or song in honor of the Blessed Virgin Mary</strong> <i>(choose one of the following songs)</i>
+
+<strong>1</strong> Salve, Regína, mater misericórdiæ;
+    vita, dulcédo et spes nostra, salve,
+    Ad te clamámus, éxsules filíi Evæ.
+    Ad te suspirámus, geméntes et flentes
+    in hac lacrimárum valle.
+
+    Eia ergo, advocáta nostra,
+    illos tuos misericórdes ócculos
+    ad nos convérte.
+    Et Iesum, benedíctum fructum ventris tui,
+    nobis post hoc exsílium osténde.
+    O clemens, o pia, o dulcis Virgo María.
+
+
+<strong>2</strong> Hail, holy Queen, mother of mercy,
+    our life, our sweetness, and our hope.
+    To you do we cry,
+    poor banished children of Eve.
+    To you do we send up our sighs
+    mourning and weeping in this vale of tears.
+    Turn then, most gracious advocate,
+    your eyes of mercy toward us,
+    and after this exile
+    show us the blessed fruit of your womb, Jesus.
+    O clement, O loving,
+    O sweet Virgin Mary.
+
+<strong>2</strong> Loving mother of the Redeemer,
+    gate of heaven, star of the sea,
+    assist your people who have fallen yet strive to rise again.
+    To the wonderment of nature you bore your Creator,
+    yet remained a virgin after as before.
+    You who received Gabriel’s joyful greeting,
+    have pity on us poor sinners.
+      `, 
+                }},
 
 
 
