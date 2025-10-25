@@ -5968,7 +5968,7 @@ const DEFAULT_SETTINGS = {
             en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
           }},
 
-
+// Kinh Kinh Truyền Tin
            { id: 'kinktruyentin', title: { 
             vi: 'Kinh Truyền Tin', 
             en: 'The Angelus'
@@ -6279,50 +6279,35 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   O Christ, you are the light and day
+    which drives away the night,
+    The ever shining Sun of God
+    and pledge of future light.
+    
+    As now the evening shadows fall
+    please grand us, Lord, we pray,
+    a quiet night to rest in you
+    until the break of day
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Remember us, poor mortal men,
+    we humbly ask, O Lord,
+    and may your presence in our souls,
+    be now our great reward.
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>   Lord Jesus Christ, abide with us,
+    now that the sun has run its course;
+    let hope not be obscured by night,
+    but may faith's darkness be as light.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    Lord Jesus Christ, grant us your peace,
+    and when the trials of earth shall cease;
+    grant us the morning light of grace,
+    the radiant splendor of your face.
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    Immortal, Holy Threefold Light,
+    Yours be the kingdom, power, and might,
+    all glory be eternally
+    to you, life giving Trinity!
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -6742,50 +6727,47 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   Day is done, but love unfailing
+    Dwells ever here;
+    Shadows fall, but hope prevailing,
+    Calms ev'ry fear.
+    Loving Father, none forsaking,
+    Take our hearts, of love's own making,
+    Watch our sleeping, guard our waking,
+    Be always near.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Dark descends, but light unending
+    Shines through our night;
+    You are with us, ever lending
+    New strength to sight:
+    One in love, your truth confessing,
+    One in hope of heaven's blessing,
+    May we see, in love's possessing,
+    Love's endless light!
+
+    Eyes will close, but you, unsleeping,
+    Watch by our side;
+    Death may come, in love's safekeeping
+    Still we abide.
+    God of love, all evil quelling,
+    Sin forgiving, fear dispelling,
+    Stay with us, our hearts indwelling,
+    This eventide.      
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>   O Christ, you are the light and day
+    which drives away the night,
+    The ever shining Sun of God
+    and pledge of future light.
+    
+    As now the evening shadows fall
+    please grand us, Lord, we pray,
+    a quiet night to rest in you
+    until the break of day
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
-
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    Remember us, poor mortal men,
+    we humbly ask, O Lord,
+    and may your presence in our souls,
+    be now our great reward.
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -7189,50 +7171,38 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   O radiant Light, O Sun divine
+    of God the Father's deathless face,
+    O image of the light sublime
+    that fills the heavenly dwelling place.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Lord Jesus Christ, as daylight fades,
+    as shine the lights of eventide,
+    we praise the Father with the Son,
+    the Spirit blest and with them one.
+
+    O Son of God, the source of life,
+    Praise is your due by night and day,
+    unsullied lips must raise the strain
+    of your proclaimed and splendid name.      
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>    When from the darkness comes no light,
+    when from the weeping comes no laughter;
+    when in the day we hope for night
+    nor any comfort coming after:
+    Grant us your peace.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    When in our confidence our fears
+    clutch at the heart and make us tremble;
+    when in our joy we weep cold tears,
+    and in our frankness we dissemble:
+    Grant us your light.
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    When in our love there is no care.
+    And in our yearning we are dullness;
+    when what we know we cannot dare,
+    we are nothing that is fullness:
+    Grand us your truth.
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -7644,50 +7614,35 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   All praise to you, O God, this night,
+    for all the blessings of the light;
+    keep us, we pray, O King of kings,
+    beneath your own almighty wings.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Forgive us, Lord, through Christ your Son,
+    whatever wrong this day we've done;
+    your peace give to the world, O Lord,
+    that man might live in one accord.
+
+    Enlighten us, O blessed Light,
+    and give us rest throughout this night.
+    O strengthen us, that for you sake,
+    we all may serve you when we wake.   
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>    Lord Jesus Christ, abide with us,
+    now that the sun has run its course;
+    let hope not be obscured by night,
+    but may faith's darkness be as light.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    Lord Jesus Christ, grant us your peace,
+    and when the trials of earth shall cease;
+    grant us the morning light of grace,
+    the radiant splendor of your face.
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    Immortal, Holy Threefold Light,
+    Yours be the kingdom, power, and might,
+    all glory be eternally
+    to you, life giving Trinity!
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -8081,50 +8036,50 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   Now at the daylight’s ending
+    We turn, O God, to you:
+    Send forth your Holy Spirit,
+    Our Spirit now renew.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    To you in adoration,
+    In thankfulness and praise,
+    In faith and hope and gladness,
+    Our loving hearts we raise.
+
+    With watchful eyes, O Shepherd,
+    Look down upon your sheep;
+    Stretch forth your hands in healing
+    And close our eyes in sleep.
+
+    Come down, O Holy Spirit,
+    To be our loving Guest;
+    Be near us, holy angels,
+    And guard us as we rest.
+
+    We praise you, heav’nly Father:
+    From you all light descends;
+    You give us heaven’s glory
+    When life’s brief daylight ends.
+
+    We praise you, Jesus, Savior,
+    The light of heav’n above;
+    We praise you, Holy Spirit,
+    The living ﬂame of love.     
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>    O radiant Light, O Sun divine
+    of God the Father's deathless face,
+    O image of the light sublime
+    that fills the heavenly dwelling place.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    Lord Jesus Christ, as daylight fades,
+    as shine the lights of eventide,
+    we praise the Father with the Son,
+    the Spirit blest and with them one.
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    O Son of God, the source of life,
+    Praise is your due by night and day,
+    unsullied lips must raise the strain
+    of your proclaimed and splendid name.
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -8530,50 +8485,38 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   Lord Jesus Christ, abide with us,
+    now that the sun has run its course;
+    let hope not be obscured by night,
+    but may faith's darkness be as light.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Lord Jesus Christ, grant us your peace,
+    and when the trials of earth shall cease;
+    grant us the morning light of grace,
+    the radiant splendor of your face.
+
+    Immortal, Holy Threefold Light,
+    Yours be the kingdom, power, and might,
+    all glory be eternally
+    to you, life giving Trinity!   
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>   When from the darkness comes no light,
+    when from the weeping comes no laughter;
+    when in the day we hope for night
+    nor any comfort coming after:
+    Grant us your peace.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    When in our confidence our fears
+    clutch at the heart and make us tremble;
+    when in our joy we weep cold tears,
+    and in our frankness we dissemble:
+    Grant us your light.
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    When in our love there is no care.
+    And in our yearning we are dullness;
+    when what we know we cannot dare,
+    we are nothing that is fullness:
+    Grand us your truth.
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
@@ -8988,50 +8931,47 @@ You are seated at the right hand of the Father to intercede for us: Lord, have m
 
 <strong>HYMN</strong> <i>(choose one of the following two hymns.)</i>
 
-<strong>1</strong>   Đêm tối xuống dần trên cõi thế,
-    Đoàn con chạy đến Chúa càn khôn, 
-    Ngàn muôn ơn thánh xin đổ xuống, 
-    Giữ gìn chúng con cả xác hồn. 
+<strong>1</strong>   We praise you, Father, for your gifts
+    of duck and nightfall over earth,
+    foreshadowing the mystery
+    of death that leads to endless day.
 
-    Mơ thấy Chúa Trời : lòng nguyện ước
-    Thầm mong cảm nghiệm lúc ngủ ngon, 
-    Vầng Đông lấp ló chân trời thẳm
-    Sẽ hát mừng Ngài khúc nhặt khoan.
-              
-    Ban xuống chuỗi ngày đầy sức sống,
-    Bồi thêm sinh khí kẻo tàn phai, 
-    Chập chờn bóng tối gieo sợ hãi,
-    Xin hãy đốt lên lửa sáng ngời. 
-              
-    Đồng thanh ca tụng Cha hằng hữu,
-    Và Thánh Tử Ngài, Đấng Phục Sinh,
-    Thần Linh thánh ái, ơn phù trợ,
-    Muôn thuở ngàn đời mãi hiển vinh.      
+    Within your hands we rest secure;
+    in quiet sleep our strength renew;
+    yet give your people hearts that wake
+    in love to you, unsleeping Lord.
+
+    Your glory may we ever seek
+    in rest, as in activity ,
+    until its fullness is revealed,
+    o source of life, O Trinity.     
   
-<strong>2</strong>   Muôn lạy Chúa Ki-tô Ánh Sáng,
-    Bừng lên cho khuất dạng đêm đen,
-    Hào quang muôn thuở diệu huyền
-    Soi đường tín hữu đi trên cõi đời.
+<strong>2</strong>   Day is done, but love unfailing
+    Dwells ever here;
+    Shadows fall, but hope prevailing,
+    Calms ev'ry fear.
+    Loving Father, none forsaking,
+    Take our hearts, of love's own making,
+    Watch our sleeping, guard our waking,
+    Be always near.
 
-    Cúi xin Đấng tuyệt vời thánh thiện
-    Lắng nghe lời khấn nguyện nài van,
-    Thương ban giấc ngủ yên hàn,
-    Được kề bên Chúa an toàn thong dong.
+    Dark descends, but light unending
+    Shines through our night;
+    You are with us, ever lending
+    New strength to sight:
+    One in love, your truth confessing,
+    One in hope of heaven's blessing,
+    May we see, in love's possessing,
+    Love's endless light!
 
-    Dầu mắt ngủ nhưng lòng vẫn thức,
-    Vẫn tin yêu một mực chân tình, 
-    Xin giơ tay hữu uy linh 
-    Như đồn bảo vệ, như thành chở che.
-              
-    Cúi xin Đấng phù trì đoái đến, 
-    Ngăn chước thù độc hiểm gớm ghê,
-    Giữ đoàn con cả đôi bề,
-    Máu Ngài tuôn đổ chuộc về thuở xưa.
-              
-    Chúa Ki-tô là Vua nhân ái, 
-    Kính dâng Ngài cùng với Chúa Cha, 
-    Hợp cùng Thiên Chúa Ngôi Ba
-    Ngàn muôn phước cả vinh hoa đời đời.
+    Eyes will close, but you, unsleeping,
+    Watch by our side;
+    Death may come, in love's safekeeping
+    Still we abide.
+    God of love, all evil quelling,
+    Sin forgiving, fear dispelling,
+    Stay with us, our hearts indwelling,
+    This eventide.
               
 <strong>PSALMODY</strong>
               <i><strong>Psalm 88</strong></i>
