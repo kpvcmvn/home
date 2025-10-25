@@ -7414,13 +7414,11 @@ and you, my brothers and sisters,
 to pray for me to the Lord our God.
 <strong><i>or</i></strong>
 You were sent to heal the contrite of heart: Lord, have mercy.
-<strong>Lord, have mercy.</strong>
-
+<i>Lord, have mercy.</i>
 You came to call sinners: Christ, have mercy.
-<strong>Christ, have mercy.</strong>
-
+<i>Christ, have mercy.</i>
 You are seated at the right hand of the Father to intercede for us: Lord, have mercy.
-<strong>Lord, have mercy.</strong>
+<i>Lord, have mercy.</i>
 
 <strong><i>The absolution by the presider follows:</i></strong>
 <strong>Leader: </strong>May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. 
