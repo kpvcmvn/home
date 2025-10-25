@@ -6379,12 +6379,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -6847,12 +6855,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -7289,12 +7305,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -7736,12 +7760,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -8180,12 +8212,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -8624,12 +8664,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
@@ -9086,12 +9134,20 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
 <i>(After listening to God's word, meditate quietly for a while.)</i>
 
 <strong>RESPONSORY</strong>  
-    <strong>X</strong> Into your hands, Lord, I commend my spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
-    <strong>X</strong> You have redeemed us, Lord God of truth.
-    <strong>Đ</strong> I commend my spirit.
-    <strong>X</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
-    <strong>Đ</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> Into your hands, Lord, I commend my spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> I commend my spirit.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit.
+
+    <strong>EASTER</strong>
+    <strong>V</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
+    <strong>V</strong> You have redeemed us, Lord God of truth.
+    <strong>R</strong> Alleluia, alleluia.
+    <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
+    <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
 <strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
