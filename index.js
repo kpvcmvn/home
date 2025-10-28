@@ -84,7 +84,7 @@ en:
 
 },
       massReadings: {
-        vi: `<strong>THÁNH LỄ</strong>
+        vi: `
 
 <strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
 Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
@@ -159,50 +159,38 @@ Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp 
 Chúng con cầu xin.
 `,
        
-en: `<strong>MASS</strong>
-
+en: `
 <strong>Entrance Antiphon (Jer 17:7-8)</strong>
-
 Blessed is the one who trusts in the Lord, whose hope is the Lord. He is like a tree planted beside the waters that stretches out its roots to the stream.
 
 <strong>Collect</strong>
-
 O God, who crowned with the gift of true faith your holy one Elizabeth Ann Seton, grant us, we pray, that, by her example and intercession, we may grow in love for you and devote ourselves with zeal to the service of those in need. Through our Lord Jesus Christ, your Son.
 
 <strong>Reading (1 Jn 3:14-18)</strong>
-
 <em>A reading from the first Letter of Saint John.</em>
 
 Beloved, we know that we have passed from death to life, because we love our brothers. Whoever does not love remains in death. Everyone who hates his brother is a murderer, and you know that no murderer has eternal life remaining in him. The way we came to know love was that he laid down his life for us; so we ought to lay down our lives for our brothers. If someone who has worldly means sees a brother in need and refuses him compassion, how can the love of God remain in him? Children, let us not love in word or speech but in deed and truth.
 
 <strong>Responsorial Psalm (Ps 16)</strong>
-
 <strong>R. You are my inheritance, O Lord!</strong>
-
 Keep me, O God, for in you I take refuge. I say to the LORD, “My Lord are you. Apart from you I have no good.” <strong>R.</strong>
 I bless the LORD who counsels me; even in the night my heart exhorts me. I set the LORD ever before me; with him at my right hand I shall not be disturbed. <strong>R.</strong>
 You will show me the path to life, abounding joy in your presence, the delights at your right hand forever. <strong>R.</strong>
 
 <strong>Gospel Acclamation (Jn 15:16)</strong>
-
 Alleluia, alleluia. I chose you from the world, to go and bear fruit that will remain, says the Lord. Alleluia, alleluia.
 
 <strong>Gospel (Jn 15:9-17)</strong>
-
 <strong>A reading from the holy Gospel according to John.</strong>
-
 Jesus said to his disciples: “As the Father loves me, so I also love you. Remain in my love. If you keep my commandments, you will remain in my love, just as I have kept my Father’s commandments and remain in his love. I have told you this so that my joy may be in you and your joy might be complete. This is my commandment: love one another as I love you. No one has greater love than this, to lay down one’s life for one’s friends. You are my friends if you do what I command you. I no longer call you slaves, because a slave does not know what his master is doing. I have called you friends, because I have told you everything I have heard from my Father. It was not you who chose me, but I who chose you and appointed you to go and bear fruit that will remain, so that whatever you ask the Father in my name he may give you. This I command you: love one another.”
 
 <strong>Prayer over the Offerings</strong>
-
 Lord God, may the sacrifice we offer you on this memorial of Saint Elizabeth Ann Seton be a sign of our loving service to you and our neighbor. We ask this through Christ our Lord.
 
 <strong>Communion Antiphon (Jn 8:12)</strong>
-
 The Lord says: I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
 
 <strong>Prayer after Communion</strong>
-
 Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
     
 },
