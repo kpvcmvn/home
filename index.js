@@ -2006,88 +2006,98 @@ Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the 
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        Gio-an-na An-ti-đa Tu-rê sinh tại Sancey-le-Long thuộc giáo phận Besançon, ngày 27 tháng 11 năm 1765. Năm 1787, Gio-an-na gia nhập Tu Hội Nữ Tử Bác Ái. Năm 1793, do cách mạng Pháp loại bỏ các Tu Hội, nên các Sơ buộc phải giải tán. Gio-an-na trở về gia đình. Tại đây, Sơ tiếp tục phục vụ người nghèo và bệnh nhân. Thay thế cha xứ bị đuổi, Sơ duy trì đức tin sống động trong giáo xứ. Năm 1799, vì không thể liên kết với Tu Hội Nữ Tử Bác Ái lúc ấy không còn nữa, Sơ sáng lập Tu Hội các Nữ Tu Bác Ái, tại Besançon, dưới sự bảo trợ của thánh Vinh Sơn Phaolô. Tu Hội phát triển nhanh chóng và năm 1810, lan rộng khắp nước Ý. Việc Đức Thánh Cha Piô VII phê chuẩn Luật dòng, năm 1819, là sự khởi đầu của một thời kỳ thử thách và tranh chấp lâu dài, gây chia rẽ trong Hội Dòng. Sơ Gio-an-na An-ti-đa Tu-rê bị đa số các Sơ trong Tu Hội loại ra. Bị buộc phải rời Besançon, Sơ vẫn tiếp tục khuyên nhủ cộng đoàn của Sơ duy trì công việc phục vụ người nghèo và sự hiệp thông huynh đệ. Sơ giữ một sự thanh thản thiêng liêng lớn lao và một lòng trung thành kiên vững đối với Đức Giáo Hoàng. Sơ qua đời tại Naples ngày 24 tháng 8 năm 1826. Đức Thánh Cha Piô XI phong chân phước cho Sơ ngày 23 tháng 5 năm 1926 và phong thánh cho Sơ ngày 14 tháng giêng năm 1934.
+        vi: `
+      Gio-an-na An-ti-đa Tu-rê sinh tại Sancey-le-Long thuộc giáo phận Besançon, ngày 27 tháng 11 năm 1765. Năm 1787, Gio-an-na gia nhập Tu Hội Nữ Tử Bác Ái. Năm 1793, do cách mạng Pháp loại bỏ các Tu Hội, nên các Sơ buộc phải giải tán. Gio-an-na trở về gia đình. Tại đây, Sơ tiếp tục phục vụ người nghèo và bệnh nhân. Thay thế cha xứ bị đuổi, Sơ duy trì đức tin sống động trong giáo xứ.
+      Năm 1799, vì không thể liên kết với Tu Hội Nữ Tử Bác Ái lúc ấy không còn nữa, Sơ sáng lập Tu Hội các Nữ Tu Bác Ái, tại Besançon, dưới sự bảo trợ của thánh Vinh Sơn Phaolô. Tu Hội phát triển nhanh chóng và năm 1810, lan rộng khắp nước Ý.
+      Việc Đức Thánh Cha Piô VII phê chuẩn Luật dòng, năm 1819, là sự khởi đầu của một thời kỳ thử thách và tranh chấp lâu dài, gây chia rẽ trong Hội Dòng. Sơ Gio-an-na An-ti-đa Tu-rê bị đa số các Sơ trong Tu Hội loại ra. Bị buộc phải rời Besançon, Sơ vẫn tiếp tục khuyên nhủ cộng đoàn của Sơ duy trì công việc phục vụ người nghèo và sự hiệp thông huynh đệ. Sơ giữ một sự thanh thản thiêng liêng lớn lao và một lòng trung thành kiên vững đối với Đức Giáo Hoàng.
+      Sơ qua đời tại Naples ngày 24 tháng 8 năm 1826. Đức Thánh Cha Piô XI phong chân phước cho Sơ ngày 23 tháng 5 năm 1926 và phong thánh cho Sơ ngày 14 tháng giêng năm 1934.
         `,
        
-en: `<strong>Biography</strong>
-On May 23 the universal Church celebrates the feast day of St. Jane Antide (Jeanne-Antide) Thouret, a Sister of Charity who worked tirelessly for the faith amidst persecution during the French Revolution. Jane was born in Sancey, France, in 1765 to a poor family. Her mother died when she was 16 years old. The Saint took on many family responsibilities until she joined the Vincentian Sisters in Paris at the age of 22, working among the sick in various hospitals. On 15 August 1797 she returned to France in Besançon where she founded a school for poor girls. On 11 April 1799 she founded a new congregation in Besançon known as the Thouret sisters. During the French Revolution, when many religious and priests were killed, she was ordered to return home to a secular life. Jane refused, and when she tried to escape the authorities, she was badly beaten. St. Jane Antide Thouret finally returned to Sancey, where she cared for the sick and opened a small school for girls until she was forced to flee to Switzerland. She fled to Germany before returning again to Switzerland to found a school and hospital in 1799 and a congregation called the Institute of the Daughters of St. Vincent de Paul. The community eventually expanded into France and Italy. She died 30 years after the founding of her community, in 1828 of natural causes. In 1934, she was canonized by Pope Puis XI.
+en: `
+      Joan Antida Thouret was born at Sancey-le-Long in the diocese of Besançon, on November 27, 1765.
+      In 1787, Joan entered the Company of the Daughters of Charity. In 1793, due to the suppression of Religious Congregations by the French Revolution, the Sisters were forced to disperse. Joan returned to her family. There, she continued to serve the poor and the sick. Taking the place of the expelled parish priest, she kept the faith alive in the parish.
+      In 1799, unable to reconnect with the Daughters of Charity which no longer existed at that time, she founded the Congregation of the Sisters of Charity in Besançon, under the patronage of Saint Vincent de Paul. The Congregation grew rapidly and, in 1810, spread throughout Italy.
+      The approval of the Rule by Pope Pius VII in 1819 marked the beginning of a period of trial and prolonged conflict, which caused division within the Congregation. Sister Joan Antida Thouret was rejected by the majority of the Sisters in the Congregation.
+      Forced to leave Besançon, she continued to exhort her community to maintain their service to the poor and their fraternal communion. She maintained a great spiritual serenity and an unwavering fidelity to the Pope.
+      She died in Naples on August 24, 1826. Pope Pius XI beatified her on May 23, 1926, and canonized her on January 14, 1934.
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập l</strong>ễ (Tv 72,28)
+Hạnh phúc của con là ở kề bên Chúa,
+chốn ẩn thân đặt ở Chúa Trời.
+Mọi việc Ngài làm, con xin kể lại
+nơi cửa vào thành thánh Xi-on.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, xin tuôn đổ trên chúng con ngọn lửa bác ái, mà Chúa đã thắp sáng trong tâm hồn thánh nữ Gio-an-na An-ti-đa Tu-rê, để việc phục vụ khiêm tốn của chúng con góp phần làm cháy sáng ngọn lửa, mà Con Chúa đã mang đến thế gian.
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Rm 8, 28-39)
+<strong>Bài trích thư của thánh Phaolô Tông Đồ gửi tín hữu Rôma</strong>
+      Anh em thân mến, chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để Con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì Người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+      Vậy còn phải nói gì thêm nữa? Có Thiên Chúa bênh đỡ chúng ta, ai còn chống lại được chúng ta? Đến như chính Con Một, Thiên Chúa cũng chẳng tha, nhưng đã trao nộp vì hết thảy chúng ta. Một khi đã ban Người Con đó, lẽ nào Thiên Chúa lại chẳng rộng ban tất cả cho chúng ta? Ai sẽ buộc tội những người Thiên Chúa đã chọn? Chẳng lẽ Thiên Chúa Đấng làm cho nên công chính? Ai sẽ kết án họ? Chẳng lẽ Đức Giêsu Kitô, Đấng đã chết, hơn nữa đã sống lại, và đang ngự bên hữu Thiên Chúa mà chuyển cầu cho chúng ta?
+      Ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Phải chăng là gian truân, khốn khổ, đói rách, hiểm nguy, bắt bớ, gươm giáo? Như có lời chép: Chính vì Ngài mà mỗi ngày chúng con bị giết, bị coi như bầy cừu để sát sinh.
+      Nhưng trong mọi thử thách ấy, chúng ta toàn thắng nhờ Đấng đã yêu mến chúng ta.
+      Đúng thế, tôi tin chắc rằng: cho dầu là sự chết hay sự sống, thiên thần hay ma vương quỷ lực, hiện tại hay tương lai, hoặc bất cứ sức mạnh nào, trời cao hay vực thẳm hay bất cứ một loài thọ tạo nào khác, không có gì tách được chúng ta ra khỏi tình yêu của Thiên Chúa thể hiện nơi Đức Kitô Giêsu, Chúa chúng ta.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 70,1-3;20-21)
+<strong>Đ. Tay Chúa hướng dẫn con
+Tay phải Chúa nắm lấy con
+Chúa đặt bàn tay Chúa trên con.</strong>
+Con ẩn náu bên Ngài, lạy Chúa,
+xin đừng để con phải tủi nhục bao giờ.
+Vì Ngài công chính, xin cứu vớt và giải thoát con,
+ghé tai nghe và thương cứu độ.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+như thành trì để cứu độ con,
+núi đá và thành trì bảo vệ con, chính là Ngài.		    <strong>Đ.</strong>
 
+Ngài đã bắt con nếm mùi tân khổ,
+chính Ngài sẽ cho con được hoàn sinh,
+và kéo ra khỏi vực sâu lòng đất.
+Phần vinh hoa, Ngài sẽ ban nhiều và trở lại vỗ về an ủi. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Đây là thời thuận tiện, bây giờ là ngày cứu độ. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 25,31-40)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Khi Con Người đến trong vinh quang của Người, có tất cả các thiên sứ theo hầu, bấy giờ Người sẽ ngự lên ngai vinh hiển của Người. Các dân thiên hạ sẽ được tập hợp trước mặt Người, và Người sẽ tách biệt họ với nhau, như mục tử tách biệt chiên với dê. Người sẽ cho chiên đứng bên phải Người, còn dê ở bên trái. Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: “Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng vương quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước; Ta trần truồng các ngươi đã cho mặc; Ta đau yếu, các ngươi đã thăm viếng; Ta ngồi tù các ngươi đến hỏi han”. Bấy giờ những người công chính sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói mà cho ăn, khát mà cho uống; có bao giờ đã thấy Chúa là khách lạ mà tiếp rước; hoặc trần truồng mà cho mặc? Có bao giờ chúng con đã thấy Chúa đau yếu hoặc ngồi tù, mà đến hỏi han đâu?” Đức Vua sẽ đáp lại rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, chúng con nhận biết những điều kỳ diệu, mà Chúa đã thực hiện nơi tâm hồn thánh nữ Gio-an-na An-ti-đa Tu-rê; Chúa đã yêu mến cuộc sống của thánh nữ, vì đã hoàn toàn thấm nhuần Tin Mừng, chúng con khiêm tốn nài xin Chúa, thương nhận lễ phẩm chúng con dâng tiến. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
+nhờ Đức Kitô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn làm sống lại sức mạnh
+của Hội Thánh Cha được chứng tỏ
+qua niềm tin của các thánh
+và cũng biểu lộ cho chúng con tình yêu của Cha.
+Ngày hôm nay, chúng con tạ ơn Cha,
+vì gương sáng của các ngài khích lệ chúng con
+và lời cầu nguyện của các ngài
+giúp chúng con hành động để Nước Cha trị đến.
+Vì thế, cùng với các thiên thần và toàn thể các thánh,
+chúng con hát ca tuyên xưng vinh quang Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mt 25, 40)</i>
+Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Thiên Chúa toàn năng, trong ngày lễ kính thánh Gio-an-na An-ti-đa Tu-rê, Chúa đã dùng bí tích Thánh Thể nuôi dưỡng chúng con. Xin cho bí tích này vừa đem lại ánh sáng cho tâm hồn, vừa đốt nóng lòng tin yêu của chúng con. Nhờ đó, càng ngày chúng con càng tha thiết sống cuộc đời thánh thiện và chuyên lo làm việc lành phúc đức. 
+Chúng con cầu xin...
 `,     
 en: `<strong>MASS</strong>
 
