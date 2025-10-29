@@ -93,11 +93,11 @@ Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm c
 Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
+<strong>Bài đọc </strong>(Gr 20, 7,8b-9)
 <em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
 <strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
 Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<i>Đó là lời Chúa.</i> 
 
 <strong>Đáp ca (Tv 15)</strong>
 <strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
@@ -111,7 +111,6 @@ ngay cả đêm trường, lòng dạ nhắn nhủ con
 Con luôn nhớ có Ngài trước mặt,
 được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
 
-
 Chúa sẽ dạy con biết đường về cõi sống:*
 trước Thánh Nhan ôi vui sướng tràn trề,
 ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
@@ -119,13 +118,12 @@ trước Thánh Nhan ôi vui sướng tràn trề,
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
 <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>TIN MỪNG </strong>(Ga 15, 9 – 17)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
 Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
 Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
 Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
 Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
@@ -156,7 +154,7 @@ nhưng sẽ nhận được ánh sáng đem lại sự sống”.
 
 <strong>Lời nguyện hiệp lễ</strong>
 Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Chúng con cầu xin...
 `,
        
 en: `
@@ -239,13 +237,17 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Chân phước Lin-đan-va Giút-ta Ô-li-bây-ra sinh ngày 20/10/1953, tại Sitio Maihada de Areira, Acu, ở Brasil. Từ thời thơ ấu, chân phước đã trau dồi một tình yêu mến đặc biệt đối với người nghèo. Khi trở thành Nữ Tử Bác Ái Thánh Vinh Sơn Phaolô, chị phục vụ người nghèo và người già cả tại một viện Dưỡng Lão… Sơ là tấm gương tuyệt vời trong công việc, trong sự dấn thân để tạo tinh thần hiệp thông với mọi người, nhất là với các chị em trong tu hội. Công việc bác ái của chị đã không ngừng phát triển cho tới ngày chị bảo vệ sự trinh khiết của mình cho đến chết. Được ơn tử đạo, chân phước chết tử đạo ngày 09 tháng 4 năm 1993. Chị được phong chân phước ngày 2 tháng 12 năm 1993, tại Salvador-Bahia, ở Brasil.   
         `,
        
-en: `<strong>Biography</strong>
-
-`
+en: `
+      Blessed Lindalva Justo de Oliveira was born on October 20, 1953, in Sítio Malhada da Areia, a very poor area in Rio Grande do Norte, Brazil. She was the sixth of 13 children. Her family, though not wealthy, was rich in Christian faith.
+      After completing her studies and receiving an administrative assistant's diploma in 1979, she held various jobs and sent money home to help her mother. In 1982, after lovingly assisting her father during the final months of his terminal illness, she seriously reflected on her life and decided to dedicate herself to serving the poor.
+      She joined the Daughters of Charity of St. Vincent de Paul, entering the postulancy on February 11, 1988. On January 29, 1991, Sr. Lindalva was assigned to a municipal nursing home in Salvador da Bahia to care for 40 elderly male patients. She willingly took on the humblest tasks and sought out those who were suffering the most.
+      In January 1993, a 46-year-old man named Augusto da Silva Peixoto was admitted to the facility. He became infatuated with Sr. Lindalva. She prudently kept her distance, but he openly declared his lustful intentions. Although she could have left, Sr. Lindalva declared, "I prefer to shed my blood than to leave this place."
+      On April 9, 1993 (Good Friday), Sr. Lindalva attended the Way of the Cross at 4:30 a.m. By 7 a.m., she was back at work preparing and serving breakfast. As she was serving coffee, Augusto approached and stabbed her 44 times. He then calmly sat down, wiped the knife, and told the doctor, "You can call the police, I will not run away; I did what had to be done."
+      Sr. Lindalva Justo de Oliveira was beatified as a martyr on December 2, 2007, in Salvador, Bahia, Brazil.`
 },
       massReadings: {
         vi: `
