@@ -2184,102 +2184,89 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        Chân phước Mác-ta Vích-ka sinh ngày 12 tháng 01 năm 1876 tại Nowy Wiec, miền Poméranie, vùng biên giới Ba Lan (Pologne). Từ thời niên thiếu, chân phước đã yêu thích cầu nguyện và phục vụ tha nhân. Năm 18 tuổi, chân phước vào Tập Viện các Nữ Tử Bác Ái của Thánh Vinh Sơn ở Cra-cô-vie. Suốt cuộc đời, chân phước tận hiến cho Thiên Chúa, cho việc phục vụ người nghèo về thể xác cũng như tinh thần. Vì tình yêu đam mê dành cho tất cả mọi người ốm đau, chân phước làm việc không phân biệt quan điểm và tôn giáo. Sơ Mác-ta đã biết yêu đến cùng. Một ngày kia, trước sự nguy hiểm lây bệnh, Sơ Mác-ta tự nguyện, thay thế một nhân viên, một người cha trong gia đình, tẩy uế một căn phòng người mắc bệnh dịch sốt chấy rận. Ít lâu sau, Sơ Mác- ta đã chết ở tuổi 30. Sơ Mác-ta được phong chân phước ngày 24 tháng 5 năm 2008, tại Lvov, bên U-crai-na.
+        vi: `
+      Chân phước Mác-ta Vích-ka sinh ngày 12 tháng 01 năm 1876 tại Nowy Wiec, miền Poméranie, vùng biên giới Ba Lan (Pologne). Từ thời niên thiếu, chân phước đã yêu thích cầu nguyện và phục vụ tha nhân. Năm 18 tuổi, chân phước vào Tập Viện các Nữ Tử Bác Ái của Thánh Vinh Sơn ở Cra-cô-vie. Suốt cuộc đời, chân phước tận hiến cho Thiên Chúa, cho việc phục vụ người nghèo về thể xác cũng như tinh thần. Vì tình yêu đam mê dành cho tất cả mọi người ốm đau, chân phước làm việc không phân biệt quan điểm và tôn giáo. Sơ Mác-ta đã biết yêu đến cùng. Một ngày kia, trước sự nguy hiểm lây bệnh, Sơ Mác-ta tự nguyện, thay thế một nhân viên, một người cha trong gia đình, tẩy uế một căn phòng người mắc bệnh dịch sốt chấy rận. Ít lâu sau, Sơ Mác-ta đã chết ở tuổi 30.
+      Sơ Mác-ta được phong chân phước ngày 24 tháng 5 năm 2008, tại Lvov, bên U-crai-na.
+
         `,
        
-en: `<strong>Biography</strong>
-Marta Maria Wiecka was born on 12 January 1874 in Nowy Wieck, Poland, the third of 13 children born to a wealthy Catholic couple. At the age of two Marta fell seriously ill; when the doctors could do no more for her the Wiecka family asked Mary, the Mother of God of Piseczno, to intercede and she recovered. Marta was known as a good-natured, prayerful child who helped her mother with the chores, often taking care of her siblings, and who had a special devotion to St John Nepomucene.
-
-On 3 October 1866, Marta made her first Holy Communion. From then on, Jesus became the centre of her life and she never hesitated to walk the 12 kilometres to the parish church in Skarszewy for Mass.
-
-When she was 16, Marta applied to the Daughters of Charity of St Vincent de Paul in the neighbouring town of Chelmo, but they told her she was too young to enter. Two years later she tried once again to enter the Congregation. Since the Prussian Government, who dominated that part of Poland, had restricted the number of aspirants in the religious community in Chelmo she approached their convent in Krakow and was accepted.
-
-Marta entered the convent on 26 April 1892. On 12 April 1893, she was clothed as a Daughter of Charity and sent on her first mission to a hospital in Lvov. There she quickly acquired the reputation of a Sister who loved her patients and generously served them. In 1894, she was sent to a hospital in Podhajce where she tirelessly served the sick for five years. On 15 August 1897 she made her first vows as a Daughter of Charity, sealing her commitment to serve God in the poor.
-
-In 1899 Sr Marta went to the house of her Order in Bochnia. During this period Sr Marta had a vision of Jesus on the Cross; he urged her to endure adversity with patience and promised her that one day she would be with him. This experience strengthened her to endure the adversity which was not long in coming. A mentally ill man, recently released from the hospital where Sr Marta worked, started a rumour that she was pregnant after having an affair with one of her patients - a student who was a nephew of the parish priest. Sr Marta had to live in the midst of the gossip, and remain in Bochnia until time proved her innocence.
-
-After the unfounded scandal, Sr Marta was sent to serve at the hospital in Sniatyn. She had a wonderful gift for helping people to be reconciled with God, in fact, she let no one in her care die without receiving the Sacrament of Reconciliation.
-
-Both the life and death of Sr Marta demonstrated acts of selfless love. It was in fact this selflessness which cost her her life. A young man, a nurse and father, was assigned to disinfect the room of a typhoid patient. Sr Marta saw his fear and volunteered to perform the task herself. As a result she contracted typhoid. Many prayed for her recovery; even Jews from the local synagogue held a special prayer service for her. Those present at the moment of her death said that she was in ecstasy after receiving her Lord in Holy Communion for the last time. She died on 30 May 1904 in Sniatyn and was buried there. Her grave quickly became the site of prayer and in the years following World War II it became a symbol of unity since various Christian denomination would gather there.
-
-She was beatified on Saturday, 24 May 2008 in the Cathedral of Lvov, Ukraine. Cardinal Tarcisio Bertone, S.D.B., Secretary of State presided at the rite of beatification.
-`
+en: `
+      Marta Maria Wiecka was born on 12 January 1874 in Nowy Wieck, Poland, the third of 13 children born to a wealthy Catholic couple. At the age of two Marta fell seriously ill; when the doctors could do no more for her the Wiecka family asked Mary, the Mother of God of Piseczno, to intercede and she recovered. Marta was known as a good-natured, prayerful child who helped her mother with the chores, often taking care of her siblings, and who had a special devotion to St John Nepomucene.
+      On 3 October 1866, Marta made her first Holy Communion. From then on, Jesus became the centre of her life and she never hesitated to walk the 12 kilometres to the parish church in Skarszewy for Mass.
+      When she was 16, Marta applied to the Daughters of Charity of St Vincent de Paul in the neighbouring town of Chelmo, but they told her she was too young to enter. Two years later she tried once again to enter the Congregation. Since the Prussian Government, who dominated that part of Poland, had restricted the number of aspirants in the religious community in Chelmo she approached their convent in Krakow and was accepted.
+      Marta entered the convent on 26 April 1892. On 12 April 1893, she was clothed as a Daughter of Charity and sent on her first mission to a hospital in Lvov. There she quickly acquired the reputation of a Sister who loved her patients and generously served them. In 1894, she was sent to a hospital in Podhajce where she tirelessly served the sick for five years. On 15 August 1897 she made her first vows as a Daughter of Charity, sealing her commitment to serve God in the poor.
+      In 1899 Sr Marta went to the house of her Order in Bochnia. During this period Sr Marta had a vision of Jesus on the Cross; he urged her to endure adversity with patience and promised her that one day she would be with him. This experience strengthened her to endure the adversity which was not long in coming. A mentally ill man, recently released from the hospital where Sr Marta worked, started a rumour that she was pregnant after having an affair with one of her patients - a student who was a nephew of the parish priest. Sr Marta had to live in the midst of the gossip, and remain in Bochnia until time proved her innocence.
+      After the unfounded scandal, Sr Marta was sent to serve at the hospital in Sniatyn. She had a wonderful gift for helping people to be reconciled with God, in fact, she let no one in her care die without receiving the Sacrament of Reconciliation.
+      Both the life and death of Sr Marta demonstrated acts of selfless love. It was in fact this selflessness which cost her her life. A young man, a nurse and father, was assigned to disinfect the room of a typhoid patient. Sr Marta saw his fear and volunteered to perform the task herself. As a result she contracted typhoid. Many prayed for her recovery; even Jews from the local synagogue held a special prayer service for her. Those present at the moment of her death said that she was in ecstasy after receiving her Lord in Holy Communion for the last time. She died on 30 May 1904 in Sniatyn and was buried there. Her grave quickly became the site of prayer and in the years following World War II it became a symbol of unity since various Christian denomination would gather there.
+      She was beatified on Saturday, 24 May 2008 in the Cathedral of Lvov, Ukraine. Cardinal Tarcisio Bertone, S.D.B., Secretary of State presided at the rite of beatification.
+      `
 },
       massReadings: {
       vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Mt 25, 34. 36- 40)
+Chúa phán với những người đã phục vụ anh em mình: “Hãy đến hỡi những kẻ Cha Ta chúc phúc… Ta ốm đau và các ngươi đã thăm viếng. Ta nói thật với các ngươi, mỗi lần các ngươi làm cho một trong những kẻ bé mọn này là các anh em Ta, thì đó là các ngươi đã làm cho chính Ta”.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho chân phước Mác-ta Vích-ka biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch ơn cứu độ. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc (Hc 38,1-9)</strong>
+<strong>Bài trích sách Huấn Ca</strong>
+      Hãy tôn trọng thầy thuốc vì mọi người đều cần đến ông, và vì thiên chức lương y là do Đức Chúa thiết lập. Quả vậy, tài chữa bệnh là do Đấng Tối Cao, ấy là ân tứ Vua Trời ban tặng. Thầy thuốc hiên ngang vì giàu kinh nghiệm, khiến người có địa vị cũng phải nể nang. Thiên Chúa làm cho đất trổ sinh dược liệu; những thứ đó, người khôn chẳng dám coi thường. Chẳng phải nhờ khúc gỗ mà xưa nước ra ngọt khiến cho người ta thấy hiệu năng của khúc gỗ hay sao? Cũng chính Thiên Chúa cho con người được hiểu biết để tôn vinh Người vì những việc lạ Người làm. Nhờ đó, Người chữa lành và chấm dứt cơn đau, còn dược sĩ chỉ làm việc pha chế. Như thế công việc của Người vẫn tiếp tục cho đến khi thiên hạ được an lành. Con ơi, khi đau ốm, con chớ coi thường, nhưng hãy cầu xin Đức Chúa, Người sẽ chữa lành cho.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong>  (Tv 145, 7- 9)
+<strong>Đ. Hạnh phúc thay người có tâm hồn nghèo khó, vì Nước Trời là của họ.</strong>
+Lạy Chúa Trời xin giữ gìn con.
+Chúa xử công minh cho người bị áp bức,
+ban lương thực cho kẻ đói ăn, 
+Chúa giải phóng những ai tù tội.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Chúa mở mắt cho kẻ mù lòa,
+Chúa cho kẻ bị dìm xuống đứng thẳng lên,
+Chúa yêu chuộng những người công chính.		    <strong>Đ.</strong>
 
+Chúa phù trợ những khách ngoại kiều,
+Người nâng đỡ cô nhi quả phụ,
+nhưng phá vỡ mưu đồ bọn ác nhân. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (Mt 11, 25)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Lạy Cha là Chúa tể trời đất, con xin chúc tụng Cha, vì Cha đã mạc khải cho những kẻ bé mọn những mầu nhiệm nước trời. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tin Mừng</strong>  (Mt 11, 25-30)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu/strong>
+      Vào lúc ấy, Đức Giêsu cất tiếng nói: “Lạy Cha là Chúa Tể trời đất, con xin ngợi khen Cha, vì Cha đã giấu không cho bậc khôn ngoan thông thái biết những điều này, nhưng lại mạc khải cho những người bé mọn. Vâng, lạy Cha, vì đó là điều đẹp ý Cha.
+      Cha tôi đã giao phó cho tôi mọi sự. Và không ai biết rõ người Con, trừ Chúa Cha; cũng như không ai biết rõ Chúa Cha, trừ người Con và kẻ mà người Con muốn mạc khải cho.
+      Tất cả những ai đang vất vả mang gánh nặng nề, hãy đến cùng tôi, tôi sẽ cho nghỉ ngơi bồi dưỡng. Anh em hãy mang lấy ách của tôi, và hãy học với tôi, vì tôi có lòng hiền hậu và khiêm nhường. Tâm hồn anh em sẽ được nghỉ ngơi bồi dưỡng. Vì ách của tôi êm ái, và gánh tôi nhẹ nhàng.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin đón nhận lòng thành kính khiêm nhường chúng con dâng lên Chúa nhân ngày lễ chân phước Mác-ta Vích-ka; ước chi nhờ hy lễ tinh tuyền và hoàn hảo này, xin cho chúng con bừng cháy lửa yêu mến Chúa. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Chúng con tôn vinh cảm tạ Cha mọi nơi mọi lúc,
+thật là chính đáng và phải đạo.
+Chúng con ca ngợi những ân cần săn sóc của tình thương Cha
+đối với bao người nam người nữ đạt tới sự thánh thiện
+bằng việc hiến mình cho Đức Kitô vì Nước Trời.
+Nhờ mầu nhiệm giao ước này, Cha cho thân phận con người
+tìm lại được vẻ huy hoàng ban đầu, và ngay từ đời này,
+chúng con được nếm hưởng trước
+những thiện hảo mà Cha sẽ ban cho chúng con ở đời sau.
+Vì thế cùng với toàn thể các thiên thần và các thánh,
+chúng con hát ca tuyên xưng rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Tv 41, 2)</i>
+Phúc thay kẻ lưu tâm đến người nghèo khổ:
+trong ngày hoạn nạn sẽ được Chúa cứu nguy.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, được bồi dưỡng bánh bởi trời, trong ngày lễ chúng con mừng kính chân phước Mác-ta Vích-ka, chúng con nài xin lòng nhân từ Chúa tha thứ những lỗi lầm chúng con, ban cho xác hồn chúng con sức khỏe, ân phúc và vinh quang bất diệt của Chúa.
+Chúng con cầu xin...
 `,
 
 en: `<strong>MASS</strong>
