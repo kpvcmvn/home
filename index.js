@@ -1097,7 +1097,7 @@ en: `<strong>MASS</strong>
     date: '04-26',
     title: { 
       vi: 'Di chuyển hài cốt Thánh Vinh Sơn Phaolô',
-      en: 'Translation of the Relics of St. Vincent Paul',
+      en: 'The Translation of the Relics of St. Vincent Paul',
      
     },
     subtitle: {
@@ -1108,88 +1108,106 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Ngày 28 tháng 9 năm 1660, xác Cha Vinh Sơn qua đời ngày hôm trước được mai táng trong nhà nguyện của nhà Saint Lazare ở Paris, gần nhà thờ Saint Laurent. Khi diễn ra án phong chân phước, người ta tiến hành việc công nhận thánh tích. Sau lễ phong thánh, cử hành tại nhà thờ Saint-Jean-de-Latran ngày 16 tháng 6 năm 1737, thánh tích của thánh Vinh Sơn được đặt trong một hộp thánh tích bằng bạc và để trên lưng bàn thờ cung hiến thánh Lazare. Hộp thánh tích này, mở ra vào nhiều thời kỳ khác nhau, luôn luôn được sùng kính bởi những người con hiếu thảo. Ngày 31 tháng 8 năm 1792, trước ngày các tu sĩ truyền giáo bị đuổi, theo luật, ra khỏi nhà Saint-Lazare, chiếc hộp đựng thánh tích ấy bị người ta sung vào tài sản quốc gia, nhưng xác thánh Vinh Sơn bấy giờ được đem đi giấu tại nhà ông chưởng khế của Tu Hội Truyền Giáo: xác ngài ở đó trong suốt thời kỳ rối loạn của cách mạng, cho tới năm 1806. Hài cốt đáng kính ấy sau đó được giao cho các Nữ Tử Bác Ái, được phục hồi cách hợp pháp từ năm 1800 và cư ngụ tại Paris, ở phố Vieux-Colombier cho tới năm 1815, dời đến phố Bac, là Nhà Mẹ (trụ sở chính) hiện nay của các Chị Nữ Tử Bác Ái.
+      Việc chứng thực thánh tích, theo giáo luật, diễn ra tại Tòa Tổng Giám mục Paris (tháng tư năm 1830). Đức Cha De Quelen sau đó đem trưng bày thánh tích tại nhà thờ chính tòa Đức Bà, đựng trong hộp thánh tích bằng bạc, quà tặng của giáo phận. Ngày 25 tháng 4 năm 1830, thánh tích được rước đến Nhà Mẹ Tu Hội Truyền Giáo (95, đường Sèvres, quận 6 Paris). Thánh nữ Catherine Labouré, lúc ấy đang ở Tập viện của Nữ Tử Bác Ai, có tham dự cuộc rước kiệu với cộng đoàn.
+      Đến năm 1854 hộp thánh tích được đặt phía trên bàn thờ chính đồ sộ. Năm 1960, để mừng các ngày lễ kỷ niệm ba trăm năm ngày thánh Vinh Sơn qua đời (1581-1660), hộp thánh tích được mang đến nhà thờ chính tòa Paris và nhà thờ Clichy: thánh tích được trưng bày cho các tín hữu tôn kính.
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      On September 28, 1660, the body of Father Vincent, who had passed away the preceding day, was interred in the chapel of the Maison Saint Lazare in Paris, near the Church of Saint Laurent.
+      During the cause for beatification, the canonical recognition of the relics was carried out. Following the canonization, celebrated at the Basilica of Saint John Lateran on June 16, 1737, the relics of Saint Vincent were placed in a silver shrine and set above the altar consecrated to Saint Lazare. This shrine, opened at various times, has always been venerated by his devoted spiritual children.
+      On August 31, 1792, the day before the Priests of the Mission were legally expelled from Saint-Lazare, the shrine was confiscated as national property. However, the holy body of Saint Vincent was taken and hidden in the home of the procurator of the Congregation of the Mission. His body remained there throughout the turmoil of the Revolution until 1806.
+      These venerable remains were subsequently entrusted to the Daughters of Charity, who had been legally re-established in 1800. They resided in Paris on the Rue du Vieux-Colombier until 1815, before moving to the Rue du Bac, the present site of the Mother House of the Daughters of Charity.
+      The canonical authentication of the relics took place at the Archdiocese of Paris (April 1830). Archbishop De Quelen subsequently exposed the relics for veneration at the Cathedral of Notre Dame, encased in a silver shrine which was a gift from the diocese.
+      On April 25, 1830, the relics were translated in procession to the Mother House of the Congregation of the Mission (95, rue de Sèvres, Paris 6e). Saint Catherine Labouré, at that time in the Seminary (Novitiate) of the Daughters of Charity, took part in the procession with her community.
+      In 1854, the shrine was placed above the magnificent main altar.
+      In 1960, to mark the celebrations of the tercentenary of the death of Saint Vincent (1581-1660), the shrine was brought to the Cathedral of Paris and the Church of Clichy, where the relics were exposed for the veneration of the faithful.
 
 `
 },
       massReadings: {
       vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(Lc 4,18 (Is 61,1)
+“Thần Khí Chúa ngự trên tôi,
+vì Chúa đã xức dầu tấn phong tôi.
+Người đã sai tôi đi loan báo Tin Mừng cho người nghèo,
+cho kẻ bị giam cầm biết họ được tha”
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Cha chí thánh giàu lòng thương xót, Cha đã lấy lòng bác ái nung đốt thánh Vinh Sơn, để thánh nhân cứu giúp bao nỗi khốn khổ của người thời đại mình; hôm nay, ngày tưởng nhớ việc di chuyển hài cốt của thánh nhân, chúng con nài xin Cha, ban cho chúng con được thấm nhuần Thần Khí của Cha để chúng con cũng biết tôn kính Con yêu dấu của Cha là Đức Giêsu Kitô và phụng sự Ngài nơi bản thân người nghèo. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc 1</strong> (Is 61,1-3)
+<strong>Bài trích sách Ngôn sứ Isaia</strong>
+      Thần Khí của Đức Chúa là Chúa Thượng ngự trên tôi, vì Đức Chúa đã xức dầu tấn phong tôi, sai đi báo tin mừng cho kẻ nghèo hèn, băng bó những tấm lòng tan nát, công bố lệnh ân xá cho kẻ bị giam cầm, ngày phóng thích cho những tù nhân, công bố một năm hồng ân của Đức Chúa, một ngày báo phục của Thiên Chúa chúng ta Người sai tôi đi yên ủi mọi kẻ khóc than, tặng cho những kẻ khóc than ở Xi-on tấm khăn đại lễ thay tro bụi, dầu thơm hoan lạc thay tang chế, áo ngày hội thay tâm thần sầu não.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 95)
+<strong>Đ. Toàn cõi đất, hãy hát lên, chúc tụng Thánh Danh Người.</strong>
+Hát lên mừng Chúa một bài ca mới,
+hát lên mừng Chúa hỡi toàn thể địa cầu
+hát lên mừng Chúa, chúc tụng Thánh Danh!		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Ngày qua ngày, hãy loan báo ơn Người cứu độ,
+kể cho muôn dân biết Người vinh hiển,
+cho mọi nước nghe việc lạ Người làm.		    <strong>Đ.</strong>
 
+Hãy dâng Chúa, hỡi các dân các nước,
+dâng Chúa quyền lực và vinh quang,
+hãy dâng Chúa vinh quang xứng danh Người 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Bài đọc 2</strong> (1Cr 1, 26-31; 2,1-2)
+<strong>Bài trích thư thứ nhất của thánh Phaolô Tông Đồ gửi tín hữu Cô-rin-tô</strong>
+      Thưa anh em, anh em thử nghĩ lại xem: khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy kẻ khôn ngoan trước mặt người đời, đâu có mấy người quyền thế, mấy người quý phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan phát xuất từ Thiên Chúa, Đấng đã làm cho anh em trở nên công chính, đã thánh hoá và cứu chuộc anh em, hợp như lời đã chép rằng: ai tự hào thì hãy tự hào trong Chúa.
+      Thưa anh em, khi tôi đến với anh em, tôi đã không dùng lời lẽ hùng hồn hoặc triết lý cao siêu mà loan báo mầu nhiệm cao siêu của Thiên Chúa. Vì hồi còn ở giữa anh em, tôi đã không muốn biết đến chuyện gì khác ngoài Đức Giêsu Kitô, mà là Đức Giêsu Kitô chịu đóng đinh vào thập giá.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (Mt 25,34)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng Vương Quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+<strong>TIN MỪNG</strong> (Mt 25, 31-46)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Bấy giờ Đức Giêsu nói với các môn đệ về ngày quang lâm của Người: “Khi Con Người đến trong vinh quang của Người, có tất cả các thiên sứ theo hầu, bấy giờ Người sẽ ngự lên ngai vinh hiển của Người. Các dân thiên hạ sẽ được tập hợp trước mặt Người và Người sẽ tách biệt họ với nhau, như mục tử tách biệt chiên với dê. Người sẽ cho chiên đứng bên phải Người, còn dê ở bên trái. Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: “Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng Vương Quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước; Ta trần truồng, các ngươi đã cho mặc; Ta đau yếu, các ngươi đã thăm viếng; Ta ngồi tù, các ngươi đến hỏi han”. Bấy giờ những người công chính sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói mà cho ăn, khát mà cho uống; có bao giờ đã thấy Chúa là khách lạ mà tiếp rước; hoặc trần truồng mà cho mặc? Có bao giờ chúng con đã thấy Chúa đau yếu hoặc ngồi tù, mà đến hỏi han đâu? Đức Vua sẽ đáp lại rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”. Rồi Đức Vua sẽ phán cùng những người ở bên trái rằng: “Quân bị nguyền rủa kia, đi đi cho khuất mắt Ta mà vào lửa đời đời, nơi dành sẵn cho tên ác quỷ và các sứ thần của nó. Vì xưa Ta đói, các ngươi đã không cho ăn; Ta khát, các ngươi đã không cho uống; Ta là khách lạ, các ngươi đã không tiếp rước; Ta trần truồng, các ngươi đã không cho mặc; Ta đau yếu và ngồi tù, các ngươi đã chẳng thăm viếng”. Bấy giờ những người ấy cũng sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói, khát, hoặc là khách lạ, hoặc trần truồng, đau yếu hay ngồi tù, mà không phục vụ Chúa đâu”. Bấy giờ Người sẽ đáp lại họ rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi không làm như thế cho một trong những người bé nhỏ nhất đây, là các ngươi đã không làm cho chính Ta vậy”. Thế là họ ra đi để chịu cực hình muôn kiếp, còn những người công chính ra đi để hưởng sự sống muôn đời”.
+      <i>Đó là lời Chúa.</i>
 
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
-
+<strong> KINH TIN KÍNH</strong>
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận lễ vật của dân Chúa tiến dâng, để việc tưởng nhớ đức bác ái vô biên của Chúa củng cố chúng con, theo gương thánh Vinh Sơn, phục vụ Chúa và tha nhân.
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+Lạy Thiên Chúa toàn năng hằng hữu,
+thật là chính đáng và hữu ích cho chúng con,
+việc chúng con không ngừng tạ ơn,
+chúc tụng và ngợi khen Cha,
+trong ngày chúng con tôn kính thánh Vinh Sơn.
+Cha đã kêu gọi thánh nhân, bước theo Con Cha,
+xả thân loan báo Tin Mừng cho người nghèo,
+và lòng nhiệt thành mà Cha ban cho thánh nhân
+để làm phát triển Nước Cha,
+để lại cho chúng con một qui luật và gương sáng
+về lòng nhiệt thành tông đồ.
+Được củng cố bởi Thần Khí Cha
+và được lôi kéo bởi tình yêu Cha,
+chúng con được mời gọi dấn thân
+Hãy sinh mạng sống và sức lực của chúng con
+lao động cho phần rỗi người nghèo,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Vì thế, cùng với các thiên thần và các thánh,
+Chúng con hát ca tuyên xưng vinh quang Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Tv 105, 8-9)</i>
+Các bạn hãy dâng lời cảm tạ Chúa về tình thương của Ngài,
+về những kỳ công Chúa đã thực hiện cho người trần.
+Họng khô ráo, Chúa cho uống phỉ tình,
+bụng đói lả, Người cho ăn thỏa thích.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, nhờ sức mạnh của bí tích mà chúng con vừa lãnh nhận, xin cho ban chúng con sức mạnh, để luôn tiến bước cách mạnh mẽ trên con đường đức ái mà thánh Vinh Sơn vạch ra cho chúng con, qua lời nói và hành động của ngài.
+Chúng con cầu xin...
 `,     
 en: `<strong>MASS</strong>
 
