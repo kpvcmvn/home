@@ -2521,10 +2521,10 @@ en: `<strong>MASS</strong>
 
 // 15 Chân phước Phê-rô Gióc Phờ-rát-sa-ti
   {
-    id: 'bl-pierre-georges-frassat',
+    id: 'St-pierre-georges-frassat',
     date: '07-04',
     title: { 
-      vi: 'Chân phước Phê-rô Gióc Phờ-rát-sa-ti',
+      vi: 'Thánh Phê-rô Gióc Phờ-rát-sa-ti',
       en: 'Bl. Pierre Georges Frassat',
      
     },
@@ -2536,11 +2536,16 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        Sinh ngày 6 tháng 4 năm 1901, trong một gia đình chống giáo sĩ, thuộc giới trung lưu vùng Piémont, ở Turin, Phê-rô Gióc Phờ-rát-sa-ti mất ngày 4 tháng 7 năm 1925, hôm trước ngày lãnh bằng kỹ sư hầm mỏ. Là nhà thể thao trẻ, ngài thích chạy đua trên núi với các thanh niên khác: khám phá kỳ diệu về thiên nhiên, thời gian tuyệt vời để suy gẫm, cầu nguyện, thờ lạy. Ngài tích cực tham gia nhóm Công Giáo Tiến Hành ở nước Ý. Ngay từ thuở nhỏ, quan tâm đến tất cả những người trong cảnh lầm than, ngài gia nhập Hiệp Hội Thánh Vinh Sơn Phaolô, nơi đây ngài nổi bật vì sự tận tụy với người nghèo và bệnh nhân. Ngài vui vẻ đón nhận hành động của Chúa trong cuộc đời mình và thấm nhuần đức tin, đức mến. Cầu nguyện và thánh lễ hằng ngày nâng đỡ hoạt động của ngài. Đức Thánh Cha Gioan Phaolô II, khi phong chân phước cho ngài ngày 20 tháng 5 năm 1990, xác định ngài là “người của các mối phúc thật”.
+        vi: `
+      Sinh ngày 6 tháng 4 năm 1901, trong một gia đình chống giáo sĩ, thuộc giới trung lưu vùng Piémont, ở Turin, Phê-rô Gióc Phờ-rát-sa-ti mất ngày 4 tháng 7 năm 1925, hôm trước ngày lãnh bằng kỹ sư hầm mỏ.
+      Là nhà thể thao trẻ, ngài thích chạy đua trên núi với các thanh niên khác: khám phá kỳ diệu về thiên nhiên, thời gian tuyệt vời để suy gẫm, cầu nguyện, thờ lạy. Ngài tích cực tham gia nhóm Công Giáo Tiến Hành ở nước Ý.
+      Ngay từ thuở nhỏ, quan tâm đến tất cả những người trong cảnh lầm than, ngài gia nhập Hiệp Hội Thánh Vinh Sơn Phaolô, nơi đây ngài nổi bật vì sự tận tụy với người nghèo và bệnh nhân. Ngài vui vẻ đón nhận hành động của Chúa trong cuộc đời mình và thấm nhuần đức tin, đức mến. Cầu nguyện và thánh lễ hằng ngày nâng đỡ hoạt động của ngài.
+      Đức Thánh Cha Gioan Phaolô II, khi phong chân phước cho ngài ngày 20 tháng 5 năm 1990, xác định ngài là “người của các mối phúc thật”.
+
         `,
        
-en: `<strong>Biography</strong>
+en: `
+
 
 `
 },
