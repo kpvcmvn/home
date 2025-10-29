@@ -926,88 +926,101 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
      sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Sơ Rô-za-li Răng-đi, Nữ Tử Bác Ái Thánh Vinh Sơn Phaolô, vào đầu thế kỷ XIX, là một nhân vật cao trọng của Paris, chị được mọi người dân nghèo của khu Mouffetard yêu mến và tôn kính.
+      Sơ Rô-za-li Răng-đi sinh ngày 9 tháng 9 năm 1786, tại ấp Confort (Ain). Trong các cuộc biến loạn của Cách mạng Pháp, ngôi nhà của gia đình chị đón tiếp và che giấu các linh mục bị truy nã. Chính trong bầu khí tôn giáo khó khăn ấy mà Sơ đã lớn lên.
+      Ngày 25 tháng 5 năm 1802, Sơ vào Tập Viện của Tu Hội Nữ Tử Bác Ái ở Paris. Sau đó, chị được sai đến cộng đoàn ở khu phố Mouffetard, một trong các khu nghèo nhất của thủ đô. Được bổ nhiệm làm bề trên cộng đoàn năm 1815, Sơ khuyến khích các chị em trong cộng đoàn: “Người nghèo sẽ chửi rủa các chị. Họ càng thô tục, các chị càng phải có phẩm cách. Các chị hãy nhớ rằng tất cả các quần áo rách rưới ấy che giấu gương mặt Chúa Giêsu Kitô”.
+      Để đáp ứng vô số nhu cầu của người nghèo: trẻ em thất học, các bà mẹ quá nhiều việc, người thợ làm việc quá nặng nhọc, người già bị bỏ rơi, Sơ Rô-za-li Răng-đi biết kêu cầu các cộng tác viên có khả năng. Sơ sẽ hướng dẫn bước đầu cho các sinh viên trẻ ở đại học Sorbonne thăm viếng người nghèo và làm cố vấn cho chân phước Frédéric Ozanam khi sáng lập Hiệp Hội Thánh Vinh Sơn Phaolô.
+      Trong những ngày nổi dậy tháng 7 năm 1830 và tháng 2 năm 1848, Sơ Rô-za-li Răng-đi không ngần ngại leo lên các rào chiến lũy để cứu giúp các thương binh cho dù họ thuộc phe nào đi nữa. Sơ sẽ đương đầu với ông cảnh sát trưởng tố cáo Sơ đã cứu giúp quân nổi dậy. Sự can đảm và tinh thần tự do của Sơ rất đáng khâm phục. Dân chúng cũng in dấu sâu đậm về sự tận tụy của Sơ và của các chị em trong cộng đoàn khi xảy ra các trận dịch tả năm 1832 và 1849.
+      Ngày Sơ qua đời, ngày 7 tháng 2 năm 1856, gây một cảm xúc to lớn trong tất cả các giới xã hội ở Paris. Đám tang của Sơ thật sự là một cuộc khải hoàn đối với người Nữ Tử Bác Ái khiêm tốn ấy. Ngôi mộ của Sơ, tại nghĩa trang Montparnasse, thường xuyên được nở rộ đầy hoa bởi những bàn tay vô danh.
+      Sơ Rô-za-li Răng-đi được Đức Thánh Cha Gioan Phaolô II phong chân phước ngày 9 tháng 11 năm 2003.
         
         `,
        
-en: `<strong>Biography</strong>
-
-`
+en: `
+      Sister Rosalie Rendu, a Daughter of Charity of Saint Vincent de Paul, was a prominent figure in early 19th-century Paris, beloved and revered by all the poor of the Mouffetard district.
+      Sister Rosalie Rendu was born on September 9, 1786, in the hamlet of Confort (Ain). During the upheavals of the French Revolution, her family home welcomed and hid persecuted priests. It was in this difficult religious atmosphere that she was raised.
+      On May 25, 1802, she entered the Seminary (Novitiate) of the Company of the Daughters of Charity in Paris. She was then sent to the community in the Mouffetard district, one of the poorest areas of the capital. Appointed Superior of the community in 1815, she encouraged her fellow Sisters: "The poor will insult you. The ruder they are, the more dignified you must be. Remember that all those rags hide the face of Jesus Christ."
+      To respond to the countless needs of the poor—uneducated children, overworked mothers, overburdened workers, and the abandoned elderly—Sister Rosalie knew how to call upon capable collaborators. She would guide the first steps of the young Sorbonne students in visiting the poor and served as an advisor to Blessed Frédéric Ozanam in the founding of the Society of Saint Vincent de Paul.
+      During the uprisings of July 1830 and February 1848, Sister Rosalie did not hesitate to climb the barricades to rescue the wounded, regardless of which side they were on. She would confront the police prefect who accused her of aiding the insurgents. Her courage and spirit of freedom were deeply admired.
+      The populace was also profoundly marked by the dedication of her and her Sisters during the cholera epidemics of 1832 and 1849.
+      Her death on February 7, 1856, caused a great wave of emotion throughout all levels of Parisian society. Her funeral was a true triumph for this humble Daughter of Charity. Her tomb at the Montparnasse Cemetery is constantly adorned with flowers by anonymous hands.
+      Sister Rosalie Rendu was beatified by His Holiness Pope John Paul II on November 9, 2003.
+      `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Mt 25,34.36.40)
+Chúa nói với những người đã phục vụ Người trong anh em: “Nào những kẻ Cha Ta chúc phúc, vì xưa Ta đau yếu các ngươi đã viếng thăm… Ta bảo thật các ngươi, mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho chân phước Rô-za-li tinh thần yêu thương của Chúa khiến chân phước giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương chân phước, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1Cr 12,31-13,1-13)
+<strong>Bài trích thư thứ nhất của thánh Phaolô Tông Đồ gởi tín hữu Cô-rin-tô</strong>
+      Trong các ân huệ của Thiên Chúa, anh em cứ tha thiết tìm những ơn cao trọng nhất. Nhưng đây tôi xin chỉ cho anh em con đường trổi vượt hơn cả.
+      Giả như tôi có nói được các thứ tiếng của loài người và của các thiên thần đi nữa, mà không có đức mến, thì tôi cũng chẳng khác gì thanh la phèng phèng, chũm choẹ xoang xoảng. Giả như tôi được ơn nói tiên tri, và được biết hết mọi điều bí nhiệm, mọi lẽ cao siêu, hay có được tất cả đức tin đến chuyển núi dời non, mà không có đức mến, thì tôi cũng chẳng là gì. Giả như tôi có đem hết gia tài cơ nghiệp mà bố thí, hay nộp cả thân xác tôi để chịu thiêu đốt, mà không có đức mến, thì cũng chẳng ích gì cho tôi. Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả. Đức mến không bao giờ mất được. Ơn nói tiên tri ư? cũng chỉ nhất thời. Nói các tiếng lạ chăng? Có ngày sẽ hết. Ơn hiểu biết ư? Rồi cũng chẳng còn. Vì chưng sự hiểu biết thì có ngần, ơn nói tiên tri cũng có hạn. Khi cái hoàn hảo tới, thì cái có ngần có hạn sẽ biến đi. Cũng như khi tôi còn là trẻ con, tôi nói năng như trẻ con, hiểu biết như trẻ con, suy nghĩ như trẻ con; nhưng khi tôi đã thành người lớn, thì tôi bỏ tất cả những gì là trẻ con. Bây giờ chúng ta thấy lờ mờ như trong một tấm gương, mai sau sẽ được mặt giáp mặt. Bây giờ tôi biết chỉ có ngần có hạn, mai sau tôi sẽ được biết hết, như Thiên Chúa biết tôi. Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại. Nhưng cao trọng hơn cả là đức mến.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 33, 2-7.18-19)
+<strong>Đ. Này đây những ngày công lý và hoà bình sẽ tới.</strong>
+Tôi sẽ không ngừng chúc tụng Chúa,
+câu hát mừng Người chẳng ngớt trên môi.
+Linh hồn tôi hãnh diện vì Chúa,
+xin các bạn nghèo nghe tôi nói mà vui lên.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hãy cùng tôi ngợi khen Đức Chúa,
+ta đồng thanh tán tụng danh Người.
+Tôi đã tìm kiếm Chúa và Người đáp lại,
+giải thoát cho khỏi mọi nỗi kinh hoàng.		    <strong>Đ.</strong>
 
+Ai nhìn lên Chúa sẽ vui tươi hớn hở,
+không bao giờ bẽ mặt hổ ngươi.
+Kẻ nghèo này kêu lên và Chúa đã nhận lời,
+cứu cho khỏi mọi cơn nguy khốn. 		    <strong>Đ.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Họ kêu xin, và Chúa đã nhận lời,
+giải thoát khỏi mọi cơn nguy khốn.
+Chúa gần gũi những tấm lòng tan vỡ,
+cứu những tâm thần thất vọng ê chề. 		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng </strong>(1 Ga 4,21))
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Đây là điều răn mà chúng ta đã nhận được từ Người: ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc 10, 25-37)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Có người thông luật kia đứng lên hỏi Đức Giêsu để thử Người rằng: “Thưa Thầy, tôi phải làm gì để được sự sống đời đời làm gia nghiệp?”. Người đáp: “Trong Luật đã viết gì? Ông đọc thế nào?”. Ông ấy thưa: “Ngươi hãy yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn, hết sức lực, và hết trí khôn ngươi, và hãy yêu người thân cận như chính mình”. Đức Giêsu bảo ông ta: “Ông trả lời đúng lắm. Cứ làm như vậy là sẽ được sống”.
+      Nhưng ông ấy muốn chứng tỏ là mình có lý, nên mới thưa cùng Đức Giêsu rằng: “nhưng ai là người thân cận của tôi?”. Đức Giêsu đáp: Một người kia từ Giê-ru-sa-lem xuống Giê-ri-khô, dọc dường bị rơi vào tay kẻ cướp. Chúng lột sạch người ấy, đánh nhừ tử, rồi bỏ đi, để mặc người ấy nửa sống nửa chết. Tình cờ, có thầy tư tế cũng đi xuống trên con đường ấy. Trông thấy người này, ông tránh qua bên kia mà đi. Rồi cũng thế, một thầy Lê-vi đi tới chỗ ấy, cũng thấy, cũng tránh qua bên kia mà đi. Nhưng một người Sa-ma-ri kia đi đường, tới ngang chỗ người ấy, cũng thấy, và chạnh lòng thương. Ông ta lại gần, lấy dầu lấy rượu đổ lên vết thương cho người ấy và băng bó lại, rồi đặt người ấy trên lưng lừa của mình, đưa về quán trọ mà săn sóc. Hôm sau, ông lấy ra hai quan tiền, trao cho chủ quán và nói: “Nhờ bác săn sóc cho người này, có tốn kém thêm bao nhiêu, thì khi trở về, chính tôi sẽ hoàn lại cho bác”. Vậy theo ông nghĩ, trong ba người đó, ai đã tỏ ra là người thân cận với người đã bị rơi vào tay kẻ cướp?”. Người thông luật trả lời: “Chính là kẻ đã thực thi lòng thương xót đối với người ấy”. Đức Giêsu bảo ông ta: “Ông hãy đi và cũng hãy làm như vậy”.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận những lễ vật của dân Chúa đây, và trong khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương chân phước Rô-za-li, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn khơi động sức mạnh của Hội Thánh Cha,
+được chứng tỏ qua niềm tin của các thánh,
+và Cha cũng biểu lộ cho chúng con tình yêu của Cha.
 Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+vì gương sáng của các ngài thúc đẩy,
+và lời cầu nguyện của các ngài
+giúp chúng con hành động để nước Cha trị đến.
+Vì thế, lạy Cha, cùng với toàn thể thiên thần
+và các thánh, chúng con ca tụng vinh quang Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 13,35)</i>
+“Cứ dấu này, mọi người sẽ nhận biết anh em là môn đệ của Thầy, là anh em có lòng thương yêu nhau”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã củng cố chúng con qua bí tích vừa lãnh nhận, xin giúp chúng con theo gương tình yêu mà chân phước Rô-za-li đã làm chứng cho Chúa, và đức bác ái mà chân phước đã biểu lộ đối với dân Chúa. 
+Chúng con cầu xin...
 `,
 
 en: `<strong>MASS</strong>
