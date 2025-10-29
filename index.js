@@ -1825,92 +1825,115 @@ en: `<strong>MASS</strong>
     type: 'Đại lễ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-Thánh Lu-y-sa đờ Ma-ri-lắc sinh ngày 12 tháng 8 năm 1591, có thể là tại Paris, trong một gia đình quý tộc. Ngài không biết mẹ mình là ai. Lớn lên, ngài khao khát dâng mình cho Chúa trong đời sống tu trì nhưng sức khỏe mỏng manh đã ngăn cản ngài. Thay vào đó, ngài kết hôn với Antoine Le Gras, thư ký của hoàng hậu, vào năm 1613. Hai người có một con trai tên là Michel.
-Sau khi chồng qua đời vào năm 1625, Lu-y-sa trải qua một giai đoạn khó khăn về tinh thần. Chính trong thời gian này, ngài đã gặp Thánh Vinh Sơn Phaolô, người đã trở thành linh hướng của ngài. Dưới sự hướng dẫn của Thánh Vinh Sơn, Lu-y-sa đã tìm thấy ơn gọi đích thực của mình trong việc phục vụ người nghèo.
-Năm 1633, cùng với Thánh Vinh Sơn, Lu-y-sa đã quy tụ những thiếu nữ nông thôn đầu tiên để thành lập Tu hội Nữ Tử Bác Ái, một cộng đoàn các nữ tu không có tu viện, sống giữa người nghèo để phục vụ họ. Lu-y-sa đã đào tạo các chị em, tổ chức công việc của họ và đi khắp nước Pháp để thành lập các cộng đoàn phục vụ người nghèo khổ, bệnh tật, trẻ mồ côi và những người bị bỏ rơi.
-Với lòng tin tưởng tuyệt đối vào Chúa Quan Phòng, một trí thông minh sắc sảo và một trái tim đầy yêu thương, Lu-y-sa đã trở thành một nhà tổ chức bác ái vĩ đại. Ngài qua đời tại Paris vào ngày 15 tháng 3 năm 1660, vài tháng trước Thánh Vinh Sơn. Ngài được Đức Giáo Hoàng Piô XI phong thánh năm 1934 và được Đức Giáo Hoàng Gioan XXIII tôn làm bổn mạng của các nhân viên xã hội Công giáo năm 1960.`,
-        en: `<strong>Biography</strong>
-St. Louise de Marillac was born on August 12, 1591, probably in Paris, into a noble family. She never knew her mother. As a young woman, she desired to consecrate herself to God in religious life, but her fragile health prevented her. Instead, she married Antoine Le Gras, secretary to the queen, in 1613. They had one son, Michel.
-After her husband's death in 1625, Louise went through a period of spiritual distress. It was during this time that she met St. Vincent de Paul, who became her spiritual director. Under his guidance, Louise found her true calling in serving the poor.
-In 1633, with St. Vincent, Louise gathered the first country girls to form the Company of the Daughters of Charity, a community of unenclosed sisters who lived among the poor to serve them. Louise trained the sisters, organized their work, and traveled throughout France establishing communities to serve the destitute, the sick, orphans, and the abandoned.
-With immense trust in Providence, a keen intellect, and a heart full of love, Louise became a great organizer of charity. She died in Paris on March 15, 1660, a few months before St. Vincent. She was canonized by Pope Pius XI in 1934 and declared Patroness of Christian Social Workers by Pope John XXIII in 1960.`,
+        vi: `
+      Sinh ngày 12 tháng 8 năm 1591, Lu-i-dờ Ma-ri-ắc không bao giờ biết mẹ của mình. Khi còn rất nhỏ, Lu-i-dờ được gởi vào nhà dòng nữ tu Đa Minh tại Poissy. Lu-i-dờ ước muốn trở thành nữ tu dòng Capucinô, nhưng người giám hộ, quan chưởng ấn Michel de Marillac, phản đối, viện cớ rằng Lu-i-dơ thiếu sức khoẻ. Năm 1613, Lu-i-dờ kết hôn với Antoine Le Gras và cậu con trai Michel chào đời là niềm vui của hai vợ chồng. Cơn bệnh kéo dài của chồng sẽ gây cho cô sự bối rối, xao xuyến và đêm tối đức tin. Chúa nhật ngày 4 tháng 6 năm 1623, lễ Hiện Xuống, cũng như Phaolô trên đường đi Đa-mát, ánh sáng Chúa xâm chiếm thánh nữ. Ngài viết sau này: “Trong chốc lát, tâm trí tôi sáng ra”. Bấy giờ ngài hiểu rằng một ngày kia, ngài sẽ tận hiến cho Chúa cùng với nhiều người khác, nhưng không sống trong một đan viện.
+      Trở thành quả phụ ngày 21 tháng 12 năm 1625, Lu-i-dờ Ma-ri-ắc, theo lời mời của thánh Vinh Sơn Phaolô, đi thăm người nghèo. Không còn chú trọng đến bản thân mình nữa, để tập trung nghĩ đến những người đang đau khổ, ngài tìm lại được thế quân bình của mình. Thánh Vinh Sơn Phaolô lôi cuốn ngài tham gia vào công việc của các Hội Bác ái và làm cho ngài trở thành cộng tác viên của mình.
+      Ngày 29 tháng 11 năm 1633, cùng với thánh Vinh Sơn Phaolô, Lu-i-dờ Ma-ri-ắc sáng lập Tu Hội Nữ Tử Bác Ái. Thánh nữ đảm trách việc đào tạo các chị và tổ chức công việc. Ngày 25 tháng 3 năm 1642, thánh nữ tận hiến cho Thiên Chúa qua những lời khấn khó nghèo, khiết tịnh, vâng phục và phục vụ người nghèo. Cuộc đời thánh nữ Lu-i-dờ Ma-ri-ắc, cũng như cuộc đời thánh Vinh Sơn Phaolô, được định hướng cho tất cả những người đau khổ: các bệnh nhân, người tị nạn, trẻ em bị bỏ rơi, người tù khổ sai, người cao tuổi và người mắc bệnh tâm thần… Mọi hành động của thánh nữ Lu-i-dờ Ma-ri-ắc đều tìm thấy nguồn mạch và tính năng động trong tương quan với Thiên Chúa và tình yêu của ngài đối với Chúa Giêsu đang sống giữa loài người.
+      Cậu con trai của ngài, Michel Le Gras, tháng giêng năm 1650, kết hôn với cô Gabrielle Le Clerc. Cô con gái của họ, Louise Renée, sẽ là niềm vui của bà nội.
+      Thánh nữ Lu-i-dờ Ma-ri-ắc qua đời ngày 15 tháng 3 năm 1660 tại Paris là nơi mà ngài hằng sinh sống. Di chúc thiêng liêng của ngài nhấn mạnh đến lòng trung thành phục vụ người nghèo và sự đoàn kết trong cộng đoàn. Ngài được Đức giáo hoàng Bênêđictô XV phong chân phước ngày 9 tháng 5 năm 1920 và Đức Piô XI tôn phong hiển thánh ngày 11 tháng 3 năm 1934. Ngày 10 tháng 2 năm 1960, Đức Gioan XXIII tuyên bố ngài là quan thầy của tất cả các Kitô hữu làm việc xã hội.
+
+`,
+en: `
+      "Above all be very gentle and courteous toward the people you serve; love them tenderly and respect them deeply."
+      Wife, mother, foundress, saint – such was the course through life and into eternity of the woman named Louise de Marillac.  She was a woman of courage, interested in the great moral and social problems of her day, and a woman for whose step the poor and hungry of Paris streets listened as she went about serving their needs.
+      Nurse, educator, and social worker was St. Louise de Marillac, to whom the world owes the innovation which she and her co-laborer, St. Vincent de Paul, brought into being – a religious community bound by rules and vows, but uncloistered, so that they might be at liberty to serve the poor in their homes, while serving God in a life consecrated to Him.
+      Unlike St. Vincent, who was of humble origin, St. Louise de Marillac was born in 1598 and grew up in an illustrious French family.  Like St. Vincent, however, she was to attain to sainthood through trials, difficulties, and suffering.
+      At the age of 22, she married Antoine Le Gras, Secretary to the Queen Regent, Marie de Medicis.  Toward the end of the year, a son was born to them and to him she gave all of a mother's love, not foreseeing, at this time, the cause of worry he would be to her in the future.  Although she performed with ease and charm of the duties of her position, she never cared for the life of society.  A few years later, Antoine Le Gras fell ill and died, leaving her a widow at age 34 with a son just 13 years old.
+      Whether it was to St. Vincent or to St. Louise that the idea first came of training country girls is of little consequence, but both found in these simple village girls willing hearts and ready hands that worked without fatigue.  St. Louise devoted more and more time to these young girls; she felt that nothing was of greater importance than to educate the minds and hearts of these young women who had heeded a call that could come only from God to serve the poor and the outcast.  She prepared them to teach, to carry out the nursing practices in vogue at the time, and to serve in every field of social work.
+      Eventually the young women working with St. Louise joined her in living a community life, under rules and vows like Religious, and dedicated to charitable works.  The Archbishop of Paris gave complete approbation to the Rules, on which St. Vincent and St. Louise were collaborators, but of which she contributed the major part.  Thus, in time, St. Louise fulfilled her mission as Foundress, and the Little Company of Daughters of Charity, Servants of the Sick Poor, was officially established in the Church on November 29, 1633.
+      Louise de Marillac was beatified by Pope Benedict XV in 1920 and, in 1934, she was canonized by Pope Pius XI. Her feast day is May 9th. To this day, her remains are enshrined in the chapel of the motherhouse of the Daughters of Charity in Paris. She was declared Patroness of Christian Social Workers by Pope John XXIII in 1960. As a wife, mother, teacher, nurse, social worker and religious foundress, she stands as a model for all women.
+`,
      
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (2 Cr 5,14-15)
+Tình yêu Đức Kitô thôi thúc chúng tôi, vì Đức Kitô đã chết cho mọi người, để những ai đang sống, không còn sống cho chính mình nữa, mà sống cho Đấng đã chết và sống lại vì mình.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã cho thánh nữ Lu-i-dờ Ma-ri-ắc nhận ra và tôn vinh Chúa Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những ai đang đau khổ và túng thiếu là anh chị em mình; cho chúng con phục vụ họ với lòng kính trọng và yêu thương. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>BÀI ĐỌC</strong>
+<strong>Bài đọc 1</strong> (Is 58,1a.5-11)
+<strong>Bài trích sách ngôn sứ Isaia</strong>
+      Có lời Chúa rằng: “Cứ lấy hết gân cổ mà kêu lên, đừng kìm hãm, kêu lớn tiếng lên như tù và! Phải chăng đó là cách ăn chay mà Ta ưa chuộng trong ngày con người phải thực hành khổ chế? Cúi rạp đầu như cây sậy cây lau, nằm trên vải thô và tro bụi, phải chăng như thế mà gọi là ăn chay trong ngày các ngươi muốn đẹp lòng Đức Chúa? Cách ăn chay mà Ta ưa thích chẳng phải là thế này sao: mở xiềng xích bạo tàn, tháo gông cùm trói buộc, trả tự do cho người bị áp bức, đập tan mọi gông cùm? Chẳng phải là chia cơm cho người đói, rước vào nhà những người nghèo không nơi trú ngụ; thấy ai mình trần thì cho áo che thân, không ngoảnh mặt làm ngơ trước người anh em cốt nhục? Bấy giờ ánh sáng ngươi sẽ bừng lên như rạng đông, vết thương ngươi sẽ mau lành. Đức công chính ngươi sẽ mở đường phía trước, vinh quang Đức Chúa bao bọc phía sau ngươi. Bấy giờ, ngươi kêu lên, Đức Chúa sẽ nhận lời, ngươi cầu cứu, Người liền đáp lại: “Có Ta đây!” Nếu ngươi loại khỏi nơi ngươi ở gông cùm, cử chỉ đe dọa và lời nói hại người, nếu ngươi nhường miếng ăn cho kẻ đói, làm thoả lòng người bị hạ nhục, thì ánh sáng ngươi sẽ chiếu toả trong bóng tối và tối tăm của ngươi chẳng khác nào chính ngọ. Đức Chúa sẽ không ngừng dẫn dắt ngươi, giữa đồng khô cỏ cháy.
+      Người sẽ làm cho ngươi được no lòng; xương cốt ngươi, Người sẽ làm cho cứng cáp. Ngươi sẽ như thửa vườn được tưới đẫm, như mạch suối không cạn nước bao giờ.
+      <i>Đó là Lời Chúa.</i>     
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 67,4-7,10-11)
+<strong>Đ. Chúa đỡ nâng kẻ nghèo hèn, xin chúc tụng Chúa.</strong>
+Những người công chính
+múa nhảy mừng vui trước mặt Chúa Trời,
+niềm hoan lạc trào dâng.
+Hãy hát mừng Thiên Chúa, đàn ca kính danh Người,
+Danh người là Đức Chúa;
+Trước Thánh Nhan, hãy vui mừng hớn hở.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Cha nuôi dưỡng cô nhi, Đấng đỡ bênh quả phụ,
+chính là Thiên Chúa ngự trong thánh điện Người.
+Kẻ cô thân, Thiên Chúa cho nhà cửa,
+hạng tù đày, Người trả lại tự do hạnh phúc.	    <strong>Đ.</strong>
 
+Lạy Thiên Chúa, Ngài đổ mưa ân hậu,
+gia nghiệp Ngài tiêu hao mòn mỏi, Ngài đã bổ sức cho.
+Lạy Thiên Chúa, đàn chiên của Ngài đến ở nơi đâu,
+Ngài cũng luôn nâng đỡ,
+bởi vì Ngài nhân hậu đối với kẻ khó nghèo. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Bài đọc 2</strong> (Gc 2,14-19;26)
+<strong>Bài trích thư của thánh Giacôbê Tông đồ</strong>
+      Thưa anh em, ai bảo rằng mình có đức tin mà không hành động theo đức tin, thì nào có ích lợi gì? Đức tin có thể cứu người ấy được chăng? Giả như có người anh em hay chị em không có áo che thân và không đủ của ăn hằng ngày, mà có ai trong anh em lại nói với họ: “Hãy đi bình an, mặc cho ấm và ăn cho no”, nhưng lại không cho họ những thứ thân xác họ đang cần, thì nào có ích lợi gì?
+      Cũng vậy đức tin không có hành động thì quả là đức tin chết. Đàng khác, có người sẽ bảo: “Bạn, bạn có đức tin; còn tôi, tôi có hành động. Bạn thử cho tôi thấy thế nào là tin mà không hành động, còn tôi, tôi sẽ hành động để cho bạn thấy thế nào là tin. Bạn tin rằng chỉ có một Thiên Chúa duy nhất. Bạn làm phải. Cả ma quỷ cũng tin như thế, và chúng run sợ. Thật thế, một thân xác không có hơi thở là một xác chết, cũng vậy, đức tin không có hành động là đức tin chết”.
+      <i>Đó là Lời Chúa.</i>     
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (Ga 13,34)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy ban cho anh em một điều răn mới là anh em hãy thương yêu nhau như Thầy đã yêu thương anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>TIN MỪNG</strong> (Ga 13, 1-15)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+      Trước lễ Vượt Qua, Đức Giêsu biết giờ của Người đã đến, giờ phải bỏ thế gian mà về với Chúa Cha. Người vẫn yêu thương những kẻ thuộc về mình còn ở thế gian, và Người vẫn yêu thương họ đến cùng.
+      Ma quỷ đã gieo vào lòng Giu-đa, con ông Si-môn Ít-ca-ri-ốt, ý định nộp Đức Giêsu. Đức Giêsu biết rằng; Chúa Cha đã giao phó mọi sự trong tay Người, Người bởi Thiên Chúa mà đến, và sắp trở về cùng Thiên Chúa, nên trong một bữa ăn, Người đứng dậy, rời bàn ăn, cởi áo ngoài ra, và lấy khăn mà thắt lưng. Rồi Đức Giêsu đổ nước vào chậu, bắt đầu rửa chân cho các môn đệ và lấy khăn thắt lưng mà lau.
+      Vậy, Người đến chỗ ông Si-mon Phê-rô, ông liền thưa với Người: “Thưa Thầy! Thầy mà lại rửa chân cho con sao?” Đức Giêsu trả lời: “Việc Thầy làm, bây giờ anh chưa hiểu, nhưng sau này anh sẽ hiểu.” Ông Phêrô lại thưa: “Thầy mà rửa chân cho con, không đời nào con chịu đâu!” Đức Giêsu đáp: “Nếu Thầy không rửa cho anh, anh sẽ chẳng được chung phần với Thầy.” Ông Si-môn Phê-rô liền thưa: “Vậy, thưa Thầy, xin cứ rửa, không những chân, mà cả tay và đầu con nữa”. Đức Giêsu bảo ông: “Ai đã tắm rồi, thì không cần phải rửa nữa; toàn thân người ấy đã sạch. Về phần anh em, anh em đã sạch, nhưng không phải tất cả đâu!”. Thật vậy, Người biết ai sẽ nộp Người, nên mới nói: “Không phải tất cả anh em đều sạch.”
+      Khi rửa chân cho các môn đệ xong, Đức Giêsu mặc áo vào, về chỗ và nói: “Anh em có hiểu việc Thầy mới làm cho anh em không? Anh em gọi Thầy là “Thầy” là “Chúa”, điều đó phải lắm, vì quả thật, Thầy là Thầy, là Chúa. Vậy, nếu Thầy là Chúa, là Thầy, mà còn rửa chân cho anh em, thì anh em cũng phải rửa chân cho nhau. Thầy đã nêu gương cho anh em, để anh em cũng làm như Thầy đã làm cho anh em.
+      <i>Đó là lời Chúa.</i>
 
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
-
+<strong>KINH TIN KÍNH</strong>
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin thương nhận lễ vật của dân Chúa đây. Và trong khi chúng con nhớ lại tình thương yêu vô biên của Con Chúa, xin làm cho chúng con biết, theo gương thánh nữ Lu-i-dờ Ma-ri-ắc, yêu mến Chúa và yêu thương tha nhân với con tim quảng đại hơn. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
+nhờ Đức Kitô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Hôm nay, khi mừng lễ thánh nữ Lu-i-dờ Ma-ri-ắc,
+Cha cho chúng con chiêm ngắm đức ái của Cha.
+Cha đã dạy thánh nữ trao ban những gì cần thiết cho người nghèo
+và làm chứng nhân tình yêu của Cha trong thế giới này.
+Cha mời gọi gia đình của thánh nữ sống bác ái
+và làm cho triều đại công lý
+và triều đại lòng xót thương của Cha ngự trị khắp nơi.
+Vì thế, cùng với các thiên thần và các thánh
+chúng con hát ca tuyên xưng vinh quang Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mt 25,40)</i>
+Ta bảo thật các ngươi: Tất cả những gì các ngươi đã làm cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa là Thiên Chúa chúng con, được mạnh sức bởi việc hiệp lễ này, chúng con nài xin Chúa cho chúng con, theo gương thánh nữ Lu-i-dờ Ma-ri-ắc, chỉ luôn tìm kiếm một mình Chúa và làm nhân chứng cho mọi người về tình yêu của Chúa.
+Chúng con cầu xin...
+
+<strong>PHÉP LÀNH TRỌNG THỂ</strong>
+      Nơi thánh nữ Lu-i-dờ Ma-ri-ắc, Chúa đã nêu một mẫu gương sáng chói về tình yêu thương đối với người nghèo. Xin Chúa cũng đổ tràn đức ái nồng nhiệt ấy vào tâm hồn anh chị em. Amen.
+      Trong ngày lễ thánh nữ Lu-i-dờ Ma-ri-ắc, xin Chúa ban cho anh chị em, qua lời chuyển cầu của thánh nữ, luôn có sự quan tâm huynh đệ đối với người nghèo. Amen.
+      Trong ngày lễ thánh nữ Lu-i-dờ Ma-ri-ắc, xin cho anh chị em được hưởng từ bây giờ, lòng thương xót của Chúa, và đón nhận vương quốc mà Người hứa cho những ai có lòng thương xót. Amen.
+      Và xin phúc lành của Thiên Chúa toàn năng là Cha và Con và Thánh Thần xuống trên anh chị em và ở lại với anh chị em luôn mãi. Amen.
+
 `,
    en: `<strong>MASS</strong>
 <strong>Entrance Antiphon (Prov 31:20, 26)</strong>
