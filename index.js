@@ -1479,88 +1479,89 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la, một thành viên của Hiệp hội Bác Ái Thánh Vinh Sơn Phaolô, thường được gọi là “El Pele” (nghĩa là Một Vị Anh Hùng "the Strong One" or "the Brave One"), được sinh ra trong một gia đình thuộc dân du mục Gypsy ở Tây Ban Nha năm 1861. Là người ít học, lại làm công việc mua bán ngựa, nhưng ngài đã trở thành tấm gương về đời sống cầu nguyện và phục vụ tha nhân đến quên mình.
+      Đời sống tâm linh, đạo đức của ngài đã được khai phá và thăng hoa nhờ sự hướng dẫn của các tu sĩ dòng Phanxicô. Dân chúng thuộc đủ mọi thành phần đều kính trọng trước lòng đạo đức và bác ái mà ngài dành cho người nghèo. Vào năm 1918, tại Barbastro, khi trông thấy một người ho lao thổ huyết ngã gục trên đường, vị Chân Phước không ngần ngại loại bệnh lây nhiễm, đã tận tình săn sóc người bệnh. Lúc khởi đầu cuộc nội chiến Tây Ban Nha, tháng 7 năm 1936, Xê-phê-ri-nô Ghi-mê-nê Ma-la bị bắt khi bảo vệ một linh mục đang bị kéo lê trên đường phố ở Barbastro, và cũng vì ngài đeo tràng chuỗi Mân Côi. Được hứa trả tự do nếu giao lại chuỗi Mân Côi và ngừng lần hạt, nhưng Xê-phê-ri-nô Ghi-mê-nê Ma-la sẵn sàng chịu cảnh tù đày và tử đạo. Vào tảng sáng ngày 8 tháng 8 năm 1936, Xê-phê-ri-nô Ghi-mê-nê Ma-la bị hành quyết ở nghĩa trang Barbastro. Trước khi chết, ngài cầm chuỗi Mân Côi giơ cao và hô to: “Vạn tuế Vua Kitô!”.
+      Xê-phê-ri-nô Ghi-mê-nê Ma-la được Đức Giáo Hoàng Gioan Phaolô II phong Chân Phước ngày 4 tháng 5 năm 1997. Trong buổi lễ tuyên phong chân phước, Đức Giáo Hoàng Gioan Phaolô II nói: “Cuộc đời của ngài cho thấy Đức Kitô luôn hiện diện trong các dân tộc và các dòng giống khác nhau, và mọi người đều được mời gọi tiến tới sự thánh thiện qua việc trung thành tuân giữ các giới răn của Người và luôn ở trong tình yêu của Người”. 
+
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Blessed Ceferino Giménez Malla, a member of the Society of Saint Vincent de Paul, commonly known as "El Pelé" (meaning "the Strong One" or "the Brave One"), was born into a Gypsy family in Spain in 1861.
+      Though uneducated and working as a horse trader, he became an example of a life of prayer and selfless service to others. His spiritual and virtuous life was discovered and cultivated under the guidance of the Franciscan friars. People from all walks of life respected him for his piety and the charity he showed to the poor. In 1918, in Barbastro, upon seeing a man with consumption collapse on the street coughing up blood, the Blessed, without hesitation or fear of infection, diligently cared for the sick man.
+      At the beginning of the Spanish Civil War, in July 1936, Ceferino Giménez Malla was arrested while defending a priest who was being dragged through the streets of Barbastro, and also because he was carrying a Rosary. He was promised freedom if he would surrender his Rosary and stop praying it, but Ceferino Giménez Malla readily chose imprisonment and martyrdom.
+      At dawn on August 8, 1936, Ceferino Giménez Malla was executed in the cemetery of Barbastro. Before his death, he held his Rosary aloft and cried out: "Long live Christ the King!"
+      Ceferino Giménez Malla was beatified by Pope John Paul II on May 4, 1997. During the beatification ceremony, Pope John Paul II said: "His life shows that Christ is present in all different peoples and races, and that everyone is called to holiness by faithfully observing His commandments and remaining in His love."
 
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la quả thực là một vị tử đạo, vì đã đổ máu mình ra vì danh Đức Kitô. Chân phước không hề sợ hãi những đe dọa, và đã đạt được Nước Trời.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, nơi chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng triều thiên tử đạo. Nhờ lời chuyển cầu của chân phước, xin Chúa cho chúng con biết dâng hiến chính cuộc sống chúng con làm của lễ đẹp lòng Chúa, bằng cách làm mọi việc vì tình yêu Chúa. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc </strong>(1 Ga 5,1-5)
+<strong>Bài trích thư thứ nhất của Thánh Gio-an Tông đồ</strong>
+      Phàm ai tin rằng Đức Giêsu là Đấng Kitô, thì đã được Thiên Chúa sinh ra. Và ai yêu mến Đấng sinh thành, thì cũng yêu thương kẻ được Đấng ấy sinh ra. Căn cứ vào điều này, chúng ta biết được mình yêu thương con cái Thiên Chúa và thi hành các điều răn của Người. Quả thật, yêu mến Thiên Chúa là tuân giữ các điều răn của Người. Mà các điều răn của Người có nặng nề gì đâu, vì mọi kẻ đã được Thiên Chúa sinh ra đều thắng được thế gian. Và điều làm cho chúng ta thắng được thế gian, đó là lòng tin của chúng ta.
+      Ai là kẻ thắng được thế gian, nếu không phải là người tin rằng Đức Giêsu là Con Thiên Chúa?
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 36, 4-5, 5-6, 30-31)
+<strong>Đ. Lạy Chúa, hy vọng của con đặt ở nơi Chúa.</strong>
+Cứ tin tưởng vào Chúa và làm điều thiện,
+thì sẽ được ở trong đất nước và sống yên hàn.
+Hãy lấy Chúa làm niềm vui của bạn,
+Người sẽ cho được phỉ chí toại lòng.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hãy ký thác đường đời cho Chúa,
+Tin tưởng vào Người, Người sẽ ra tay.
+Chính nghĩa bạn, Chúa sẽ làm rực rỡ tựa bình minh,
+công lý bạn, Người sẽ cho huy hoàng như chính ngọ.		    <strong>Đ.</strong>
 
+Miệng người công chính niệm lẽ khôn ngoan
+và lưỡi họ nói lên điều chính trực.
+Luật Thiên Chúa, họ ghi tạc vào lòng,
+bước chân đi không hề lảo đảo. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (1Pr 4,14)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Nếu bị sỉ nhục vì danh Đức Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền, là Thần khí của Thiên Chúa, ngự trên anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> ( Lc 9,23-26)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Rồi Đức Giêsu nói với mọi người: “Ai muốn theo tôi, phải từ bỏ chính mình, vác thập giá mình hằng ngày mà theo. Quả vậy, ai muốn cứu mạng sống mình, thì sẽ mất; còn ai liều mạng sống mình vì tôi, thì sẽ cứu được mạng sống ấy. Vì người nào được cả thế giới mà phải đánh mất chính mình hay là thiệt thân, thì nào có ích lợi gì? Ai xấu hổ vì tôi và vì những lời của tôi, thì Con Người cũng sẽ xấu hổ vì kẻ ấy, khi Người ngự đến trong vinh quang của mình, của Chúa Cha và các thánh thiên thần.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, chúng con dâng tiến Chúa những lễ vật này trong ngày lễ kính Chân Phước Xê-phê-ri-nô Ghi-mê-nê Ma-la. Xin Chúa vui lòng chấp nhận như Chúa đã vui nhận cuộc tử đạo của Chân Phước Xê-phê-ri-nô Ghi-mê-nê Ma-la. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Chúng con chúc tụng vinh quang Cha, tạ ơn Cha mọi nơi mọi lúc,
+Thật là chính đáng, phải đạo.
+Chúng con nhận biết dấu chỉ sáng ngời của ân sủng Cha
+qua việc tử đạo của chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la.
+Khi hy sinh mạng sống mình như Đức Kitô,
+là chân phước đã tôn vinh Danh Cha.
+Chính sức mạnh của Cha biểu hiện trong sự yếu đuối
+khi Cha ban cho những thụ tạo mỏng dòn
+được làm chứng cho Đức Kitô, Chúa chúng con.
+Vì thế cùng với các thiên thần trên trời,
+chúng con ở dưới trần gian hằng thờ lạy Cha,
+tung hô ca ngợi Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mt 16,24)</i>
+Chúa nói: “Ai muốn theo Thầy, phải từ bỏ chính mình, vác thập giá mình mà theo”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, chúng con vừa hân hoan lãnh nhận bánh bởi trời để mừng chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la. Trong tiệc thánh này, chúng con vừa tuyên xưng Ðức Kitô đã chịu chết, xin cho chúng con được cùng với chân phước Xê-phê-ri-nô Ghi-mê-nê Ma-la chia sẻ vinh quang với Ðấng đã phục sinh. 
+Chúng con cầu xin...
 `,    
 en: `<strong>MASS</strong>
 
