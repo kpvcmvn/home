@@ -2353,60 +2353,77 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        Năm 1794, ngay giữa cuộc cách mạng Pháp, bốn Nữ Tử Bác Ái tại Arras (Pas de Calais) đảm trách việc chăm sóc bệnh nhân tại nhà và giáo dục các bé gái. Đó là các Sơ: Sơ Ma-ri-a Mát-len Phông-ten, sinh ngày 22 tháng 4 năm 1723 tại Etrepagny (Eure), gia nhập Tu Hội Nữ Tử Bác Ái ngày 9 tháng 7 năm 1748, là Sơ Phục vụ cộng đoàn. Sơ Marie Françoise Lanel, sinh ngày 24 tháng 8 năm 1745 tại Eu (Seine Maritime), được nhận vào Tu Hội ngày 10 tháng 4 năm 1764. Sơ Thérèse Fantou, sinh ngày 29 tháng 7 năm 1747, nguyên quán Miniac Morvan (Ille et Vilaine). Nữ Tử Bác Ái từ ngày 28 tháng 11 năm 1771. Sơ Jeanne Gérard, sinh tại Cumières (Meuse) ngày 23 tháng 10 năm 1752, gia nhập Tu Hội Nữ Tử Bác Ái ngày 17 tháng 9 năm 1776. Vì từ chối tuyên thệ điều mà lương tâm các chị không cho phép, nên các Sơ bị bắt ngày 15 tháng 2 năm 1794 dựa trên những lời vu khống. Trong lúc bị giam, các Sơ an ủi anh em tù nhân cũng bị tố cáo cách bất công như các Sơ. Sau bốn tháng bị giam, các Sơ được chuyển đến Cambrai để bị xử chém. Trên chiếc xe kéo chở các Sơ đến nơi khổ hình, các Sơ hát bài Ave Maris Stella và lần chuỗi. Khi bước lên máy chém, Sơ Ma-ri-a Mát-len Phông-ten lên tiếng quả quyết: “Anh chị em Kitô hữu, anh chị em đừng đau buồn làm gì, anh chị em sẽ không chết đâu, vì chúng tôi là những nạn nhân cuối cùng”. Và đúng như vậy: ngày 26 tháng 6 năm 1794, chấm dứt khủng bố. Trong khi đó, chân phước Marguerite Rutan, xuất thân từ nhà Dax. Ngài sinh ngày 23 tháng 4 năm 1736 tại Metz và gia nhập Tập Viện tại một cộng đoàn nhỏ, ngày 23 tháng 4 năm 1757. Sơ được phúc tử đạo bởi việc trảm quyết ở Dax ngày 9 tháng 4 năm 1794. Sơ Ma-ri-a Mát-len Phông-ten và các bạn được Đức Thánh Cha Bênêđictô XV phong chân phước ngày 13 tháng 6 năm 1920. Còn Sơ Marguerite Rutan được Đức Giáo Hoàng Benedicto XVI phong chân phước ngày 19 tháng 6 năm 2011.
+        vi: `
+      Năm 1794, ngay giữa cuộc cách mạng Pháp, bốn Nữ Tử Bác Ái tại Arras (Pas de Calais) đảm trách việc chăm sóc bệnh nhân tại nhà và giáo dục các bé gái. Đó là các Sơ:
+      Sơ Ma-ri-a Mát-len Phông-ten, sinh ngày 22 tháng 4 năm 1723 tại Etrepagny (Eure), gia nhập Tu Hội Nữ Tử Bác Ái ngày 9 tháng 7 năm 1748, là Sơ Phục vụ cộng đoàn.
+      Sơ Marie Françoise Lanel, sinh ngày 24 tháng 8 năm 1745 tại Eu (Seine Maritime), được nhận vào Tu Hội ngày 10 tháng 4 năm 1764.
+      Sơ Thérèse Fantou, sinh ngày 29 tháng 7 năm 1747, nguyên quán Miniac Morvan (Ille et Vilaine). Nữ Tử Bác Ái từ ngày 28 tháng 11 năm 1771.
+      Sơ Jeanne Gérard, sinh tại Cumières (Meuse) ngày 23 tháng 10 năm 1752, gia nhập Tu Hội Nữ Tử Bác Ái ngày 17 tháng 9 năm 1776.
+      Vì từ chối tuyên thệ điều mà lương tâm các chị không cho phép, nên các Sơ bị bắt ngày 15 tháng 2 năm 1794 dựa trên những lời vu khống. Trong lúc bị giam, các Sơ an ủi anh em tù nhân cũng bị tố cáo cách bất công như các Sơ. Sau bốn tháng bị giam, các Sơ được chuyển đến Cambrai để bị xử chém. Trên chiếc xe kéo chở các Sơ đến nơi khổ hình, các Sơ hát bài Ave Maris Stella và lần chuỗi. Khi bước lên máy chém, Sơ Ma-ri-a Mát-len Phông-ten lên tiếng quả quyết: “Anh chị em Kitô hữu, anh chị em đừng đau buồn làm gì, anh chị em sẽ không chết đâu, vì chúng tôi là những nạn nhân cuối cùng”. Và đúng như vậy: ngày 26 tháng 6 năm 1794, chấm dứt khủng bố.
+      Trong khi đó, chân phước Marguerite Rutan, xuất thân từ nhà Dax. Ngài sinh ngày 23 tháng 4 năm 1736 tại Metz và gia nhập Tập Viện tại một cộng đoàn nhỏ, ngày 23 tháng 4 năm 1757. Sơ được phúc tử đạo bởi việc trảm quyết ở Dax ngày 9 tháng 4 năm 1794.
+      Sơ Ma-ri-a Mát-len Phông-ten và các bạn được Đức Thánh Cha Bênêđictô XV phong chân phước ngày 13 tháng 6 năm 1920.
+      Còn Sơ Marguerite Rutan được Đức Giáo Hoàng Benedicto XVI phong chân phước ngày 19 tháng 6 năm 2011.
+
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      In 1794, in the midst of the French Revolution, four Daughters of Charity in Arras (Pas-de-Calais) were dedicated to caring for the sick in their homes and educating young girls. They were:
+      Sister Marie-Madeleine Fontaine, born on April 22, 1723, at Etrepagny (Eure), who entered the Company of the Daughters of Charity on July 9, 1748, and was the Sister Servant (Superior) of the community.
+      Sister Marie-Françoise Lanel, born on August 24, 1745, at Eu (Seine-Maritime), received into the Company on April 10, 1764.
+      Sister Thérèse Fantou, born on July 29, 1747, originally from Miniac-Morvan (Ille-et-Vilaine). A Daughter of Charity since November 28, 1771.
+      Sister Jeanne Gérard, born at Cumières (Meuse) on October 23, 1752, who entered the Company of the Daughters of Charity on September 17, 1776.
+      Because they refused to take an oath that their consciences forbade, the Sisters were arrested on February 15, 1794, based on calumnies. During their imprisonment, they comforted their fellow prisoners who, like them, had been unjustly accused.
+      After four months of confinement, the Sisters were transferred to Cambrai to be guillotined. On the cart that took them to the place of execution, the Sisters sang the Ave Maris Stella and prayed the Rosary.
+      As she mounted the scaffold, Sister Marie-Madeleine Fontaine declared: "Christians, do not grieve; you will not die, for we are the last victims." And so it was: on June 26, 1794, the Terror came to an end.
+      Meanwhile, Blessed Marguerite Rutan was from the house of Dax. She was born on April 23, 1736, in Metz and entered the Seminary (Novitiate) in a small community on April 23, 1757. She received the grace of martyrdom by the guillotine in Dax on April 9, 1794.
+      Sister Marie-Madeleine Fontaine and her companions were beatified by His Holiness Pope Benedict XV on June 13, 1920.
+      Sister Marguerite Rutan was beatified by Pope Benedict XVI on June 19, 2011.
 
 `
 },
       massReadings: {
       vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Tv 36)
+Chúa là niềm vui của người công chính,
+là nơi nương tựa của họ trong lúc hiểm nguy.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
-Chúng con cầu xin...
+Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho các chân phước Ma-ri-a Mát-len Phông-ten, Maria Phanxica, Têrêxa và Gio-an-na được ơn can đảm chịu chết vì tự do đức tin: nhờ lời chuyển cầu của các ngài, xin cho chúng con biết chịu đựng mọi nghịch cảnh vì tình yêu Đức Kitô và hết sức vươn cao. 
+CNgười là Đấng hằng sống và hiển trị muôn đời.
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
+<strong>Bài đọc (1Pr 3, 14-17)</strong>
 <strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+      Nếu anh em chịu khổ vì sống công chính, thì anh em thật có phúc! Đừng sợ những kẻ làm hại anh em và đừng xao xuyến. Đức Kitô là Đấng Thánh, hãy tôn Người làm Chúa ngự trị trong lòng anh em. Hãy luôn luôn sẵn sàng trả lời cho bất cứ ai chất vấn về niềm hy vọng của anh em. Nhưng phải trả lời cách hiền hoà và với sự kính trọng. Hãy giữ lương tâm ngay thẳng, khiến những kẻ phỉ báng anh em vì anh em ăn ở ngay thẳng trong Đức Kitô, thì chính họ phải xấu hổ vì những điều họ vu khống, bởi lẽ thà chịu khổ vì làm việc lành, nếu đó là ý của Thiên Chúa, còn hơn là vì làm điều ác.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 30, 3-8;17;25)
+<strong>Đ. Trong tay ngài, lạy Chúa, con xin phó thác hồn con.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+như thành trì để cứu độ con.
+Vì danh dự Ngài, xin dẫn đường chỉ lối cho con.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Trong tay Ngài, con xin phó thác hồn con,
+Ngài đã cứu chuộc con, lạy Chúa Trời thành tín.
+Phần con đây, lạy Chúa chỉ tin tưởng nơi Ngài,
+được Ngài đoái thương, con vui mừng hớn hở.	    <strong>Đ.</strong>
 
+Xin tỏa ánh tôn nhan rạng ngời
+trên tôi tớ Ngài đây, và lấy tình thương mà cứu độ.
+Hỡi mọi người cậy trông vào Chúa,
+mạnh bạo lên, can đảm lên nào! 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (1Pr 4, 14)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Nếu bị sỉ nhục vì danh Đức Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền, là Thần Khí của Thiên Chúa, ngự trên anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tin Mừng (Mt 10,28-33)</strong>
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+    Khi ấy, Đức Giêsu phán cùng các môn đệ rằng: “Anh em đừng sợ những kẻ giết thân xác mà không giết được linh hồn. Đúng hơn, anh em hãy sợ Đấng có thể tiêu diệt cả hồn lẫn xác trong hỏa ngục. Hai con chim sẻ chỉ bán được một hào phải không? Thế mà, không một con nào rơi xuống đất ngoài ý của Cha anh em. Thì đối với anh em cũng vậy, ngay đến tóc trên đầu anh em, Người cũng đếm cả rồi. Vậy anh em đừng sợ, anh em còn quý giá hơn muôn vàn chim sẻ”.
+    “Phàm ai tuyên bố nhận Thầy trước mặt thiên hạ, thì Thầy cũng sẽ tuyên bố nhận người ấy trước mặt Cha Thầy, Đấng ngự trên trời. Còn ai chối Thầy trước mặt thiên hạ, thì Thầy cũng sẽ chối người ấy trước mặt Cha Thầy, Đấng ngự trên trời.”
+    <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin đoái nhìn lễ vật chúng con dâng tiến Chúa đây: xin Thánh Thần Chúa thánh hoá, và ban cho chúng con sức mạnh của tình yêu, đã giúp cho các chân phước Maria Mát-len, Maria Phanxica, Têrêxa và Gio-an-na vượt thắng mọi gian nan đau khổ. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
@@ -2414,27 +2431,25 @@ Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Chúng con nhận ra được dấu chỉ lạ lùng
+của ân sủng Cha trong cuộc tử đạo
+của các chân phước Maria Mát-len,
+Maria Phanxica, Têrêxa, Gio-an-na và Marguerite Rutan.
+Khi dâng hiến tính mạng mình như Đức Kitô,
+các chân phước đã tôn vinh danh Cha.
+Chính quyền lực của Cha được tỏ hiện trong sự yếu đuối,
+khi Cha ban cho các thụ tạo mỏng dòn
+được làm chứng cho Cha, nhờ Đức Kitô, Chúa chúng con.
+Vì thế, cùng với các thiên thần trên trời,
+chúng con ở dưới trần gian thờ lạy Cha và chúc tụng rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 12,24)</i>
+Thầy bảo thật anh em, nếu hạt lúa gieo vào lòng đất mà không chết đi, thì nó vẫn trơ trọi một mình; còn nếu chết đi, nó mới sinh được nhiều hạt khác.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, qua cuộc tử đạo của các chân phước, Chúa đã biểu lộ sự huy hoàng của mầu nhiệm thánh giá. Giờ đây, chúng con đã được mạnh sức bởi bí tích Thánh Thể, xin cho chúng con luôn kết hiệp với Đức Kitô, và hoạt động trong Giáo Hội cho sự cứu rỗi nhân loại.
+Chúng con cầu xin...
 `,     
 en: `<strong>MASS</strong>
 
