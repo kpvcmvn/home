@@ -1648,88 +1648,96 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich sinh ngày 26 tháng 3 năm 1901 tại Bayonne, New Jersey. Tê-rê-sa Đem-gia-nô-vich là con út của ông bà Alexander và Johanna Demjanovich. Thánh nhân lớn lên trong một gia đình cắm rễ sâu trong đức tin Công Giáo và thực hành tôn giáo. Sau cái chết của mẹ cô, gia đình quyết định cho Tê-rê-sa Đem-gia-nô-vich theo học đại học. Tê-rê-sa Đem-gia-nô-vich đã làm những gì gia đình muốn mặc dù ước ao mãnh liệt của cô là trở thành một nữ tu dòng kín Cát Minh giống như các vị thánh bảo trợ của cô là Tê-rê-sa Avila và Tê-rê-sa Hài Đồng Giêsu. Do đó, vào năm 1919, cô đăng ký vào trường cao đẳng thánh Elizabeth ở Convent Station, New Jersey, và nơi đây, cô tốt nghiệp cử nhân văn học. Tất cả những người biết cô đều thấy rõ lòng hiếu thảo của cô. Thông thường, khi thánh lễ và cầu nguyện say đắm trong nhà nguyện, cô trở nên thân mật với Chúa, đặc biệt là cô rất muốn hiểu biết sâu sắc và ý thức về sự ngự trị của Thiên Chúa Ba Ngôi. Trong những năm học đại học, cô nói với bạn cô rằng Đức Trinh Nữ đã xuất hiện bên ngoài cửa sổ ký túc xá của cô. Tin rằng đó là ý muốn của Chúa dành cho cô, vào ngày 11 tháng 2 năm 1925, Tê-rê-sa Đem-gia-nô-vich gia nhập Tu Hội Các Nữ Tu Bác Ái của Thánh Elizabeth Ann Seton. Do sức khỏe của cô giảm sút, nên mặc dù cô là một người mới vào Tu Hội, nhưng cô đã được tuyên khấn tại thời điểm trước lúc chết. Cô qua đời vào ngày 8 tháng 5 năm 1927 và được Đức Giáo Hoàng Phanxicô phong chân phước vào năm 2014.
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Blessed Miriam Teresa Demjanovich was born on March 26, 1901, in Bayonne, New Jersey. Teresa Demjanovich was the youngest child of Alexander and Johanna Demjanovich. She was raised in a family deeply rooted in the Catholic faith and religious practice.
+      After her mother's death, the family decided that Teresa should attend college. Teresa did as her family wished, despite her intense desire to become a contemplative Carmelite nun like her patron saints, Teresa of Avila and Thérèse of the Child Jesus. Consequently, in 1919, she enrolled at the College of Saint Elizabeth in Convent Station, New Jersey, where she graduated with a Bachelor of Arts degree.
+      Her piety was evident to all who knew her. Often, absorbed in Holy Mass and prayer in the chapel, she grew intimate with the Lord; she especially desired a deep understanding and awareness of the indwelling of the Holy Trinity. During her college years, she told a friend that the Blessed Virgin had appeared outside her dormitory window.
+      Believing it was God's will for her, on February 11, 1925, Teresa Demjanovich entered the Congregation of the Sisters of Charity of Saint Elizabeth Ann Seton. Due to her declining health, although she was still a novice, she was permitted to profess her vows at the point of death.
+      She died on May 8, 1927, and was beatified by Pope Francis in 2014.
 
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Tv 72,28)
+Hạnh phúc của con là ở kề bên Chúa,
+chốn ẩn thân đặt ở Chúa Trời.
+Mọi việc Ngài làm, con xin kể lại
+nơi cửa vào thành thánh Xi-on.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa toàn năng hằng hữu, Ngài đã gọi chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich lên đỉnh cao của đức ái nơi trần thế để chuẩn bị cho cuộc sống vĩnh cửu trên thiên đàng. Nhờ lời chuyển cầu của chân phước Mi-ri-am Tê-rê-sa, xin Chúa làm cho chúng con biết bắt chước sự khiêm nhường của chân phước để đạt đến sự hoàn hảo. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Rm 8, 28-39)
+<strong>Bài trích thư của thánh Phaolô Tông Đồ gửi tín hữu Rôma</strong>
+      Anh em thân mến, chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để Con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì Người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+      Vậy còn phải nói gì thêm nữa? Có Thiên Chúa bênh đỡ chúng ta, ai còn chống lại được chúng ta? Đến như chính Con Một, Thiên Chúa cũng chẳng tha, nhưng đã trao nộp vì hết thảy chúng ta. Một khi đã ban Người Con đó, lẽ nào Thiên Chúa lại chẳng rộng ban tất cả cho chúng ta? Ai sẽ buộc tội những người Thiên Chúa đã chọn? Chẳng lẽ Thiên Chúa Đấng làm cho nên công chính? Ai sẽ kết án họ? Chẳng lẽ Đức Giêsu Kitô, Đấng đã chết, hơn nữa đã sống lại, và đang ngự bên hữu Thiên Chúa mà chuyển cầu cho chúng ta?
+      Ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Phải chăng là gian truân, khốn khổ, đói rách, hiểm nguy, bắt bớ, gươm giáo? Như có lời chép: Chính vì Ngài mà mỗi ngày chúng con bị giết, bị coi như bầy cừu để sát sinh.
+      Nhưng trong mọi thử thách ấy, chúng ta toàn thắng nhờ Đấng đã yêu mến chúng ta.
+      Đúng thế, tôi tin chắc rằng: cho dầu là sự chết hay sự sống, thiên thần hay ma vương quỷ lực, hiện tại hay tương lai, hoặc bất cứ sức mạnh nào, trời cao hay vực thẳm hay bất cứ một loài thọ tạo nào khác, không có gì tách được chúng ta ra khỏi tình yêu của Thiên Chúa thể hiện nơi Đức Kitô Giêsu, Chúa chúng ta.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 70,1-3;20-21)
+<strong>Đ. Tay Chúa hướng dẫn con
+Tay phải Chúa nắm lấy con
+Chúa đặt bàn tay Chúa trên con.</strong>
+Con ẩn náu bên Ngài, lạy Chúa,
+xin đừng để con phải tủi nhục bao giờ.
+Vì Ngài công chính, xin cứu vớt và giải thoát con,
+ghé tai nghe và thương cứu độ.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+như thành trì để cứu độ con,
+núi đá và thành trì bảo vệ con, chính là Ngài.		    <strong>Đ.</strong>
 
+Ngài đã bắt con nếm mùi tân khổ,
+chính Ngài sẽ cho con được hoàn sinh,
+và kéo ra khỏi vực sâu lòng đất.
+Phần vinh hoa, Ngài sẽ ban nhiều và trở lại vỗ về an ủi. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Đây là thời thuận tiện, bây giờ là ngày cứu độ. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tin Mừng</strong> (Mt 25,31-40)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Khi Con Người đến trong vinh quang của Người, có tất cả các thiên sứ theo hầu, bấy giờ Người sẽ ngự lên ngai vinh hiển của Người. Các dân thiên hạ sẽ được tập hợp trước mặt Người, và Người sẽ tách biệt họ với nhau, như mục tử tách biệt chiên với dê. Người sẽ cho chiên đứng bên phải Người, còn dê ở bên trái. Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: “Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng vương quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước; Ta trần truồng các ngươi đã cho mặc; Ta đau yếu, các ngươi đã thăm viếng; Ta ngồi tù các ngươi đến hỏi han”. Bấy giờ những người công chính sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói mà cho ăn, khát mà cho uống; có bao giờ đã thấy Chúa là khách lạ mà tiếp rước; hoặc trần truồng mà cho mặc ? Có bao giờ chúng con đã thấy Chúa đau yếu hoặc ngồi tù, mà đến hỏi han đâu ?” Đức Vua sẽ đáp lại rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, chúng con nhận biết những điều kỳ diệu, mà Chúa đã thực hiện nơi tâm hồn chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich; Chúa đã yêu mến cuộc sống của chân phước, vì đã hoàn toàn thấm nhuần Tin Mừng, chúng con khiêm tốn nài xin Chúa, thương nhận lễ phẩm chúng con dâng tiến. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
+nhờ Đức Kitô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn làm sống lại sức mạnh
+của Hội Thánh Cha được chứng tỏ
+qua niềm tin của các thánh
+và cũng biểu lộ cho chúng con tình yêu của Cha.
+Ngày hôm nay, chúng con tạ ơn Cha,
+vì gương sáng của chân phước Tê-rê-sa Đem-gia-nô-vich khích lệ chúng con
+và lời cầu nguyện của ngài
+giúp chúng con hành động để Nước Cha trị đến.
+Vì thế, cùng với các thiên thần và toàn thể các thánh,
+chúng con hát ca tuyên xưng vinh quang Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mt 25,40)</i>
+Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, được nuôi dưỡng bởi bí tích cứu độ này, chúng con nài xin lòng nhân từ Chúa ban ơn cho chúng con biết thực hành đức bác ái, theo gương chân phước Mi-ri-am Tê-rê-sa Đem-gia-nô-vich, để chúng con được chung phần vinh quang với Ngài. 
+Chúng con cầu xin...
 `,
 
 en: `<strong>MASS</strong>
