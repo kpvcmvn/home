@@ -490,7 +490,7 @@ Tôi sống trong niềm tin vào Con Thiên Chúa, Đấng đã yêu mến tôi
 
 <strong>Lời nguyện hiệp lễ</strong>
 Lạy Chúa là Thiên Chúa chúng con, xin cho bí tích chúng con vừa lãnh nhận khơi lên trong tâm hồn chúng con ngọn lửa yêu mến, xưa đã từng nung nấu thánh Phaolô tông đồ, khiến thánh nhân hằng quan tâm lo lắng cho mọi Giáo Đoàn. 
-Chúng con cầu xin.
+Chúng con cầu xin...
 `,   
 en: `<strong>MASS</strong>
 
@@ -577,66 +577,71 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Những năm 1793-1794, ngay giữa thời Cách Mạng, khủng bố hoành hành trên khắp nước Pháp, và đặc biệt ác liệt ở các vùng phía Tây, là nơi nông dân đã cầm vũ khí để bảo vệ đức tin của mình. Hơn 200 linh mục và tu sĩ bị giết hoặc chết trong tù, vì đã từ chối tuyên thệ trung thành với Hiến Chương dân sự của hàng Giáo Sĩ, là văn kiện tách Giáo Hội Pháp ra khỏi Giáo Hội Rôma. Nhiều giáo dân bị kết án tử hình vì muốn trung thành với Chúa Giêsu Kitô trong Giáo Hội. Trong số các vị tử đạo này, có hai Nữ Tử Bác Ái của bệnh viện Thánh Gioan ở Angers: các chị bị xử bắn ngày 1 tháng 2 năm 1794.
+      Sơ Ma-ri-a An-na Vai-ô, sinh tại Fontainebleau ngày 13 tháng 5 năm 1734, gia nhập Tu Hội Nữ Tử Bác Ái ngày 25 tháng 9 năm 1761. Sơ giữ chức quản lý ở bệnh viện Angers.
+      Sơ Ô-đi-la Bôm-gác-tăng, sinh tại Gondrexange ở Lorraine ngày 15 tháng 11 năm 1750, gia nhập Tu Hội Nữ Tử Bác Ái ngày 4 tháng 8 năm 1775. Sơ phụ trách tủ thuốc ở bệnh viện Angers.
+      Vì ảnh hưởng tinh thần và đạo đức của các Chị ở trong Cộng Đoàn, nên người ta chọn hai Sơ làm nạn nhân đầu tiên.
+      Sơ Ma-ri-a An-na Vai-ô và Sơ Ô-đi-la Bôm-gác-tăng được Đức Thánh Cha Gioan Phaolô II phong chân phước, cùng với 97 vị tử đạo khác ở Angers, vào ngày 19 tháng 2 năm 1984.
         `,
        
-en: `<strong>Biography</strong>
-Marie-Anne Vayo was born May 13, 1734 in the city of Fontainebleau, near Paris. A month after her birth her father died. Her mother gave Maria a Christian upbringing. Since childhood she had close contact with the Daughters of Mercy, who took care for the poor, the sick and the orphans in her city.  When she was twenty-seven she joined the Congregation of the Daughters of Mercy. On September 25, 1761 she started her formation in Paris. A year later, she was sent by the superiors to serve in the St. Louis Hospital in Fontenay. In 1777 she came to Angers along with her sister Odilia Baumgarten, where she started her work with the sick at Saint-Jean hospital.
-
-Odilia Baumgarten was born on November 15, 1750 in Gondrexang in the east of France in the family of a miller. Her father often told her about St. Vincent and the congregation founded by him.  Odilia first met the Daughters of Mercy in the town of Vic-sur-Seille, where she was simply impressed with their lives and work among the poor. There she decided to join them. On August 4, 1774 in Paris, she started her preparation for life in the Congregation. After a short stay in Brest, in 1777 Odilia was sent to Angers to serve the sick in the Saint-Jean hospital.
-
-In 1789, when the French Revolution broke out, religious persecution began. Everyone, who remained loyal to the Church and to the Pope, was punished with confiscation of property, exile and even death. On Easter Friday, 1792, the National Convention issued an order to eliminate religious congregations and orders, which provide formation and take care of the sick. The General Superioress of the Daughters of Mercy wrote then to the sisters who served in Angers: “My dear daughters please do not stop to serve the poor sick unless you are forced to do this. Do not lose your courage; strengthen your faith and hope. Stay in prayer. That’s all you can do now”.
-
-The Jacobins tied to force the sisters to take an oath, which was inconsistent with loyalty to the Church and to the Pope. When the sisters strongly refused, on January 19, 1794 they were arrested and imprisoned. On February 1, they were delivered to the square and joined other 200 prisoners. On February 1, 1794 all were shot. On February 19, 1984 both the Daughters of Mercy along with the other 97 martyrs of the French Revolution consecrated blessed by Pope St. John Paul II.
+en: `
+      In the years 1793-1794, during the height of the [French] Revolution, the Terror reigned throughout France and was particularly fierce in the western regions, where the peasantry had taken up arms to defend their faith.
+      More than 200 priests and religious were killed or died in prison for refusing to swear an oath of allegiance to the Civil Constitution of the Clergy, a document that sought to separate the Church in France from the Church of Rome. Many of the faithful were also condemned to death for their desire to remain faithful to Jesus Christ within the Church.
+      Among these martyrs were two Daughters of Charity from Saint John's Hospital in Angers: the Sisters were executed by firing squad on February 1, 1794.
+      Sister Marie-Anne Vaillot, born in Fontainebleau on May 13, 1734, entered the Company of the Daughters of Charity on September 25, 1761. She served as the administrator of the Angers hospital.
+      Sister Odile Baumgarten, born in Gondrexange, Lorraine, on November 15, 1750, entered the Company of the Daughters of Charity on August 4, 1775. She was in charge of the pharmacy at the Angers hospital.
+      Because of their spiritual and moral influence within the Community, these two Sisters were chosen as the first victims.
+      Sister Marie-Anne Vaillot and Sister Odile Baumgarten were beatified by His Holiness Pope John Paul II, along with 97 other martyrs of Angers, on February 19, 1984.
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Kh 12, 11-12)
+Chúng ta hãy vui mừng cùng các thánh tử đạo: Họ đã thắng được nhờ máu Con Chiên. Họ coi thường tính mạng, sẵn sàng chịu chết. Vì thế, họ hiển trị cùng Đức Kitô.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã làm sống lại tình yêu của Đức Kitô nơi các chân phước Ma-ri-a An-na Vai-ô và Ô-đi-la Bôm-gác-tăng, đã khiến cho các ngài trở nên quảng đại trong trong việc phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa. Xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh và lòng bác ái không mệt mỏi của các ngài, mà luôn sẵn sàng tha thứ, và làm chứng tá rõ ràng như các ngài trước mặt người đời. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Hr 10, 22-25.32- 36)
+<strong>Bài trích thư gửi tín hữu Híp-ri</strong>
+      Chúng ta hãy tiến lại gần Thiên Chúa với một lòng chân thành và một đức tin trọn vẹn, vì trong lòng thì đã được tẩy sạch mọi vết nhơ của lương tâm, còn ngoài xác thì đã được tắm rửa bằng nước tinh tuyền. Chúng ta hãy tiếp tục tuyên xưng niềm hy vọng của chúng ta cách vững vàng, vì Đấng đã hứa là Đấng trung tín. Chúng ta hãy để ý đến nhau, làm sao cho người này thúc đẩy người kia sống yêu thương và làm những việc tốt. Chúng ta đừng bỏ các buổi họp như vài người quen làm; trái lại phải khuyến khích nhau, nhất là khi anh em thấy ngày Chúa đến đã gần.
+      Xin anh em nhớ lại những ngày đầu: lúc vừa được ơn chiếu sáng, anh em đã phải đối phó với bao nỗi đau khổ dồn dập. Khi thì anh em bị sỉ nhục và hành hạ trước mặt mọi người, khi thì phải liên đới với những người cùng cảnh ngộ. Quả thật anh em đã thông phần đau khổ với những người bị tù tội, và đã vui mừng để cho người ta tước đoạt của cải, bởi biết rằng mình có những của vừa quý giá hơn lại vừa bền vững.
+      Vậy anh em đừng đánh mất lòng tin tưởng mạnh dạn của anh em, lòng tin tưởng đó sẽ mang lại một phần thưởng lớn lao. Anh em cần phải kiên nhẫn, để sau khi thi hành ý Thiên Chúa, anh em được hưởng điều Người đã hứa
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 123, 2-5, 7-8)
+<strong>Đ. Xin giữ gìn con, lạy Thiên Chúa của con, Ngài là niềm cậy trông duy nhất của con.</strong>
+Nếu mà Chúa chẳng đỡ bênh ta,
+khi thiên hạ nhằm ta xông tới,
+hẳn là họ đã nuốt sống ta rồi,
+lúc đùng đùng giận ta như vậy;		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hẳn là nước đã cuốn ta đi,
+dòng thác lũ dâng lên ngập đầu ngập cổ; 
+hẳn là nước cuồn cuộn
+đã dâng lên ngập cổ ngập đầu.		    <strong>Đ.</strong>
 
+Hồn ta tựa cánh chim
+thoát lưới người đánh bẫy;
+lưới giăng đã đứt rồi, 
+thế là ta thoát nạn. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Ta được phù hộ là nhờ Danh Thánh Chúa,
+Đấng đã dựng nên cả đất trời 		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (Ga 8,12)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> . Chúa nói: “Ta là ánh sáng thế gian. Ai theo Ta, sẽ không phải đi trong bóng tối, nhưng sẽ nhận được ánh sáng đem lại sự sống”. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>TIN MỪNG</strong> (Ga 12, 24 - 26)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+      Vài ngày trước lễ Vượt Qua, Đức Giêsu nói với các môn đệ: “Thật, Thầy bảo thật anh em, nếu hạt lúa gieo vào lòng đất mà không chết đi, thì nó vẫn trơ trọi một mình; còn nếu chết đi, nó mới sinh được nhiều hạt khác. Ai yêu quý mạng sống mình, thì sẽ mất; còn ai coi thường mạng sống mình ở đời này, thì sẽ giữ lại được cho sự sống đời đời. Ai phục vụ Thầy, thì hãy theo Thầy; và Thầy ở đâu, kẻ phục vụ Thầy cũng sẽ ở đó. Ai phục vụ Thầy, Cha Thầy sẽ quý trọng người ấy”.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin thương đoái nhìn đến lễ vật chúng con dâng tiến Chúa đây; ước gì lễ vật này được Chúa Thánh Thần thánh hoá, và ban cho chúng con sức mạnh của tình yêu, đã giúp các chân phước Ma-ri-a An-na Vai-ô và Ô-đi-la Bôm-gác-tăng tử đạo, vuợt qua mọi đau khổ của các ngài. Chúng con cầu xin.
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
@@ -644,27 +649,25 @@ Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Chúng con nhận biết dấu chỉ sáng ngời
+của ân sủng Cha qua việc tử đạo
+của các chân phước Ma-ri-a An-na Vai-ô và Ô-đi-la Bôm-gác-tăng.
+Khi hy sinh mạng sống mình như Đức Kitô,
+các ngài đã tôn vinh danh Cha.
+Chính sức mạnh của Cha thể hiện trong sự yếu đuối
+khi Cha ban cho những tạo vật mỏng dòn
+được làm chứng cho Đức Kitô, Chúa chúng con.
+Vì thế cùng với các thiên thần trên trời,
+chúng con ở dưới trần gian hằng ca ngợi Cha,
+thờ lạy Cha và tung hô rằng:    
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(2 Tm 2,11-12)</i>
+Nếu ta cùng chết với Đức Kitô, ta sẽ cùng sống với Người. Nếu ta kiên tâm chịu đựng, ta sẽ cùng hiển trị với Người.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã làm cho vẻ huy hoàng của mầu nhiệm thập giá tỏa sáng nơi các vị tử đạo của Chúa, là các chân phước Ma-ri-a An-na Vai-ô và Ô-đi-la Bôm-gác-tăng. Giờ đây, xin Cha cho của lễ hy sinh này củng cố chúng con, để chúng con ra sức hoạt động cho phần rỗi của mọi người.
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
