@@ -454,7 +454,7 @@ Lạy Chúa, khi chúng con cử hành các mầu nhiệm của Chúa, xin Thán
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong> <i>(Chọn một trong hai mẫu sau đây)</i>
-  <strong>I</strong> Lạy Chúa là Cha chí thánh,
+<strong>I</strong> Lạy Chúa là Cha chí thánh,
   là Thiên Chúa toàn năng hằng hữu,
   chúng con tôn vinh Cha, tạ ơn Cha mọi nơi mọi lúc,
   thật là chính đáng, phải đạo
@@ -470,7 +470,7 @@ Chúng con cầu xin...
   chúng con hát mừng vinh quang Cha,
   và không ngừng tung hô rằng:
 
-  <strong>II</strong> Lạy Chúa là Cha chí thánh,
+<strong>II</strong> Lạy Chúa là Cha chí thánh,
   là Thiên Chúa toàn năng hằng hữu,
   chúng con tôn vinh Chúa, tạ ơn Chúa mọi nơi mọi lúc,
   nhờ Đức Kitô Chúa chúng con,
@@ -755,110 +755,86 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Gio-sép-phin Ni-cô-li sinh tại Ca-sa-tis-ma (giáo phận Tortona), nước I-ta-li-a, ngày 18 tháng 11 năm 1863. Năm 1883, chân phước gia nhập Tu Hội Nữ Tử Bác Ái của thánh Vinh Sơn Phaolô. Hầu như suốt đời, chân phước chuyên lo việc giáo dục các trẻ em ở Sardaigne: trước tiên ở Cagliari, sau đó ở Sassari. Chân phước đã đưa ra nhiều sáng kiến giúp cho giới trẻ được triển nở theo tinh thần kitô giáo, và còn dấn thân vào hoạt động cho người nghèo. Chân phước đã nêu gương về tâm hồn vui vẻ, sự khôn ngoan và công bằng. Trinh nữ đã chọn Đức Giêsu làm Phu Quân. Chân phước qua đời và trở về với Đức Kitô, vị Phu Quân của mình, ngày 31 tháng 12 năm 1924. Ngài  được phong chân phước ngày 3 tháng 2 năm 2008, tại Ca-gli-a-ri.
         
         `,
        
-en: `<strong>Biography</strong>
-Giuseppina Nicoli was born at Casatisma, Pavia, Italy, on 18 November 1863, the fifth of 10 siblings. At the age of 20 she entered the Daughters of Charity of St Vincent de Paul in Turin, Italy. Two years later, in 1885, she was sent to Sardinia, Italy, where she spent most of her consecrated life. On Christmas Eve 1888 she took simple vows. In 1893, at age 30, she contracted tuberculosis which slowly consumed her holy life dedicated to God and neighbour. Her assignment in Sardinia reaped an abundant harvest. Not only did she care for the poor, orphans and the infirm, she also concerned herself with their evangelization.
+en: `
+      Blessed Giuseppina Nicoli (1863-1924) was an Italian Religious Sister with the Daughters of Charity of St. Vincent de Paul. At age 20, she entered the community and was sent to Sardinia in 1885, where she spent most of her life dedicated to serving God and the poor, despite contracting tuberculosis in 1893.
+      Her mission focused on caring for orphans, the sick, and the poor, always combining material assistance with evangelization. In Cagliari, she founded the Pious Union of the Sons of Mary to teach catechism. Later, in Sassari, she ran an orphanage and started the "Daughters of Charity" society to provide clothing for the poor and religious instruction for hundreds of children.
+      Despite facing anticlerical persecution and false accusations, she remained steadfast. During World War I, she and her Sisters cared for wounded soldiers. She also founded the "Young Women of Charity" (1917) and opened a facility for children suffering from rickets and scrofulosis.
+      She died on December 31, 1924. After her death, a prayer was found hidden in her crucifix, resolving to faithfully serve God and the poor through poverty, chastity, and obedience.
 
-At Cagliari she taught catechism to the young students and workers of the Society of the Pious Union of the Sons of Mary, which she had founded and directed and which had St Aloysius Gonzaga as its patron.
-
-In 1899 she was sent to Sassari to run an orphanage, and while there she opened the first Italian section of the "Daughters of Charity" society, dedicated to mending, sewing and distributing clothing to the poor. These women also taught catechism to approximately 800 children every Sunday. For the older students she opened the School of Religion where they were trained to teach the faith to others.
-
-In 1910 she was named provincial bursar of the Turin Province, which gave her the opportunity to return to "the Continent", as the people of Sardinia called it.
-
-In 1912 she was assigned as Directress to the novitiate in Turin. But this duty lasted only nine months due to a deterioration in her lung condition, which spurred her superiors to relocate her to Sardinia, whose warmer climate could benefit her health.
-
-Sr Giuseppina, who had left a warm and hospitable environment in Sassari, found upon her return in 1913 that the atmosphere had completely changed due to anticlericalism and the influence of private interests on behalf of politicians and civil administrators.
-
-Although these same political and civil officials personally admired and esteemed Sr Giuseppina for her abilities and holiness, she suffered the calumny of being said to be incapable of administering the very orphanage she had previously administered successfully. All this led her superiors to transfer her back to Cagliari on 7 August 1914.
-
-The hostilities of World War I did not spare the island of Sardinia and Sr Nicoli and her Sisters set to assisting the wounded. They adapted the kindergarten where they were assigned into a hospital and lovingly nursed the injured.
-
-In Cagliari she was called by the local Bishop to set up the Dorotean Society, whose members were consecrated lay women. With the young women who joined her, Sr Giuseppina founded the "Young Women of Charity" in 1917, and opened with them in the poor, overpopulated suburb of Marina del Poetto a facility for the care of children afflicted with rickets and scrofulosis, a form of tuberculosis.
-
-Other apostolic works that developed with the assistance of Bl. Nicoli were those of the Propagation of the Faith and the Holy Childhood Society. She founded the St Teresa Circle, the first group for young Catholic women in Cagliari and the nucleus of what would later become the Women's Catholic Action. Sr Nicoli also established the Josephite Association (with St Joseph as its patron) for religious instruction, to which the more well-to-do belonged.
-
-This kaleidoscope of apostolic works which brought so much spiritual and material benefit to many is an example of the great things God can do in those who are entirely dedicated to him.
-
-After her death at the age of 61, on 31 December 1924, a handwritten prayer was found tucked in the hollow of the Crucifix she had received at her first vows. In this prayer she had written: "I want to serve you faithfully, practicing poverty, chastity and obedience, and for love of you to serve the poor".
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Chúng ta hãy vui mừng cử hành lễ chân phước Gio-sép-phin Ni-cô-li; Chúa vũ trụ đã yêu thương người, và đã làm cho người nên một trinh nữ thánh thiện và vinh hiển.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho chị Gio-sep-phin Ni-cô-li trở nên trinh nữ và chân phước nhiệt thành. Chúa đã đổ tràn trên chị tinh thần Tin Mừng và niềm vui trong tâm hồn để giáo dục các trẻ em. Xin ban cho chúng con biết bắt chước các nhân đức của chị, để chúng con cũng nhận được niềm vui vĩnh cửu.
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Pl 4, 4-9)
+<strong>Bài trích thư của thánh Phaolô Tông Đồ gửi tín hữu Phi-líp-phê</strong>
+      Anh em hãy vui luôn trong niềm vui của Chúa. Tôi nhắc lại: vui lên anh em! Sao cho mọi người thấy anh em sống hiền hòa rộng rãi, Chúa đã gần đến. Anh em đừng lo lắng gì cả. Nhưng trong mọi hoàn cảnh, anh em cứ đem lời cầu khẩn, van xin và tạ ơn, mà giải bày trước mặt Thiên Chúa những điều anh em thỉnh nguyện. Và bình an của Thiên Chúa, bình an vượt trên mọi hiểu biết, sẽ giữ cho lòng trí anh em được kết hợp với Đức Giêsu Kitô. Ngoài ra, thưa anh em, những gì là chân thật, cao quí, những gì là chính trực, tinh tuyền, những gì là đáng mến và đem lại danh thơm tiếng tốt, những gì là đức hạnh, đáng khen, thì xin anh em hãy để ý. Những gì anh em đã học hỏi, đã lãnh nhận, đã nghe, đã thấy ở nơi tôi, thì hãy đem ra thực hành, vì Thiên Chúa là nguồn bình an sẽ ở với anh em.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca </strong>(Tv 17, 2-3.21-22.32-33)
+<strong>Đ. Lạy Chúa, con yêu Chúa, Chúa là sức mạnh của con.</strong>
+Con yêu mến Ngài, lạy Chúa là sức mạnh của con;
+Lạy Chúa là núi đá, là thành lũy,
+là Đấng giải thoát con,
+lạy Thiên Chúa con thờ, là núi đá cho con trú ẩn,
+là khiên mộc, là Đấng cứu độ quyền năng, 
+là thành trì bảo vệ.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Chúa xử tốt với tôi, bởi tôi sống ngay lành.
+Người ban thưởng cho tôi vì tay tôi trong sạch.
+Chính bởi tôi đã theo đường lối Chúa,
+không lỗi đạo cùng Thiên Chúa tôi thờ.		    <strong>Đ.</strong>
 
+Ngoài Đức Chúa, hỏi ai là Thiên Chúa?
+Ai là núi đá độ trì, ngoài Thiên Chúa của ta?
+Chính Thiên Chúa đã làm cho tôi nên hùng dũng,
+và cho đường nẻo tôi đi được vẹn toàn. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (Mt 11, 15)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Lạy Cha, Con xin chúc tụng Cha là Chúa tể trời đất, Cha đã mạc khải cho những kẻ bé mọn những mầu nhiệm nước trời <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mc 10, 13-16)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mác-cô</strong>
+      Khi ấy, người ta dẫn trẻ em đến với Đức Giêsu, để Người đặt tay trên chúng. Nhưng các môn đệ xẵng giọng với chúng. Thấy vậy, Người bực mình nói với các ông: “Cứ để trẻ em đến với Thầy, đừng ngăn cấm chúng, vì Nước Thiên Chúa thuộc về những ai giống như chúng. Thầy bảo thật anh em: Ai không đón nhận Nước Thiên Chúa như một trẻ em, thì sẽ chẳng được vào. Rồi Người ôm lấy các trẻ em và đặt tay chúc lành cho chúng.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin cho chúng con được hưởng những hoa trái lễ vật chúng con dâng tiến Chúa đây, để theo gương chân phước Gio-sép-phin, chúng con được giải thoát khỏi những sự trần gian, và sống mạnh mẽ hơn theo Thần Khí Chúa. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Lạy Cha chí thánh, là Thiên Chúa toàn năng hằng hữu,
+Chúng con tôn vinh, cảm tạ Cha mọi nơi mọi lúc,
+thật là chính đáng và phải đạo.
+Chúng con ca ngợi những ân cần săn sóc của tình thương Cha
+đối với bao người nam người nữ đạt tới sự thánh thiện
+bằng việc hiến mình cho Đức Kitô vì Nước Trời.
+Nhờ mầu nhiệm giao ước này, Cha cho thân phận con người
+tìm lại được vẻ huy hoàng ban đầu, và ngay từ đời này,
+chúng con được nếm hưởng trước
+những thiện hảo mà Cha sẽ ban cho chúng con ở đời sau.
+Vì thế cùng với toàn thể các Thiên Thần và các Thánh,
+chúng con hát ca tuyên xưng rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
+<strong>Ca hiệp lễ</strong> <i>(Mt 18, 3</i>
 Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+“Thầy bảo thật anh em: nếu anh em không hóa nên như trẻ nhỏ, thì anh em sẽ chẳng được vào Nước Trời”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa là Thiên Chúa chúng con, ước chi việc rước Mình và Máu Thánh Con Chúa giúp chúng con xa lánh mọi sự chóng qua; nhờ thế, theo gương chân phước Gio-sép-phin Ni-cô-li, chúng con có thể tấn tới trong tình yêu chân thành đối với Chúa ngay ở đời này, và nhận được niềm hoan lạc chiêm ngắm Chúa mãi mãi ở trên trời. 
+Chúng con cầu xin...
 `,   
 en: `<strong>MASS</strong>
 
