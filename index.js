@@ -66,16 +66,18 @@ const FEASTS = [
     sections: {
       biography: {
         vi: 
-    `     Elizabeth Ann Baley sinh ở New York ngày 28 tháng 8 năm 1774, khi sắp xảy ra các biến cố đưa Hợp chủng quốc Hoa Kỳ đến nền Độc lập. Mồ côi mẹ lúc ba tuổi, cô bé lớn lên trong một gia đình được đánh dấu bởi sự tục huyền của cha cô và việc gia đình thuộc Giáo Hội Tân giáo.
+    `     
+      Elizabeth Ann Baley sinh ở New York ngày 28 tháng 8 năm 1774, khi sắp xảy ra các biến cố đưa Hợp chủng quốc Hoa Kỳ đến nền Độc lập. Mồ côi mẹ lúc ba tuổi, cô bé lớn lên trong một gia đình được đánh dấu bởi sự tục huyền của cha cô và việc gia đình thuộc Giáo Hội Tân giáo.
       Thánh nữ kết hôn với William Seton lúc 20 tuổi, và từ cuộc hôn nhân này, bà có năm người con. Trong một chuyến đi công tác đến Ý, chồng bà qua đời ở Pise ngày 27 tháng 12 năm 1803. Bà được một gia đình thân tình công giáo đón tiếp và an ủi: đó là gia đình Felicchi mà bà phát hiện có lòng bác ái sâu xa.  
       Trở về Hoa Kỳ, Elizabeth, là tín đồ Tân giáo sùng đạo, giờ đây lại cảm thấy bị giáo thuyết Công giáo thu hút mạnh mẽ. Gia đình bà, vì không hiểu sự tìm hiểu nghiên cứu này của bà, nên ruồng bỏ bà. Khi đó, Elizabeth đương đầu với rất nhiều thử thách cá nhân cũng như gia đình. Cuối cùng, đến ngày 14 tháng 3 năm 1805, bà được tiếp nhận vào Giáo Hội Công Giáo.
       Trong khi vẫn có một cuộc sống thiêng liêng mãnh liệt và thường xuyên chăm lo giáo dục con cái, bà vẫn theo đuổi sở thích riêng là được dấn thân trọn vẹn cho các công việc bác ái. Đến năm 1809, bà sáng lập Hội Dòng các Nữ tu Bác ái, ở giáo phận Baltimore, nhận thánh Giuse làm quan thầy, để giáo dục các thiếu nữ. Theo sự hướng dẫn của Đức Cha Cheverus, bà muốn được sát nhập với Tu Hội Nữ Tử Bác Ái thánh Vinh Sơn Phaolô, thế nhưng tình hình chính trị lúc bấy giờ cản trở kế hoạch này. Đến ngày 4 tháng 01 năm 1821, Ê-li-za-bét An-na Xe-tôn qua đời ở Emmitsburg. Bà cũng là người làm phát sinh ra năm nhánh các nữ tu Hoa Kỳ hoạt động bác ái. Nhánh ở Emmitsburg sẽ hợp nhất với Tu Hội Nữ Tử Bác Ái vào ngày 25 tháng 3 năm 1850.                     
       Được Lời Chúa rèn luyện, cùng với một tình yêu cuồng nhiệt đối với Giáo Hội, Ê-li-za-bét An-na Xe-tôn để lại một tư tưởng vững chắc. Ngài được Đức Giáo Hoàng Gioan XXIII tuyên phong chân phước ngày 17 tháng 3 năm 1963, và được Đức Phaolô VI tôn phong hiển thánh ngày 14 tháng 9 năm 1975.
   `,
 
-       
+      
 en: 
-  `       Elizabeth Ann Bayley was born in New York on August 28, 1774, on the eve of the events that would lead the United States of America to its Independence. Orphaned of her mother at the age of three, she grew up in a family marked by her father's remarriage and their membership in the Episcopal Church.
+  `       
+      Elizabeth Ann Bayley was born in New York on August 28, 1774, on the eve of the events that would lead the United States of America to its Independence. Orphaned of her mother at the age of three, she grew up in a family marked by her father's remarriage and their membership in the Episcopal Church.
       She married William Seton at the age of 20, and from this marriage, she had five children. During a business trip to Italy, her husband died in Pisa on December 27, 1803. She was welcomed and comforted by a friendly Catholic family: the Felicchi family, in whom she discovered profound charity.
       Upon her return to the United States, Elizabeth, a devout Episcopalian, now felt strongly attracted to Catholic doctrine. Her family, not understanding her quest, abandoned her. Elizabeth then faced many personal and family trials. Finally, on March 14, 1805, she was received into the Catholic Church.
       While maintaining an intense spiritual life and regularly caring for the education of her children, she pursued her own interest in being fully committed to charitable works. In 1809, she founded the Congregation of the Sisters of Charity in the diocese of Baltimore, with St. Joseph as its patron, for the education of young girls. Under the guidance of Bishop Cheverus, she wished to be affiliated with the Company of the Daughters of Charity of St. Vincent de Paul, but the political situation at the time prevented this plan. On January 4, 1821, Elizabeth Ann Seton died in Emmitsburg. She was also the originator of five branches of American Sisters of Charity. The Emmitsburg branch would merge with the Company of the Daughters of Charity on March 25, 1850.
@@ -120,10 +122,10 @@ trước Thánh Nhan ôi vui sướng tràn trề,
 
 <strong>TIN MỪNG </strong>(Ga 15, 9 – 17)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
+      Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
 Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
 Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-<i>Đó là lời Chúa.</i>
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
 Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
@@ -252,77 +254,67 @@ en: `
       massReadings: {
         vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Chân phước Lin-đan-va Giút-ta Ô-li-bây-ra quả thực là một vị tử đạo, vì chị đã đổ máu mình ra vì danh Đức Kitô. Chị đã không sợ hãi trước những đe dọa, và chị đã đạt được Nước Trời.  
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, nơi Chân Phước Lin-đan-va, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng phần thưởng tử đạo. Nhờ lời chuyển cầu của người, xin Chúa cho chúng con khi thực hiện công việc vì lòng yêu mến Chúa, biết hy sinh cuộc sống của mình làm của lễ đẹp lòng Chúa. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1 Ga 5, 1-5)
+<strong>Bài trích thư thứ nhất của Thánh Gio-an Tông Đồ</strong>
+      Phàm ai tin rằng Đức Giêsu là Đấng Kitô, kẻ ấy đã được Thiên Chúa sinh ra. Và ai yêu mến Đấng sinh thành, thì cũng yêu thương kẻ được Đấng ấy sinh ra. Căn cứ vào điều này, chúng ta biết được mình yêu thương con cái Thiên Chúa và thi hành các điều răn của Người. Quả thật, yêu mến Thiên Chúa là tuân giữ các điều răn của Người. Mà các điều răn của Người có nặng nề gì đâu, vì mọi kẻ đã được Thiên Chúa sinh ra đều thắng được thế gian. Và điều làm cho chúng ta thắng được thế gian, đó là lòng tin của chúng ta. Ai là người thắng được thế gian, nếu không phải là người tin rằng Đức Giêsu là Con Thiên Chúa ?
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 36, 4-5, 5-6, 30-31)
+<strong>Đ. LLạy Chúa, hy vọng của con đặt ở nơi Chúa.</strong>
+Cứ tin tưởng vào Chúa và làm điều thiện,
+thì sẽ được ở trong đất nước và sống yên hàn.
+Hãy lấy Chúa làm niềm vui của bạn,
+Người sẽ cho được phỉ chí toại lòng.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hãy ký thác đường đời cho Chúa,
+tin tưởng vào Người, Người sẽ ra tay.
+Chính nghĩa bạn, Chúa sẽ làm rực rỡ tựa bình minh,
+công lý bạn, Người sẽ cho huy hoàng như chính ngọ.		    <strong>Đ.</strong>
 
+Miệng người công chính niệm lẽ khôn ngoan
+và lưỡi họ nói lên điều chính trực.
+Luật Thiên Chúa, họ ghi tạc vào lòng,
+bước chân đi không hề lảo đảo. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (1Pr 4,14)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Nếu bị sỉ nhục vì danh Đức Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền, là Thần Khí của Thiên Chúa, ngự trên anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc 9,23-26)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Luca</strong>
+      Đức Giêsu nói với mọi người: “Ai muốn theo tôi, phải từ bỏ chính mình, vác thập giá mình hằng ngày mà theo. Quả vậy, ai muốn cứu mạng sống mình, thì sẽ mất; còn ai liều mạng sống mình vì tôi, thì sẽ cứu được mạng sống ấy. Vì người nào được cả thế giới mà phải đánh mất chính mình hay là thiệt thân, thì nào có ích lợi gì? Ai xấu hổ vì tôi và vì những lời của tôi, thì Con Người cũng sẽ xấu hổ vì kẻ ấy, khi Người ngự đến trong vinh quang của mình, của Chúa Cha và các thánh thiên thần.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, chúng con dâng tiến Chúa những lễ vật này trong ngày lễ kính chân phước Lin-đan-va: Xin Chúa vui lòng chấp nhận như Chúa đã vui lòng đón nhận cuộc tử đạo của Người.
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+là Thiên Chúa toàn năng hằng hữu, chúng con tạ ơn Chúa mọi nơi mọi lúc, thật là chính đáng, phải đạo và đem lại ơn cứu độ cho chúng con.
+Chúng con nhận biết dấu chỉ sáng ngời của ân sủng Cha
+qua việc tử đạo của Chị.
+Khi hy sinh mạng sống mình như Đức Kitô,
+Chị đã tôn vinh Danh Cha.
+Chính sức mạnh của Cha được tỏ rõ qua sự yếu đuối
+khi Cha ban cho những thụ tạo mỏng dòn
+được làm chứng cho Cha nhờ Đức Kitô, Chúa chúng con.
+Vì thế cùng với các Thiên thần trên trời,
+chúng con dưới trần gian chúc tụng, tôn thờ 
+và tung hô Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mt 16, 24)</i>
+Chúa Giêsu phán cùng các môn đệ rằng: “Nếu ai muốn theo Thầy, thì hãy từ bỏ mình đi, và vác thập giá mình mà theo Thầy”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã cho chân phước Lin-đan-va được kể vào số các thánh trên trời, với hai danh hiệu: Trinh nữ và Tử đạo; nhờ sức mạnh của việc rước lễ này, xin Chúa cho chúng con được chiến thắng mọi thử thách, để một ngày kia được hưởng vinh quang nước trời.
+Chúng con cầu xin...
 `,      
 en: `<strong>MASS</strong>
 
@@ -409,87 +401,95 @@ en: `<strong>MASS</strong>
     type: 'Lễ kính',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Hôm nay, chúng ta cử hành việc Đức Giêsu Kitô Phục Sinh tỏ mình ra cho Sao-lô, như là Đấng Mêsia vinh hiển nơi Thiên Chúa và đang sống động nơi các môn đệ, và Người còn trở nên một với họ. (Cv 9).
+      Chính vào ngày 25 tháng 01 năm 1617, tại Folleville (Somme) “đã diễn ra bài giảng đầu tiên của Tu Hội Truyền Giáo” và Chúa cho Tu Hội “được bắt đầu”, vì thánh Vinh Sơn có nói rõ điều đó (SV XII, 169).
+      Thiên Chúa, Đấng kêu gọi Vị Tông đồ dân ngoại, cũng khơi dậy nơi Vinh Sơn Phao-lô việc rao giảng Tin Mừng cho người nghèo khó, “điều mà Chúa cố ý cho xảy ra vào ngày hôm đó” (SV XI, 4).
         
         `,
        
-en: `<strong>Biography</strong>
-
+en: `
+      Today, we celebrate the manifestation of the Risen Jesus Christ to Saul (Acts 9), revealing Himself as the glorious Messiah who is with God, lives in His disciples, and has become one with them.
+      It was on January 25, 1617, in Folleville (Somme), that "the first sermon of the Mission" took place, and the Lord granted the Congregation "its beginning," as Saint Vincent clearly stated (SV XII, 169).
+      The same God who called the Apostle to the Gentiles also inspired in Vincent de Paul the preaching of the Gospel to the poor, "which the Lord willed to happen on that day" (SV XI, 4).
 `
 },
       massReadings: {
        vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(2Tm 1, 12; 4, 8)
+Tôi biết tôi tin vào ai; và tôi xác tín rằng Chúa là vị Thẩm Phán chí công sẽ trao phần thưởng đó cho tôi trong ngày Người xuất hiện.
 
+<strong>KINH VINH DANH</strong>
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa là Cha chúng con, trong ngày chúng con cử hành lễ thánh Phaolô tông đồ trở lại, Chúa đã kêu gọi Thánh Vinh Sơn Phaolô thành lập một gia đình thiêng liêng để rao giảng Tin Mừng cho người nghèo khó và đào tạo hàng giáo sĩ. Xin làm cho chúng con trở nên xứng đáng rao giảng Tin Mừng sự thật và bình an. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Cv 22, 3-6)
+<strong>Bài trích sách Công vụ Tông Đồ</strong>
+      Ông Phaolô, bị người Do Thái ở Giêrusalem đe dọa giết, đã nói với họ như thế này: “Tôi là người Do Thái, sinh ở Tác-xô, miền Kilikia, nhưng tôi đã được nuôi dưỡng tại thành này; dưới chân ông Ga-ma-li-ên, tôi đã được giáo dục để giữ Luật cha ông một cách nghiêm ngặt. Tôi cũng đã nhiệt thành phục vụ Thiên Chúa như tất cả các ông hiện nay. Tôi đã bắt bớ Đạo này, không ngần ngại giết kẻ theo Đạo, đã đóng xiềng và tống ngục cả đàn ông lẫn đàn bà, như cả vị thượng tế lẫn toàn thể hội đồng kỳ mục có thể làm chứng cho tôi. Tôi còn được các vị ấy cho thư giới thiệu với anh em ở Đa-mát, và tôi đi để bắt trói những người ở đó, giải về Giêrusalem trừng trị.
+      Đang khi tôi đi đường và đến gần Đa-mát, thì vào khoảng trưa, bỗng nhiên có một luồng ánh sáng chói lọi từ trời chiếu xuống bao phủ lấy tôi. Tôi ngã xuống đất và nghe có tiếng nói với tôi: “Sa-un, Sa-un, tại sao ngươi bắt bớ Ta?” Tôi đáp: “Thưa Ngài, Ngài là ai?” Người nói với tôi:
+      “Ta là Giêsu Na-da-rét mà ngươi đang bắt bớ”. Những người cùng đi với tôi trông thấy có ánh sáng nhưng không nghe thấy tiếng Đấng đang nói với tôi. Tôi nói: “Lạy Chúa, con phải làm gì ?”. Chúa bảo tôi: “Hãy đứng dậy, đi vào Đa-mát, ở đó người ta sẽ nói cho anh biết tất cả những gì Thiên Chúa đã chỉ định cho anh phải làm”. Vì ánh sáng chói lòa kia làm cho tôi không còn trông thấy nữa, nên tôi đã được các bạn đồng hành cầm tay dắt vào Đa-mát.
+      Ở đó, có ông Kha-na-ni-a, một người sùng đạo, sống theo Lề Luật và được mọi người Do Thái ở Đa-mát chứng nhận là tốt. Ông đến, đứng bên tôi và nói: “Anh Sa-un, anh thấy lại đi”. Ngay lúc đó, tôi thấy lại được và nhìn ông. Ông nói: “Thiên Chúa của cha ông chúng ta đã chọn anh để anh được biết ý muốn của Người, được thấy Đấng Công Chính và nghe tiếng từ miệng Đấng ấy phán ra. Quả vậy, anh sẽ làm chứng nhân cho Đấng ấy trước mặt mọi người về các điều anh đã thấy và đã nghe. Vậy bây giờ anh còn chần chừ gì nữa? Anh hãy đứng lên, chịu phép rửa và thanh tẩy mình cho sạch tội lỗi, miệng kêu cầu danh Người”.
+      <i>Đó là lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca (Tv 116)</strong>
+<strong>Đ. Hãy đi nói cho toàn thế giới biết những kỳ công của Thiên Chúa</strong>
+Muôn nước hỡi, nào ca ngợi Chúa,
+ngàn dân ơi hãy chúc tụng người!		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Vì tình Chúa thương ta thật là mãnh liệt,
+lòng thành tín của Người bền vững muôn năm.		    <strong>Đ.</strong>
 
+<strong>Tung hô Tin Mừng </strong>(Ga 15,16)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Chúa phán: “Phần Thầy, Thầy đã chọn anh em từ giữa thế gian để anh em ra đi, sinh được hoa trái và hoa trái của anh em tồn tại”. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
-
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tin Mừng</strong> (Mc 16,15-18)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mác-cô</strong>
+      Đức Giêsu nói với các Tông đồ: “Anh em hãy đi khắp tứ phương thiên hạ, loan báo Tin Mừng cho mọi loài thọ tạo. Ai tin và chịu phép rửa, sẽ được cứu độ; còn ai không tin, thì sẽ bị kết án. Đây là những dấu lạ sẽ đi theo những ai có lòng tin: nhân danh Thầy, họ sẽ trừ được quỷ, sẽ nói được những tiếng mới lạ. Họ sẽ cầm được rắn, và dù có uống nhằm thuốc độc, thì cũng chẳng sao. Và nếu họ đặt tay trên những người bệnh, thì những người này sẽ được mạnh khỏe”.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, khi chúng con cử hành các mầu nhiệm của Chúa, xin Thánh Thần Chúa chiếu rọi ánh sáng vào đức tin chúng con, như xưa Người đã soi sáng thánh Phaolô tông đồ để làm cho vinh quang Chúa tỏa lan trên toàn thế giới. 
 Chúng con cầu xin...  
 
-<strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+<strong>TIỀN TỤNG</strong> <i>(Chọn một trong hai mẫu sau đây)</i>
+  <strong>I</strong> Lạy Chúa là Cha chí thánh,
+  là Thiên Chúa toàn năng hằng hữu,
+  chúng con tôn vinh Cha, tạ ơn Cha mọi nơi mọi lúc,
+  thật là chính đáng, phải đạo
+  và đem lại ơn cứu độ cho chúng con.
+  Cha là Mục tử hằng hữu,
+  Cha không bỏ rơi đoàn chiên Cha,
+  nhưng nhờ các thánh Tông đồ,
+  Cha luôn che chở giữ gìn.
+  Cha còn hướng dẫn
+  nhờ chính các vị mục tử
+  ngày nay, nhân danh Con Cha coi sóc đoàn chiên.
+  Vì thế, cùng với các thiên thần và các thánh,
+  chúng con hát mừng vinh quang Cha,
+  và không ngừng tung hô rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+  <strong>II</strong> Lạy Chúa là Cha chí thánh,
+  là Thiên Chúa toàn năng hằng hữu,
+  chúng con tôn vinh Chúa, tạ ơn Chúa mọi nơi mọi lúc,
+  nhờ Đức Kitô Chúa chúng con,
+  thật là chính đáng, phải đạo
+  và đem lại ơn cứu độ cho chúng con.
+  Vì Chúa đã cho Hội Thánh của Con Chúa
+  được đứng vững trên nền tảng các Tông Ðồ, 
+  để Hội Thánh luôn là dấu chỉ sống động
+  sự thánh thiện của Chúa nơi trần gian,
+  và trình bày giáo lý bởi trời cho mọi người.
+  Vì thế, giờ đây và cho đến muôn đời,
+  cùng với các thiên thần,
+  chúng con chúc tụng và tung hô Chúa rằng:
+
+<strong>Ca hiệp lễ</strong> <i>(Gl 2, 20)</i>
+Tôi sống trong niềm tin vào Con Thiên Chúa, Đấng đã yêu mến tôi và đã hiến mạng vì tôi.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
+Lạy Chúa là Thiên Chúa chúng con, xin cho bí tích chúng con vừa lãnh nhận khơi lên trong tâm hồn chúng con ngọn lửa yêu mến, xưa đã từng nung nấu thánh Phaolô tông đồ, khiến thánh nhân hằng quan tâm lo lắng cho mọi Giáo Đoàn. 
 Chúng con cầu xin.
 `,   
 en: `<strong>MASS</strong>
