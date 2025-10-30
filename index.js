@@ -3598,88 +3598,123 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Không bao lâu sau cuộc chiến dưới triều Napoléon, gia dình Ô-za-nam tạm định cư tại Ý. Phê-đê-rích Ô-za-nam là con thứ năm trong số 14 người con mà chỉ còn 4 sống sót; nhưng chính tại Lyon, nguyên quán của gia đình mà Phê-đê-rích đã lớn lên và sống thời niên thiếu (1816-1830). Tại trường trung học Royal, tu viện trưởng Noirot đã đào tạo Phê-đê-rích về suy tư cá nhân, triết học, về tính chính xác của trí tuệ và cung cấp cho ngài những điểm mốc để cấu trúc trí tuệ, đời sống, niềm tin của ngài.
+      A.	Sinh Viên
+      Sau khi đậu tú tài 1819, Phê-đê-rích theo học đại học tại Lyon, sau đó ở Paris, ngụ tại nhà của vị bác học André Marie Ampère. Phê-đê-rích đậu cử nhân văn chương 1825, tiến sĩ luật (1836), tiến sĩ văn chương (1839) với một luận án về “Dante và Triết học Công Giáo thế kỷ XIII”, đậu thạc sĩ văn chương (1840), giáo sư thực thụ môn văn học tại đại học Sorbonne (1846). Phê-đê-rích là một người Công Giáo dấn thân, đã dùng trí thông minh và niềm tin của mình để phục vụ chân lý. Hội sử học, các giáo trình ở Sorbonne, những bài học ở tỉnh và nước ngoài, những tài liệu xuất bản về khoa học, cũng như những bài thuyết trình của cha Lacordaire ở Notre Dame De Paris, nhằm chứng minh tính chân thực của Kitô giáo trong môi trường văn hoá, xã hội, chính trị phát sinh từ những thể chế của nền cộng hoà.
+      B.	Kitô Hữu Xã Hội
+      Các trào lưu thế tục trách cứ những người trẻ của nhóm Hội Sử Học chỉ nói thay vì hành động. Để nhận lời thách thức, sáu người trong nhóm, kể cả Phê-đê-rích, sẽ tung ra một Hiệp Hội Bác Ái vào ngày 23.4.1833. Họ là những người trong độ tuổi từ 19 đến 23, Phê-đê-rích 20 tuổi. Emmanuel Bailly đang phụ trách tờ báo “La Tribune Catholique” (Diễn đàn Công Giáo) sẽ là người hướng dẫn họ, nữ tu Rosalie Rendu, Nữ Tử Bác Ai là cố vấn của nhóm. Trở nên bạn hữu để yêu thương, làm chứng về sự công bằng và lòng xót thương trong đường hướng của thánh Vinh Sơn Phaolô. Để làm được điều đó, cần phải tận hiến cho Thiên Chúa, nói xin vâng hoàn toàn và để cho Người yêu thương và dẫn dắt.
+      Ngày 23.6.1841, Phê-đê-rích kết hôn với cô Amélie Soulacroix, con gái của Viện Trưởng Đại Học Lyon. Họ có một người con gái tên Marie. Theo lời của những người cùng thời - gia đình này thật mẫu mực và làm thành một Giáo Hội nhỏ (x. Thư từ). Công việc ở đại học, dấn thân chiến đấu và những bổn phận của đời sống gia đình đưa đến sự lao lực quá mức- và làm lung lay sức khỏe của ngài. Phê-đê-rích ngã bệnh thật nặng tại Pise. Được cấp tốc đưa về Pháp, ngài qua đời tại Marseille ngày 8.9.1853.
+      Ngày thứ sáu 22.9.1997, trong khung cảnh của Ngày Quốc Tế Giới Trẻ lần thứ 12 và tại Thánh đường Notre-Dame de Paris, Đức Thánh Cha Gioan Phaolô II đã phong chân phước cho Phê-đê-rích Ô-za-nam.
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      John Paul II beatified Frédéric Ozanam, founder of the Society of St Vincent de Paul, during World Youth Day. The solemn celebration was held on Friday 22 August in the Cathedral of Notre-Dame. Here is a biographical sketch of the Blessed. «It is too little to help the poor day by day; we must begin from the root of the evil and, through wise reform, reduce the causes of the people's poverty».
+      «Charity must never look behind itself, but before it, because the number of its past good works is always too small and the present and future miseries it must alleviate are always infinite».
+      Frédéric Ozanam was born in Milan on 23 April 1813. At the age of twenty he obtained his baccalaureate, at twenty-six, in Paris, he received his doctorate in literature with a thesis on the philosophy of Dante Alighieri. In October 1840, at the age of twenty-seven, he won the competitive examination for the chair of foreign literature at the Sorbonne. He travelled at length throughout Europe, especially in Italy, and wrote works on the origins of European culture which are still important even today.
+      At the age of 28 he married Amélie Soulacroix, by whom he would have a daughter. At 35 he was also a journalist and had numerous articles in support of the working classes published in "L'Ere Nouvelle". He became deeply interested in social problems and presented ideas up to that time unknown in the Christian environment; in one of his lessons he foresaw and proposed workers' associations! He is recognized as a precursor of the Catholic Church's social doctrine, whose cultural and religious origins he wanted to know and on which he wrote books which are still in great demand.
+      On 15 September 1853, at the age of forty, he died in Marseilles of a serious illness, lived with Christian resignation. He had written: «Great men are those who never have the plan of their Christian destiny in advance, but they have let themselves be led by God's hand».
+      What gave a special hallmark to his life, what will make him remembered by the new generations, began precisely on his twentieth birthday, 23 April 1968: «Among all those we will see representing a conspicuous part of social Catholicism, there might not be one who has not passed through the St Vincent de Paul Conferences» to meet the countless needs of the poor.
+      Ozanam defined the St Vincent Conferences: «A Catholic but lay society, humble but numerous, poor but full of poor to relieve; above all in an age in which charitable associations have such a great mission to carry out for the revival of the faith, the support of the Church, for a truce from the hatred which divides men».
+      Ozanam was a lay witness to the faith, the anticipator of that profile of the lay Christian that the Second Vatican Council would outline in Lumen Gentium. The Society of Saint Vincent de Paul is present in Italy with more than 20,000 members, organized into 2,153 Saint Vincent Conferences, and it is, by constitution, an association created by young people for young people, who are willing, through direct personal relations in home visits to the poor, to share every form of poverty and marginalization in the quest for social justice. It intends to keep alive the Founder's spirit, adapting it to the many needs of the new forms of poverty, in full communion with the ecclesial Community.
 
 `
 },
       massReadings: {
  vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Mt 25, 34, 35, 40)
+Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng vương quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước… Đức Vua sẽ phán lại rằng: “Ta bảo thật các ngươi: Mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã làm cho chân phước Phê-đê-rích Ô-za-nam thành chứng nhân sự thật và chứng nhân lòng bác ái, để khuyến khích, trong thế giới và trong Giáo Hội, các giáo dân quan tâm giúp đỡ những người nghèo khổ; nhờ gương sáng của ngài, xin Chúa cho chúng con biết tuân giữ giới răn yêu thương của Chúa để trở nên men công lý và men xót thương trên đường đời. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Hc 3,29; 4,1-10)
+<strong>Bài trích sách Huấn Ca</strong>
+      Người sáng trí để tâm nghiên cứu các ẩn dụ,
+      kẻ khôn ngoan ao ước có tai thính để nghe.
+      Con ơi đừng tước đoạt miếng cơm manh áo của người nghèo.
+      Đừng để kẻ khốn cùng luống công chờ đợi.
+      Đừng làm cho kẻ đói phải buồn tủi,
+      đừng chọc tức ai khi họ phải ngặt nghèo.
+      Một tâm hồn đang bực bội con đừng làm khổ thêm,
+      đừng bắt kẻ túng thiếu đợi lâu mới được con giúp đỡ.
+      Kẻ khốn khổ nài xin, con đừng từ chối,
+      gặp người nghèo, con đừng ngoảnh mặt đi,
+      đừng làm ngơ không nhìn đến kẻ thiếu thốn,
+      Kẻo nên cớ cho người ta nguyền rủa con.
+      Ai cay đắng trong lòng mà nguyền rủa con,
+      thì Đấng Tạo thành ra nó sẽ nghe lời nó thỉnh nguyện.
+      Hãy làm cho công hội mến thương con,
+      và tỏ lòng kính trọng người làm lớn.
+      Hãy lắng nghe kẻ nghèo, và nhã nhặn chào lại họ.
+      Hãy giải thoát người bị áp bức khỏi tay phường áp bức,
+      đừng hèn nhát khi con phải xét xử.
+      Đối với trẻ mồ côi, con hãy xử như một người cha,
+      và với mẹ của chúng, con hãy xử như một người chồng;
+      Được vậy, con sẽ nên như người con của Đấng Tối Cao,
+      và Người sẽ thương con hơn cả mẹ của con nữa.
+      <i>Đó là Lời Chúa.</i> 
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 71)
+<strong>Đ. Lạy Chúa, xin lắng nghe bần dân kêu khổ.</strong>
+Tâu Thượng Đế, xin ban quyền bính Ngài cho vị Tân Vương,
+Trao công lý Ngài cho vị Thái Tử.
+Để Tân Vương xét xử dân Ngài theo công lý
+Và bênh vực quyền lợi kẻ nghèo hèn.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Núi đem lại cảnh hoà bình trăm họ,
+Đồi rước về nền công lý vạn dân.
+Người sẽ bảo toàn quyền lợi dân cùng khổ,
+Ra tay cứu độ kẻ khó nghèo, đập tan lũ cường hào ác bá.		    <strong>Đ.</strong>
 
+Người giải thoát bần dân kêu khổ
+Và kẻ khốn cùng không chỗ tựa nương.
+Chạnh lòng thương ai bé nhỏ khó nghèo,
+Mạng sống dân nghèo, Người ra tay tế độ. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Nguyện chúc Người tuổi thọ sánh vầng ô,
+Như bóng nguyệt đến muôn đời muôn kiếp!
+Mong Người xuống tựa mưa sa nội cỏ,
+Ơn vũ lộ thấm nhuần cả đất đai. 		    <strong>Đ.</strong>  
 
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy ban cho anh em một giới răn mới: là anh em hãy thương yêu nhau. Như Thầy đã yêu thương anh em, anh em cũng hãy thương yêu nhau. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc10, 25-37)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Khi ấy, có người thông luật kia muốn thử Đức Giêsu mới đứng lên hỏi Người rằng:“Thưa thầy, tôi phải làm gì để được sự sống đời đời làm gia nghiệp?”. Người đáp: “Trong luật đã viết gì? Ông đọc thế nào ?” Ông ấy thưa: “Ngươi phải yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn, hết sức lực, và hết trí khôn ngươi, và yêu mến người thân cận như chính mình”. Đức Giêsu bảo ông ta: “Ông trả lời đúng lắm. Cứ làm như vậy là sẽ được sống.”
+      Tuy nhiên, ông ấy muốn chứng tỏ mình có lý, nên mới thưa cùng Đức Giêsu rằng: “Nhưng ai là người thân cận của tôi?”. Đức Giêsu đáp: “Một người kia từ Giê-ru-sa-lem xuống Giê-ri-cô, dọc đường bị rơi vào tay kẻ cướp. Chúng lột sạch người ấy, đánh nhừ tử, rồi bỏ đi, để mặc người ấy nửa sống nửa chết. Tình cờ, có thầy tư tế cũng đi xuống trên con đường ấy. Trông thấy nạn nhân, ông tránh qua bên kia mà đi. Rồi một thầy Lêvi đi tới chỗ ấy, thấy thế, cũng tránh qua bên kia mà đi. Nhưng một người Sa-ma-ri kia đi đường, tới chỗ nạn nhân, thấy vậy thì động lòng thương. Ông ta lại gần, lấy dầu lấy rượu xức vết thương cho người ấy và băng bó lại, rồi đặt người ấy lên lưng lừa của mình, đưa về quán trọ mà săn sóc. Hôm sau, ông lấy ra hai quan tiền, trao cho chủ quán và nói: “nhờ bác săn sóc cho người này, có tốn kém thêm bao nhiêu, thì khi trở về, chính tôi sẽ hoàn lại bác. Vậy theo ông nghĩ, trong ba người đó, ai đã tỏ ra là người thân cận với người đã bị rơi vào tay kẻ cướp?”. Người thông luật trả lời: “Chính là kẻ đã thực thi lòng thương xót đối với người ấy”. Đức Giêsu bảo ông ta: “Ông hãy đi và làm như vậy.”
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, Xin thương nhận lễ vật của dân Chúa đây; và khi chúng con tưởng nhớ tình yêu vô biên của Con Chúa, xin làm cho chúng con, nhờ gương của chân phước Phê-đê-rích Ô-za-nam, biết yêu Chúa và yêu tha nhân bằng một tấm lòng quảng đại hơn. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+chúng con tôn vinh Cha, cảm tạ Cha mọi nơi mọi lúc,
+thật là chính đáng và phải đạo,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Cha luôn luôn làm sống lại sức mạnh của Hội Thánh Cha,
+nhờ đức tin của các thánh,
+và Cha cũng tỏ cho chúng con thấy tình thương của Cha.
+Hôm nay, chúng con tạ ơn Cha vì gương sáng của các ngài thúc đẩy,
+và lời chuyển cầu do tình nghĩa anh em
+giúp chúng con làm việc để nước Cha trị đến.
+Vì thế, lạy Cha, cùng các thiên thần và các thánh,
+chúng con tung hô ca khen Cha rằng: 
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 13,35)</i>
+“Ở điểm này, mọi người sẽ nhận biết
+Anh em là môn đệ của Thầy:
+là anh em có lòng yêu thương nhau”
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã bổ sức cho chúng con nhờ việc rước lễ này; xin Chúa giúp chúng con, noi gương chân phước Phê-đê-rích Ô-za-nam, yêu Chúa như ngài; sống bác ái với dân Chúa như ngài. 
+Chúng con cầu xin...
 `,  
 en: `<strong>MASS</strong>
 
@@ -3765,88 +3800,137 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
-        `,
+        vi: `
+      Thánh Gioan Ga-bri-en Pec-boa chào đời tại làng Puech, thuộc giáo xứ Montgesty (Pháp), ngày 5 tháng 01 năm 1802. Ngài là anh cả trong một gia đình nông nghiệp Công giáo đạo đức gồm 8 anh chị em. Ngài có một người chú là Cha Jacques Perboyre, một linh mục Tu Hội Truyền Giáo (Vinh Sơn).
+      Năm 1816, ngài đưa em trai của mình đến Tiểu chủng viện Montauban và quyết định ở lại đó để tiếp tục việc học của mình. Được ơn Chúa soi sáng, ngài quyết định theo đuổi ơn gọi linh mục. Ngày 15 tháng 12 năm 1818, ngài được nhận vào Nội Chủng Viện (Tập Viện) của Tu Hội Truyền Giáo tại Paris.
+      Ngài được thụ phong linh mục ngày 23 tháng 9 năm 1826 trong nhà nguyện của Nhà Mẹ Nữ Tử Bác Ái tại Paris. Sau một thời gian làm giáo sư thần học tại chủng viện Saint-Flour, ngài được bổ nhiệm làm Giám đốc Tập Viện của Tu Hội tại Paris vào năm 1832, khi ngài 30 tuổi.
+      Mặc dù sức khỏe yếu, ngài vẫn tình nguyện đi truyền giáo ở Trung Quốc. Ngài xuống tàu tại cảng Havre ngày 21 tháng 3 năm 1835 và cập bến Macao ngày 29 tháng 8. Ngài bắt đầu công việc truyền giáo của mình tại vùng Ho-Nan (Hà Nam).
+      Do bị phản bội, Cha Gioan Ga-bri-en bị bắt vào ngày 16 tháng 9 năm 1839. Ngài bị giam tại Ou-Tchang-Fou (Vũ Xương Phủ), ngay chính nơi mà Chân phước François-Régis Clet (một linh mục Vinh Sơn mà ngài noi gương) đã bị giam giữ và tử vì đạo.
+      Sau nhiều tháng chịu đựng đau khổ về thể xác và tinh thần, trải qua các cuộc tra tấn khủng khiếp và một phiên tòa gợi nhớ đến phiên tòa xét xử Chúa Giêsu, ngài bị kết án tử hình. Ngài bị hành quyết bằng cách thắt cổ trên một cây thập tự vào ngày 11 tháng 9 năm 1840. Nhiều nhân chứng kể lại rằng, vào lúc ngài qua đời, "một cây thánh giá lớn, rõ nét và sáng chói đã xuất hiện trên bầu trời."
+      Thánh nhân từng nói: “Trong thánh giá, Phúc Âm và phép Thánh Thể, chúng ta tìm thấy tất cả những gì chúng ta có thể ao ước. Không có con đường nào khác, chân lý nào khác, đời sống nào khác”.
+      Cha Gioan Ga-bri-en Pec-boa được Đức Thánh Cha Lêô XIII phong chân phước ngày 10 tháng 11 năm 1889, và được Đức Thánh Cha Gioan Phaolô II nâng lên hàng hiển thánh tại Rôma ngày 2 tháng 6 năm 1996.`,
        
-en: `<strong>Biography</strong>
+en: `
+      Saint Jean-Gabriel Perboyre was born in the village of Puech, in the parish of Montgesty, France, on January 5, 1802. He was the first of eight children born into a devout Catholic agricultural family. His uncle, Jacques Perboyre, was a priest of the Congregation of the Mission (a Vincentian).
+      In 1816, he accompanied his younger brother to the Minor Seminary of Montauban and decided to stay there to continue his own studies. Inspired by God's grace, he decided to pursue a priestly vocation. On December 15, 1818, he was received into the Internal Seminary (Novitiate) of the Congregation of the Mission in Paris.
+      He was ordained a priest on September 23, 1826, in the Chapel of the Mother House of the Daughters of Charity in Paris. After serving as a professor of theology at the Saint-Flour Seminary, he was appointed Director of the Internal Seminary of the Congregation in Paris in 1832, at the age of thirty.
+      Despite his weak health, he volunteered for the mission in China. He embarked at the port of Le Havre on March 21, 1835, and landed in Macao on August 29. He began his apostolic activities in the Ho-Nan (Henan) region.
+      Following a betrayal, Father Jean-Gabriel was arrested on September 16, 1839. He was imprisoned at Wuchangfu (Ou-Tchang-Fou), the very place where Blessed François-Régis Clet (a Vincentian martyr he modeled himself after) had been imprisoned and martyred.
+      After months of physical and emotional suffering, terrible torture, and a trial reminiscent of the trial of Jesus, he was condemned to death. He was executed by strangulation on a cross on September 11, 1840. Many witnesses declared that, at the moment of his death, "a large, well-defined and luminous cross appeared in the sky."
+      He once said: "In the Cross, the Gospel, and the Eucharist, we find all that we can desire. There is no other way, other truth, other life."
+      Father Jean-Gabriel Perboyre was beatified by Pope Leo XIII on November 10, 1889, and was canonized in Rome by His Holiness Pope John Paul II on June 2, 1996.
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Tv 95, 3-4)
+Hãy loan báo cho muôn dân biết ơn cứu độ của Thiên Chúa, cho mọi nước hay những kỳ công của Người. Chúa thật cao cả, xứng muôn lời ca tụng, khả tôn khả úy hơn chư thần.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa làm cho vinh quang Chúa tỏa sáng rực rỡ trong các việc tông đồ của thánh Gio-an Ga-bri-en Pec-boa, và Chúa đã gắn kết chặt chẽ thánh nhân với thập giá Con Chúa; Xin Chúa cho chúng con, theo gương ngài, được hiệp thông với cuộc thương khó của Đức Kitô, để vui mừng loan báo ơn cứu độ cho mọi dân tộc.
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>BÀI ĐỌC</strong> (Chọn một trong hai bài sau đây)
+<strong>Bài trích sách Huấn Ca</strong> (Hc 51,1-8)
+      Lạy Đức Chúa là vua, con xin cảm tạ Ngài,
+      ca ngợi Ngài là Thiên Chúa, Đấng cứu độ con.
+      Con cảm tạ Ngài.
+      Ngài quả là Đấng bảo vệ và trợ giúp con,
+      Ngài đã cứu thân con khỏi hư mất,
+      xin cứu con thoát khỏi lưới dò
+      của kẻ chuyên đặt điều vu khống,
+      và kẻ ưa nói lời điêu ngoa.
+      Khi con gặp kẻ thù chống đối,
+      Ngài đã thương trợ giúp và giải thoát con.
+      Nhờ uy danh cao cả,
+      và chiếu theo lòng lân tuất vô biên của Ngài,
+      Ngài đã giải thoát con
+      Khỏi những kẻ rình cắn xé con, chực nuốt chửng,
+      khỏi tay những kẻ tìm hại mạng sống con,
+      khỏi bao khốn quẫn con hứng chịu,
+      khỏi đám lửa vây quanh làm con nghẹt thở,
+      khỏi ngọn lửa không do con đốt lên,
+      khỏi lòng vực sâu âm phủ,
+      khỏi lưỡi nhơ bẩn, khỏi lời điêu ngoa,
+      khỏi họa vu oan do kẻ gian tà sàm tấu.
+      Mạng con đã kề sát tử thần, đời con đã gần đáy âm ty.
+      Con đã bị tư bề vây hãm mà chẳng có người trợ giúp con.
+      Con đưa mắt tìm người cứu giúp, nhưng chẳng thấy một ai.
+      Bấy giờ, lạy Đức Chúa, con nhớ lại lòng lân tuất của Ngài,
+      và tưởng nhớ bao việc Ngài làm từ muôn thuở:
+      Ngài đã giải thoát những ai cậy trông Ngài,
+      và cứu họ khỏi tay thù địch.
+      Từ cõi đất tôi dâng lời cầu khẩn,
+      xin Chúa cứu tôi thoát khỏi tử thần.
+      Tôi kêu cầu Đức Chúa là Cha của tôi:
+      “Xin đừng bỏ rơi con trong những ngày khốn quẫn,
+      khi bè lũ kiêu căng hoành hành mà chẳng có người nào trợ giúp.
+      Con sẽ không ngừng ca ngợi Thánh Danh và hát lên bài ca cảm tạ”.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Bài trích thư của thánh Phaolô tông đồ gửi tín hữu Rôma</strong> (Rm 8, 31-38)
+      Vậy còn phải nói gì thêm nữa? Có Thiên Chúa bênh đỡ chúng ta ai còn chống lại được chúng ta? Đến như chính Con Một, Thiên Chúa cũng chẳng tha, nhưng đã trao nộp vì hết thảy chúng ta. Một khi đã ban Người Con đó, lẽ nào Thiên Chúa lại chẳng rộng ban tất cả cho chúng ta? Ai sẽ buộc tội những người Thiên Chúa đã chọn? Chẳng lẽ Thiên Chúa, Đấng làm cho nên công chính? Ai sẽ kết án họ? Chẳng lẽ Đức Giêsu Kitô, Đấng đã chết, hơn nữa, đã sống lại, và đang ngự bên hữu Thiên Chúa mà chuyển cầu cho chúng ta?
+      Ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Phải chăng là gian truân, khốn khổ, đói rách, hiểm nguy, bắt bớ, gươm giáo? Như có lời chép: Chính vì Ngài mà mỗi ngày chúng con bị giết, bị coi như bầy cừu để sát sinh. Nhưng trong mọi thử thách ấy, chúng ta toàn thắng nhờ Đấng đã yêu mến chúng ta.
+      Đúng thế, tôi tin chắc rằng: Cho dầu là sự chết hay sự sống, thiên thần hay ma vương quỷ lực, hiện tại hay tương lai, hoặc bất cứ sức mạnh nào, trời cao hay vực thẳm, hay bất cứ một loài thọ tạo nào khác, không có gì tách được chúng ta ra khỏi tình yêu của Thiên Chúa thể hiện nơi Đức Giêsu Kitô, Chúa chúng ta.
+      <i>Đó là Lời Chúa.</i>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 33)
+<strong>Đ. Hãy xem, hãy nếm thử cho biết Chúa thiện hảo dường bao!</strong>
+Tôi sẽ không ngừng chúc tụng Chúa,
+câu hát mừng Người chẳng ngớt trên môi.
+Linh hồn tôi hãnh diện vì Chúa,
+xin các bạn nghèo nghe tôi nói mà vui lên.		    <strong>Đ.</strong>
 
+Hãy cùng tôi ngợi khen Đức Chúa,
+ta đồng thanh tán tụng danh Người.
+Tôi đã tìm kiếm Chúa và người đáp lại,
+giải thoát cho khỏi mọi nỗi kinh hoàng.		    <strong>Đ.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Ai nhìn lên Chúa sẽ vui tươi hớn hở,
+không bao giờ bẽ mặt hổ ngươi.
+Kẻ nghèo này kêu lên và Chúa đã nhận lời,
+cứu cho khỏi mọi cơn nguy khốn. 		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+Họ kêu xin, và Chúa đã nhận lời,
+giải thoát khỏi mọi cơn nguy khốn.
+Chúa gần gũi những tấm lòng tan vỡ,
+cứu những tâm thần thất vọng ê chề. 		    <strong>Đ.</strong>  
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+<strong>Tung hô Tin Mừng (1Pr 4,14)</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> TNếu bị sỉ nhục vì danh Đức Giêsu Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền là Thần Khí của Thiên Chúa, ngự trong anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc 9,23-26)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Rồi Đức Giêsu nói với mọi người: “Ai muốn theo tôi, phải từ bỏ chính mình, vác thập giá mình hằng ngày mà theo. Quả vậy, ai muốn cứu mạng sống mình, thì sẽ mất; còn ai liều mất mạng sống mình vì tôi, thì sẽ cứu được mạng sống ấy. Vì người nào được cả thế giới mà phải đánh mất chính mình hay là thiệt thân, thì nào có lợi gì? Ai xấu hổ vì tôi và những lời của tôi, thì Con Người cũng sẽ xấu hổ vì kẻ ấy, khi Người ngự đến trong vinh quang của mình, của Chúa Cha và các thánh thiên thần.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, nhờ hy lễ này, xưa đã làm cho thánh Gio-an Ga-bri-en Pec-boa vượt thắng cuộc chiến đấu vì đức tin, nay xin ban cho chúng con ơn kiên trì trong việc phụng thờ Chúa và ơn cứu độ muôn đời. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+là Thiên Chúa toàn năng hằng hữu
+Chúng con tạ ơn Cha mọi nơi mọi lúc,
+Thật là chính đáng công bình và hữu ích cho chúng con.
+Chúng con nhận biết dấu chỉ sáng ngời về ân phúc của Cha
+trong cuộc tử đạo của thánh Gio-an Ga-bri-en Pec-boa;
+khi trao hiến mạng sống mình như Đức Kitô,
+ngài đã tôn vinh Danh Cha.
+Chính sức mạnh của Cha tỏ hiện ra nơi sự yếu đuối,
+lúc Cha ban cho các thụ tạo mỏng dòn được làm chứng cho Cha,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Vì thế, cùng với các thiên thần trên trời,
+chúng con dưới thế chúc tụng thờ lạy Cha và tung hô rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(1Cr 1,23-24)</i>
+Chúng tôi rao giảng một Đấng Kitô bị đóng đinh, điều mà người Do thái coi là ô nhục không thể chấp nhận, và dân ngoại coi là điên rồ. Nhưng đối với những ai được Thiên Chúa kêu gọi, dù là Do Thái hay Hy Lạp, Đấng ấy chính là Đức Kitô, sức mạnh và sự khôn ngoan của Thiên Chúa.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, xin cho việc hiệp lễ này ban cho chúng con sức mạnh của Chúa, sức mạnh đã làm cho thánh Gio-an Ga-bri-en Pec-boa sống cuộc sống, bằng một tấm lòng trong trắng và chiến thắng trong cuộc tử đạo. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
