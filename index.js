@@ -4399,60 +4399,261 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Cha Pho-tu-na-tô Vê-lát-cô Tô-ba và 13 Chân phước khác đã chịu tử đạo ở Teruel, Oviedo, Gijón, Guadalajara và Urgel (Tây Ban Nha) từ ngày 13 tháng 10 năm 1934 đến ngày 6 tháng 12 năm 1936.
+      Sơ Men-ki-o-ra A-đô-ra-ti-ôn Cóc-tê Bu-ê-nô và 14 chân phước khác đã chịu tử đạo ở Madrid (Tây Ban Nha) từ ngày 12 tháng 8 năm 1936 đến ngày 11 tháng 2 năm 1937.
+      Sơ Giô-sép-pha Mác-ti-nê Pê-rê và 12 chân phước khác ở Valencia (Tây Ban Nha) đã chịu tử đạo vì trung thành với đức tin và trung tín trong ơn gọi Nữ Tử Bác Ái từ ngày 18 tháng 8 năm 1936 đến ngày 9 tháng 12 năm 1936.
+I. CÁC VỊ ĐƯỢC PHONG CHÂN PHƯỚC NGÀY 13 THÁNG 10 NĂM 2013
+      - 	Cha Fortunato Velasco Tobar
+      -	Cha Leoncio Pérez Nebreda
+      -	Cha Gregorio Cermeno Barceló
+      -	Cha Ireneo Rodríguez González
+      -	Cha Vicente Vilumbrales Fuente
+      -	Cha Tomás Pallarés Ibánez
+      -	Cha Antonio Carmanís y Mercader
+      -	Cha Amado García Sánchez
+      -	Cha Andrés Avelino Gutiérrez Moral
+      -	Cha Ricardo Atanes Castro
+      -	Cha Pelayo Jose Granado Prieto
+      -	Thầy Narciso Pascual
+      -	Thầy Luis Aguirre Bilbao
+      -	Thầy Salustiano González Crespo
+      -	Sơ Puerta de Hierro
+      -	Sơ Melchora Adoración Cortés Bueno
+      - Sơ María Severina Díaz-Pardo Gauna
+      - Sơ María Dolores Barroso Villasenor
+      - Sơ Estefanía Saldana Mayoral
+      - Sơ María Asunción Mayoral Pena
+      - Sơ Ramona Cao Fernández
+      - Sơ Juana Pérez Abascal
+      - Sơ María Rosario Ciércoles Gascón
+      - Sơ Micaela Hernán Martínez
+      - Sơ María Bermúdez Ruiz
+      - Sơ María Dolores Úrsula Caro Martín
+      - Sơ Concepción Pérez Girus
+      - Sơ Andrea Calle González
+      - Sơ Martina Vázquez Gordo
+      - Sơ Josefa Martínez Pérez
+      - Sơ Victoria Arregui Guinea
+      - Sơ Joaquina Rey Aguirre
+      - Sơ Modesta Moro Briz
+      - Sơ Pilar Isabel Sánchez Suárez
+      - Sơ Gaudencia Benavides Herrero
+      - Sơ Josefa Gironés Arteta
+      - Sơ Lorenza Díaz Bolanos
+      -	Sơ Josefa Labra Goyeneche
+      -	Sơ Carmen Rodríguez Banazal
+      -	Sơ Estefania Irisarri Irigaray
+      -	Sơ Pilar Nalda Franco
+      -	Sơ Isidora Izquierdo García
+      -	Chị Dolores Broseta Bonet (Giáo dân)
+II. CÁC VỊ ĐƯỢC PHONG CHÂN PHƯỚC NGÀY 11 THÁNG 11 NĂM 2017
+      -	Cha Jose Ibanez Mayandia
+      -	Cha Hilario Barriocanal Quintana
+      -	Cha Manuel Requejo Pérez
+      -	Cha Jose Santos Ortega
+      -	Cha Eleuterio Castillo Gomez
+      -	Cha Benjamin Ortega Aranguren
+      -	Cha Teodoro Gomez Cervero
+      -	Cha Jose Maria Fernandez Sanchez
+      -	Cha Roque Guillén
+      -	Cha Ponciano Nieto Asensio
+      -	Cha Benito Paradela Novoa
+      -	Cha Victoriano Reguero Velasco
+      -	Cha Maurilio Tobar Gonzalez
+      -	Cha Laureano Perez Carrascal
+      -	Cha Francisco Morquillas Fernandez
+      -	Cha Pedro Pascual Garcia Martin
+      -	Cha Benito Quintana Diaz
+      -	Cha Isidro Alonso Pena
+      -	Cha Manuel Binimelis Cabré
+      -	Cha Vicenç Queralt Lloret
+      -	Cha Lluis Berenguer Moratona
+      -	Cha Jose Acosta Aleman
+      -	Cha Joan Puig Serra
+      -	Cha Agapito Alcalde Garrido
+      -	Cha Rafael Vinagre Tomas Munoz
+      -	Thầy Manuel Trachiner Montana
+      -	Thầy Roque Catalan Domingo
+      -	Thầy Estanislao Paramo Marcos-	
+      - Thầy Perfecto del Rio Paramo
+      -	Thầy Saturnino Tobar Gonzalez
+      -	Thầy Juan Nunez Orcajo
+      -	Thầy Augustin Nogal Tobar
+      -	Thầy Cesar Elexagaray Otazua
+      -	Thầy Gil Belascoin Ilagorri
+      -	Thầy Bartolome Gelabert Pericas
+      -	Thầy Pedro Armendariz Zabaleta
+      -	Thầy Joaquin Zubillaga Echarri
+      -	Sơ Torescent Marticorena Sola
+      -	Sơ Dorinda Sotelo Rodriguez
+      -	Tập sinh Vincente Cecilia Gallardo
+      -	Tập sinh Jose Garcia Pérez
+      -	Ông Felipe Basauri Altube (Giáo dân)
+      -	Anh Augustin Fernandez Vasquez (Giáo dân)
+      -	Anh José Garvi Calvente (Giáo dân)
+      -	Anh Eduardo Campos Vasallo (Giáo dân)
+      -	Anh Justo Ramon Piedrafita (Giáo dân)
+      -	Anh Miguel Aguado Altube (Giáo dân)
+      -	Anh Francisco Garcia Balanza (giáo dân)
+      -	Anh Modesto Allepuz Vera (giáo dân)
+      -	Anh Enrique Pedro Gonzalvez Andreu Vera (giáo dân)
+      -	Anh José Ardil Lazaro (giáo dân)
+      -	Anh Francisco Rosello Hernandez (giáo dân)
+      -	Anh Isidro Juan Martinez (giáo dân)
+      -	Anh Rafael Lluch Garin (giáo dân)
+
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
 
+      Father Fortunato Velasco Tobar and 13 other Blessed companions were martyred in Teruel, Oviedo, Gijón, Guadalajara, and Urgel (Spain) between October 13, 1934, and December 6, 1936.
+      Sister Melchora Adoración Cortés Bueno and 14 other Blessed companions were martyred in Madrid (Spain) between August 12, 1936, and February 11, 1937.
+      Sister Josefa Martínez Pérez and 12 other Blessed companions in Valencia (Spain) were martyred for their fidelity to the faith and faithfulness to their vocation as Daughters of Charity between August 18, 1936, and December 9, 1936.
+I. THOSE BEATIFIED ON OCTOBER 13, 2013
+      Fr. Fortunato Velasco Tobar
+      Fr. Leoncio Pérez Nebreda
+      Fr. Gregorio Cermeno Barceló
+      Fr. Ireneo Rodríguez González
+      Fr. Vicente Vilumbrales Fuente
+      Fr. Tomás Pallarés Ibánez
+      Fr. Antonio Carmanís y Mercader
+      Fr. Amado García Sánchez
+      Fr. Andrés Avelino Gutiérrez Moral
+      Fr. Ricardo Atanes Castro
+      Fr. Pelayo Jose Granado Prieto
+      Bro. Narciso Pascual
+      Bro. Luis Aguirre Bilbao
+      Bro. Salustiano González Crespo
+      Sr. Puerta de Hierro
+      Sr. Melchora Adoración Cortés Bueno
+      Sr. María Severina Díaz-Pardo Gauna
+      Sr. María Dolores Barroso Villasenor
+      Sr. Estefanía Saldana Mayoral
+      Sr. María Asunción Mayoral Pena
+      Sr. Ramona Cao Fernández
+      Sr. Juana Pérez Abascal
+      Sr. María Rosario Ciércoles Gascón
+      Sr. Micaela Hernán Martínez
+      Sr. María Bermúdez Ruiz
+      Sr. María Dolores Úrsula Caro Martín
+      Sr. Concepción Pérez Girus
+      Sr. Andrea Calle González
+      Sr. Martina Vázquez Gordo
+      Sr. Josefa Martínez Pérez
+      Sr. Victoria Arregui Guinea
+      Sr. Joaquina Rey Aguirre
+      Sr. Modesta Moro Briz
+      Sr. Pilar Isabel Sánchez Suárez
+      Sr. Gaudencia Benavides Herrero
+      Sr. Josefa Gironés Arteta
+      Sr. Lorenza Díaz Bolanos
+      Sr. Josefa Labra Goyeneche
+      Sr. Carmen Rodríguez Banazal
+      Sr. Estefania Irisarri Irigaray
+      Sr. Pilar Nalda Franco
+      Sr. Isidora Izquierdo García
+      Dolores Broseta Bonet (Laywoman)
+II. THOSE BEATIFIED ON NOVEMBER 11, 2017Fr. Jose Ibanez Mayandia
+      Fr. Hilario Barriocanal Quintana
+      Fr. Manuel Requejo Pérez
+      Fr. Jose Santos Ortega
+      Fr. Eleuterio Castillo Gomez
+      Fr. Benjamin Ortega Aranguren
+      Fr. Teodoro Gomez Cervero
+      Fr. Jose Maria Fernandez Sanchez
+      Fr. Roque Guillén
+      Fr. Ponciano Nieto Asensio
+      Fr. Benito Paradela Novoa
+      Fr. Victoriano Reguero Velasco
+      Fr. Maurilio Tobar Gonzalez
+      Fr. Laureano Perez Carrascal
+      Fr. Francisco Morquillas Fernandez
+      Fr. Pedro Pascual Garcia Martin
+      Fr. Benito Quintana Diaz
+      Fr. Isidro Alonso Pena
+      Fr. Manuel Binimelis Cabré
+      Fr. Vicenç Queralt Lloret
+      Fr. Lluis Berenguer Moratona
+      Fr. Jose Acosta Aleman
+      Fr. Joan Puig Serra
+      Fr. Agapito Alcalde Garrido
+      Fr. Rafael Vinagre Tomas Munoz Message is interrupted. User provided partial message.
+      Bro. Manuel Trachiner Montana
+      Bro. Roque Catalan Domingo
+      Bro. Estanislao Paramo Marcos
+      Bro. Perfecto del Rio Paramo
+      Bro. Saturnino Tobar Gonzalez
+      Bro. Juan Nunez Orcajo
+      Bro. Augustin Nogal Tobar
+      Bro. Cesar Elexagaray Otazua
+      Bro. Gil Belascoin Ilagorri
+      Bro. Bartolome Gelabert Pericas
+      Bro. Pedro Armendariz Zabaleta
+      Bro. Joaquin Zubillaga Echarri
+      Sr. Torescent Marticorena Sola
+      Sr. Dorinda Sotelo Rodriguez
+      Novice Vincente Cecilia Gallardo
+      Novice Jose Garcia Pérez
+      Mr. Felipe Basauri Altube (Layman)
+      Agustin Fernandez Vasquez (Layman)
+      José Garvi Calvente (Layman)
+      Eduardo Campos Vasallo (Layman)
+      Justo Ramon Piedrafita (Layman)
+      Miguel Aguado Altube (Layman)
+      Francisco Garcia Balanza (Layman)
+      Modesto Allepuz Vera (Layman)
+      Enrique Pedro Gonzalvez Andreu Vera (Layman)
+      José Ardil Lazaro (Layman)
+      Francisco Rosello Hernandez (Layman)
+      Isidro Juan Martinez (Layman)
+      Rafael Lluch Garin (Layman)
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ (Tv 36</strong>
+Chúa là niềm vui của người công chính,
+là nơi nương tựa của họ trong lúc hiểm nguy.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa vô cùng nhân hậu, Chúa đã cho chân phước Pho-tu-na-tô Vê-lát-cô Tô-ba và các bạn tử đạo, nhờ Thánh Mẫu Chúa trợ giúp, đỡ nâng, sẵn sàng đổ máu đào vì Đức Kitô, và được nên đồng hình đồng dạng với Người, xin cho chúng con biết noi gương các ngài, và nhờ các ngài nguyện giúp cầu thay, mà luôn can đảm tuyên xưng đức tin vào Chúa bằng cả lời nói và việc làm. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1Pr 3, 14-17)
+<strong>Bài trích thư thứ nhất của thánh Phê-rô Tông đồ</strong>
+      Nếu anh em chịu khổ vì sống công chính, thì anh em thật có phúc! Đừng sợ những kẻ làm hại anh em và đừng xao xuyến. Đức Kitô là Đấng thánh, hãy tôn Người làm Chúa ngự trị trong lòng anh em. Hãy luôn luôn sẵn sàng trả lời cho bất cứ ai chất vấn về niềm Hãy vọng của anh em. Nhưng phải trả lời cách hiền hoà và với sự kính trọng. Hãy giữ lương tâm ngay thẳng, khiến những kẻ phỉ báng anh em vì anh em ăn ở ngay thẳng trong Đức Kitô, thì chính họ phải xấu hổ vì những điều họ vu khống, bởi lẽ thà chịu khổ vì làm việc lành, nếu đó là ý của Thiên Chúa, còn hơn là vì làm điều ác.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 30, 3-8;17;25)
+<strong>Đ. Trong tay ngài, lạy Chúa, con xin phó thác hồn con.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+Như thành trì để cứu độ con.
+Vì danh dự Ngài, xin dẫn đường chỉ lối cho con.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Trong tay Ngài, con xin phó thác hồn con,
+Ngài đã cứu chuộc con, lạy Chúa Trời thành tín.
+Phần con đây, lạy Chúa chỉ tin tưởng nơi Ngài
+Được Ngài đoái thương, con vui mừng hớn hở.		    <strong>Đ.</strong>
 
-
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Xin toả ánh tôn nhan rạng ngời
+trên tôi tớ Ngài đây, và lấy tình thương mà cứu độ.
+Hỡi mọi người cậy trông vào Chúa,
+Mạnh bạo lên, can đảm lên nào! 		    <strong>Đ.</strong>  
 
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Anh em thật hạnh phúc nếu anh em bị nhục mạ vì danh Đức Giêsu Kitô: Thần khí Chúa ngự trên anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 10, 28-33)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Khi ấy Đức Giêsu phán cùng các môn đệ rằng: “Anh em đừng sợ những kẻ giết thân xác mà không giết được linh hồn. Đúng hơn, anh em hãy sợ Đấng có thể tiêu diệt cả hồn lẫn xác trong hỏa ngục. Hai con chim sẻ chỉ bán được một hào phải không? Thế mà, không một con nào rơi xuống đất ngoài ý của Cha anh em. Thì đối với anh em cũng vậy, ngay đến tóc trên đầu anh em, Người cũng đếm cả rồi. Vậy anh em đừng sợ, anh em còn quý giá hơn muôn vàn chim sẻ”.
+      “Phàm ai tuyên bố nhận Thầy trước mặt thiên hạ, thì Thầy cũng sẽ tuyên bố nhận người ấy trước mặt Cha Thầy, Đấng ngự trên trời. Còn ai chối Thầy trước mặt thiên hạ, thì Thầy cũng sẽ chối người ấy trước mặt Cha Thầy, Đấng ngự trên trời”. 
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin đoái nhìn lễ vật chúng con dâng tiến Chúa đây; xin Thánh Thần Chúa thánh hoá, và ban cho chúng con sức mạnh của tình yêu, đã giúp cho các chân phước Pho-tu-na-tô Tô-ba, Giô-sép-pha Pê-rê, Men-ki-o-ra Bu-ê-nô và các bạn tử đạo vượt thắng mọi gian khổ. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
@@ -4460,27 +4661,25 @@ Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Chúng con nhận ra được dấu chỉ lạ lùng
+của ân sủng Cha trong cuộc tử đạo
+của các chân phước Pho-tu-na-tô Tô-ba,
+Giô-sép-pha Pê-rê, Men-ki-o-ra Bu-ê-nô và các bạn tử đạo,
+khi dâng hiến tính mạng mình như Đức Kitô,
+các chân phước đã tôn vinh danh Cha.
+Chính quyền lực của Cha được tỏ hiện trong sự yếu đuối,
+khi Cha ban cho các thụ tạo mỏng dòn
+được làm chứng cho Cha, nhờ Đức Kitô, Chúa chúng con.
+Vì thế, cùng với các thiên thần trên trời,
+chúng con ở dưới trần gian thờ lạy Cha và chúc tụng rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 12,24)</i>
+Thầy bảo thật anh em, nếu hạt lúa gieo vào lòng đất mà không chết đi, thì nó vẫn trơ trọi một mình; còn nếu chết đi, nó mới sinh được nhiều hạt khác.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, qua cuộc tử đạo của các chân phước, Chúa đã biểu lộ sự huy hoàng của mầu nhiệm Thánh giá. Giờ đây, chúng con đã được mạnh sức bởi bí tích Thánh Thể, xin cho chúng con luôn kết hiệp với Đức Kitô, và hoạt động trong Giáo Hội cho phần rỗi nhân loại. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
