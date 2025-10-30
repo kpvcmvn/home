@@ -3239,88 +3239,91 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Chân phước Ghê-brê Mi-ca-e (nghĩa là "Đầy tớ của Thiên thần Mi-ca-e") sinh vào khoảng năm 1788 hoặc 1791 trong một gia đình Chính thống giáo tại miền Godjam, Ethiopie. Ngài nhận được sự giáo dục tại một trường dòng và sau đó trở thành một đan sĩ. Ngài nổi tiếng về sự uyên bác, và vào năm 1813, ngài được nhận danh hiệu "Tiến sĩ Khoa học Hội Thánh".
+      Tuy nhiên, với lòng khao khát tìm kiếm chân lý, ngài đã bắt đầu một cuộc hành hương tri thức qua các tu viện danh tiếng (1814-1825), nghiên cứu sâu về Kinh Thánh, các Giáo phụ và các Công đồng đầu tiên.
+      Bước ngoặt cuộc đời ngài xảy ra khi ngài tham gia phái đoàn đến Cairo (Ai Cập) để thỉnh cầu một giám mục mới cho Ethiopie. Đi cùng phái đoàn là một linh mục Công giáo, Cha Giút-ti-nô Gia-co-bi (sau là Thánh Giám mục Justin de Jacobis). Cha Giút-ti-nô đã đưa phái đoàn đến Rôma vào năm 1842 để yết kiến Đức Giáo Hoàng Grêgôriô XVI. Tại Rôma, Ghê-brê Mi-ca-e khám phá ra rằng đức tin Công giáo hoàn toàn phù hợp với Giáo hội Ethiopie cổ xưa.
+      Khi trở về vào tháng 2 năm 1844, ngài đã xin Đức Cha Giút-ti-nô Gia-co-bi cho mình được gia nhập Giáo hội Công giáo. Ngài tìm thấy nơi Đức Cha một người thầy và một người cha thiêng liêng. Vào ngày 1 tháng 1 năm 1851, ngài được Đức Cha Giút-ti-nô bí mật truyền chức linh mục. Sau đó, ngài trở thành giáo sư và giám đốc tiểu chủng viện. Ngài cũng đã xin gia nhập Tu Hội Truyền Giáo (Vinh Sơn).
+      Năm 1853, Hoàng đế Théodoros và Giám mục Coptic Abouna Salama bắt đầu cuộc bách hại dữ dội chống lại người Công giáo. Vào tháng 7 năm 1854, Cha Ghê-brê Mi-ca-e bị bắt. Ngài bị tra tấn dã man, bị đánh đập (đến mức có tin đồn ngài đã chết) và bị xiềng xót.
+      Sau hơn một năm chịu đựng sự giam cầm và tra tấn khủng khiếp, ngài qua đời vì kiệt sức trong một cuộc đi bộ cưỡng bức vào ngày 28 tháng 8 năm 1855. Khi Đức Cha Giút-ti-nô Gia-co-bi báo tin về cái chết của ngài cho Bề trên Tổng quyền, ngài gọi Cha Ghê-brê Mi-ca-e là một "tập sinh" và "chủng sinh" của Tu Hội Truyền Giáo.
+      Ngài được Đức Thánh Cha Piô XI phong chân phước như một vị tử đạo vào ngày 3 tháng 10 năm 1926.
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Blessed Ghebre-Michael (meaning "Servant of the Angel Michael") was born around 1788 or 1791 into an Orthodox family in the Godjam province of Ethiopia. He received his education at a monastic school and later became a monk. He was renowned for his learning and, in 1813, received the title "Doctor of Ecclesiastical Sciences."
+      However, with a thirst for finding the truth, he began a pilgrimage of knowledge to prestigious monasteries (1814-1825), deeply studying Sacred Scripture, the Fathers of the Church, and the first Councils.
+      The turning point in his life occurred when he joined a commission sent to Cairo (Egypt) to request a new bishop for Ethiopia. Accompanying them was a Catholic priest, Fr. Justin de Jacobis (later Saint Bishop Justin de Jacobis). Fr. de Jacobis took the delegates to Rome in 1842 to pay their respects to Pope Gregory XVI. In Rome, Ghebre-Michael discovered that the Catholic faith was in harmonious continuity with the ancient Ethiopian Church.
+      Upon his return in February 1844, he asked Bishop Justin de Jacobis to be received into the Catholic Church. He found in the Bishop a teacher and a spiritual father. On January 1, 1851, he was secretly ordained a priest by Bishop de Jacobis. He then became a professor and rector of the minor seminary. He also requested admission into the Congregation of the Mission (the Vincentians).
+      In 1853, Emperor Théodoros and the Coptic Bishop Abouna Salama began a fierce persecution against Catholics. In July 1854, Fr. Ghebre-Michael was arrested. He was brutally tortured, beaten (so badly that rumors of his death spread), and put in chains.
+      After more than a year of enduring terrible imprisonment and torture, he died of exhaustion during a forced march on August 28, 1855. When Bishop de Jacobis informed his Superior General of the death, he called Fr. Ghebre-Michael a "postulant" and "seminarian" of the Congregation of the Mission.
+      He was beatified as a martyr by His Holiness Pope Pius XI on October 3, 1926.
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Ghê-brê thực sự là vị tử đạo, vì người đã đổ máu vì danh Đức Kitô. Người đã không sợ những đe dọa, và người đã vào Nước Trời.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, với lòng thương xót, Chúa đã hướng dẫn chân phước Ghê-brê Mi-ca-e, tử đạo, đến chỗ nhận biết đức tin chân thật, và Chúa đã ban cho ngài một lòng can đảm đáng khâm phục để làm chứng cho Chúa; Nhờ công nghiệp và lời chuyển cầu của ngài, xin Chúa ban cho tất cả các quốc gia được nhận biết Chúa, Thiên Chúa thật duy nhất, và Đấng được Chúa sai đến, Đức Giêsu Kitô, Con Chúa, Chúa chúng con, Đấng hằng sống và hiển trị cùng Chúa, hiệp nhất với Chúa Thánh Thần đến muôn thuở muôn đời.
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
+<strong>Bài đọc</strong> (Hr 10, 32-36)
 <strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+      Xin anh em nhớ lại những ngày đầu: lúc vừa được ơn chiếu sáng, anh em đã phải đối phó với bao nỗi đau khổ dồn dập. Khi thì anh em bị sỉ nhục và hành hạ trước mặt mọi người, khi thì phải liên đới với những người cùng cảnh ngộ. Quả thật, anh em đã thông phần đau khổ với những người bị tù tội, và đã vui mừng để cho người ta tước đoạt của cải, bởi biết rằng mình có những của vừa quý giá hơn lại vừa bền vững. Vậy, anh em đừng đánh mất lòng tin tưởng mạnh dạn của anh em; lòng tin tưởng đó sẽ mang lại một phần thưởng lớn lao. Anh em cần phải kiên nhẫn, để sau khi thi hành ý Thiên Chúa, anh em được hưởng điều Người đã hứa.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca (Tv 30)</strong>
+<strong>Đ. Trong tay Ngài, lạy Chúa, con xin phó thác hồn con.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+như thành trì để cứu độ con.
+Vì danh dự Ngài, xin dẫn đường chỉ lối cho con.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Trong tay Ngài, con xin phó thác hồn con,
+Ngài đã cứu chuộc con, lạy Chúa Trời thành tín.
+Phần con đây, lạy Chúa, chỉ tin tưởng nơi Ngài,
+được Ngài đoái thương, con vui mừng hớn hở.		    <strong>Đ.</strong>
 
+Xin toả ánh tôn nhan rạng ngời
+trên tôi tớ Ngài đây, và lấy tình thương mà cứu độ.
+Hỡi mọi người cậy trông vào Chúa,
+mạnh bạo lên, can đảm lên nào ! 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Lạy Chúa, xin ban cho chúng con Thần Khí sự thật, để Người hướng dẫn chúng con đến chân lý vẹn toàn. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 10,17-22)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Hãy coi chừng người đời. Họ sẽ nộp anh em cho các hội đường, và sẽ đánh đập anh em trong các hội đường của họ. Và anh em sẽ bị điệu ra trước mặt vua chúa quan quyền vì Thầy để làm chứng cho họ và các dân ngoại được biết. Khi người ta nộp anh em, thì anh em đừng lo phải nói làm sao hay phải nói gì, vì trong giờ đó, Thiên Chúa sẽ cho anh em biết phải nói gì: Thật vậy, không phải chính anh em nói, mà là Thần Khí của Cha anh em nói trong anh em. Anh sẽ nộp em, em sẽ nộp anh cho người ta giết; cha sẽ nộp con, con cái sẽ đứng lên chống lại cha mẹ và làm cho cha mẹ phải chết. Vì danh Thầy, anh em sẽ bị mọi người thù ghét. Nhưng kẻ nào bền chí đến cùng, kẻ ấy sẽ được cứu thoát.
+      <i>Đó là Lời Chúa</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin Chúa chúc lành thánh hóa của lễ chúng con dâng: nhờ của lễ này, xin Chúa ban cho chúng con tình yêu nhiệt thành, đã đem lại cho chân phước Ghê-brê Mi-ca-e sức mạnh, để chịu đau khổ đến cùng vì Chúa. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+chúng con tạ ơn Cha mọi nơi mọi lúc
+thật là chính đáng và phải đạo.
+Chúng con nhận ra dấu chỉ huy hoàng ân phúc của Cha
+trong cuộc tử đạo của chân phước Ghê-brê Mi-ca-e;
+Khi hiến mình như Đức Kitô,
+chân phước đã tôn vinh danh Cha.
+Chính quyền năng Cha tỏ hiện trong sự yếu đuối,
+khi Cha ban cho các thụ tạo mỏng dòn được tạ ơn Cha,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Vì vậy cùng các thiên thần trên trời, chúng con dưới trần gian
+chúc tụng thờ lạy Cha và tung hô rằng :  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong>
+Chúa phán cùng chúng ta: “Ai đành mất mạng sống mình vì Ta và vì Tin Mừng thì sẽ cứu được mạng sống mình”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, xin cho việc hiệp lễ này ban sức mạnh cho tâm hồn chúng con, sức mạnh đã làm cho chân phước Ghê-brê Mi-ca-e, trung thành phục vụ Chúa và chiến thắng trong khổ hình. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
