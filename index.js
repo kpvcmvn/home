@@ -4231,88 +4231,89 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Chân phước Con-tác-đô Phê-ri-ni sinh năm 1859, tại Milan. Một cậu bé thần đồng, năm 17 tuổi, anh tốt nghiệp trung học, năm 21 anh tốt nghiệp ngành luật và, sau một thời gian học chuyên ngành tại Berlin, năm 24 tuổi, anh đã dạy luật Rô-ma tại đại học Pavia. Sau đó, ngài dạy ở Messina và Modena và năm 1894, ngài trở lại Pavia, và ngài ở lại đó cho đến khi qua đời. Một học giả, nhà luật học và nhà nghiên cứu đáng kính, ngài cũng nuôi dưỡng một đời sống thiêng liêng vững mạnh, điều này làm cho ngài đứng vững trong một môi trường bài giáo sĩ gay gắt. Phong thái của ngài diễn tả hình thức truyền giáo chính yếu của ngài: thực sự với cách thế "hoạt động tông đồ thầm lặng" và chính cách sống của ngài, ngài có thể nói về Thiên Chúa ngay cả với những người xa lạ, thờ ơ và vô thần. Ngài tham gia vào các hoạt động của Hiệp Hội Thánh Vinh Sơn Phaolô và các hoạt động từ thiện khác, ngài cũng là một ủy viên của hội đồng thành phố ở Milan trong thời gian bốn năm. Chính nơi đó ngài đã chiến đấu để bảo vệ việc được giảng dạy tôn giáo ở các trường tiểu học. Ngài cũng là một trong những người đầu tiên hỗ trợ dự án của một trường đại học Công Giáo ở Ý. Vào ngày 17 tháng 10 năm 1902, trong một kỳ nghỉ ở Suna, trên hồ Maggiore, ngài bị mắc bệnh sốt rét do uống phải nguồn nước bị ô nhiễm và qua đời ở tuổi 43. Đức Giáo Hoàng Pio XII tuyên phong Chân Phước cho ngài vào năm 1947.
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Contardo Ferrini was born on 5 April 1859 in Milan to Rinaldo Ferrini and Luigia Buccellati. He was baptized at the font where Frédéric Ozanam, also a native of Milan, had been baptized 46 years before. After receiving his First Communion at age 12, he joined a Blessed Sacrament Confraternity.
+      Contardo's father, a professor of mathematics and science, taught his son at an early age. By the time he was a young man, he spoke several languages. His apparent love for his faith caused friends to call him by the nickname St. Aloysius (St. Aloysius Gonzaga). He entered University of Pavia at age 17 and, two years later, was appointed Dean of Students. At age 21 he became a doctor of the law at the University. His doctoral thesis, which related penal law to Homeric poetry, was the basis of his being awarded a scholarship to the university in Berlin, where he specialized in Roman-Byzantine law, an field in which he became internationally recognized as expert.
+      During Contardo's stay in Berlin, he wrote of his excitement at receiving the Sacrament of Reconciliation for the first time in a foreign country. The experience brought home to him, he wrote, the universality of the Church.
+      Upon his return to Italy, he was a lecturer in universities at Messina, Modena, and Pavia. He received his first professorship at age 26. Contardo attempted to discern a vocation as a secular priest, a religious, or as a married person. Ultimately, he remained an unmarried layperson. He vowed himself to God, became a member of the Third Order of St. Francis in 1886, and was a member of the Saint Vincent de Paul Society, to which he had been introduced by his father, a member of a conference.
+      As a faculty member at University of Pavia, he was considered expert in Roman Law. Over the course of his career he published books, articles and reviews. He taught for a time at the University of Paris. He became a canon lawyer in addition to being a civil lawyer. Mountaineering was an avocation.
+      An anecdote, unsourced, about Contardo is that he was asked to attend a dinner party and, once there, found it tedious. His resort was to invite all the guests to join him in praying the Rosary.
+      In 1900, Contardo developed a heart lesion. In Fall, 1902 he went to his country home in Suna in order to rest. There he became ill with typhus. He died at age 43 on 17 October 1902. Residents of Suna immediately declared him a saint. His fellow faculty members at the University of Pavia wrote letters in which he was described as a saint. In 1909 Pope Pius X appointed Cardinal Ferrari to open a cause. Contardo was declared Venerable by Pope Pius XI and he was beatified by Pope Pius XII on 13 April 1947. His body is venerated in a chapel of Milan's Catholic University. He is a patron of universities.
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(Tv 63, 11)
+Người công chính hãy vui mừng trong Chúa và ẩn náu bên Người.
+Mọi tấm lòng chính trực đều lấy thế làm vinh.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa là Đấng mạc khải chính mình cho những ai tìm kiếm Chúa với một tâm hồn khiêm tốn và trong sạch, Chúa đã ban cho Giáo hội Chúa người con khôn ngoan và trung tín, nhờ đó, theo gương chân phước Con-tác-đô Phê-ri-ni, qua việc tìm kiếm của lý trí và khoa học, họ có thể biểu lộ cho thế giới những chiều sâu bí nhiệm của sự khôn ngoan và ý định tuyệt vời của Chúa. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Hr 10, 32-36)
+<strong>Bài trích thư gửi tín hữu Do Thái</strong>
+      Xin anh em nhớ lại những ngày đầu: lúc vừa được ơn chiếu sáng, anh em đã phải đối phó với bao nỗi đau khổ dồn dập. Khi thì anh em bị sỉ nhục và hành hạ trước mặt mọi người, khi thì phải liên đới với những người cùng cảnh ngộ. Quả thật, anh em đã thông phần đau khổ với những người bị tù tội, và đã vui mừng để cho người ta tước đoạt của cải, bởi biết rằng mình có những của vừa quý giá hơn lại vừa bền vững. Vậy, anh em đừng đánh mất lòng tin tưởng mạnh dạn của anh em; lòng tin tưởng đó sẽ mang lại một phần thưởng lớn lao. Anh em cần phải kiên nhẫn, để sau khi thi hành ý Thiên Chúa, anh em được hưởng điều Người đã hứa.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 30)
+<strong>Đ. Trong tay Ngài, lạy Chúa, con xin phó thác hồn con.</strong>
+Xin Ngài nên như núi đá cho con trú ẩn,
+Như thành trì để cứu độ con.
+Vì danh dự Ngài, xin dẫn đường chỉ lối cho con.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Trong tay Ngài, con xin phó thác hồn con,
+Ngài đã cứu chuộc con, lạy Chúa Trời thành tín.
+Phần con đây, lạy Chúa, chỉ tin tưởng nơi Ngài
+Được Ngài đoái thương, con vui mừng hớn hở.		    <strong>Đ.</strong>
 
-
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Xin toả ánh tôn nhan rạng ngời
+trên tôi tớ Ngài đây, và lấy tình thương mà cứu độ.
+Hỡi mọi người cậy trông vào Chúa,
+Mạnh bạo lên, can đảm lên nào ! 		    <strong>Đ.</strong>  
 
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Lạy Chúa, xin ban cho chúng con Thần Khí sự thật, để Người hướng dẫn chúng con đến chân lý vẹn toàn. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 10,17-22)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Khi ấy, Chúa Giêsu phán cùng các môn đệ rằng: “Lòng các con đừng xao xuyến. Hãy tin vào Thiên Chúa và tin vào Thầy. Trong nhà Cha Thầy có nhiều chỗ ở, nếu không, Thầy đã nói với các con rồi; Thầy đi để dọn chỗ cho các con. Và khi Thầy đã ra đi và dọn chỗ các con rồi, Thầy sẽ trở lại đem các con đi với Thầy, để Thầy ở đâu thì các con cũng ở đó. Thầy đi đâu, các con đã biết đường rồi”. Ông Tôma thưa Người rằng: “Lạy Thầy, chúng con không biết Thầy đi đâu, làm sao chúng con biết đường đi?” Chúa Giêsu đáp: “Thầy là đường, là sự thật, và là sự sống. Không ai đến được với Cha mà không qua Thầy”.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Thiên Chúa toàn năng, chúng con tha thiết nài xin Chúa thương chấp nhận của lễ chúng con dâng để mừng kính chân phước Con-tác-đô Phê-ri-ni. Xin cho hiến lễ này cũng thanh tẩy cả hồn xác chúng con. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Cha chí thánh
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+chúng con tôn vinh Cha, cảm tạ Cha mọi nơi mọi lúc,
+thật là chính đáng và phải đạo,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Cha luôn luôn làm sống lại sức mạnh của Hội Thánh Cha,
+nhờ đức tin của chân phước Con-tác-đô Phê-ri-ni,
+và Cha cũng tỏ cho chúng con thấy tình thương của Cha.
+Hôm nay, chúng con tạ ơn Cha vì gương sáng của ngài thúc đẩy,
+và lời chuyển cầu do tình nghĩa anh em,
+giúp chúng con làm việc để nước Cha trị đến.
+Vì thế, lạy Cha, cùng các thiên thần và các thánh,
+chúng con tung hô ca khen Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 15,9)</i>
+Chúa nói: Chúa Cha đã yêu mến Thầy thế nào,
+Thầy cũng yêu mến anh em như vậy.
+Anh em hãy ở trong tình thương của Thầy.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, trong ngày lễ kính chân phước Con-tác-đô Phê-ri-ni, Chúa đã dùng bí tích Thánh Thể bồi dưỡng chúng con. Xin cho ân phúc Chúa đã thương ban nhờ lượng từ bi hải hà của Chúa, giúp chúng con đạt tới hạnh phúc muôn đời.
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
