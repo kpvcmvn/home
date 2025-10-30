@@ -4017,88 +4017,135 @@ en: `<strong>MASS</strong>
     type: 'Đại lễ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Vinh Sơn Phaolô sinh ngày 24 tháng 4 năm 1581, gần Dax (Landes), miền Gascogne và có nguồn gốc nông dân. Ngài sẽ là như vậy trong suốt cuộc đời. Xuất thân từ một gia đình Kitô hữu đông con, ngài nhận được các đức tính của “người nông dân”, ý thức lao động, quan tâm đến những người bé nhỏ, những sự việc nhỏ bé, và đức tin mà ngài kiến tạo vì ngài có sự rèn luyện: cậu Vinh Sơn sẽ làm linh mục. Ngài thụ phong ngày 23 tháng 9 năm 1600 do Đức Giám mục giáo phận Périgueux tại Château-L’Évêque.
+      Sau những năm tự tìm kiếm cho mình “một cuộc hưu trí sung túc”, thánh Vinh Sơn lên Paris (1608). Ngài hiến dâng mình cho Thiên Chúa, Chúa sẽ hiến ban ngài cho người nghèo. Khi làm tuyên úy cho Hoàng hậu Marguerite de Valois (1610), ngài lui tới với Đức Hồng y Bérulle và Hội Dòng Oratoire, rồi ngài trở thành cha sở của giáo xứ Clichy (1612). Chính từ năm 1613 mà cuộc đời ngài có một định hướng quyết định: thánh Vinh Sơn được bổ nhiệm làm gia sư cho gia đình Gondi. Năm 1617, xảy ra hai biến cố sẽ có tính cách quyết định.
+      Vào mùa đông tại Gannes, khu vực sông Oise, thánh Vinh Sơn giải tội cho một nông dân. Ngài bắt gặp sự nghèo khổ thiêng liêng của vùng quê và tình trạng dốt nát của hàng giáo sĩ: những “người nghèo vùng quê”. Được bà Gondi thúc đẩy, ngài phát động sứ mạng: phải quay về với Chúa, để Chúa hòa giải với mình mà thay đổi đời sống (xem Bài giảng tại Folleville, thuộc khu vực sông Somme, ngày 25 tháng 01 năm 1617). Năm 1625, nhờ sự tài trợ của gia đình Gondi, ngài thành lập Tu Hội Truyền Giáo để rao giảng Tin Mừng cho người nghèo và đào tạo hàng giáo sĩ.
+      Mùa hè cùng năm 1617, vào tháng 8, khi làm cha sở Châtillon trong vùng Dombes, ngài gặp một gia đình nghèo đều lâm bệnh và huy động các giáo dân đến giúp họ: từ đó Hội Bác Ái ra đời. Ngài đích thân viết Qui luật cho Hội. Từ Châtillon sẽ phát sinh Hội Các Bà Bác Ái khác và năm 1633, nhờ thánh nữ Louise de Marillac, Tu Hội Nữ Tử Bác Ái được thành lập (xem ở ngày 9 tháng 5).
+      Bác ái kéo theo những hành động vì sự công bằng, nhất là trên phương diện xã hội và trong các bệnh viện để đáp ứng tốt hơn các nhu cầu của người nghèo “gia tăng bất tận” từ thủ đô nước Pháp đến các tỉnh do chiến tranh tàn phá (Lorraine).
 
         `,
        
-en: `<strong>Biography</strong>
-Born in Pouy, Gascony, on the 24th of April 1581, Vincent De Paul was ordained a priest on the 23rd of September 1600 in Château-l’Évêque. Initially, he was a parish priest in Paris, later becoming a chaplain to the Gondi family. He dedicated himself entirely to helping the poor and for this purpose, he founded the Confraternity of Charity among the laity, and later in 1625, the Congregation of the Mission, to which he entrusted the missions to the people and the task of training the clergy. Furthermore, with the collaboration of Saint Louise de Marillac, he founded the Company of the Daughters of Charity. He died in Paris on the 27th of September 1660. He was beatified on the 13th of August 1729 and was canonized on the 16th of June 1737. Leo XIII proclaimed him the patron of all charitable works.  
+en: `
+      Saint Vincent de Paul was born in 1581 in France, into a large, devout peasant family. As a farmer's son, he developed a sense of hard work, a concern for the lowly, and a very practical faith. His family encouraged him to get an education, and he became a priest when he was very young, only 19 years old, in 1600. At first, he hoped to find a stable position so he could help his family escape poverty. When he arrived in Paris around 1608, he met Cardinal de Bérulle, who greatly influenced his spiritual life. After serving as chaplain to Queen Marguerite and parish priest in Clichy, he was appointed tutor to the powerful Gondi family in 1613. During this time, he also experienced a severe crisis of faith, but he found peace again when he decided to dedicate his entire life to serving Jesus Christ in the poor.
+      The year 1617 was decisive. In January, while hearing the confession of a dying peasant in Folleville, Saint Vincent realized that the people in the countryside were living in great religious ignorance. On January 25, he preached the "first sermon of the Mission," calling the people to repentance; this is seen as the beginning of the Congregation of the Mission. That same year, in August, while serving as parish priest in Châtillon, he heard about a poor family where everyone was gravely ill. He called on his parishioners to help. Seeing their enthusiastic response, he organized them and founded the first Confraternity of Charity.
+      From these experiences, he founded two great Companies. In 1625, he founded the Congregation of the Mission (the Vincentian priests) to preach the Gospel to the rural poor and to train priests. Later, in 1633, together with Saint Louise de Marillac, he founded the Company of the Daughters of Charity, sisters who were not cloistered but went out into the streets to serve the poor.
+      His work expanded to meet all the sufferings of the age: providing relief for war victims, caring for abandoned children, prisoners, the elderly, and the mentally ill. For these tireless efforts, he became known as the "Father of the Poor." Saint Vincent de Paul died in Paris on September 27, 1660. He was canonized by the Church in 1737 and was named the patron saint of all Christian charitable works.
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Lc 4,18 (Is 61,1)
+Đức Giêsu nói: “Thần Khí Chúa ngự trên tôi, vì Chúa đã xức dầu tấn phong tôi. Ngài đã sai tôi đi loan báo Tin Mừng cho kẻ nghèo hèn, công bố cho kẻ bị giam cầm biết họ được tha”.
 
+<strong>KINH VINH DANH</strong>
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho tôi trung của Chúa là thánh Vinh Sơn Phaolô mọi đức tính xứng bậc tông đồ, để thánh nhân phục vụ người cùng khốn và đào tạo hàng giáo sĩ; xin cho chúng con là những kẻ noi theo lời Người dạy, luôn cháy bừng đức ái của Người, để yêu mến điều Người đã yêu mến, và thực hành điều Người đã dạy. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc 1</strong> (Is 61,1-3)
+<strong>Bài trích sách Ngôn sứ Isaia</strong>
+      Thần Khí của Đức Chúa là Chúa Thượng ngự trên tôi,
+      vì Đức Chúa đã xức dầu tấn phong tôi,
+      sai đi báo tin mừng cho kẻ nghèo hèn,
+      băng bó những tấm lòng tan nát,
+      công bố lệnh ân xá cho kẻ bị giam cầm,
+      ngày phóng thích cho những tù nhân,
+      công bố một năm hồng ân của Đức Chúa,
+      một ngày báo phục của Thiên Chúa chúng ta
+      Người sai tôi đi yên ủi mọi kẻ khóc than,
+      tặng cho những kẻ khóc than ở Xi-on
+      tấm khăn đại lễ thay tro bụi,
+      dầu thơm hoan lạc thay tang chế,
+      áo ngày hội thay tâm thần sầu não.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 95)
+<strong>Đ. Toàn cõi đất, hãy hát lên, chúc tụng Thánh Danh Người.</strong>
+Hát lên mừng Chúa một bài ca mới,
+hát lên mừng Chúa hỡi toàn thể địa cầu
+hát lên mừng Chúa, chúc tụng Thánh Danh!		    <strong>Đ.</strong>
 
+Ngày qua ngày, hãy loan báo ơn Người cứu độ,
+kể cho muôn dân biết Người vinh hiển,
+cho mọi nước nghe việc lạ Người làm.		    <strong>Đ.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Hãy dâng Chúa, hỡi các dân các nước,
+dâng Chúa quyền lực và vinh quang,
+hãy dâng Chúa vinh quang xứng danh Người.		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+Hãy nói với chư dân : Chúa là vua hiển trị,
+Chúa thiết lập địa cầu, địa cầu chẳng chuyển lay
+Người xét xử muôn nước theo đường ngay thẳng.	    <strong>Đ.</strong>  
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+      <strong>Bài đọc 2</strong> (1Cr 1, 26-31; 2,1-2)
+<strong>Bài trích thư thứ nhất của thánh Phaolô Tông Đồ gửi tín hữu Cô-rin-tô</strong>
+      Thưa anh em, anh em thử nghĩ lại xem: khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy kẻ khôn ngoan trước mặt người đời, đâu có mấy người quyền thế, mấy người quý phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan phát xuất từ Thiên Chúa, Đấng đã làm cho anh em trở nên công chính, đã thánh hoá và cứu chuộc anh em, hợp như lời đã chép rằng: ai tự hào thì hãy tự hào trong Chúa.
+      Thưa anh em, khi tôi đến với anh em, tôi đã không dùng lời lẽ hùng hồn hoặc triết lý cao siêu mà loan báo mầu nhiệm cao siêu của Thiên Chúa. Vì hồi còn ở giữa anh em, tôi đã không muốn biết đến chuyện gì khác ngoài Đức Giêsu Kitô, mà là Đức Giêsu Kitô chịu đóng đinh vào thập giá.
+      <i>Đó là Lời Chúa.</i>
 
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tung hô Tin Mừng</strong> (Mt 25,34)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng Vương Quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>TIN MỪNG</strong> (Mt 25, 31-46)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Bấy giờ Đức Giêsu nói với các môn đệ về ngày quang lâm của Người: “Khi Con Người đến trong vinh quang của Người, có tất cả các thiên sứ theo hầu, bấy giờ Người sẽ ngự lên ngai vinh hiển của Người. Các dân thiên hạ sẽ được tập hợp trước mặt Người và Người sẽ tách biệt họ với nhau, như mục tử tách biệt chiên với dê. Người sẽ cho chiên đứng bên phải Người, còn dê ở bên trái. Bấy giờ Đức Vua sẽ phán cùng những người ở bên phải rằng: “Nào những kẻ Cha Ta chúc phúc, hãy đến thừa hưởng Vương Quốc dọn sẵn cho các ngươi ngay từ thuở tạo thiên lập địa. Vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta là khách lạ, các ngươi đã tiếp rước; Ta trần truồng, các ngươi đã cho mặc; Ta đau yếu, các ngươi đã thăm viếng; Ta ngồi tù, các ngươi đến hỏi han”. Bấy giờ những người công chính sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói mà cho ăn, khát mà cho uống; có bao giờ đã thấy Chúa là khách lạ mà tiếp rước; hoặc trần truồng mà cho mặc? Có bao giờ chúng con đã thấy Chúa đau yếu hoặc ngồi tù, mà đến hỏi han đâu? Đức Vua sẽ đáp lại rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi làm như thế cho một trong những anh em bé nhỏ nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”. Rồi Đức Vua sẽ phán cùng những người ở bên trái rằng: “Quân bị nguyền rủa kia, đi đi cho khuất mắt Ta mà vào lửa đời đời, nơi dành sẵn cho tên ác quỷ và các sứ thần của nó. Vì xưa Ta đói, các ngươi đã không cho ăn; Ta khát, các ngươi đã không cho uống; Ta là khách lạ, các ngươi đã không tiếp rước; Ta trần truồng, các ngươi đã không cho mặc; Ta đau yếu và ngồi tù, các ngươi đã chẳng thăm viếng”. Bấy giờ những người ấy cũng sẽ thưa rằng: “Lạy Chúa, có bao giờ chúng con đã thấy Chúa đói, khát, hoặc là khách lạ, hoặc trần truồng, đau yếu hay ngồi tù, mà không phục vụ Chúa đâu”. Bấy giờ Người sẽ đáp lại họ rằng: “Ta bảo thật các ngươi: mỗi lần các ngươi không làm như thế cho một trong những người bé nhỏ nhất đây, là các ngươi đã không làm cho chính Ta vậy”. Thế là họ ra đi để chịu cực hình muôn kiếp, còn những người công chính ra đi để hưởng sự sống muôn đời”.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, Chúa đã hướng dẫn thánh Vinh Sơn biết điều chỉnh toàn thể cuộc đời của thánh nhân với bí tích Thánh Thể mà người cử hành, nhờ sức mạnh của Thần Khí Chúa, xin làm cho chúng con cũng trở nên lễ phẩm đẹp lòng Chúa. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
+nhờ Đức Kitô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Hôm nay, khi cử hành lễ thánh Vinh Sơn,
+chúng con cảm phục sự quan phòng của Cha
+đối với Hội Thánh Cha:
+Cha đã kêu gọi thánh nhân bước theo Con Cha,
+tận tụy rao giảng Tin Mừng cho người nghèo;
+nhờ gương sáng của thánh nhân,
+Cha khích lệ chúng con;
+nhờ giáo huấn của thánh nhân
+Cha soi sáng chúng con.
+Được củng cố bởi Thánh Thần Cha
+và được lôi kéo bởi tình yêu của Cha,
+chúng con tận hiến cuộc sống và sức lực chúng con
+để làm cho người nghèo được đón nhận ơn cứu độ
+Vì thế, cùng với toàn thể thiên thần và các thánh,
+chúng con chúc tụng vinh quang Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Tv 106,8-9)</i>
+Hãy công bố tình thương của Chúa, và những kỳ công của Người cho người trần; Ai đói lả, Chúa cho ăn thoả thích; và kẻ khát khô, Người cho uống phỉ tình.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, chúng con vừa được tăng sức nhờ bí tích Thánh Thể và tin chắc vào tình thương của Chúa, xin cho chúng con, nhờ gương sáng của thánh Vinh Sơn, được thấm nhuần Thánh Thần Tình Yêu của Chúa, để phục vụ người nghèo và loan báo cho họ Tin Mừng Cứu Độ. 
+Chúng con cầu xin...
+
+<strong>PHÉP LÀNH TRỌNG THỂ</strong>
+<strong>Chủ sự:</strong> Chúa ở cùng anh chị em!
+<strong>Đáp:</strong> Và ở cùng cha.
+<strong>Chủ sự:</strong> Thiên Chúa, Cha chúng ta, đã chọn chúng ta để yêu mến Người bằng sức mạnh của đôi tay và bằng mồ hôi trên khuôn mặt chúng ta. Xin Người làm cho ơn gọi của chúng ta được đổi mới và gìn giữ chúng ta trong chân lý đức tin.
+<strong>Đáp:</strong> Amen.
+<strong>Chủ sự:</strong> Đức Giêsu Kitô, Đấng rao giảng Tin Mừng của Chúa Cha, kêu gọi chúng ta loan báo Tin Mừng cho người nghèo. Xin Người trợ lực anh chị em trong công cuộc truyền giáo và giữ gìn anh chị em trong bình an và hiệp nhất.
+<strong>Đáp:</strong> Amen.
+<strong>Chủ sự:</strong> Chúa Thánh Thần thánh hoá chúng ta,và được ban cho chúng ta để công bố Tin Mừng cứu độ trong thế giới, bằng mọi ngôn ngữ. Xin Người thánh hiến anh chị em trong niềm hy vọng và tình mến.
+<strong>Đáp:</strong> Amen.
+<strong>Chủ sự:</strong> Và xin Thiên Chúa hằng sống là Cha, Con và Thánh Thần xuống phúc lành trên anh chị em và ở lại cùng anh chị em luôn mãi.
+<strong>Đáp:</strong> Amen.
+
+<strong>PHÉP LÀNH ĐƠN GIẢN</strong>
+<strong>Chủ sự:</strong> Chúa ở cùng anh chị em!
+<strong>Đáp:</strong> Và ở cùng cha.
+<strong>Chủ sự:</strong> Xin Thiên Chúa là Cha và Con và Thánh Thần chúc lành cho anh chị em, trong ngày lễ mừng kính thánh Vinh Sơn Phaolô; xin Chúa thánh hóa anh chị em trong đức ái để tôn vinh và phục vụ Người nơi người nghèo.
+<strong>Đáp:</strong> Amen.
+
 `,    
 en: `<strong>MASS</strong>
 
