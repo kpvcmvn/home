@@ -4765,88 +4765,132 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Giáo Hội đã phong bậc hiển thánh cho Sơ A-gót-ti-na Pi-ê-tran-tô-ni không những vì cái chết thê thảm của Sơ, mà cũng vì đời sống bác ái âm thầm trong khi phục vụ những bệnh nhân nghèo khổ. Dù rằng sau khi chết, báo chí đã tôn nhận Sơ là “vị tử đạo vì đức bác ái Kitô Giáo”, nhưng Giáo Hội đã tuyên phong Sơ lên bậc Chân Phước dưới tước hiệu “Đồng Trinh” thay vì “Tử Đạo”.
+      Li-vi-a Pi-ê-tran-tô-ni sinh năm 1864, là người con thứ hai trong mười anh chị em thuộc một gia đình Công Giáo, với mức sống trung bình đối với miền đó. Ông nội của Li-vi-a cũng sống chung với gia đình ông bà Pi-ê-tran-tô-ni. Mỗi tối, cha của Li-vi-a hướng dẫn gia đình đọc Kinh Mân Côi, sau đó là hát các bài thánh ca hay học hỏi về giáo lý. Thường cũng có một số người hàng xóm cùng tham dự.
+      Ngay từ tuổi nhỏ, Li-vi-a đã được tặng cho biệt hiệu là “cô giáo”. Tại trường học, Li-vi-a là một học sinh gương mẫu, cho dù Li-vi-a thường bị khiển trách vì nghỉ học mà không có lý do. Bị phê là “không lý do”, nhưng thực sự Li-vi-a nghỉ học là vì phải giúp mẹ săn sóc cho cha cô đang mắc bệnh sưng khớp xương, chứng bệnh này đã làm cho ông hầu như bị tê liệt kinh niên. Từ lúc 7 tuổi, Li-vi-a đã bắt đầu phải làm việc để giúp vào tài chính của gia đình.
+      Dù Li-vi-a là một người trầm lặng và nhút nhát, em cũng có rất nhiều bạn. Li-vi-a có một ảnh hưởng tự nhiên trên họ, nên họ thường đến với em để bàn hỏi nhiều vấn đề, cả những vấn đề rất tầm thường. Đối với các em, Li-vi-a đã tỏ ra là “một người mẹ nhỏ” thật đảm đang. Một trong những người em của Li-vi-a đã nói: “Ở nhà, tôi không nhớ có lần nào chị Li-vi-a đánh hay giận bất cứ người nào trong chúng tôi”.
+      Từ tuổi nhỏ, Li-vi-a đã được huấn luyện để làm việc. Ở nhà Li-vi-a giúp đỡ các em, chăm nom gia súc, làm việc ngoài đồng, và còn khá thông thạo trong nghề làm giầy. Cũng có kỳ Li-vi-a và một số bạn bè đã đi Trivoli để giúp hái trái cây Ôliu. Đây là một công việc thật khó khăn, không những đòi kiên nhẫn mà còn rất vất vả nặng nhọc. Cha mẹ của các cô bạn luôn sẵn sàng cho con họ đi, vì biết rằng Li-vi-a là một con người có ý thức và đáng tin cậy. Trong 4 năm, Li-vi-a đã trợ giúp vào việc xây con đường chính từ Orvinio đến Poggio Maiano. Dù Li-vi-a được trả lương rất thấp cho công việc nặng nhọc này, nhưng không bao giờ em than trách một lời.
+      Thời gian trôi qua thật mau, Li-vi-a đã trở thành một thiếu nữ duyên dáng và khoẻ mạnh, khiến cho nhiều chàng trai lưu tâm chú ý. Một trong những chàng trai đó sau này đã nói: “Tôi đã làm quen với cô trong mấy tháng. Dù biết là không có hy vọng, tôi vẫn quyết định sẽ bày tỏ tình yêu của tôi... Thật không phải dễ để có thể gặp riêng cô... Một chiều nọ, tôi tình cờ gặp cô trên đường. Lúc đó cô đang đọc sách. Cô dừng lại, hơi lúng túng. Rồi cô lấy từ trong sách một tấm hình Chúa Giêsu. Cô cho tôi xem, rồi nói: “đây là người tôi sẽ kết hôn với Anh ấy”. Tôi liền trả lời “Tôi đã biết, và cô thật sự xứng đáng với Người”.
+      Dù nhiều lần được mẹ khuyên nên lập gia đình, và ở gần nhà, nhưng Li-vi-a vẫn nhất quyết trung thành với ước mộng trở thành một nữ tu. Đến năm 21 tuổi, Li-vi-a đã bày tỏ nguyện vọng này với người cậu, lúc này là một Thầy Dòng. Thầy hứa sẽ giúp cô khi thầy tin rằng cô thực sự có ơn kêu gọi trong bậc tu trì. Dù các bạn tìm mọi cách để thuyết phục Li-vi-a bỏ ý định này, nhưng Li-vi-a vẫn nộp đơn xin nhập Dòng Nữ Tu Bác Ái Thánh Gioan Antida vào năm 1886. Lúc đầu Li-vi-a bị từ chối, nhưng sau đó các vị hữu trách đã xét lại, và Li-vi-a đã được nhận vào Tập viện tại Rôma. Li-vi-a đã chào tạm biệt gia đình, rồi quỳ xuống xin cha mẹ và ông nội chúc lành. Khi đã ra ngoài và đóng cửa lại, Li-vi-a đã quay lại hôn lên cửa và làm một dấu Thánh giá lớn trên cửa. Rồi, đưa tay gạt những giọt lệ trên mắt, Li-vi-a liền bước lên xe, và sẵn sàng bước vào một cuộc sống mới.
+      Sơ coi sóc nhà thử còn nhớ: Li-vi-a là một người luôn vui cười, luôn vâng phục, và luôn phụng sự Chúa trong vui tươi. Một lần nọ, Sơ Giáo tập đã hỏi xem đối với Li-vi-a, điều gì là khó khăn nhất, và Li-vi-a đã trả lời, “Đối với Chúa mọi sự đều quá bé nhỏ. Em sẵn sàng làm mọi việc cho Ngài”.
+      Sau thời gian ở Nhà Tập, Li-vi-a được đổi tên mới là A-gót-ti-na, và được cử giúp việc y tá tại bệnh viện Santo Spirito. Bệnh viện này đã có một lịch sử thật vẻ vang, nơi đã ghi dấu chân biết bao đấng thánh, nhưng trong thời của Sơ A-gót-ti-na, phong trào tục hoá đã tước bỏ hết đặc tính tu trì của nó. Các tượng Thánh Giá đã bị tháo cất đi, và các nữ tu phải tuân theo rất nhiều luật lệ, một trong những khoản luật là các Sơ phải giữ, là không được nói về Thiên Chúa với các bệnh nhân. Nhưng Sơ A-gót-ti-na không cần lời nói để trao ban Thiên Chúa cho các bệnh nhân: hành động của Sơ là những lời nói hùng hồn hơn cả về tình yêu của Sơ dành cho Thiên Chúa. Xem ra mọi người đều nhận ra điều đó.
+      Sau một thời gian ngắn, Sơ A-gót-ti-na mắc phải bệnh phổi, nhưng sau khi chịu phép xức dầu, Sơ đã bình phục. Sau đó, Sơ lại xin phép trở lại phục vụ trong khu vực bệnh nhân phổi, để các Sơ khác khỏi bị nhiễm lây bệnh này.
+      Thái độ của những bệnh nhân trong khu vực này thật là đáng sợ; những hành động thô tục và phạm thượng rất thường xảy ra, nhiều khi đã phải mời cảnh sát can thiệp. Vì thế, Sơ A-gót-ti-na có khi đã phải hứng chịu những sỉ vả, khạc nhổ, và có một lần kia Sơ còn bị đánh trọng thương. Nhưng Sơ vẫn không sợ hãi những công việc mình phải đảm trách. Không những thế, Sơ còn bênh vực các bệnh nhân: “Họ không xấu, nhưng chỉ vì họ bị bệnh. Bởi vậy, ta phải xót thương họ. Quý vị nên giúp tôi cầu nguyện cho họ”. Vì thế, trong mọi lúc, Sơ luôn kiên nhẫn và vui tươi, cho dù các bệnh nhân có hành động khiếm nhã đến đâu cũng thế.
+      Để có ơn trợ lực trong lúc giúp đỡ những bệnh nhân ương ngạnh, Sơ A-gót-ti-na đã hướng mắt lên Đức Mẹ. Sơ đã viết thư cho Đức Mẹ và “gởi” lá thư đó sau một tấm hình Đức Mẹ trong một căn phòng nhỏ gần khu vực bệnh phổi. Một trong những lá thư đó, Sơ viết: “Lạy Mẹ rất thánh, xin Mẹ hãy cứu vớt con người bất hạnh đó, con đã không thể thay đổi tấm lòng chai đá của ông ta, và con hứa sẽ làm thêm hai hay ba đêm để tôn kính Mẹ”.
+      Sơ A-gót-ti-na có lòng sùng kính đặc biệt đối với Đức Mẹ, và việc sùng kính Sơ thích nhất là kinh Mân Côi, đây là việc sùng kính Sơ thực hiện hằng ngày. Thêm vào đó, Sơ dành rất nhiều giờ để cầu nguyện. Vì đối với Sơ, cầu nguyện không những là một bổn phận, mà còn là một nhu cầu sống, tương tự như hơi thở. Chính Sơ đã chân nhận rằng nhờ đời sống cầu nguyện, Sơ mới có đủ nghị lực để đứng vững trong khi phục vụ tại khu vực này.
+      Dù Sơ A-gót-ti-na rất hăng hái làm việc, nhiều khi còn làm thay cho những nữ tu yếu bệnh, Sơ cũng có những giây phút nghỉ ngơi. Một lần nọ, trong khi cùng với một Sơ khác về Nhà Mẹ, khi về đến nhà, Sơ A-gót-ti-na nói sẽ chờ Sơ kia trong nhà nguyện. Chiều hôm đó, lúc Sơ kia trở lại, Sơ A-gót-ti-na nói: “Tôi được một giấc ngủ thật ngon trước Chúa Giêsu”.
+      Tuy nhiên, Sơ A-gót-ti-na thích làm việc hơn là nghỉ ngơi. Buổi chiều trước khi qua đời, Sơ A-gót-ti-na đã nói lời tiên tri sau đây với chị em Dòng: “Sau khi chết, chúng ta sẽ nằm xuống nghỉ rất dài, nên chúng ta phải đứng bao lâu chúng ta còn sống. Bây giờ chúng ta hãy làm việc; một ngày nào đó chúng ta sẽ nghỉ ngơi”.
+      Sơ A-gót-ti-na đã tuyên khấn trọng thể ngày 23 tháng 9 năm 1893. Sau đó, Sơ trở lại làm việc trong khu vực “khủng khiếp” kia. Nhiều bệnh nhân trong khu vực này đã đến từ các trại tù. Một trong những người đầu đảng của nhóm chuyên môn phá rối này là Giuseppe Romanelli, một người đã bốn lần bị toà kết án. Khi mẹ và chị em ông đến thăm, Sơ A-gót-ti-na tỏ ra niềm nở ân cần tiếp đón họ, có khi còn bố thí cho họ. Nhưng khi Giuseppe bị đuổi vì hạnh kiểm xấu, hắn đã đổ hết lỗi cho Sơ A-gót-ti-na, dù rằng Sơ không dính dáng gì đến chuyện này. Sau đó, hắn mấy lần viết thư đe doạ Sơ. Dù biết rằng hắn là một con người nguy hiểm, Sơ vẫn bình tĩnh tiếp tục chu toàn nhiệm vụ.
+      Sáng thứ ba ngày 13 tháng 11 năm 1894, Sơ A-gót-ti-na đang phụ giúp một bệnh nhân mà Sơ đã hứa sẽ giúp đỡ. Sơ đi cùng với bệnh nhân đó ra khỏi khu vực và đi vào một con đường nhỏ. Đột nhiên, Giuseppe xuất hiện trước mặt Sơ. Với con dao trong tay, hắn liền xông đến đâm Sơ. Người bệnh nhân đi với Sơ liền kêu cứu thất thanh. Trong khi các bệnh nhân và y tá chạy đến, tên sát nhân kia đã chạy thoát thân. Sơ A-gót-ti-na lúc này đang nằm trên đất, thều thào lời sau cùng: “Lạy Mẹ, xin giúp con”.
+      Một nữ tu cùng với vài nhân viên bệnh viện đã khiêng Sơ về đặt lên giường. Mẹ Bề Trên đã đến bên giường lay nhẹ Sơ, và hỏi Sơ đã tha thứ cho kẻ ám hại Sơ chưa. Dù không thể nói ra lời, Sơ A-gót-ti-na đã gật đầu và cười, rồi Sơ trút hơi thở cuối cùng.
+      Liền sau đó, các nhà báo, phóng viên, nhiếp ảnh đổ xô đến bệnh viện, họ nói: “Chúng tôi muốn thấy vị tử đạo”. Vì thấy rằng không thể di chuyển xác Sơ A-gót-ti-na đi chỗ khác, một nữ tu đã đặt một cành huệ lên tay và một vòng hoa hồng trắng trên đầu Sơ A-gót-ti-na. Sau cuộc thử nghiệm được thực hiện vào ngày hôm sau, lễ an táng đã được cử hành vào ngày 15 tháng 11 năm 1894. Thành phần tham dự gồm có đại diện của chính quyền địa phương, của các bệnh viện, và các dòng tu, nhất là một số đông thường dân, họ đến để tôn kính một vị tử đạo vì đức bác ái.
+      Giuseppe đã bị bắt trong ngày lễ an táng Sơ A-gót-ti-na. Dù gia đình Sơ A-gót-ti-na đã xin ân xá, Giuseppe vẫn bị kết án chung thân.  Không đầy một năm sau, ông đã chết trong tù, sau khi đã trở về làm hoà với Chúa Kitô và lãnh nhận các phép sau hết.
+      Thủ tục xin phong thánh cho Sơ A-gót-ti-na được bắt đầu từ năm 1936; đến năm 1945, sắc lệnh điều tra phong thánh cho Sơ được ban hành. Sơ A-gót-ti-na đã được Đức Thánh Cha Phaolô VI tuyên phong lên bậc Chân Phước ngày 12 tháng 11 năm 1972 và được Đức Thánh Cha Gioan Phaolo II tôn phong lên bậc hiển thánh ngày 18 tháng 4 năm 1999.
+
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      The Church canonized Sister Agostina Pietrantoni not only because of her tragic death, but also for her hidden life of charity in service of the poor and sick. Although after her death, the press acclaimed her as the "martyr of Christian charity," the Church proclaimed her Blessed under the title of "Virgin" rather than "Martyr."
+      Livia Pietrantoni was born in 1864, the second of ten children in a Catholic family, whose standard of living was average for that region. Livia's grandfather also lived with the Pietrantoni family. Every evening, Livia's father led the family in the Rosary, followed by hymns or the study of catechism. Often, some neighbors would join them. From a young age, Livia was given the nickname "the teacher."
+      At school, Livia was a model student, although she was often reprimanded for missing school without reason. Though marked as "no reason," Livia was, in fact, absent because she had to help her mother care for her father, who was suffering from rheumatoid arthritis, an illness that left him almost chronically paralyzed. From the age of 7, Livia began to work to help with the family's finances.
+      Although Livia was quiet and shy, she had many friends. She had a natural influence on them, and they often came to her for advice on many matters, even very trivial ones. To her younger siblings, Livia proved to be a very capable "little mother." One of her siblings said: "At home, I cannot remember a single time that Livia hit or got angry at any of us."
+      From a young age, Livia was trained to work. At home, she helped her siblings, tended the livestock, worked in the fields, and was even quite skilled in shoe-making. There was also a time when Livia and some friends went to Tivoli to help harvest olives. This was truly difficult work, demanding not only patience but also heavy, strenuous labor. Her friends' parents were always willing to let their daughters go, knowing that Livia was a conscientious and trustworthy person.
+      For four years, Livia assisted in the construction of the main road from Orvinio to Poggio Maiano. Although Livia was paid a very low wage for this heavy labor, she never uttered a word of complaint.
+      Time passed quickly, and Livia became a charming and healthy young woman, attracting the attention of many young men. One of them later said: "I had known her for several months. Though I knew there was no hope, I still decided to express my love... It was not easy to meet her alone... One evening, I happened to meet her on the road. She was reading a book. She stopped, slightly flustered. Then she took a picture of Jesus from her book. She showed it to me and said: 'This is the one I will marry.' I immediately replied, 'I already knew, and you truly deserve Him.'"
+      Although her mother often advised her to marry and stay close to home, Livia remained faithful to her dream of becoming a nun. At the age of 21, Livia expressed this desire to her uncle, who was a religious Brother. He promised to help her when he believed she truly had a religious vocation. Although her friends tried every way to convince Livia to abandon this idea, Livia still applied to enter the Sisters of Charity of Saint Joan Antida in 1886.
+      At first, Livia was rejected, but later the authorities reconsidered, and Livia was accepted into the Novitiate in Rome. Livia said goodbye to her family, then knelt to ask for her parents' and grandfather's blessing. Once outside and the door was closed, Livia turned back to kiss the door and made a large Sign of the Cross on it. Then, wiping the tears from her eyes, she boarded the carriage, ready to step into a new life.
+      The Mistress of Novices remembered: Livia was always smiling, always obedient, and always served the Lord joyfully. One time, the Novice Mistress asked what was the most difficult thing for her, and Livia replied, "For God, everything is too small. I am ready to do everything for Him."
+      After her time in the Novitiate, Livia received the new name Agostina and was assigned to nursing duties at the Santo Spirito Hospital. This hospital had a glorious history, marked by the footsteps of many saints, but during Sister Agostina's time, the secularization movement had stripped it of its religious character. Crucifixes had been removed, and the nuns had to obey many rules, one of which was that the Sisters were forbidden to speak of God to the patients.
+      But Sister Agostina did not need words to give God to the patients: her actions were more eloquent words about her love for God. Everyone seemed to recognize this. After a short time, Sister Agostina contracted tuberculosis, but after receiving the Anointing of the Sick, she recovered. Afterward, she asked permission to return to serve in the tuberculosis ward, so that other Sisters would not be exposed to the disease.
+      The attitude of the patients in this ward was truly dreadful; vulgarity and blasphemy were very common, sometimes requiring police intervention. Because of this, Sister Agostina sometimes had to endure insults, spitting, and on one occasion was even seriously beaten. But she remained unafraid of the tasks she had to undertake. Not only that, she even defended the patients: "They are not bad, just sick. Therefore, we must have mercy on them. You should help me pray for them." Thus, at all times, she remained patient and cheerful, no matter how indecently the patients behaved.
+      To find strength while helping the defiant patients, Sister Agostina turned her eyes to the Blessed Mother. She wrote letters to Our Lady and "sent" them by placing them behind a picture of Mary in a small room near the tuberculosis ward. In one of those letters, she wrote: "Most Holy Mother, please save that unhappy man, I have not been able to change his stony heart, and I promise to work two or three more nights in your honor."
+      Sister Agostina had a special devotion to the Blessed Mother, and her favorite devotion was the Rosary, which she prayed daily. In addition, she spent many hours in prayer. For her, prayer was not only a duty but a vital need, similar to breathing. She herself affirmed that it was through her prayer life that she found enough strength to persevere in her service in that ward.
+      Although Sister Agostina was very zealous in her work, often filling in for weaker or sick nuns, she also had her moments of rest. One time, while returning to the Mother House with another Sister, upon arriving, Sister Agostina said she would wait for the other Sister in the chapel. That evening, when the other Sister returned, Sister Agostina said: "I had a very good sleep before Jesus."
+      However, Sister Agostina preferred work to rest. The evening before her death, Sister Agostina spoke the following prophetic words to her fellow Sisters: "After death, we will lie down to rest for a very long time, so we must stand as long as we live. Let us work now; one day we will rest."
+      Sister Agostina professed her final vows on September 23, 1893. Afterward, she returned to work in that "terrible" ward. Many patients in this ward came from prisons. One of the ringleaders of the troublemaking group was Giuseppe Romanelli, a man who had been convicted by the court four times. When his mother and sisters came to visit, Sister Agostina welcomed them warmly, sometimes even giving them alms. But when Giuseppe was expelled for bad conduct, he blamed Sister Agostina entirely, even though she had no involvement in the matter. After that, he wrote threatening letters to her several times. Although she knew he was a dangerous man, she calmly continued to fulfill her duties.
+      On Tuesday morning, November 13, 1894, Sister Agostina was assisting a patient she had promised to help. She was walking with the patient out of the ward and into a small corridor. Suddenly, Giuseppe appeared before her. With a knife in hand, he lunged and stabbed her. The patient with her screamed desperately for help. While patients and nurses ran to the scene, the murderer fled. Sister Agostina, now lying on the ground, whispered her last words: "Mother, help me."
+      A nun, along with some hospital staff, carried her and placed her on her bed. The Mother Superior came to her bedside, gently shook her, and asked if she forgave her assailant. Though unable to speak, Sister Agostina nodded and smiled, and then she breathed her last.
+      Immediately, journalists, reporters, and photographers flocked to the hospital, saying: "We want to see the martyr." Seeing that it was impossible to move Sister Agostina's body elsewhere, a nun placed a lily in her hand and a crown of white roses on her head. After the autopsy was performed the next day, the funeral Mass was celebrated on November 15, 1894. Attendees included representatives of the local government, hospitals, and religious orders, and especially a large crowd of ordinary people, who came to honor a martyr of charity.
+      Giuseppe was arrested on the day of Sister Agostina's funeral. Although Sister Agostina's family asked for a pardon, Giuseppe was sentenced to life in prison. Less than a year later, he died in prison, after having been reconciled with Christ and receiving the last sacraments.
+      The cause for the canonization of Sister Agostina began in 1936; in 1945, the decree for the investigation of her cause was promulgated. Sister Agostina was beatified by His Holiness Pope Paul VI on November 12, 1972, and was canonized by His Holiness Pope John Paul II on April 18, 1999.
 
 `
 },
       massReadings: {
   vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(Mt 25, 34. 36. 40)
+Chúa nói với những người đã phục vụ Người trong anh em: “Nào những kẻ Cha Ta chúc phúc, hãy lãnh lấy phần gia nghiệp, vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta đau yếu, các ngươi đã viếng thăm”;… Ta bảo các ngươi: “Những gì các ngươi đã làm cho một trong các anh em bé mọn nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho thánh A-gót-ti-na Pi-ê-tran-tô-ni tinh thần yêu thương của Chúa khiến thánh nhân giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương thánh A-gót-ti-na, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1 Cr 12,31-13,1-13)
+<strong>Bài trích thư thứ nhất của thánh Phaolô Tông Đồ gởi tín hữu Cô-rin-tô</strong>
+      Trong các ân huệ của Thiên Chúa, anh em cứ tha thiết tìm những ơn cao trọng nhất. Nhưng đây tôi xin chỉ cho anh em con đường trổi vượt hơn cả.
+      Giả như tôi có nói được các thứ tiếng của loài người và của các thiên thần đi nữa, mà không có đức mến, thì tôi cũng chẳng khác gì thanh la phèng phèng, chũm choẹ xoang xoảng. Giả như tôi được ơn nói tiên tri, và được biết hết mọi điều bí nhiệm, mọi lẽ cao siêu, hay có được tất cả đức tin đến chuyển núi dời non, mà không có đức mến, thì tôi cũng chẳng là gì. Giả như tôi có đem hết gia tài cơ nghiệp mà bố thí, hay nộp cả thân xác tôi để chịu thiêu đốt, mà không có đức mến, thì cũng chẳng ích gì cho tôi. Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả. Đức mến không bao giờ mất được. Ơn nói tiên tri ư? cũng chỉ nhất thời. Nói các tiếng lạ chăng? có ngày sẽ hết. Ơn hiểu biết ư? rồi cũng chẳng còn. Vì chưng sự hiểu biết thì có ngần, ơn nói tiên tri cũng có hạn. Khi cái hoàn hảo tới, thì cái có ngần có hạn sẽ biến đi. Cũng như khi tôi còn là trẻ con, tôi nói năng như trẻ con, hiểu biết như trẻ con, suy nghĩ như trẻ con; nhưng khi tôi đã thành người lớn, thì tôi bỏ tất cả những gì là trẻ con. Bây giờ chúng ta thấy lờ mờ như trong một tấm gương, mai sau sẽ được mặt giáp mặt. Bây giờ tôi biết chỉ có ngần có hạn, mai sau tôi sẽ được biết hết, như Thiên Chúa biết tôi. Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại. Nhưng cao trọng hơn cả là đức mến.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 33, 2-7.18-19)
+<strong>Đ. Này đây những ngày công lý và hoà bình sẽ tới.</strong>
+Tôi sẽ không ngừng chúc tụng Chúa,
+câu hát mừng Người chẳng ngớt trên môi.
+Linh hồn tôi hãnh diện vì Chúa,
+xin các bạn nghèo nghe tôi nói mà vui lên.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hãy cùng tôi ngợi khen Đức Chúa,
+ta đồng thanh tán tụng danh Người.
+Tôi đã tìm kiếm Chúa và người đáp lại,
+giải thoát cho khỏi mọi nỗi kinh hoàng.		    <strong>Đ.</strong>
 
+Ai nhìn lên Chúa sẽ vui tươi hớn hở,
+không bao giờ bẽ mặt hổ ngươi.
+Kẻ nghèo này kêu lên và Chúa đã nhận lời,
+cứu cho khỏi mọi cơn nguy khốn. 		    <strong>Đ.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Họ kêu xin, và Chúa đã nhận lời,
+giải thoát khỏi mọi cơn nguy khốn.
+Chúa gần gũi những tấm lòng tan vỡ,
+cứu những tâm thần thất vọng ê chề. 		    <strong>Đ.</strong> 
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> ( 1Ga 4,21)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Đây là điều răn mà chúng ta đã nhận được từ Người: ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc 10, 25-37)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Có người thông luật kia đứng lên hỏi Đức Giêsu để thử Người rằng: “Thưa Thầy, tôi phải làm gì để được sự sống đời đời làm gia nghiệp?”. Người đáp: “Trong Luật đã viết gì? Ông đọc thế nào?”. Ông ấy thưa: “Ngươi hãy yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn, hết sức lực, và hết trí khôn ngươi, và yêu người thân cận như chính mình”. Đức Giêsu bảo ông ta: “Ông trả lời đúng lắm. Cứ làm như vậy là sẽ được sống”.
+      Nhưng ông ấy muốn chứng tỏ là mình có lý, nên mới thưa cùng Đức Giêsu rằng: “nhưng ai là người thân cận của tôi?”. Đức Giêsu đáp: Một người kia từ Giê-ru-sa-lem xuống Giê-ri-khô, dọc dường bị rơi vào tay kẻ cướp. Chúng lột sạch người ấy, đánh nhừ tử, rồi bỏ đi, để mặc người ấy nửa sống nửa chết. Tình cờ, có thầy tư tế cùng đi xuống trên con đường ấy. Trông thấy người này, ông tránh qua bên kia mà đi. Rồi cũng thế, một thầy Lê-vi đi tới chỗ ấy, cũng thấy, cũng tránh qua bên kia mà đi. Nhưng một người Sa-ma-ri kia đi đường, tới ngang chỗ người ấy, cũng thấy, và chạnh lòng thương. Ông ta lại gần, lấy dầu lấy rượu đổ lên vết thương cho người ấy và băng bó lại, rồi đặt người ấy trên lưng lừa của mình, đưa về quán trọ mà săn sóc. Hôm sau, ông lấy ra hai quan tiền, trao cho chủ quán và nói: “Nhờ bác săn sóc cho người này, có tốn kém thêm bao nhiêu, thì khi trở về, chính tôi sẽ hoàn lại cho bác”. Vậy theo ông nghĩ, trong ba người đó, ai đã tỏ ra là người thân cận với người đã bị rơi vào tay kẻ cướp?” Người thông luật trả lời: “Chính là kẻ đã thực thi lòng thương xót đối với người ấy”. Đức Giêsu bảo ông ta: “Ông hãy đi và cũng hãy làm như vậy”.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận những lễ vật của dân Chúa đây, và trong khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh A-gót-ti-na Pi-ê-tran-tô-ni, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn khơi động sức mạnh của Hội Thánh Cha,
+được chứng tỏ qua niềm tin của các thánh,
+và Cha cũng biểu lộ cho chúng con tình yêu của Cha.
 Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
+vì gương sáng của thánh A-gót-ti-na Pi-ê-tran-tô-ni thúc đẩy,
+và lời cầu nguyện của ngài,
+giúp chúng con hành động để nước Cha trị đến.
 Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+chúng con ca tụng vinh quang Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 13, 35)</i>
+“Cứ dấu này, mọi người sẽ nhận biết anh em là môn đệ của Thầy, là anh em có lòng thương yêu nhau”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã củng cố chúng con qua bí tích vừa lãnh nhận, xin giúp chúng con theo gương lòng mến yêu mà thánh A-gót-ti-na Pi-ê-tran-tô-ni đã làm chứng cho Chúa, và lòng bác ái mà thánh nhân đã thực hiện đối với dân Chúa. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
