@@ -2735,55 +2735,65 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: '<strong>Tiểu sử</strong><br>Thánh Phan-xi-cô Rê-gi-xê Cờ-lê sinh ngày 19 tháng 5 năm 1748 tại Grenoble, Pháp. Ngài gia nhập Tu hội Truyền giáo và được thụ phong linh mục vào năm 1771. Năm 1785, ngài được gửi đến Trung Quốc để truyền giáo. Trong thời gian ở đó, ngài đã học tiếng Trung và làm việc chăm chỉ để rao giảng Tin Mừng, bất chấp những khó khăn và nguy hiểm do cuộc bách hại đạo diễn ra dưới triều đại nhà Thanh. Ngài bị bắt giữ nhiều lần và cuối cùng bị kết án tử hình vì đức tin của mình. Thánh Phan-xi-cô Rê-gi-xê Cờ-lê đã chịu tử đạo bằng cách bị chém đầu vào ngày 18 tháng 2 năm 1820 tại Nam Kinh, Trung Quốc. Ngài được Giáo hội công nhận là thánh vào ngày 1 tháng 10 năm 2000 bởi Đức Giáo hoàng Gioan Phaolô II.',
-        en: `<strong>Biography</strong><br>St. Francis Regis Clet was born on May 19, 1748, in Grenoble, France. He joined the Congregation of the Mission and was ordained a priest in 1771. In 1785, he was sent to China as a missionary. During his time there, he learned the Chinese language and worked tirelessly to spread the Gospel, despite the challenges and dangers posed by the persecution of Christians under the Qing dynasty. He was arrested multiple times and ultimately sentenced to death for his faith. St. Francis Regis Clet was martyred by beheading on February 18, 1820, in Nanjing, China. He was canonized by Pope John Paul II on October 1, 2000.`
+        vi: `
+      Sinh ngày 19 tháng 8 năm 1748 tại Grenoble, Phan-xi-cô Rê-gít Clê được nhận vào Tu Hội Truyền Giáo ở Lyon ngày 6 tháng 3 năm 1769. Thụ phong linh mục ngày 27 tháng 3 năm 1773, ngài được bổ nhiệm làm giám đốc và giáo sư Đại Chủng Viện Annecy. Năm 1788, Phan-xi-cô Rê-gít Clê đến Paris điều hành Nội Chủng Viện (Tập Viện) của Tu Hội. Ngay giữa cơn bão táp cách mạng, ngài xin đi Trung Quốc. Lên tàu tại Lorient, ngày 10 tháng 4 năm 1791, ngài tới Ma-cao ngày 15 tháng 10. Ngài rao giảng Tin Mừng suốt ba mươi năm, chủ yếu trong các tỉnh Kiangsi và Houkouang. Bị bắt tại Kinkiakang ngày 6 tháng 6 năm 1819, Cha Phan-xi-cô Rê-gít Clê bị giam tại Outchangeou. Bị kết án tử hình sau bảy tháng tù, ngài bị thắt cổ chết ngày thứ sáu 18 tháng 2 năm 1820.
+      Ngài được phong chân phước ngày 27 tháng 5 năm 1900 và tôn phong hiển thánh ngày 1 tháng 10 năm 2000. Thánh Phan-xi-cô Rê-gít Clê chính là tấm gương nhà truyền giáo hy sinh cả cuộc đời để phục vụ Tin Mừng.
+        `,
+        en: `
+      Francis Regis Clet, the tenth of 15 children, was born into a farm family in Grenoble in the southwest corner of France in 1748 and was named for the recently Canonised fellow-Grenoblian, Jesuit St John Francis Regis (Jean Francois Regis).   After completing studies at the Royal College (founded by the Jesuits), he followed his elder brother and sister into vowed religious life.   In Lyons in 1769, he entered the Congregation of the Mission (Vincentians).   After Ordination, Francis served as professor of moral theology at the Vincentian seminary in Annecy where he was affectionately called “the walking library” because of his encyclopedic knowledge and academic discipline.   In 1786, he became Rector of Annecy and two years later, Director of Novices in Paris.st francois regis-clet-2
+      Francis Regis petitioned to go to China as a missionary several times but his superiors did not accede to his request until 1791.   At the age of 43, he replaced another priest who had to withdraw from the assignment at the last minute.   A confrere, in writing about Clet’s assignment to China, noted:  “He has everything you could ask for – holiness, learning, health and charm.”
+      After a six month sea journey from France and some transition time in Macao, which included assuming the dress and customs of the Chinese people, the new missioner arrived in Kiang-si in October of 1792 as the only European in the area.   Clet’s acculturation was hampered by his life-long difficulty with the language.   In 1793 Clet joined two Chinese confreres in Hou-Kouang in the Hopei Province where both of his companions died within his first year, one in prison and one from exhaustion.   In that year, Clet became superior of an international group of Vincentian missioners scattered over a very large territory, and he himself pastored an area of 270 thousand square miles.   In that leadership capacity, he developed standards so that there would be a uniform approach to ministry (sacramental and catechetical) among the missioners.
+      His own life was simple and austere – he lived like the poor in the country.   His great spirit of mortification accommodated the most diverse regimes and it was on foot that he made his long journeys.   Gentle and humble, he nevertheless showed great firmness inspired by sound and upright judgement.st francois regis clet older
+      In 1811, the anti-Christian persecutions in China intensified with the Christians being accused of inciting rebellion against the ruling dynasty.   For several years, Clet endured abuse and attacks, which frequently forced him to find refuge in the mountains.   In 1819, with a generous reward on their heads, Clet and a Chinese confrere became fugitives.   Like Jesus, he was finally betrayed by one of his own, a Catholic schoolmaster whom Clet had challenged for his scandalous behaviour.   Like the missionary St Paul, Clet endured ignominy and forced marches in chains over hundreds of miles.
+      During the course of his judgement, Francis Régis Clet was treated with the most extreme inhumanity.   To one of his judges, the holy confessor allowed himself to say:  “My brother, you judge me now, in a short time my Lord Himself will judge you.” A few months later, the magistrate, who fell out of favour, was executed.    On 1 January 1820, Fr Clet was found guilty of deceiving the Chinese people by preaching Christianity and was sentenced to strangulation on a cross.  Pending confirmation of the sentence by the emperor, he wrote: “I prepare for death, often repeating with Saint Paul:  ‘if I live, it is for Jesus Christ and death will be for me a gain’.”   Finally, the emperor Tsiatsïn declared that “the European had deceived and corrupted many people by preaching the Christian religion and that he should be strangled.”   On 18 February Francis Regis Clet was executed.   He was 72 years old, twenty-nine of whom spent in the Chinese mission.st francois regis clet suffering
+      As in the case of Jesus, Christians took his body and buried it on a hillside where it rested until it was returned to the Vincentian motherhouse in Paris several decades later and is now honoured at St Lazare.
+      St Francis was Beatified on 27 May 1900 by Pope Leo XIII and Canonised on 1 October 2000 by St Pope John Paul II.
+        `
       },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Is 52, 7a)
+Đẹp thay, trên đồi núi, bước chân người loan báo Tin Mừng, công bố bình an, người loan tin hạnh phúc, công bố ơn cứu độ.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã sai tôi tớ Chúa là thánh Phan-xi-cô Rê-gít Clê đi rao giảng Tin Mừng cho các quốc gia, và sau cuộc đời hoạt động tông đồ lâu dài của ngài, Chúa đã ban cho ngài triều thiên tử đạo. Xin Chúa đoái thương, dùng sức mạnh Thần khí Chúa, củng cố đức tin cho chúng con trong việc loan báo Tin Mừng. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (2Tm 2, 8-13; 3, 10-12)
+<strong>Bài trích thư thứ hai của thánh Phaolô Tông Đồ gởi ông Ti-mô-thê</strong>
+      Anh hãy nhớ đến Đức Giêsu Kitô, Đấng đã sống lại từ cõi chết, Đấng xuất thân từ dòng dõi Đavít, như tôi vẫn nói trong Tin Mừng tôi loan báo. Vì Tin Mừng ấy tôi chịu khổ, tôi còn phải mang cả xiềng xích như một tên gian phi. Nhưng Lời Thiên Chúa đâu bị xiềng xích! Bởi vậy tôi cam chịu mọi sự, để mưu ích cho những người Thiên Chúa đã chọn, để họ cũng đạt tới ơn cứu độ trong Đức Kitô Giêsu, và được hưởng vinh quang muôn đời. Đây là lời đáng tin cậy: Nếu ta cùng chết với Người, ta sẽ cùng sống với Người. Nếu ta kiên tâm chịu đựng, ta sẽ cùng hiển trị với Người. Nếu ta chối bỏ Người, Người cũng sẽ chối bỏ ta. Nếu ta không trung tín, Người vẫn một lòng trung tín, vì Người không thể nào chối bỏ chính mình.
+      Phần anh, anh đã theo sát đạo lý, cách sống, dự định của tôi; anh đã thấy lòng tin, sự nhẫn nại, lòng yêu mến, sự kiên trì của tôi; anh đã biết những cơn bắt bớ, những sự đau khổ tôi đã gặp ở An-ti-ô-khia, I-cô-ni-ô, Lýt-ra, đã biết tôi chịu bắt bớ như thế nào. Nhưng Chúa đã giải thoát tôi khỏi tất cả. Vả lại, những ai muốn sống đạo đức trong Đức Giêsu Kitô đều sẽ bị bắt bớ.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 125)
+<strong>Đ. Ai gieo trong nước mắt sẽ gặt trong tiếng ca.</strong>
+Khi Chúa dẫn tù nhân Xi-on trở về,
+ta tưởng mình như giữa giấc mơ.
+Vang vang ngoài miệng câu cười nói,
+rộn rã trên môi khúc nhạc mừng.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Bấy giờ trong dân ngoại, người ta bàn tán:
+“Việc Chúa làm cho họ, vĩ đại thay!”
+Việc Chúa làm cho ta, ôi vĩ đại!
+ta thấy mình chan chứa một niềm vui.		    <strong>Đ.</strong>
 
+Họ ra đi, đi mà nức nở,
+mang hạt giống vãi gieo.
+Lúc trở về, về reo hớn hở,
+vai nặng gánh lúa vàng. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (Mt 5,10)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Phúc thay ai bị bách hại vì sống sự công chính, vì Nước Trời là của họ. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 10,34-39)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Đức Giêsu nói với nhóm mười hai tông đồ rằng: “Anh em đừng tưởng Thầy đến đem bình an cho trái đất; Thầy đến không phải để đem bình an, nhưng để đem gươm giáo. Quả vậy, Thầy đến để gây chia rẽ giữa con trai với cha, giữa con gái với mẹ, giữa con dâu với mẹ chồng. Kẻ thù của mình chính là người nhà.
+      Ai yêu cha yêu mẹ hơn Thầy, thì không xứng với Thầy. Ai yêu con trai con gái hơn Thầy, thì không xứng với Thầy. Ai không vác thập giá mình mà theo Thầy, thì không xứng với Thầy. Ai giữ lấy mạng sống mình, thì sẽ mất; còn ai liều mất mạng sống mình vì Thầy, thì sẽ tìm thấy được.
+      <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận của lễ chúng con dâng tiến Chúa trong ngày lễ kính thánh Phan-xi-cô Rê-gít Clê; xin cho lễ vật này trở nên quý giá trước thánh nhan Chúa, như máu của vị thánh tử đạo đã đổ ra. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
@@ -2791,27 +2801,24 @@ Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Chúng con nhận ra dấu chỉ lạ lùng
+của ân sủng Cha trong cuộc tử đạo
+của thánh Phan-xi-cô Rê-gít Clê
+khi dâng hiến cuộc sống ngài như Đức Kitô,
+là ngài đã ngợi khen danh thánh Cha.
+Chính quyền lực Cha được tỏ hiện
+trong sự yếu đuối của những thọ tạo mỏng giòn
+để làm chứng cho Cha, nhờ Đức Kitô, Chúa chúng con.
+Vì thế, cùng với đạo binh thiên quốc,
+chúng con ở dưới trần gian ca ngợi và tung hô Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mc 16,15; Mt 28,20)</i>
+Anh em hãy đi khắp tứ phương thiên hạ, loan báo Tin Mừng cho mọi loài thọ tạo. Và đây, Thầy ở cùng anh em mọi ngày cho đến tận thế.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, chúng con đã hân hoan vui mừng đón nhận lương thực Chúa ban cho chúng con; chúng con nài xin Chúa: vì trong Bí Tích Thánh Thể này chúng con loan báo sự chết và phục sinh của Con Chúa là Đức Giêsu Kitô, xin làm cho chúng con, cùng với thánh Phan-xi-cô tử đạo, được tham dự hạnh phúc đời đời. 
+Chúng con cầu xin...
 `,
         en: `<strong>MASS</strong>
                 <strong>Entrance Antiphon</strong>
