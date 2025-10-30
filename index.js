@@ -2519,7 +2519,7 @@ en: `<strong>MASS</strong>
     }
   },
 
-// 15 Chân phước Phê-rô Gióc Phờ-rát-sa-ti
+// 15 Thánh Phê-rô Gióc Phờ-rát-sa-ti
   {
     id: 'St-pierre-georges-frassat',
     date: '07-04',
@@ -2537,35 +2537,46 @@ en: `<strong>MASS</strong>
     sections: {
       biography: {
         vi: `
-      Sinh ngày 6 tháng 4 năm 1901, trong một gia đình chống giáo sĩ, thuộc giới trung lưu vùng Piémont, ở Turin, Phê-rô Gióc Phờ-rát-sa-ti mất ngày 4 tháng 7 năm 1925, hôm trước ngày lãnh bằng kỹ sư hầm mỏ.
-      Là nhà thể thao trẻ, ngài thích chạy đua trên núi với các thanh niên khác: khám phá kỳ diệu về thiên nhiên, thời gian tuyệt vời để suy gẫm, cầu nguyện, thờ lạy. Ngài tích cực tham gia nhóm Công Giáo Tiến Hành ở nước Ý.
-      Ngay từ thuở nhỏ, quan tâm đến tất cả những người trong cảnh lầm than, ngài gia nhập Hiệp Hội Thánh Vinh Sơn Phaolô, nơi đây ngài nổi bật vì sự tận tụy với người nghèo và bệnh nhân. Ngài vui vẻ đón nhận hành động của Chúa trong cuộc đời mình và thấm nhuần đức tin, đức mến. Cầu nguyện và thánh lễ hằng ngày nâng đỡ hoạt động của ngài.
-      Đức Thánh Cha Gioan Phaolô II, khi phong chân phước cho ngài ngày 20 tháng 5 năm 1990, xác định ngài là “người của các mối phúc thật”.
+      Thánh Pier Giorgio Frassati (1901-1925) là một thanh niên Công giáo người Ý, được biết đến với lòng đạo đức sâu sắc, sự dấn thân mạnh mẽ cho công bằng xã hội và tình yêu bao la dành cho người nghèo. Ngài được Thánh Giáo hoàng Gioan Phaolô II gọi là "Người của Tám Mối Phúc Thật".
+      Ngài sinh ngày 6 tháng 4 năm 1901 tại Turin, Ý, trong một gia đình thượng lưu. Mặc dù xuất thân giàu có, Pier Giorgio lại có một trái tim nhạy cảm đặc biệt với những người thiếu thốn. Đời sống thiêng liêng của ngài được nuôi dưỡng bằng việc tham dự Thánh lễ và rước lễ hằng ngày, cùng với lòng sùng kính sâu sắc Bí tích Thánh Thể và Đức Trinh Nữ Maria.
+      Khi là sinh viên ngành kỹ thuật khai mỏ, ngài đã tích cực tham gia nhiều hội đoàn Công giáo, bao gồm Hiệp Hội Thánh Vinh Sơn Phaolô và phong trào Công giáo Tiến hành. Ngài dành phần lớn thời gian và tiền bạc của mình để trực tiếp thăm viếng và phục vụ những người nghèo khổ trong các khu ổ chuột ở Turin.
+      Pier Giorgio là một thanh niên năng động, yêu thích thể thao, đặc biệt là leo núi (ngài có câu nói nổi tiếng "Verso l'alto" - Hướng lên cao). Ngài cũng là thành viên Dòng Ba Đa Minh.
+      Ngài qua đời khi chỉ mới 24 tuổi, vào ngày 4 tháng 7 năm 1925, do bệnh bại liệt cấp tính, căn bệnh mà ngài được tin là đã mắc phải khi phục vụ người bệnh.
+      Ngài được Thánh Giáo hoàng Gioan Phaolô II tuyên phong Chân phước vào ngày 20 tháng 5 năm 1990 và được Đức Thánh Cha Lêô XIV tuyên phong Hiển Thánh vào ngày 7 tháng 9 năm 2025.
 
         `,
        
 en: `
-
+    Saint Pier Giorgio Frassati (1901-1925) was an Italian Catholic layman, known for his deep piety, strong commitment to social justice, and immense love for the poor. He was called "The Man of the Eight Beatitudes" by Pope St. John Paul II.
+    He was born on April 6, 1901, in Turin, Italy, into an upper-class family. Despite his wealthy background, Pier Giorgio possessed a heart particularly sensitive to those in need. His spiritual life was nourished by daily Mass and Holy Communion, along with a profound devotion to the Eucharist and the Virgin Mary.
+    As a mining engineering student, he was actively involved in numerous Catholic associations, including the Society of St Vincent de Paul and Catholic Action. He dedicated much of his time and personal money to directly visiting and serving the poor and sick in the slums of Turin.
+    Pier Giorgio was an active young man who loved sports, especially mountain climbing (he famously said "Verso l'alto" - To the heights). He was also a lay member of the Third Order of St. Dominic.
+    He died at the young age of 24, on July 4, 1925, from acute poliomyelitis, which he is believed to have contracted while serving the sick.
+    He was beatified by Pope St. John Paul II on May 20, 1990 and was canonized as a Saint by Pope Leo XIV on September 7, 2025.
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> (Tv 20, 2-3)
+Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng.
+Lòng vua ước nguyện sao,
+Chúa đã ban như vậy,
+miệng vua khấn xin gì,
+Ngài cũng không từ chối.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Cha, Cha đã ban cho thánh Phêrô Gióc Frát-sa-ti niềm vui được gặp Đức Kitô trong đức tin và lòng bác ái. Nhờ lời chuyển cầu của ngài, xin cho chúng con cũng biết đổ tràn giữa loài người thời đại chúng con, tinh thần các mối phúc của Tin Mừng. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Pl 3,8-14)
+<strong>Bài trích thư của thánh Phaolô tông đồ gửi tín hữu Phi-líp-phê</strong>
+      Thưa anh em, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Môsê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết.
+      Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi đang cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Kitô Giêsu chiếm đoạt. Thưa anh em, tôi không nghĩ là mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước. Tôi chạy thẳng tới đích, để chiếm được phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Kitô Giêsu.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
+<strong>Đáp ca</strong> (Tv 15)
 <strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
 Lạy Chúa Trời xin giữ gìn con,
 vì bên Ngài con đang ẩn náu.
@@ -2582,47 +2593,58 @@ Chúa sẽ dạy con biết đường về cõi sống:*
 trước Thánh Nhan ôi vui sướng tràn trề,
 ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (Mt 5, 3)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> ThPhúc thay ai có tâm hồn nghèo khó, vì Nước Trời là của họ. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Mt 5, 1-12)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
+      Thấy đám đông, Đức Giêsu lên núi. Người ngồi xuống, các môn đệ đến gần bên. Người mở miệng dạy họ rằng:
+      “Phúc thay ai có tâm hồn nghèo khó, vì Nước Trời là của họ.
+      Phúc thay ai hiền lành, vì họ sẽ được đất hứa làm gia nghiệp.
+      Phúc thay ai sầu khổ, vì họ sẽ được Thiên Chúa ủi an.
+      Phúc thay ai khát khao nên người công chính,
+      vì họ sẽ được Thiên Chúa cho thỏa lòng.
+      Phúc thay ai xót thương người,
+      vì họ sẽ được Thiên Chúa xót thương.
+      Phúc thay ai có tâm hồn trong sạch,
+      vì họ sẽ được nhìn thấy Thiên Chúa.
+      Phúc thay ai xây dựng hoà bình,
+      vì họ sẽ được gọi là con Thiên Chúa.
+      Phúc thay ai bị bách hại vì sống công chính,
+      vì Nước Trời là của họ.
+      Phúc thay anh em khi vì Thầy mà bị người ta sỉ vả,
+      bách hại và vu khống đủ điều xấu xa.
+      Anh em hãy vui mừng hớn hở,
+      vì phần thưởng dành cho anh em ở trên trời thật lớn lao.”
+    <i>Đó là lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận lễ tiến dâng của dân Chúa: trong khi chúng con tưởng nhớ tình yêu vô biên của Con Chúa, xin cho chúng con biết theo gương thánh Phê-rô Gióc Phờ-rát-sa-ti, mà yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
+chúng con tạ ơn Cha mọi nơi mọi lúc
+nhờ Đức Kitô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn làm sống lại sức mạnh của Hội Thánh Cha
+được chứng tỏ qua niềm tin của các thánh,
+và cũng biểu lộ cho chúng con tình yêu của Cha.
+Ngày hôm nay, chúng con tạ ơn Cha,
+vì gương sáng của các ngài khích lệ chúng con
+và lời cầu nguyện của thánh Phê-rô Gióc Phờ-rát-sa-ti,
+giúp chúng con hành động để Nước Cha trị đến.
+Vì thế, cùng với các thiên thần và toàn thể các thánh,
+chúng con tuyên xưng vinh quang Cha rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 13, 35)</i>
+Chúa phán: Điều làm cho mọi người nhận biết anh em là môn đệ của Thầy: là anh em yêu thương nhau.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa là Cha chúng con, nhờ sự hiệp thông với các mầu nhiệm thánh này, xin cứu độ và củng cố dân Chúa trong sự khôn ngoan của Tin Mừng Chúa. 
+Chúng con cầu xin...
 `,     
 en: `<strong>MASS</strong>
 
