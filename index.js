@@ -3410,88 +3410,108 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Giáo Hội và Tu Hội Truyền Giáo cùng nhau tôn vinh các vị tử đạo của Cách mạng Pháp.
+      Ở Paris, ngày 3 tháng 9 năm 1792, có một cuộc tàn sát tại chủng viện Saint-Firmin, tức trường trung học “Bons Enfants” cũ do thánh Vinh Sơn Phaolô sở hữu vào năm 1624. Chủng viện Saint-Firmin này, biến thành nhà tù vào năm 1789, là địa điểm thứ tư của các vụ hành quyết tử hình tại Paris. Đã có 72 chứng nhân được phúc tử đạo tại đây. Các Chân Phước tử đạo thuộc gia đình Vinh Sơn trong cuộc cách mạng Pháp được kính nhớ hôm nay gồm:
+      - Lu-i Giu-se Phan-xi-cô, sinh ngày 3 tháng 2 năm 1751 tại Busigny thuộc miền Bắc nước Pháp, thụ phong linh mục năm 1773 và cống hiến cuộc đời chủ yếu cho công việc mục vụ giáo xứ. Ngài được nhận vào Tu Hội Truyền Giáo ngày 4 tháng 10 năm 1776. Từ đó, ngài trở thành “vị thừa sai” trong việc đào tạo các linh mục, trước tiên ở chủng viện thành Troyes, rồi ở Paris trong chủng viện Saint-Firmin mà ngài làm bề trên năm 1788. Ngài bị hành quyết tại chủng viện thánh Firmin (trước đây là trường Thiện Nhi [Collège des Bons-Enfants]) ở Paris, ngày 3 tháng 9 năm 1792.
+      - Gio-an Hen-ri Gruy-ê, sinh tại Dôle (Vosges) ngày 13 tháng 6 năm 1734, thụ phong linh mục trong giáo phận Saint-Claude. Ngài được nhận vào Tu Hội Truyền Giáo ngày 23 tháng giêng năm 1771, và sứ vụ của ngài chủ yếu là đào tạo hàng giáo sĩ. Tu Hội tại Pháp càng ngày càng đảm nhận thêm các giáo xứ, nhất là ở thế kỷ 18, nên đòi hỏi phải có những mục tử được rèn luyện vững vàng. Cha Jean-Henri được thuyên chuyển vào thừa tác vụ giáo xứ. Cách mạng theo đuổi ngài đến Versailles mà ở đó ngài làm cha phó giáo 
+      xứ Saint-Louis. Năm 1792, ngài bị bắt và bị giam ở Paris, tại chủng viện Saint-Firmin. Ngài bị hành quyết tại chủng viện Saint-Firmin, ngày 3 tháng 9 năm 1792, vì ngài đã từ chối đọc Tuyên thệ Hiến pháp. (Trong thời cách mạng Pháp (1789-1799) nhiều tín hữu Công giáo bị bắt tuyên thệ trung thành với Hiến Pháp Dân Sự của chính quyền cách mạng. Đây là một văn kiện trong đó có nội dung là tách Giáo Hội tại Pháp ra khỏi Giáo Hội mẹ Rôma. Ai từ chối tuyên thệ sẽ bị kết án tử hình.).
+      - Gio-an Chác-lê Ca-ron, sinh tại Auchel (Pas-de-Calais), ngày 30 tháng 12 năm 1730. Ngài được thụ phong linh mục vào năm 1759, và được bổ nhiệm đến Saint-Louis ở Versailles. Ngài cũng phục vụ trong giáo xứ Collégiene, nơi ngài bị trục xuất vì đã từ chối đọc Tuyên thệ Hiến pháp (của cách mạng Pháp). Ngài trở về cộng đoàn Saint-Firmin, và được phúc tử đạo tại đây.
+      - Ni-cô-la Cô-lanh, sinh tại Grenant, ngày 12 tháng 12 năm 1730. Ngài được thụ phong linh mục, năm 1754. Ngài phục vụ với tư cách là cha chánh xứ đầu tiên tại Saint-Louis ở Versailles, và sau đó tại Genevrières. Ngài đọc Tuyên thệ Hiến pháp với sự chọn lọc, và bởi vậy, ngài bị cách chức cha xứ. Sau đó, ngài trở về cộng đoàn Saint-Firmin, nơi đây, ngài được phúc tử đạo ngày 3 tháng 9 năm 1782.
+      - Phê-rô Rơ-nê Rô-ghê bị hành quyết tại Vannes ngày 3 tháng 3 năm 1796. Sinh ra tại Vannes ngày 11 tháng 6 năm 1758, ngài thụ phong linh mục ngày 21 tháng 9 năm 1782. Trong thời gian làm tuyên úy cho Hội “Các Bà Hưu Dưỡng”, ngài bị thu hút bởi ơn gọi và sứ vụ của các cha Tu Hội Truyền Giáo, là những người huấn luyện ngài, đang điều hành đại chủng viện Vannes. Được nhận vào Tu Hội ngày 25 tháng 10 năm 1786 tại Paris, ngài trở lại chủng viện Vannes, làm giáo sư tín lý. Bị đuổi bởi pháp luật cách mạng, Cha Pierre-René lui vào bí mật để tiếp tục thừa tác mục vụ tại chỗ. Ngài bị bắt ngày 24 tháng 12 năm 1795, trong lúc mang của ăn đàng cho một bệnh nhân. Ngài liền bị tống giam, và sau một phiên tòa mà ở đó mẹ ngài phải làm chứng, ngài bị kết án ngày 2 tháng 3 năm 1796 và hành quyết ngay hôm sau, tại thị trấn quê hương của mình.
+      - Lu-i Giu-se Phan-xi-cô, nhà trí thức và Gioan Hen-ri Gruy-ê, mục tử, được Đức Thánh Cha Piô XI phong chân phước ngày 17 tháng 10 năm 1926 cùng với các vị tử đạo của thời cách mạng Pháp. Phê-rô Rơ-nê Rô-ghê, người giấu tên, được phong chân phước ngày 10 tháng 5 năm 1934.
+
         `,
        
-en: `<strong>Biography</strong>
-
+en: `
+      The Church and the Congregation of the Mission honor the martyrs of the French Revolution together. On September 3, 1792, in Paris, a massacre occurred at Saint-Firmin Seminary, the former “Collège des Bons Enfants,” acquired by Saint Vincent de Paul in 1624. This seminary, turned into a prison in 1789, was the fourth site of massive executions in Paris. Seventy-two victims suffered martyrdom, including:
+      LOUIS JOSEPH FRANÇOIS
+      He was born on February 3, 1751, in Busigny (Nord). He was ordained a priest in 1773 and admitted to the Congregation of the Mission on October 4, 1776. His missionary work was in priestly formation, first in the seminary in Troyes and then in Paris at Saint-Firmin Seminary, of which he became the Superior in 1788.
+      Although times were difficult, he made sure that the seminary maintained regularity. He wrote several leaflets against the Civil Constitution of the Clergy, including one entitled “Apologia.” Although persecution was already raging, he opened the doors of Saint-Firmin Seminary to more than ninety priests and religious. When the house was invaded by assailants, Blessed Louis Joseph François was seized and thrown from a window. Once on the ground, he was beaten, and his cadaver was cruelly profaned like that of the other victims. Louis Joseph François, the scholar, was beatified by Pope Pius XI on October 17, 1926, with the martyrs of the Revolution, including Jean Henri Gruyer, the experienced pastor of his flock.
+      JEAN HENRI GRUYER
+      He was born in Dôle (Vosges) on June 13, 1734. He was ordained a priest for the diocese of Saint-Claude. He was admitted to the Congregation of the Mission on January 23, 1771. As the Congregation of the Mission took responsibility for more and more parishes, particularly in the eighteenth century, experienced pastors were necessary. Jean Henri would thus be assigned to parish ministry. The Revolution found him in Versailles where he was a vicar in the parish of Saint Louis. Expelled from the parish for refusing to take the civil oath, he returned to Paris where Saint-Firmin Seminary opened its doors to him and where he died on September 3, 1792, sharing in suffering and martyrdom with Blessed Louis Joseph.
+      PIERRE RENE ROGUE
+      Born in Vannes on June 11, 1758, he was ordained a priest on September 21, 1782. Chaplain for a retreat center for women, he was attracted by the vocation and mission of priests of the Congregation of the Mission, his formators, who ran the major seminary in Vannes. Admitted to the Congregation of the Mission on October 25, 1786, in Paris, he returned to the seminary in Vannes as a professor in dogmatic theology. Expelled under revolutionary laws, Pierre René went into hiding to continue pastoral ministry and help persecuted Catholics in the area. He was arrested on December 24, 1795, as he was bringing communion to a sick person. He was taken to prison that very day and remained there until March 3 of the following year. He was sentenced to death by guillotine. At the end of this iniquitous trial during which his mother was forced to testify, he was taken back to prison where he wrote a final letter to his elderly mother and to his confreres of the local community, telling them that he was going to die for the faith and that, in those moments, he was happy to give his life for Christ. He was executed on March 3, 1796, in the presence of his holy elderly mother.
+      Pierre René Rogue was beatified on May 10, 1934, by Pius XI.
+      JEAN CHARLES CARON
+      He was born in Auchel (Pas-de-Calais) on December 31, 1730. On December 30, 1750, he entered the Congregation of the Mission in which he made vows in 1752.
+      For twenty-nine years, he dedicated himself to giving missions and then became the parish priest of Collégien in the diocese of Meaux. Like many others, he refused to sign the Civil Constitution of the Clergy during the French Revolution, which meant he was expelled from his parish and had to take refuge in Paris. He died along with the other martyrs of the barbarous massacre of September 2-3, 1792.
+      Jean Charles Caron was beatified by Pius XI on October 17, 1926.
+      NICOLAS COLIN
+      He was born in Grenant (Haut-Marne) on December 12, 1730. He made vows in the Congregation of the Mission in 1749. He would later be appointed vicar in the parish of Saint Louis in Versailles where he worked from 1754 to 1770. He then served as the parish priest in Genevrières in the diocese of Langres. For twenty-two years, he carried out his missionary ministry with a reputation for being a good preacher. The Revolution chased him from his rectory. He was replaced by a priest who accepted the Civil Constitution of the Clergy. He took refuge in Paris where he died during the terrible massacre of September 3, 1792.
+      Nicolas Colin is known for having said, “…in recompense for my fidelity to the faith, [I will know] hunger, exile, prison and perhaps even death.”
+      He was beatified by Pius XI on October 17, 1926.
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Hãy tạ ơn Chúa về chứng tá huy hoàng mà hôm nay nhiều vị tử đạo đã thể hiện. Các vị đi chịu chết như đi dự lễ hội, vì thế các vị bước vào niềm hoan lạc của Thầy mình.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho các chân phước tử đạo Lu-i Giu-se Phan-xi-cô, Gio-an Hen-ri, Gio-an Chác-lê Ca-ron, Ni-cô-la Cô-lanh và Phê-rô Rơ-nê một sức mạnh vô song, để tỏ hiện tình yêu các ngài đối với Hội Thánh, và bảo vệ các tự do của Hội Thánh, xin Chúa dạy chúng con, nhân ngày hôm nay, chúng con vui mừng cử hành cuộc khổ nạn vinh quang của các ngài, biết yêu mến Hội Thánh, Mẹ chúng con, và vững vàng công bố sứ điệp công bình và chân lý của Tin Mừng. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1Pr 3, 14-17)
+<strong>Bài trích thư thứ nhất của thánh Phêrô Tông Đồ</strong>
+      Thưa anh em, nếu anh em chịu khổ vì sống công chính, thì anh em thật có phúc! Đừng sợ những kẻ làm hại anh em và đừng xao xuyến. Đức Kitô là Đấng Thánh, hãy tôn Người làm Chúa ngự trị trong lòng anh em. Hãy luôn luôn sẵn sàng trả lời cho bất cứ ai chất vấn về niềm hy vọng của anh em. Nhưng phải trả lời cách hiền hòa và với sự kính trọng. Hãy giữ lương tâm ngay thẳng, khiến những kẻ phỉ báng anh em vì anh em ăn ở ngay thẳng trong Đức Kitô, thì chính họ phải xấu hổ vì những điều họ vu khống, bởi lẽ thà chịu khổ vì làm việc lành, nếu đó là ý của Thiên Chúa, còn hơn là vì làm điều ác.
+      <i>Đó là Lời Chúa.</i>
+<strong>Đáp ca</strong> (Tv 125)
+<strong>Đ. Việc diệu kỳ, Chúa đã làm cho ta những việc diệu kỳ!</strong>
+Khi Chúa dẫn tù nhân Xi-on trở về,
+ta tưởng mình như giữa giấc mơ.
+Vang vang ngoài miệng câu cười nói,
+rộn rã trên môi khúc nhạc mừng.		    <strong>Đ.</strong>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+Bấy giờ trong dân ngoại, người ta bàn tán:
+“Việc Chúa làm cho họ, vĩ đại thay!”
+Việc Chúa làm cho ta, ôi vĩ đại!
+Ta thấy mình chan chứa một niềm vui.	    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Lạy Chúa, xin dẫn tù nhân chúng con về,
+như mưa dẫn nước về suối cạn miền Nam.
+Ai nghẹn ngào ra đi gieo giống,
+mùa gặt mai sau khấp khởi mừng.		    <strong>Đ.</strong>  
 
-
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Họ ra đi, đi mà nức nở,
+mang hạt giống vãi gieo.
+Lúc trở về, về reo hớn hở,
+vai nặng gánh lúa vàng.		    <strong>Đ.</strong>  
 
 <strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>  Anh em đã được sống lại với Đức Kitô. Hãy tìm kiếm những sự trên trời. Nơi Đức Kitô đang ngự bên hữu Thiên Chúa. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>TIN MỪNG</strong> (Ga 15, 18-21)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+      Đến giờ Đức Giêsu phải bỏ thế gian mà về cùng Cha, Ngài phán cùng các môn đệ: “Nếu thế gian ghét anh em, anh em hãy biết rằng nó đã ghét Thầy trước. Giả như anh em thuộc về thế gian, thì thế gian đã yêu thích anh em vì anh em thuộc về nó. Nhưng vì anh em không thuộc về thế gian và Thầy đã chọn, đã tách anh em khỏi thế gian, nên thế gian ghét anh em. Hãy nhớ lời Thầy đã nói với anh em: Tôi tớ không lớn hơn chủ nhà. Nếu họ đã bắt bớ Thầy, họ cũng sẽ bắt bớ anh em. Nếu họ đã tuân giữ lời Thầy, họ cũng sẽ tuân giữ lời anh em. Nhưng họ sẽ làm tất cả những điều ấy chống lại anh em, vì anh em mang danh Thầy, bởi họ không biết Đấng đã sai Thầy.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin ghé mắt nhân từ nhìn đến lễ vật chúng con dâng tiến Chúa đây, xin cho lễ vật được Chúa Thánh Thần thánh hóa, và xin đặt vào lòng chúng con sức mạnh tình yêu, đã làm cho các chân phước vượt thắng mọi gian khổ. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
+Chúng con tôn vinh, tạ ơn Cha mọi lúc mọi nơi
+Thật là chính đáng và hữu ích cho chúng con;
+Chúng con nhận biết dấu chỉ sáng ngời về ân phúc Cha
+trong cuộc tử đạo của các chân phước Lu-i Giu-se Phan-xi-cô,
+Gio-an Hen-ri, Gio-an Chác-lê Ca-ron, Ni-cô-la Cô-lanh và Phê-rô Rơ-nê; khi trao hiến mạng sống mình như Đức Kitô,
+các ngài đã tôn vinh Danh Cha.
+Chính sức mạnh của Cha tỏ hiện ra nơi sự yếu đuối,
+lúc Cha ban cho các thụ tạo mỏng dòn được làm chứng cho Cha,
 nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+Vì thế, cùng với các thiên thần trên trời,
+chúng con dưới thế chúc tụng thờ lạy Cha và tung hô rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 12,24)</i>
+Thật, Thầy bảo thật anh em, nếu hạt lúa gieo vào lòng đất mà không chết đi, thì nó vẫn trơ trọi một mình; còn nếu chết đi, nó mới sinh được nhiều hạt khác.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã làm cho mầu nhiệm thập giá sáng chói cách lạ lùng trong cuộc đời các chân phước tử đạo. Xin ban cho chúng con vừa được hy lễ này bồi dưỡng, biết trọn niềm gắn bó cùng Chúa Kitô, và không ngừng hoạt động trong Hội Thánh cho anh (chị) em được hưởng ơn cứu độ muôn đời. 
+Chúng con cầu xin...
 `,  
 en: `<strong>MASS</strong>
 
