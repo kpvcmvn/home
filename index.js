@@ -3057,88 +3057,102 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Giút-ti-nô Gia-co-bi sinh ngày 9 tháng 10 năm 1800 tại San Fele trong vương quốc Naples. Được nhận vào Tu Hội Truyền Giáo ngày 17 tháng 10 năm 1818 tại Naples, ngài thụ phong linh mục tại Brindisi ngày 12 tháng 6 năm 1824. Được giao nhiệm vụ rao giảng Tin Mừng cho người nghèo, ngài tham gia suốt mười lăm năm vào các sứ mạng giáo xứ ở miền nam nước Ý, bị dịch tả tàn phá năm 1836.
+      Ngày 10 tháng 3 năm 1839, Thánh Bộ Truyền Bá Đức Tin sai ngài đến Phi Châu thành lập một điểm truyền giáo tại Abyssinie. Cha Giút-ti-nô Gia-co-bi được bổ nhiệm làm Giám quản Tông tòa ở Éthiopie và các vùng kế cận. Tới Adoua ngày 29 tháng 10 năm 1839, ngài đến ở Gouala ngày 10 tháng 12 năm 1844, khi đó điểm truyền giáo chỉ có vài trăm Kitô hữu, thường xuyên bị bách hại bởi hàng giáo sĩ theo nghi lễ Copte và thủ lãnh của họ ở Adoua do sự ác tâm và lơ là của chính quyền dân sự địa phương. Cha Giút-ti-nô Gia-co-bi thụ phong giám mục ngày 7 tháng giêng năm 1849. Trong hai mươi mốt năm, Đức Cha Giút-ti-nô Gia-co-bi sinh động hóa các cộng đoàn Kitô hữu thiểu số trong một bầu khí thù địch. Nhiều lần ngài trải qua cảnh lưu vong và lao tù. Khẩu hiệu của ngài: “Tất cả cho Chúa” tóm tắt đầy đủ đời sống tông đồ của vị mục tử nhân lành hoàn toàn dâng hiến cho Thiên Chúa và cho sứ mạng truyền giáo của ngài. Như thánh Phaolô, thánh Giút-ti-nô Gia-co-bi chỉ sống cho dân Chúa mà Hội Thánh đã giao phó cho ngài. Ngài viết trong một lá thư mục vụ: “Anh chị em là chủ cuộc đời tôi, bởi vì Chúa đã ban cho tôi sự sống này vì anh chị em”.
+      Trong một chuyến đi kinh lý mục vụ trong thung lũng Aligade, Đức Cha Giút-ti-nô Gia-co-bi qua đời ngày 31 tháng 7 năm 1860 và được mai táng ở Hebo. Ngày 25 tháng 6 năm 1939, ngài được Đức Thánh Cha Piô XII phong chân phước và Đức Phaolô VI tôn phong hiển thánh ngày 26 tháng 10 năm 1975.
+
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Justin de Jacobis was born on October 9, 1800, at San Fele in the Kingdom of Naples. He was received into the Congregation of the Mission on October 17, 1818, in Naples, and was ordained a priest at Brindisi on June 12, 1824.
+      Assigned to evangelize the poor, he participated for fifteen years in parish missions in southern Italy, which was ravaged by cholera in 1836. On March 10, 1839, the Sacred Congregation for the Propagation of the Faith sent him to Africa to establish a mission in Abyssinia. Father Justin de Jacobis was appointed Apostolic Prefect of Ethiopia and the surrounding regions.
+      Arriving in Adoua on October 29, 1839, he settled in Gouala on December 10, 1844. At that time, the mission consisted of only a few hundred Christians, who were frequently persecuted by the clergy of the Coptic rite and their leaders in Adoua, due to the malice and negligence of the local civil authorities.
+      Father Justin de Jacobis was consecrated a bishop on January 7, 1849. For twenty-one years, Bishop Justin de Jacobis animated the minority Christian communities in a hostile atmosphere. He experienced exile and imprisonment many times. His motto, "All for God," perfectly summarizes the apostolic life of this good shepherd, who was completely dedicated to God and to his mission.
+      Like Saint Paul, Saint Justin de Jacobis lived only for the people of God whom the Church had entrusted to him. He wrote in a pastoral letter: "You are the masters of my life, because the Lord has given me this life for you."
+      During a pastoral visit in the Aligade valley, Bishop Justin de Jacobis died on July 31, 1860, and was buried at Hebo.
+      On June 25, 1939, he was beatified by His Holiness Pope Pius XII, and canonized as a saint by Pope Paul VI on October 26, 1975.
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Chúng ta hãy mừng kính thánh Giút-ti-nô Gia-cô-bi, người đã được vinh dự công bố chân lý Đức Kitô trao ban.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã muốn cho Thánh Giám mục Giút-ti-nô Gia-cô-bi trở nên tất cả cho mọi người để đem Tin Mừng đến nước Éthiopie. Xin Chúa cho chúng con, nhờ lời ngài chuyển cầu, biết công bố Tin Mừng và qui tụ các dân tộc trong sự hiệp nhất của đức tin. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Ed 34,11-16)
+<strong>Bài trích sách Ngôn sứ Êdêkien</strong>
+      Đức Chúa là Chúa Thượng phán thế này: Đây, chính Ta sẽ chăm sóc chiên của Ta và thân hành kiểm điểm. Như mục tử kiểm điểm đàn vật của mình vào ngày người ấy ở giữa đàn chiên bị tản mác thế nào, thì Ta cũng sẽ kiểm điểm chiên của Ta như vậy. Ta sẽ kéo chúng ra khỏi mọi nơi chúng đã bị tản mác, vào ngày mây đen mù mịt. Ta sẽ đem chúng ra khỏi các dân, tập họp chúng lại từ các nước và đưa chúng vào đất của chúng. Ta sẽ chăn dắt chúng trên các núi Ít-ra-en, trong các thung lũng và tại mọi nơi trong xứ có thể ở được. Ta sẽ chăn dắt chúng trong đồng cỏ tốt tươi và chuồng của chúng sẽ ở trên các núi cao Ít-ra-en. Tại đó chúng sẽ nằm nghỉ trong chuồng êm ái, sẽ đi ăn trong đồng cỏ mầu mỡ trên núi non Ít-ra-en. Chính Ta sẽ chăn dắt chiên của Ta, chính Ta sẽ cho chúng nằm nghỉ - sấm ngôn của Đức Chúa là Chúa Thượng. Con nào bị mất, Ta sẽ đi tìm; con nào đi lạc, Ta sẽ đưa về; con nào bị thương, Ta sẽ băng bó; con nào bệnh tật, Ta sẽ làm cho mạnh; con nào béo mập, con nào khỏe mạnh, Ta sẽ canh chừng. Ta sẽ theo lẽ chính trực mà chăn dắt chúng.
+      <i>Đó là Lời Chúa.</i>  
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 22)
+<strong>Đ. Người vừa là Chiên vừa là Mục Tử,
+là Vua và là người Tôi tớ.</strong>
+Chúa là mục tử chăn dắt tôi,
+tôi chẳng thiếu thốn gì.
+Trong đồng cỏ xanh tươi,
+Người cho tôi nằm nghỉ.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Người đưa tôi tới dòng nước trong lành,
+và bổ sức cho tôi.
+Người dẫn tôi trên đường ngay nẻo chính
+vì danh dự của Người.		    <strong>Đ.</strong>
 
+Lạy Chúa, dầu qua lũng âm u
+con sợ gì nguy khốn, vì có Chúa ở cùng.
+Côn trượng Ngài bảo vệ, con vững dạ an tâm.  		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Chúa dọn sẵn cho con bữa tiệc
+ngay trước mặt quân thù.
+Đầu con, Chúa xức đượm dầu thơm,
+ly rượu con đầy tràn chan chứa.  		    <strong>Đ.</strong>  
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+Lòng nhân hậu và tình thương Chúa
+ấp ủ tôi suốt cả cuộc đời,
+và tôi được ở đền Người
+những ngày tháng, những năm dài triền miên. 		    <strong>Đ.</strong>  
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> “Thầy không còn gọi anh em là tôi tớ nữa, vì tất cả những gì Thầy nghe được nơi Cha của Thầy, Thầy đã cho anh em biết”. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>TIN MỪNG</strong> (Ga 17,6-19)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+      Trước khi bỏ thế gian mà về cùng Cha, Chúa Giêsu ngước mắt lên trời và cầu nguyện rằng:
+      Những kẻ Cha đã chọn từ giữa thế gian mà ban cho con, con đã cho họ biết danh Cha. Họ thuộc về Cha, Cha đã ban họ cho con, và họ đã tuân giữ lời Cha. Giờ đây, họ biết rằng tất cả những gì Cha ban cho con đều do bởi Cha, vì con đã ban cho họ lời mà Cha đã ban cho con; họ đã nhận những lời ấy, họ biết thật rằng con đã từ Cha mà đến, và họ đã tin là Cha đã sai con.
+      Con cầu nguyện cho họ. Con không cầu nguyện cho thế gian, nhưng cho những kẻ Cha đã ban cho con, bởi vì họ thuộc về Cha. Tất cả những gì của con đều là của Cha, tất cả những gì của Cha đều là của con; và con được tôn vinh nơi họ. Con không còn ở trong thế gian nữa, nhưng họ, họ ở trong thế gian; phần con, con đến cùng Cha.
+      Lạy Cha chí thánh, xin gìn giữ các môn đệ trong danh Cha mà Cha đã ban cho con, để họ nên một như chúng ta. Khi còn ở với họ, con đã gìn giữ họ trong danh Cha mà Cha đã ban cho con, con đã canh giữ, và không một ai trong họ phải hư mất, trừ đứa con hư hỏng, để ứng nghiệm lời Kinh Thánh. Bây giờ, con đến cùng Cha, và con nói những điều này lúc còn ở thế gian, để họ được hưởng trọn niềm vui của con. Con đã truyền lại cho họ lời của Cha, và thế gian đã ghét họ, vì họ không thuộc về thế gian, cũng như con đây không thuộc về thế gian. Con không xin Cha cất họ khỏi thế gian, nhưng xin Cha gìn giữ họ khỏi ác thần. Họ không thuộc về thế gian cũng như con đây không thuộc về thế gian. Xin Cha lấy sự thật mà thánh hiến họ. Lời Cha là sự thật. Như Cha đã sai con đến thế gian, thì con cũng sai họ đến thế gian. Vì họ, con xin thánh hiến chính mình con, để nhờ sự thật, họ cũng được thánh hiến.
+      <i>Đó là Lời Chúa</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin ghé mắt nhân từ thương nhận lễ vật dân Chúa dâng trên bàn thờ, trong ngày mừng kính thánh Giút-ti-nô Gia-cô-bi; nhờ hiệu lực của bí tích này, xin giúp chúng con sống thế nào để người đời nhìn thấy Đức Giêsu đang sống trong chúng con. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+chúng con tạ ơn Cha mọi nơi mọi lúc
+nhờ Đức Kitô, Chúa chúng con,
+thật là chính đáng và phải đạo.
+Hôm nay, mừng lễ thánh Giút-ti-nô Gia-cô-bi,
+chúng con cảm nhận lòng ân cần của Cha đối với Giáo Hội:
+nhờ gương sáng của người, Cha khích lệ chúng con;
+nhờ lời người giảng dạy, Cha soi sáng chúng con;
+nhờ lời chuyển cầu của người, Cha hộ trì chúng con.
+Vì vậy, cùng toàn thể các thiên thần và các thánh,
+chúng con ca khen vinh quang Cha rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Mc 8, 35)</i>
+Chúa phán: “Ai liều mất mạng mình vì tôi và vì Tin Mừng thì sẽ cứu được mạng sống mình”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, trong ngày chúng con mừng lễ thánh Giút-ti-nô Gia-cô-bi, Chúa đã nuôi dưỡng chúng con bằng bánh Con Chúa. Chúng con nài xin Chúa cho việc được tham dự bí tích Thánh Thể này thánh hóa chúng con, để trở nên như những gì chúng con được lãnh nhận. 
+Chúng con cầu xin...
 `,       
 en: `<strong>MASS</strong>
 
