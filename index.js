@@ -2846,7 +2846,7 @@ Chúng con cầu xin...
 
  // 17 Thánh Lu-i Mác-ti-nô và Thánh Ma-ri-a Giê-li Ghê-ranh
   {
-    id: 'st-paul-apostle',
+    id: 'st-louis-martin-and-st-marie-azelie-guerin',
     date: '07-12',
     title: { 
       vi: 'Thánh Lu-i Mác-ti-nô và Thánh Ma-ri-a Giê-li Ghê-ranh',
@@ -2861,92 +2861,116 @@ Chúng con cầu xin...
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        Các ngài được biết đến nhiều vì là song thân của Thánh Tê-rê-sa Hài Đồng Giêsu, nhưng theo cách riêng mình, các ngài cũng là những mẫu gương thánh thiện để chúng ta noi theo. Các ngài là đôi vợ chồng đầu tiên được phong thánh. 
-        Thánh Lu-i Mác-ti-nô sinh tại Bourdeaux ngày 22 tháng 8 năm 1823. Là một thanh niên có một đức tin sâu sắc và chuyên chăm cầu nguyện, có thời ông đã mong mỏi được dâng hiến cho Thiên Chúa trong nhà tế bần của Thánh Cả Bernard, nhưng gặp khó khăn trong việc học tiếng Latin, ông đành trở thành một thợ đồng hồ và định cư tại Alençon. Thánh Ma-ri-a Giê-li Ghê-ranh sinh tại Gandelain, gần Saint-Denis-sur Sarthon, vào ngày 23 Tháng 12 năm 1831. Cô đã làm việc như một người thợ thêu thùa tại Alençon. Cô cũng đã từng bị cuốn hút bởi đời sống các nữ tu, nhưng sức khỏe không ổn định của mình và những nhận xét tiêu cực của sơ bề trên dòng Nữ Tử Bác Ái tại Alençon làm cô nản lòng. Ơn Chúa quan phòng, Giê-li gặp được Lu-i trên cầu Thánh Leonard: cô gặp được một thanh niên mà những đức tính cao quý của anh, cung cách kính cẩn và vẻ trang nghiêm của anh đã để lại cho cô một ấn tượng sâu sắc. Một giọng nói trong lặng lẽ thì thầm: “Đây là người đàn ông đã dành sẵn cho con”. Họ đã kết hôn vài tháng sau đó tại nhà thờ Đức Bà thành Alençon, vào đêm 13 tháng 6, năm 1858. Họ có nhiều niềm vui khi chào đón đến chín đứa con. Bốn người con đã chết trong thời thơ ấu, nhưng điều đó không dìm họ trong đau buồn cũng không làm suy yếu được đức tin sâu sắc của họ, họ vẫn kiên trì tham dự thánh lễ hàng ngày và có lòng sùng kính đặc biệt với Đức Trinh Nữ Maria. Người con gái cuối cùng của họ là thánh nữ Têrêsa Hài Đồng Giêsu, tiến sĩ Hội Thánh. Lu-i Mác-ti-nô và Giê-li Ghê-ranh là những gương mẫu tuyệt vời của tình yêu vợ chồng, của một gia đình Kitô giáo cần cù lo lắng cho người khác, hào phóng với người nghèo và được linh hứng từ một tinh thần truyền giáo mẫu mực, luôn sẵn sàng giúp đỡ các hoạt động của giáo xứ. Hơn nữa Lu-i Mác-ti-nô là một thành viên tích cực của Hiệp hội Thánh Vinh Sơn Phaolô trong suốt cuộc đời của mình. Giê-li Ghê-ranh qua đời tại Alencon ngày 28 tháng 8 năm 1877 sau một thời gian dài bệnh tật. Lu-i Mác-ti-nô chuyển đến Lisieux để bảo đảm một tương lai tốt hơn cho năm cô con gái của mình. Sau khi dâng lên Thiên Chúa tất cả những người con gái của mình, ông cố, như người ta thường gọi ông, can đảm chịu đựng nhiều đau đớn vì một căn bệnh. Ông qua đời gần Evreux ngày 29 tháng 7 năm 1894. Các ngài được phong chân phước tại Lisieux vào ngày 19 tháng 10 năm 2008. Và vào ngày 18 tháng 10 năm 2015, Đức Giáo Hoàng Phanxicô đã nâng hai ngài lên bậc hiển thánh tại quảng trường thánh Phêrô.`,
+        vi: `
+      Các ngài được biết đến nhiều vì là song thân của Thánh Tê-rê-sa Hài Đồng Giêsu, nhưng theo cách riêng mình, các ngài cũng là những mẫu gương thánh thiện để chúng ta noi theo. Các ngài là đôi vợ chồng đầu tiên được phong thánh.
+      Thánh Lu-i Mác-ti-nô sinh tại Bourdeaux ngày 22 tháng 8 năm 1823. Là một thanh niên có một đức tin sâu sắc và chuyên chăm cầu nguyện, có thời ông đã mong mỏi được dâng hiến cho Thiên Chúa trong nhà tế bần của Thánh Cả Bernard, nhưng gặp khó khăn trong việc học tiếng Latin, ông đành trở thành một thợ đồng hồ và định cư tại Alençon.
+      Thánh Ma-ri-a Giê-li Ghê-ranh sinh tại Gandelain, gần Saint-Denis-sur Sarthon, vào ngày 23 Tháng 12 năm 1831. Cô đã làm việc như một người thợ thêu thùa tại Alençon. Cô cũng đã từng bị cuốn hút bởi đời sống các nữ tu, nhưng sức khỏe không ổn định của mình và những nhận xét tiêu cực của sơ bề trên dòng Nữ Tử Bác Ái tại Alençon làm cô nản lòng.
+      Ơn Chúa quan phòng, Giê-li gặp được Lu-i trên cầu Thánh Leonard: cô gặp được một thanh niên mà những đức tính cao quý của anh, cung cách kính cẩn và vẻ trang nghiêm của anh đã để lại cho cô một ấn tượng sâu sắc. Một giọng nói trong lặng lẽ thì thầm: “Đây là người đàn ông đã dành sẵn cho con”. Họ đã kết hôn vài tháng sau đó tại nhà thờ Đức Bà thành Alençon, vào đêm 13 tháng 6, năm 1858.
+      Họ có nhiều niềm vui khi chào đón đến chín đứa con. Bốn người con đã chết trong thời thơ ấu, nhưng điều đó không dìm họ trong đau buồn cũng không làm suy yếu được đức tin sâu sắc của họ, họ vẫn kiên trì tham dự thánh lễ hàng ngày và có lòng sùng kính đặc biệt với Đức Trinh Nữ Maria. Người con gái cuối cùng của họ là thánh nữ Têrêsa Hài Đồng Giêsu, tiến sĩ Hội Thánh.
+      Lu-i Mác-ti-nô và Giê-li Ghê-ranh là những gương mẫu tuyệt vời của tình yêu vợ chồng, của một gia đình Kitô giáo cần cù lo lắng cho người khác, hào phóng với người nghèo và được linh hứng từ một tinh thần truyền giáo mẫu mực, luôn sẵn sàng giúp đỡ các hoạt động của giáo xứ. Hơn nữa Lu-i Mác-ti-nô là một thành viên tích cực của Hiệp hội Thánh Vinh Sơn Phaolô trong suốt cuộc đời của mình.
+      Giê-li Ghê-ranh qua đời tại Alencon ngày 28 tháng 8 năm 1877 sau một thời gian dài bệnh tật. Lu-i Mác-ti-nô chuyển đến Lisieux để bảo đảm một tương lai tốt hơn cho năm cô con gái của mình. Sau khi dâng lên Thiên Chúa tất cả những người con gái của mình, ông cố, như người ta thường gọi ông, can đảm chịu đựng nhiều đau đớn vì một căn bệnh. Ông qua đời gần Evreux ngày 29 tháng 7 năm 1894.
+      Các ngài được phong chân phước tại Lisieux vào ngày 19 tháng 10 năm 2008. Và vào ngày 18 tháng 10 năm 2015, Đức Giáo Hoàng Phanxicô đã nâng hai ngài lên bậc hiển thánh tại quảng trường thánh Phêrô.
+
+         `,
        
-en: `<strong>Biography</strong>
-Saints are not just priests and nuns. They are laypeople too, and on October 18, for the first time in the history of the Catholic Church, a married couple was canonized as saints. We hope all those apps, which include Saint of the Day and liturgical calendars, will be updated to include this special couple, Blessed Louis and Marie Zélie Guerin Martin, the parents of  St. Thérèse of Lisieux. The announcement, made at the Vatican on March 3, noted the intent of Pope Francis to canonize them during the World Synod of Bishops on the family in October.
-
-When in Lisieux, France, during the year that this couple was beatified, I was blessed to be able to pray at the reliquary containing the remains of these two famous parents. One of the printed materials in the Lisieux Basilica instructed:  They are not saints because their daughter was St. Therese; she is a saint because of them. It’s an important point to remember because they earned this distinction by their exemplary lives, the fruit of which included St. Therese and her sister,  Leonia, whose cause is also in the canonization process.
-
-The Martins are the first couple in the history of the Church to be brought through the canonization process as a couple. According to a scholar of the Martin family, although their causes were first brought separately in 1957, Pope Paul VI united them into a single cause in 1971 in recognition that they became holy as a couple.
+en: `
+      This couple is best known as the parents of St. Therese of Lisieux (the Little Flower), but they are models of holiness in their own right. They are only the second married couple to be canonized.
+      Louis was born in 1823 in Bordeaux. When his hope of entering religious life was thwarted he became a watchmaker. Zelie Guerin was born in 1831. She, too, hoped to become a religious, but eventually understood that it was not God’s will. She became a successful lace-maker.
+      Louis and Zelie met in Alencon and were married in 1858 after a three-month courtship. For almost a year the couple lived as celibates, but the advice of a confessor changed their minds and they decided to raise as many children as possible for the glory of God. Zelie gave birth to nine children, five of whom entered religious life.
+      The family lived a comfortable lifestyle, but they also suffered the loss of four children at an early age and had to deal with a rebellious daughter. Their devotion never wavered, however. The couple lived modestly, reached out to the poor and the needy, and led daily prayers in the household. St. Therese would later write: “God gave me a father and a mother who were more worthy of heaven than of earth.”
+      In 1877, at age 45, Zelie Martin died of breast cancer. Louis and his daughters moved to Lisieux. Gradually his daughters left to enter the convent. Despite his loneliness he said: “It is a great, great honor for me that the Good Lord desires to take all of my children. If I had anything better, I would not hesitate to offer it to him.” Louis died in 1894 after suffering greatly, including a three-year stay in a psychiatric hospital.
+      Louis and Zelie Martin were beatified by Pope Benedict XVI in 2008 and canonized by Pope Francis in 2015. Their feast day is July 12, though a liturgical celebration in their honor is not included in the current General Roman Calendar.
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(Tv 1, 1-3)
+Phúc thay cho người tin tưởng vào Chúa,
+và có Chúa làm chốn nương thân.
+Người ấy như cây trồng bên dòng nước,
+đâm rễ sâu vào mạch suối trong,
+chẳng sợ chi khi mùa nóng đến,
+lá trên cành vẫn cứ xanh tươi.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa, Đấng đã ban cho thánh Lu-i Mác-ti-nô và thánh Ma-ri-a Giê-li Ghê-ranh ân sủng để dẫn đến một đời sống thánh thiện trong bậc vợ chồng và cha mẹ Kitô giáo. Nhờ lời chuyển cầu và gương sáng của các ngài, xin Chúa ban ơn cho chúng con biết yêu thương và phục vụ Chúa một cách trung thành và sống xứng đáng với ơn gọi của chúng con. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Kn 18, 6-9)
+<strong>Bài trích sách Khôn Ngoan</strong>
+      Chính đêm ấy, đã được báo trước cho cha ông chúng con,
+      để khi biết chắc lời hứa mình tin là lời hứa nào
+      các ngài thêm can đảm.
+      Dân Chúa đã trông đợi đêm ấy
+      như đêm cứu thoát người chính trực và tiêu diệt kẻ địch thù.
+      Quả vậy, Chúa dùng hình phạt giáng xuống đối phương
+      để làm cho chúng con được rạng rỡ
+      và kêu gọi chúng con đến với Ngài.
+      Con lành cháu thánh của những người lương thiện
+      âm thầm dâng lễ tế trong nhà.
+      Họ đồng tâm nhất trí về luật sau đây của Thiên Chúa,
+      là trong dân thánh, có phúc cùng hưởng, có họa cùng chia.
+      Và ngay từ bấy giờ,
+      họ đã xướng lên những bài ca do cha ông truyền lại.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 32, 1-22)
+<strong>Đ. Phúc thay dân tộc mà Chúa chọn làm cơ nghiệp riêng mình.</strong>
+Người hiền đức, hãy hân hoan trong Chúa,
+ca ngợi Chúa là việc của những kẻ lòng ngay.
+Phúc thay quốc gia mà Chúa là Chúa tể,
+dân tộc mà Chúa chọn làm cơ nghiệp riêng mình.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Kìa Chúa để mắt trông coi những kẻ kính sợ Ngài,
+nhìn xem những ai cậy trông ân sủng của Ngài,
+để cứu gỡ họ khỏi tay thần chết,
+và nuôi dưỡng họ trong cảnh cơ hàn.		    <strong>Đ.</strong>
 
+Linh hồn chúng con mong đợi Chúa,
+chính Ngài là Đấng phù trợ và che chở chúng con.
+Lạy Chúa, xin đổ lòng từ bi xuống trên chúng con,
+theo như chúng con tin cậy ở nơi Ngài. 		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Chúa phán: “Thầy là đường, là sự thật và là sự sống: không ai đến được với Cha mà không qua Thầy”. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>TIN MỪNG</strong> (Lc 12,32-48)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Luca</strong>
+      Khi ấy, Chúa Giêsu phán cùng các môn đệ rằng: “Hỡi đoàn chiên nhỏ bé, đừng sợ, vì Cha anh em đã vui lòng ban Nước của Người cho anh em. Hãy bán tài sản của mình đi mà bố thí. Hãy sắm lấy những túi tiền không hề cũ rách, một kho tàng không thể hao hụt ở trên trời, nơi kẻ trộm không bén mảng, mối mọt không đục phá. Vì kho tàng của anh em ở đâu, thì lòng anh em ở đó”.
+      “Anh em hãy thắt lưng cho gọn, thắp đèn cho sẵn. Hãy làm như những người đợi chủ đi ăn cưới về, để khi chủ vừa về tới và gõ cửa, là mở ngay. Khi chủ về mà thấy những đầy tớ ấy đang tỉnh thức, thì thật là phúc cho họ. Thầy bảo thật anh em: chủ sẽ thắt lưng, đưa họ vào bàn ăn, và đến bên từng người mà phục vụ. Nếu canh hai hoặc canh ba ông chủ mới về, mà còn thấy họ tỉnh thức như vậy, thì thật là phúc cho họ. Anh em hãy biết điều này: nếu chủ nhà biết giờ nào kẻ trộm đến, hẳn ông đã không để nó khoét vách nhà mình đâu. Anh em cũng vậy, hãy sẵn sàng, vì chính giờ phút anh em không ngờ, thì Con Người sẽ đến”.
+      Bấy giờ ông Phê-rô hỏi: “Lạy Chúa, Chúa nói dụ ngôn này cho chúng con hay cho tất cả mọi người?” Chúa đáp: “Vậy thì ai là người quản gia trung tín, khôn ngoan, mà ông chủ sẽ đặt lên coi sóc kẻ ăn người ở, để cấp phát phần thóc gạo đúng giờ đúng lúc? Khi chủ về mà thấy đầy tớ ấy đang làm như vậy, thì thật là phúc cho anh ta. Thầy bảo thật anh em, ông sẽ đặt anh ta lên coi sóc tất cả tài sản của mình. Nhưng nếu người đầy tớ ấy nghĩ bụng: Chủ ta còn lâu mới về, và bắt đầu đánh đập tôi trai tớ gái và chè chén say sưa, chủ của tên đầy tớ ấy sẽ đến vào ngày hắn không ngờ, vào giờ hắn không biết, và ông sẽ loại hắn ra, bắt phải chung số phận với những tên thất tín”.
+      “Đầy tớ nào đã biết ý chủ mà không chuẩn bị sẵn sàng, hoặc không làm theo ý chủ, thì sẽ bị đòn nhiều. Còn kẻ không biết ý chủ mà làm những chuyện đáng phạt, thì sẽ bị đòn ít. Hễ ai đã được cho nhiều thì sẽ bị đòi nhiều, và ai được giao phó nhiều thì sẽ bị đòi hỏi nhiều hơn”.
+      <i>Đó là Lời Chúa</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Thiên Chúa toàn năng, chúng con tha thiết nài xin Chúa thương chấp nhận của lễ chúng con dâng để mừng kính các thánh. Xin cho hiến lễ này cũng thanh tẩy cả hồn xác chúng con. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
+nhờ Ðức Ki-tô, Chúa chúng con,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con,
+vì Cha dùng đời sống đức tin kỳ diệu của các thánh
+như một năng lực luôn luôn mới
+mà làm cho Hội Thánh nên phong phú,
+và Cha tỏ cho chúng con thấy
+những dấu chứng thật chắc chắn về tình yêu của Cha.
+Hơn nữa, để hoàn tất chương trình cứu độ,
+chúng con cũng được gương sáng đặc biệt của các ngài thôi thúc,
+và luôn được các ngài sốt sắng chuyển cầu trước nhan Cha.
+Vì thế, lạy Cha, cùng với toàn thể Thiên Thần và các Thánh,
+chúng con tuyên xưng Cha và hân hoan tung hô rằng:  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
-
+<strong>Ca hiệp lễ</strong> <i>(Lc 12, 33-34)</i>
+Chúa phán:  Hãy sắm lấy những túi tiền không hề cũ rách, một kho tàng không thể hao hụt ở trên trời, nơi kẻ trộm không bén mảng, mối mọt không đục phá. Vì kho tàng của anh em ở đâu, thì lòng anh em ở đó.
+  
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, trong ngày lễ kính thánh Lu-i Mác-ti-nô và thánh Ma-ri-a Giê-li Ghê-ranh, Chúa đã dùng bí tích Thánh Thể bồi dưỡng chúng con. Xin cho ân phúc Chúa đã thương ban do lượng từ bi hải hà của Chúa giúp chúng con đạt tới hạnh phúc muôn đời.
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
