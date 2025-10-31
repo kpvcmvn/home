@@ -4579,7 +4579,7 @@ II. THOSE BEATIFIED ON NOVEMBER 11, 2017Fr. Jose Ibanez Mayandia
       Fr. Jose Acosta Aleman
       Fr. Joan Puig Serra
       Fr. Agapito Alcalde Garrido
-      Fr. Rafael Vinagre Tomas Munoz Message is interrupted. User provided partial message.
+      Fr. Rafael Vinagre Tomas Munoz 
       Bro. Manuel Trachiner Montana
       Bro. Roque Catalan Domingo
       Bro. Estanislao Paramo Marcos
