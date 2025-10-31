@@ -5154,88 +5154,105 @@ en: `<strong>MASS</strong>
     type: 'Lễ kính',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Hôm nay, chúng ta tưởng niệm biến cố Đức Trinh nữ Maria Vô Nhiễm Nguyên Tội hiện ra với thánh nữ Catherine Labouré, ngày 27 tháng 11 năm 1830 trong nhà nguyện của Nhà Mẹ các Nữ Tử Bác Ái, số 140 phố Bac, Paris. Biến cố này là nguồn gốc của Mẫu Ảnh Hay Làm Phép Lạ và lời kinh khẩn cầu “Lạy Mẹ Maria Vô Nhiễm Nguyên Tội, xin cầu cho chúng con là kẻ chạy đến cùng Mẹ”.
+      Mẫu ảnh này là sự tổng hợp ngắn của đức tin Kitô giáo, nói cho thế giới biết tình yêu của thiên Chúa đối với loài người. Mẫu ảnh nhắc chúng ta nhớ tới sứ mạng của Giáo Hội trong công cuộc Phúc Âm hóa, và nhấn mạnh đến vai trò của Đức Maria liên kết chặt chẽ với cuộc đời và cuộc Thương Khó của Người Con của Mẹ.
+      Ngay từ tháng 6 năm 1832, với sự cho phép của Đức Tổng Giám mục Paris, 1500 mẫu ảnh đầu tiên đã được đúc. Từ đó đến nay, hàng triệu mẫu ảnh, bằng mọi thứ tiếng, đã góp phần làm lan rộng trong mọi nước việc sùng kính Đức Mẹ Vô nhiễm Nguyên tội mà tín điều đã được công bố ngày 8 tháng 12 năm 1854.
+
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Today, we commemorate the apparition of the Blessed Virgin Mary, conceived without sin, to Saint Catherine Labouré on November 27, 1830, in the chapel of the Mother House of the Daughters of Charity at 140 Rue du Bac, Paris.
+      This event is the origin of the Miraculous Medal and the invocation, "O Mary, conceived without sin, pray for us who have recourse to thee."
+      This medal is a brief summary of the Christian faith, telling the world of God's love for humanity. The medal reminds us of the Church's mission in evangelization and emphasizes the role of the Mary, who is intimately linked to the life and Passion of her Son.
+      Beginning in June 1832, with the permission of the Archbishop of Paris, the first 1,500 medals were struck. Since then, millions of medals, in every language, have contributed to spreading devotion to the Immaculate Conception in all nations, the dogma of which was proclaimed on December 8, 1854.
 
 `
 },
       massReadings: {
  vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong> <i>(Chọn một trong hai)</i> 
+<strong>I</strong> (Kh 12,1)
+Một điềm lạ xuất hiện trên trời: một người Phụ Nữ, mình khoác áo mặt trời, chân đạp mặt trăng và đầu đội triều thiên mười hai ngôi sao.
+
+<strong>II</strong> (Gđt 13, 23-25)
+Lạy Đức Trinh Nữ Maria, Mẹ được Chúa trên trời chúc phúc hơn hết mọi phụ nữ trần gian; loài người sẽ chẳng bao giờ quên được vinh quang Chúa đã ban cho Mẹ.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, qua Đức Trinh Nữ Maria Vô Nhiễm, Chúa đã ban cho nhân loại kho tàng ơn cứu độ đời đời. Nhờ lời Đức Mẹ chuyển cầu, xin Chúa cho chúng con trung thành phục vụ Chúa, bằng lời nói và việc làm, chúng con ra sức làm tỏa sáng vinh quang Chúa. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Kh 12, 1. 5; 14-17)
+<strong>Bài trích sách Khải Huyền của thánh Gioan Tông đồ</strong>
+      Một điềm lớn xuất hiện trên trời: một người Phụ nữ, mình khoác mặt trời, chân đạp mặt trăng, và đầu đội triều thiên mười hai ngôi sao. Bà đã sinh được một người con, một người con trai, người con này sẽ dùng trượng sắt mà chăn dắt muôn dân. Con bà được đưa ngay lên Thiên Chúa, lên tận ngai của Người.
+      Bà được ban cho đôi cánh đại bàng, để bay vào sa mạc, vào nơi dành cho bà, tại đó bà được nuôi dưỡng một thời, hai thời và nửa thời, ở xa con rắn. Từ miệng, con rắn phun nước ra đàng sau như một dòng sông để cuốn bà đi. Nhưng đất cứu giúp bà: đất há miệng ra uống cạn dòng sông từ miệng con mãng xà phun ra. Con mãng xà nổi giận với người Phụ nữ và đi giao chiến với những người còn lại trong dòng dõi bà, là những người tuân theo các điều răn của Thiên Chúa và giữ lời chứng của Đức Giê-su.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 44,11-12;14-17)
+<strong>Đ. Lạy Đức Trinh Nữ Maria,
+Mẹ là niềm vui và là vinh dự của dân tộc chúng con.</strong>
+Tôn nương hỡi, xin hãy nghe nào,
+đưa mắt nhìn và hãy lắng tai,
+quên dân tộc, quên đi nhà thân phụ.
+Sắc nước hương trời, Quân Vương sủng ái,
+Hãy vào phục lạy: “Người là Chúa của bà”.	    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Đẹp lộng lẫy, này đây công chúa
+mặc xiêm y dệt gấm thêu vàng,
+phục sức huy hoàng, được dẫn tới Quân Vương,
+cùng các trinh nữ theo sau hầu cận.	    <strong>Đ.</strong>
 
+Lòng hoan hỷ đoàn người tiến bước,
+vẻ tưng bừng vào tận hoàng cung.
+Con cái ngài sẽ nối dòng tiên đế,
+Ngài phong làm vương bá khắp trần gian.		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong> (Ga 2,1-11)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Lạy Đức Maria, Mẹ xinh đẹp tuyệt vời, chẳng hề mang vết nhơ nguyên tội. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>Tin Mừng (Ga 2,1-11)</strong>
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+      Khi ấy có tiệc cưới tại Ca-na, miền Ga-li-lê. Trong tiệc cưới có thân mẫu Đức Giêsu. Đức Giêsu và các môn đệ cũng được mời tham dự. Khi thấy thiếu rượu, thân mẫu Đức Giêsu nói với Người: “Họ hết rượu rồi”. Đức Giêsu đáp: “Thưa bà, chuyện đó can gì đến bà và tôi ? Giờ của tôi chưa đến”. Thân mẫu Người nói với gia nhân “Người bảo gì các anh cứ việc làm theo”.
+      Ở đó có đặt sáu chum đá dùng vào việc thanh tẩy theo thói tục người Do Thái, mỗi chum chứa được khoảng tám mươi hoặc một trăm hai mươi lít nước. Đức Giêsu bảo họ:“Các anh đổ đầy nước vào chum đi!”. Và họ đổ đầy tới miệng. Rồi Người nói với họ:“Bây giờ các anh múc và đem cho ông quản tiệc”. Họ liền đem cho ông. Khi người quản tiệc nếm thử nước đã hóa thành rượu (mà không biết rượu từ đâu ra, còn gia nhân đã múc nước thì biết), ông mới gọi tân lang lại và nói: “Ai ai cũng thết rượu ngon trước, và khi khách đã ngà ngà mới đãi rượu xoàng hơn. Còn anh, anh lại giữ rượu ngon cho đến mãi bây giờ”. Đức Giêsu đã làm dấu lạ đầu tiên này tại Ca-na, miền Ga-li-lê và bày tỏ vinh quang của Người. Các môn đệ đã tin vào Người.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, khi kính nhớ Đức Trinh Nữ Maria diễm phúc, chúng con hoan hỷ tiến dâng lên Chúa hy lễ này, và ca ngợi Chúa, chúng con khiêm tốn cầu xin Chúa cho chúng con hằng nhận biết những hồng ân Chúa ban mà không ngừng dâng lời cảm tạ. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
+Lạy Cha chí thánh là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+thật là chính đáng, phải đạo,
+và sinh ơn cứu độ cho chúng con.
+Cha đã gìn giữ Đức Trinh Nữ Maria
+khỏi mọi vết nhơ nguyên tội,
+và Cha đã cho Người được đầy tràn ân sủng
+để chuẩn bị cho Người
+xứng đáng làm Mẹ của Con Cha.
+Nơi Người, Cha đã phác họa hình ảnh một Hội Thánh
+rất xinh đẹp, không tỳ ố, toả chiếu vẻ đẹp rạng ngời,
+là hiền thê của Đức Kitô.
+Thật vậy, Đức Trinh Nữ rất thanh khiết
+Sẽ ban cho chúng con Đấng Cứu Độ,
+là Con Chiên vẹn toàn, Đấng xóa tội trần gian.
+Cha đã chọn Người giữa muôn ngàn phụ nữ,
+để Người chuyển cầu
+và nêu gương thánh thiện cho dân Cha.
+Vì thế, hiệp với các thiên thần trên trời,
+chúng con vui mừng ca ngợi Cha và tung hô rằng:
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Lc 1,48-49)</i>
+Hết mọi đời sẽ khen tôi diễm phúc,
+vì Đấng Toàn Năng đã làm cho tôi
+biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa là Thiên Chúa chúng con, chúng con vừa hân hoan cử hành lễ Đức Mẹ tinh tuyền của Con Chúa; được củng cố bởi bí tích cứu độ muôn đời, chúng con xin Chúa ban cho chúng con được tiến bước vững mạnh trên con đường đức tin, và được tham dự bàn tiệc nước trời, được cùng với Đức Trinh Nữ tôn vinh Chúa trên trời. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
