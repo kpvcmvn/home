@@ -4976,88 +4976,99 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Sơ Maria Angela Alfieri (tên thật là Maria Angela Domenica) sinh ngày 23 tháng 2 năm 1891 tại Borgo Vercelli, Ý. Ngài là con cả trong số bốn người con của ông Giovanni Alfieri và bà Rosa Compagnone. Gia đình ngài sống sung túc nhờ vào ruộng đất và có một đức tin Công giáo vững mạnh. Cha ngài, ông Giovanni, là Bề trên của Hội Bác ái Thánh Catherine (Confraternity of St. Catherine), một người có vai trò tích cực trong việc cổ vũ lòng đạo đức và các công việc bác ái, cứu giúp người nghèo, góa phụ và trẻ mồ côi trong cộng đoàn.
+      Năm 22 tuổi, Maria Angela gia nhập Dòng Nữ Tu Bác Ái Thánh Gioan Antida Thouret, và nhận tên trong dòng là Enrichetta.
+      Vào ngày 24 tháng 5 năm 1923, Sơ được gửi đến Milan, phục vụ tại khu vực dành cho phụ nữ của nhà tù San Vittore. Sơ đã trở thành một biểu tượng của lòng thương xót tại đây.
+      Vào tháng 9 năm 1943, khi nhà tù chứa đầy các tù nhân chính trị và người Do Thái, Sơ Enrichetta đã dấn thân phục vụ họ. Khi chính quyền phát xít phát hiện, họ đã bắt Sơ. Sơ đã phải trải qua sự kinh hoàng của tù ngục và đối mặt với mối đe dọa bị tử hình hoặc trục xuất. Sơ hoàn toàn phó thác cho Chúa, và lặp đi lặp lại lời cầu nguyện: "Lạy Chúa, xin ban cho con sức mạnh mà con đang thiếu."
+      Sơ được thả ra nhờ sự can thiệp của Đức Hồng Y Schuster. Ngay khi chiến tranh kết thúc, Sơ lại tiếp tục nhiệm vụ của mình trong nhà tù ở Milan. Sơ được các tù nhân yêu mến gọi bằng danh hiệu "Mẹ của Thánh Vittore" (Mamma di San Vittore) và "Thiên thần tốt lành".
+      Sơ qua đời vào ngày 23 tháng 11 năm 1951, và được Đức Thánh Cha Bênêđictô XVI phong chân phước ngày 26 tháng 6 năm 2011.
+              
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Sister Maria Angela Alfieri (born Maria Angela Domenica) was born on February 23, 1891, in Borgo Vercelli, Italy. She was the eldest of four children born to Giovanni Alfieri and Rosa Compagnone. Her family lived decently from the produce of their fields and was solid in the Catholic faith. Her father, Giovanni, was the prior of the Confraternity of St. Catherine, taking an active role in animating piety and charitable works, including relief for the poor, widows, and orphans in the community.
+      At the age of 22, Maria Angela entered the religious life with the Sisters of Charity of Saint Joan Antida Thouret, taking the religious name Enrichetta.
+      On May 24, 1923, she was sent to Milan, to the women's section of the San Vittore prison. She became a profound symbol of mercy there.
+      In September 1943, at a time when the prison was filled with political prisoners and Jews, Sister Enrichetta went out to serve these unfortunate ones. When the fascist authorities discovered this, they arrested her. She had to endure the horror of imprisonment and the threat of the death penalty or deportation. She entrusted herself to the Lord and repeated the prayer: "My God, give me the strength that I lack."
+      She was released through the intervention of Cardinal Schuster. At the end of the war, she immediately resumed her mission in the Milan prison. She became known by the affectionate titles "Mother of San Vittore" (Mamma di San Vittore) and "the good angel."
+      She died on November 23, 1951, and was beatified by Pope Benedict XVI on June 26, 2011.
 
 `
 },
       massReadings: {
  vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ </strong>(Mt 25,34.36.40)
+Chúa nói với những người đã phục vụ Người trong anh em: “Nào những kẻ Cha Ta chúc phúc, hãy lãnh lấy phần gia nghiệp, vì xưa Ta đói, các ngươi đã cho ăn; Ta khát, các ngươi đã cho uống; Ta đau yếu, các ngươi đã viếng thăm”;… Ta bảo các ngươi: “Những gì các ngươi đã làm cho một trong các anh em bé mọn nhất của Ta đây, là các ngươi đã làm cho chính Ta vậy”.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Thiên Chúa toàn năng và nhân hậu, Chúa đã thắp lên ngọn lửa sống tình yêu của Ngài trong trái tim chúng con, để như chân phước trinh nữ En-rích-Sơ-ta, chúng con có thể luôn nhận ra nơi những người đang đau khổ, Con của Chúa, Đấng đã được sai đến để loan báo tin mừng cho người nghèo, và trả tự do cho những người bị áp bức. Như vậy, chúng con có thể vui mừng làm chứng cho lòng nhân vô biên của Ngài. Người hằng sống và hiển trị cùng Chúa, hiệp nhất với Chúa Thánh Thần đến muôn thuở muôn đời.
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (1Cr 12, 31-13, 1-13)
+<strong>Bài trích thư thứ nhất của thánh Phaolô Tông đồ gởi tín hữu Cô-rin-tô</strong>
+    Trong các ân huệ của Thiên Chúa, anh em cứ tha thiết tìm những ơn cao trọng nhất. Nhưng đây tôi xin chỉ cho anh em con đường trổi vượt hơn cả.
+    Giả như tôi có nói được các thứ tiếng của loài người và của các thiên thần đi nữa, mà không có đức mến, thì tôi cũng chẳng khác gì thanh la phèng phèng, chũm choẹ xoang xoảng. Giả như tôi được ơn nói tiên tri, và được biết hết mọi điều bí nhiệm, mọi lẽ cao siêu, hay có được tất cả đức tin đến chuyển núi dời non, mà không có đức mến, thì tôi cũng chẳng là gì. Giả như tôi có đem hết gia tài cơ nghiệp mà bố thí, hay nộp cả thân xác tôi để chịu thiêu đốt, mà không có đức mến, thì cũng chẳng ích gì cho tôi. Đức mến thì nhẫn nhục, hiền hậu, không ghen tuơng, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, Hãy vọng tất cả, chịu đựng tất cả. Đức mến không bao giờ mất được. Ơn nói tiên tri ư? cũng chỉ nhất thời. Nói các tiếng lạ chăng? có ngày sẽ hết. Ơn hiểu biết ư? rồi cũng chẳng còn. Vì chưng sự hiểu biết thì có ngần, ơn nói tiên tri cũng có hạn. Khi cái hoàn hảo tới, thì cái có ngần có hạn sẽ biến đi. Cũng như khi tôi còn là trẻ con, tôi nói năng như trẻ con, hiểu biết như trẻ con, suy nghĩ như trẻ con; nhưng khi tôi đã thành người lớn, thì tôi bỏ tất cả những gì là trẻ con. Bây giờ chúng ta thấy lờ mờ như trong một tấm gương, mai sau sẽ được mặt giáp mặt. Bây giờ tôi biết chỉ có ngần có hạn, mai sau tôi sẽ được biết hết, như Thiên Chúa biết tôi. Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại. Nhưng cao trọng hơn cả là đức mến.
+    <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong>  (Tv 33, 2-7.18-19)
+<strong>Đ. Này đây những ngày công lý và hoà bình sẽ tới.</strong>
+Tôi sẽ không ngừng chúc tụng Chúa,
+câu hát mừng Người chẳng ngớt trên môi.
+Linh hồn tôi hãnh diện vì Chúa,
+xin các bạn nghèo nghe tôi nói mà vui lên.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hãy cùng tôi ngợi khen Đức Chúa,
+ta đồng thanh tán tụng danh Người.
+Tôi đã tìm kiếm Chúa và người đáp lại,
+giải thoát cho khỏi mọi nỗi kinh hoàng.	    <strong>Đ.</strong>
 
+Ai nhìn lên Chúa sẽ vui tươi hớn hở,
+không bao giờ bẽ mặt hổ ngươi.
+Kẻ nghèo này kêu lên và Chúa đã nhận lời,
+cứu cho khỏi mọi cơn nguy khốn. 		    <strong>Đ.</strong>
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+Họ kêu xin, và Chúa đã nhận lời,
+giải thoát khỏi mọi cơn nguy khốn.
+Chúa gần gũi những tấm lòng tan vỡ,
+cứu những tâm thần thất vọng ê chề. 		    <strong>Đ.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (1Ga 4,21)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Đây là điều răn mà chúng ta đã nhận được từ Người: ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+<strong>Tin Mừng</strong> (Lc 10, 25-37)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Lu-ca</strong>
+      Có người thông luật kia đứng lên hỏi Đức Giêsu để thử Người rằng: “Thưa Thầy, tôi phải làm gì để được sự sống đời đời làm gia nghiệp?”. Người đáp: “Trong Luật đã viết gì? Ông đọc thế nào?”. Ông ấy thưa: “Ngươi hãy yêu mến Đức Chúa, Thiên Chúa của ngươi, hết lòng, hết linh hồn, hết sức lực, và hết trí khôn ngươi, và yêu người thân cận như chính mình”. Đức Giêsu bảo ông ta: “Ông trả lời đúng lắm. Cứ làm như vậy là sẽ được sống”.
+      Nhưng ông ấy muốn chứng tỏ là mình có lý, nên mới thưa cùng Đức Giêsu rằng: “nhưng ai là người thân cận của tôi?”. Đức Giêsu đáp: Một người kia từ Giê-ru-sa-lem xuống Giê-ri-khô, dọc dường bị rơi vào tay kẻ cướp. Chúng lột sạch người ấy, đánh nhừ tử, rồi bỏ đi, để mặc người ấy nửa sống nửa chết. Tình cờ, có thầy tư tế cùng đi xuống trên con đường ấy. Trông thấy người này, ông tránh qua bên kia mà đi. Rồi cũng thế, một thầy Lê-vi đi tới chỗ ấy, cũng thấy, cũng tránh qua bên kia mà đi. Nhưng một người Sa-ma-ri kia đi đường, tới ngang chỗ người ấy, cũng thấy, và chạnh lòng thương. Ông ta lại gần, lấy dầu lấy rượu đổ lên vết thương cho người ấy và băng bó lại, rồi đặt người ấy trên lưng lừa của mình, đưa về quán trọ mà săn sóc. Hôm sau, ông lấy ra hai quan tiền, trao cho chủ quán và nói: “Nhờ bác săn sóc cho người này, có tốn kém thêm bao nhiêu, thì khi trở về, chính tôi sẽ hoàn lại cho bác”. Vậy theo ông nghĩ, trong ba người đó, ai đã tỏ ra là người thân cận với người đã bị rơi vào tay kẻ cướp?”. Người thông luật trả lời: “chính là kẻ đã thực thi lòng thương xót đối với người ấy”. Đức Giêsu bảo ông ta: “Ông hãy đi và cũng hãy làm như vậy”.
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, xin nhận những lễ vật của dân Chúa đây, và trong khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương chân phước En-rích-Sơ-ta An-phi-ê-ri, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
+Lạy Chúa là Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
 chúng con tạ ơn Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
+và đem lại ơn cứu độ cho chúng con.
+Cha luôn khơi động sức mạnh của Hội Thánh Cha,
+được chứng tỏ qua niềm tin của các thánh,
+và Cha cũng biểu lộ cho chúng con tình yêu của Cha.
 Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
+vì gương sáng của chân phước En-rích-Sơ-ta An-phi-ê-ri thúc đẩy,
+và lời cầu nguyện của ngài,
+giúp chúng con hành động để nước Cha trị đến.
 Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+chúng con ca tụng vinh quang Cha rằng: 
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong> <i>(Ga 13,35)</i>
+“Cứ dấu này, mọi người sẽ nhận biết anh em là môn đệ của Thầy, là anh em có lòng thương yêu nhau”.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Chúa, Chúa đã củng cố chúng con qua bí tích vừa lãnh nhận, xin giúp chúng con theo gương lòng mến yêu mà chân phước En-rích-Sơ-ta An-phi-ê-ri đã làm chứng cho Chúa, và lòng bác ái mà chân phước đã biểu lộ đối với dân Chúa. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
