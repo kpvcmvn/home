@@ -5338,88 +5338,110 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
-        
+        vi: `
+      Sinh tại Fain-les-Moutiers (Côte d’Or) ngày 2 tháng 5 năm 1806, Sơ Ca-ta-ri-na La-bu-rê được nhận vào Tập Viện của các Nữ Tử Bác Ái, số 140 đường Bac, Paris, ngày 21 tháng 4 năm 1830. Vài ngày sau đó, Sơ tham dự cuộc rước di dời thánh tích của thánh Vinh Sơn Phaolô (ngày 25 tháng 4 năm 1830).
+      Ngày 18 tháng 7 và 27 tháng 11 năm 1830, Sơ được diễm phúc Đức Trinh Nữ Maria hiện ra với Sơ. Sơ quyết tâm hoàn thành sứ mạng bấy giờ được giao cho Sơ là đúc một mẫu ảnh. Những hồng ân từ trời cao đi kèm theo việc phổ biến mẫu ảnh ấy khiến nó rất nhanh chóng được công bố là: “Mẫu Ảnh Làm Phép Lạ”.
+      Sơ Ca-ta-ri-na La-bu-rê được sai đến phục vụ tại nhà dưỡng lão Enghien, phố Reuilly, Paris, nơi đây trong bốn mươi lăm năm, Sơ đã tận tụy phục vụ mà không ai biết đến, với những chức vụ thật khiêm tốn và âm thầm: như làm bếp, săn sóc các cụ già và gác cổng. Lúc nào, Sơ cũng thầm lặng, khiêm tốn và không muốn ai biết tới. Sơ ra đi vĩnh viễn ngày 31 tháng 12 năm 1876.
+      Sơ được Đức Giáo hoàng Piô XI phong chân phước ngày 28 tháng 5 năm 1933, và được Đức Piô XII tôn phong hiển thánh ngày 27 tháng 7 năm 1947.        
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Saint Catherine Labouré was born at Fain-lès-Moutiers, Burgundy, France to the farmer Pierre Labouré, the ninth of 11 children. When Catherine was nine years old, her mother died on October 9, 1815. Pierre's sister suggested that she care for his two youngest children, Catherine and Tonine, and after he agreed, the sisters moved to their aunt's house at Saint-Rémy, Côte-d'Or|Saint-Rémy, a village 9 km from their home.
+      As a young woman she became a member of the Congregation of the Daughters of Charity, an community founded by St. Vincent de Paul. She was extremely devout, of a somewhat romantic nature, she chose the Daughters of Charity after a dream about St. Vincent. Having lost her mother at an early age she was very fond of the Blessed Virgin Mary.
+      On the night of July 19, 1830, the Feast of Saint Vincent de Paul, she woke up after hearing a voice of a child calling her to the chapel, where she heard the Virgin Mary say to her, "God wishes to charge you with a mission. You will be contradicted, but do not fear; you will have the grace to do what is necessary. Tell your spiritual director all that passes within you. Times are evil in France and in the world."
+      On November 27, 1830, Catherine reported that the Blessed Mother returned during evening meditations. She displayed herself inside an oval frame, standing upon a globe, wearing many rings of different colours, most of which shone rays of light over the globe. Around the margin of the frame appeared the words "O Mary, conceived without sin, pray for us who have recourse to thee." As Catherine watched, the frame seemed to rotate, showing a circle of twelve stars, a large letter M surmounted by a cross, and the stylized Sacred Heart of Jesus and Sacred Heart of Mary underneath. Asked why some of her rings did not shed light, Mary reportedly replied "Those are the graces for which people forget to ask." Catherine then heard Mary ask her to take these images to her father confessor, telling him that they should be put on medallions. "All who wear them will receive great graces."
+      Catherine did so, and after two years' worth of investigation and observation of Catherine's normal daily behavior, the priest took the information to his archbishop without revealing Catherine's identity. The request was approved and medallions began to be produced. They proved to be exceedingly popular. The doctrine of the Immaculate Conception wasn't official yet, but the Medal with its "conceived without sin" slogan was probably influential in popular approval of the idea. Pope John Paul II used a slight variation of the reverse image as his coat of arms, a plain cross with an M underneath the right-hand crossbar.
+      Catherine lived her remaining years as an ordinary sister. She was pleasant and well-liked by patients and her fellow nuns. Just before her death, she revealed that she was the sister to whom the Blessed Mother had given the images for the Medal. Exhumed in 1933, her body was found incorrupt, and it now lies in a glass coffin at the side altar of 140 Rue du Bac, Paris, one of the spots where the Blessed Mother appeared to her. She was canonized on July 27, 1947, by Pope Pius XII.
+
 
 `
 },
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
-Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+<strong>Ca nhập lễ</strong>
+Chúng ta hãy hân hoan vui mừng cử hành lễ kính thánh nữ Ca-ta-ri-na La-bu-rê, vì Chúa vũ trụ đã yêu mến ngài và đã thánh hiến ngài làm trinh nữ vì vinh quang của Người.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa, Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa nơi người nghèo, và cho chúng con được làm chứng nhân cho tình yêu Chúa giữa trần gian này. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Hc 3,17-24)
+<strong>Bài trích sách Huấn Ca</strong>
+      Con ơi hãy hoàn thành việc của con một cách nhũn nhặn,
+      thì con sẽ được mến yêu hơn người hào phóng.
+      Càng làm lớn, con càng phải tự hạ,
+      như thế, con sẽ được đẹp lòng Đức Chúa.
+      Lắm kẻ cao sang hiển hách, nhưng Thiên Chúa
+      mạc khải bí mật của Người cho kẻ khiêm nhường.
+      Vì quyền năng Đức Chúa thì lớn lao:
+      Người được tôn vinh nơi các kẻ khiêm nhường.
+      Đừng tìm những điều khó quá đối với con,
+      những điều vượt sức con, con đừng xét tới.
+      Những gì đã ấn định cho con, con hãy suy cho kỹ,
+      cần chi phải hiếu kỳ!
+      Đừng dây vào những việc quá sức con,
+      vì những điều con trông thấy
+      Đã vượt quá trí hiểu của loài người.
+      Nhiều người mắc sai lầm vì ý kiến riêng của họ,
+      ý nghĩ xấu làm cho suy nghĩ của họ đảo điên.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+<strong>Đáp ca</strong> (Tv 130)
+<strong>Đ. Lạy Chúa, xin giữ gìn con trong bình an gần bên Chúa.</strong>
+Lòng con chẳng dám tự cao,
+mắt con chẳng dám tự hào Chúa ơi!
+Đường cao vọng chẳng đời nào bước,
+việc diệu kỳ vượt sức chẳng cầu.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+Hồn con, con giữ trước sau,
+giữ cho thinh lặng, giữ cho thanh bình.
+Như trẻ thơ nép mình lòng mẹ,
+trong con, hồn lặng lẽ an vui.		    <strong>Đ.</strong>
 
+Cậy vào Chúa, Ít-ra-en ơi,
+từ nay đến mãi muôn đời muôn năm.		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+<strong>Tung hô Tin Mừng</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Anh em hãy thương yêu nhau như Thầy đã yêu thương anh em. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>Tin Mừng </strong>(Ga 15, 9-17)
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
-
-Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
-Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
-Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
-Đó là lời Chúa.
+      Trước khi bỏ thế gian mà về cùng Chúa Cha, Đức Giêsu phán với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy, và niềm vui của anh em được nên trọn vẹn.
+      Đây là điều răn của Thầy: Anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
+      Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy thì Người ban cho anh em. Điều Thầy truyền dạy anh em là: Hãy yêu thương nhau.”
+      <i>Đó là Lời Chúa.</i>
 
 <strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Lạy Chúa, chúng con cảm tạ Chúa vì những điều kỳ diệu Chúa đã thực hiện nơi tâm hồn thánh nữ Ca-ta-ri-na, chúng con khiêm tốn nài xin Chúa: Chúa đã yêu mến cuộc sống của thánh nữ, vì đã hoàn toàn thấm nhuần tinh thần Phúc Âm, xin đón nhận của lễ chúng con dâng là lòng biết ơn qua việc cử hành phụng vụ này. 
 Chúng con cầu xin...  
 
 <strong>TIỀN TỤNG</strong>
 Lạy Cha chí thánh,
 là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc,
+chúng con cảm tạ Cha mọi nơi mọi lúc,
 thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con
-nhờ Đức Kitô, Chúa chúng con.
-Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
-nhờ niềm tin của các thánh,
-và như vậy Cha cho chúng con thấy được tình yêu của Cha.
-Hôm nay, chúng con tạ ơn Cha,
-nhờ gương sáng của các ngài khích lệ,
-và nhờ lời chuyển cầu của các ngài trợ giúp,
-chúng con hăng say hoạt động để Nước Cha trị đến.
-Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
-chúng con chúc tụng vinh quang Cha rằng:  
+và đem lại ơn cứu độ cho chúng con.
+Chúng con phải chúc tụng sự kỳ diệu
+của tình thương Cha dành cho
+những người nam và người nữ
+đã đạt tới sự thánh thiện
+bằng sự tận hiến cho Đức Kitô vì Nước Trời.
+Qua mầu nhiệm giao ước này,
+Cha muốn cho thân phận con người yếu đuối chúng con
+tìm lại được ánh rạng ngời nguyên thuỷ,
+và ngay từ khi còn ở trần gian này,
+chúng con nếm cảm trước những thiện hảo
+mà Cha ban cho chúng con ở đời sau.
+Vì thế, cùng với các thiên thần và toàn thể các thánh,
+chúng con chúc tụng và tung hô Cha rằng :  
 
-<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
-Đức Giê-su nói với người Do-thái: 
-“Tôi là ánh sáng thế gian. 
-Ai theo tôi, sẽ không phải đi trong bóng tối, 
-nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+<strong>Ca hiệp lễ</strong>
+Chúa nói: người nào yêu mến Ta thì sẽ được Cha Ta yêu mến, chúng tôi sẽ đến nhà người ấy, và chúng tôi sẽ đến cư ngụ bên họ.
 
 <strong>Lời nguyện hiệp lễ</strong>
-Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
-Chúng con cầu xin.
+Lạy Thiên Chúa toàn năng, trong ngày mừng kính thánh nữ Ca-ta-ri-na, xin cho mầu nhiệm Thánh Thể này đem lại cho chúng con ánh sáng và lòng nhiệt thành. Chớ gì tâm hồn chúng con luôn bừng cháy ước muốn đạt tới sự thánh thiện, và chớ gì chúng con luôn biết dùng cuộc sống để làm những điều tốt đẹp. 
+Chúng con cầu xin...
 `,
 en: `<strong>MASS</strong>
 
