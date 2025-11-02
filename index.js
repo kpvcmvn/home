@@ -5511,7 +5511,211 @@ en: `<strong>MASS</strong>
     }
   },
 
-     // 30 Chân phước Mác-cô An-tôn Đu-ran-đô
+  
+
+     // 30 Kỷ niệm thành lập Tu Hội Nữ Tử Bác Ái
+  {
+    id: 'foundation-daughter-of-charity',
+    date: '11-29',
+    title: { 
+      vi: 'Kỷ niệm thành lập Tu Hội Nữ Tử Bác Ái',
+      en: 'Anniversary of the founding of Daughters of Charity'
+    },
+    subtitle: {
+      vi: 'Thành lập Tu Hội Nữ Tử Bác Ái',
+      en: 'Foundation of the Company of the Daughters of Charity',
+      
+    },
+    type: 'Kỷ niệm',
+    sections: {
+      biography: {
+        vi: `
+      Nguồn gốc của Tu Hội Nữ Tử Bác Ái bắt đầu từ những năm 1630, khi Thánh Vinh Sơn Phao-lô bắt đầu tuyển chọn những phụ nữ trẻ từ vùng nông thôn vào công việc phục vụ người bệnh và người nghèo. Sau đó, Thánh Vinh Sơn củng cố và hướng dẫn nhóm này đến với Thánh Lu-i-dờ Ma-ri-ắc. Thánh Lu-i-dờ bắt đầu sống trong cộng đoàn với những chị em đầu tiên vào ngày 29 tháng 11 năm 1633. Thánh Lu-i-dờ đã tuyên khấn đơn vào ngày 25 tháng 3 năm 1634. Bốn chị em tiếp theo cũng tuyên khấn đơn cùng ngày năm 1642. Cho đến ngày nay, Quý Sơ tiếp tục làm mới lại (lặp lại) lời tuyên khấn của mình vào Lễ Truyền Tin. Công trình của Tu hội đã phát triển mạnh mẽ, và vào thời điểm Thánh Vinh Sơn và Thánh Lu-i-dờ qua đời, có bốn mươi cộng đoàn đã được thành lập tại Pháp.
+      Tu hội của Thánh Elizabeth Anna Seton tại Hoa Kỳ được sáp nhập vào Tu Hội Nữ Tử Bác Ái vào năm 1850.
+
+        
+        `,
+       
+en: `
+      The origin of the Company of the Daughters of Charity dates back to the 1630s, when Saint Vincent de Paul began to recruit young women from the countryside for the work of serving the sick and the poor. Later, Saint Vincent consolidated this group and entrusted them to Saint Louise de Marillac.
+      Saint Louise began living in community with the first Sisters on November 29, 1633. Saint Louise made simple vows on March 25, 1634. The next four Sisters also made simple vows on the same day in 1642. To this day, the Sisters continue to renew their vows on the Feast of the Annunciation.
+      The work of the Company grew rapidly, and by the time of the deaths of Saint Vincent and Saint Louise, forty houses had been established in France. The community of Saint Elizabeth Ann Seton in the United States was joined to the Company of the Daughters of Charity in 1850.
+
+`
+},
+      massReadings: {
+vi: `
+
+<strong>Ca nhập lễ</strong> (Ed 36, 26-28)
+Đây Chúa phán: Ta sẽ ban cho các ngươi quả tim mới, đặt giữa các ngươi một thần trí mới, cất khỏi xác các ngươi quả tim bằng đá và ban cho các ngươi quả tim bằng thịt. Ta đặt thần trí Ta giữa các ngươi, làm cho các ngươi thực thi các huấn lệnh Ta, làm cho các ngươi tuân giữ và thực hành các lề luật Ta. Các ngươi sẽ cư ngụ trong xứ Ta đã ban cho tổ phụ các ngươi; các ngươi sẽ là dân Ta, còn Ta, Ta sẽ là Thiên Chúa các ngươi.
+
+<strong>Lời nguyện nhập lễ</strong>
+Lạy Thiên Chúa Hằng Sống, trong sự quan phòng kỳ diệu của Chúa, Chúa đã gọi Thánh Vinh Sơn và Thánh Lu-i-dờ để đặt nền tảng khởi đầu cho Tu Hội. Chúng con tin rằng Chúa sẽ hoàn thiện Tu Hội nhỏ bé của chúng con như Chúa muốn. Xin ban ơn cho chúng con, để chúng con có thể luôn luôn liên kết chặt chẽ với Chúa và với người nghèo là hình ảnh của Con Chúa, Đức Giêsu Kitô, Người hằng sống và hiển trị cùng Chúa, trong sự hiệp nhất của Chúa Thánh Thần đến muôn thuở muôn đời.
+Chúng con cầu xin...
+
+<strong>Bài đọc (1Cr 12,31-13,1-13)</strong>
+<strong>Bài trích thư thứ nhất của thánh Phaolô - Tông đồ gởi tín hữu Cô-rin-tô</strong>
+      Trong các ân huệ của Thiên Chúa, anh em cứ tha thiết tìm những ơn cao trọng nhất. Nhưng đây tôi xin chỉ cho anh em con đường trổi vượt hơn cả.
+      Giả như tôi có nói được các thứ tiếng của loài người và của các thiên thần đi nữa, mà không có đức mến, thì tôi cũng chẳng khác gì thanh la phèng phèng, chũm choẹ xoang xoảng. Giả như tôi được ơn nói tiên tri, và được biết hết mọi điều bí nhiệm, mọi lẽ cao siêu, hay có được tất cả đức tin đến chuyển núi dời non, mà không có đức mến, thì tôi cũng chẳng là gì. Giả như tôi có đem hết gia tài cơ nghiệp mà bố thí, hay nộp cả thân xác tôi để chịu thiêu đốt, mà không có đức mến, thì cũng chẳng ích gì cho tôi. Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả. Đức mến không bao giờ mất được. Ơn nói tiên tri ư? cũng chỉ nhất thời. Nói các tiếng lạ chăng? có ngày sẽ hết. Ơn hiểu biết ư? rồi cũng chẳng còn. Vì chưng sự hiểu biết thì có ngần, ơn nói tiên tri cũng có hạn. Khi cái hoàn hảo tới, thì cái có ngần có hạn sẽ biến đi. Cũng như khi tôi còn là trẻ con, tôi nói năng như trẻ con, hiểu biết như trẻ con, suy nghĩ như trẻ con; nhưng khi tôi đã thành người lớn, thì tôi bỏ tất cả những gì là trẻ con. Bây giờ chúng ta thấy lờ mờ như trong một tấm gương, mai sau sẽ được mặt giáp mặt. Bây giờ tôi biết chỉ có ngần có hạn, mai sau tôi sẽ được biết hết, như Thiên Chúa biết tôi. Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại. Nhưng cao trọng hơn cả là đức mến.
+      <i>Đó là Lời Chúa.</i> 
+
+<strong>Đáp ca</strong> (Tv 33, 2-7.18-19)
+<strong>Đ. Này đây những ngày công lý và hoà bình sẽ tới.</strong>
+Tôi sẽ không ngừng chúc tụng Chúa,
+câu hát mừng Người chẳng ngớt trên môi.
+Linh hồn tôi hãnh diện vì Chúa,
+xin các bạn nghèo nghe tôi nói mà vui lên.		    <strong>Đ.</strong>
+
+Hãy cùng tôi ngợi khen Đức Chúa,
+ta đồng thanh tán tụng danh Người.
+Tôi đã tìm kiếm Chúa và người đáp lại,
+giải thoát cho khỏi mọi nỗi kinh hoàng.		    <strong>Đ.</strong>
+
+Ai nhìn lên Chúa sẽ vui tươi hớn hở,
+không bao giờ bẽ mặt hổ ngươi.
+Kẻ nghèo này kêu lên và Chúa đã nhận lời,
+cứu cho khỏi mọi cơn nguy khốn. 		    <strong>Đ.</strong>  
+
+Họ kêu xin, và Chúa đã nhận lời,
+giải thoát khỏi mọi cơn nguy khốn.
+Chúa gần gũi những tấm lòng tan vỡ,
+cứu những tâm thần thất vọng ê chề. 		    <strong>Đ.</strong>  
+
+<strong>Tung hô Tin Mừng)</strong> (Ga 15,16
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng</strong> (Ga 15, 9-17)
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+      Trước khi bỏ thế gian mà về cùng Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy, và niềm vui của anh em được nên trọn vẹn”.
+      Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
+      Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em.  Điều Thầy truyền dạy anh em là hãy yêu thương nhau.
+      <i>Đó là Lời Chúa.</i>
+<strong>Lời nguyện tiến lễ</strong>
+Lạy Chúa, xin hãy thánh hóa những lễ vật này theo lòng thương xót của Chúa, và chấp nhận của lễ hy sinh thánh thiện chúng con đang dâng tiến Chúa đây. Nguyện xin Chúa ban ơn cho chúng con để chúng con có thể loan truyền lòng từ ái của Chúa cho tất cả mọi người. 
+Chúng con cầu xin...  
+
+<strong>TIỀN TỤNG</strong> <i>(Chọn một trong hai lời tiền tụng sau)</i>
+<strong>I</strong> Lạy Cha chí thánh,
+  là Thiên Chúa toàn năng hằng hữu,
+  chúng con tạ ơn Cha mọi nơi và mọi lúc,
+  thật là chính đáng, phải đạo
+  và đem lại ơn cứu độ cho chúng con.
+  Cha được tôn vinh trong cộng đoàn các thánh:
+  Khi tuyên dương công trạng các ngài,
+  Cha tuyên dương chính hồng ân của Cha.
+  Từ nếp sống của các ngài,
+  Cha ban cho chúng con gương sáng,
+  Nhờ sự hiệp thông với các ngài,
+  Cha cho chúng con một gia đình,
+  Nhờ lời các ngài chuyển cầu,
+  Cha ban ơn trợ giúp chúng con.
+  Nhờ những chứng nhân thế giá như vậy nâng đỡ,
+  chúng con xông vào cuộc chiến dành sẵn cho chúng con,
+  và cùng với các ngài,
+  chúng con được lãnh nhận
+  triều thiên vinh quang bất diệt,
+  nhờ Đức Kitô, Chúa chúng con.
+  Nhờ Người, các thiên thần ca ngợi
+  sự cao cả của Cha,
+  các quyền thần trên trời thờ lạy Cha,
+  cùng các đạo binh thiên quốc
+  đồng hân hoan chúc tụng Cha.
+  Xin cho chúng con đồng thanh với các ngài
+  hợp tiếng ca ngợi và tung hô Cha rằng:
+ 
+<strong>II</strong> Lạy Chúa là Cha chí thánh,
+  là Thiên Chúa toàn năng hằng hữu,
+  chúng con tôn vinh Cha, tạ ơn Cha mọi nơi mọi lúc,
+  nhờ Đức Kitô Chúa chúng con,
+  thật là chính đáng, phải đạo
+  và đem lại ơn cứu độ cho chúng con.
+  Cha đã thiết lập Hội Thánh của Con Cha
+  trên nền tảng các Tông đồ,
+  để Hội Thánh luôn là dấu chỉ sống động
+  sự thánh thiện của Cha nơi trần gian,
+  và để Hội Thánh loan báo
+  Tin Mừng Nước Trời cho mọi người.
+  Vì thế, giờ đây và cho đến muôn đời,
+  cùng với các thiên thần,
+  chúng con tuyên xưng và hân hoan lớn tiếng ca tụng Cha rằng:
+
+<strong>Ca hiệp lễ</strong> <i>(1Cr 13, 13)</i>
+“Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại, nhưng cao trọng hơn cả là đức mến”.
+
+<strong>Lời nguyện hiệp lễ</strong>
+Lạy Chúa, xin hãy tuôn đổ ân sủng của Chúa Thánh Thần trên những người mà Chúa đã nuôi dưỡng bằng Bánh bởi trời và đổi mới chúng con bằng những niềm vui của lòng bác ái thiện hảo. 
+Chúng con cầu xin...
+`, 
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+
+     // 31 Chân phước Mác-cô An-tôn Đu-ran-đô
   {
     id: 'bl-marc-antoine-durando',
     date: '12-10',
@@ -5527,11 +5731,24 @@ en: `<strong>MASS</strong>
     type: 'Lễ nhớ',
     sections: {
       biography: {
-        vi: `<strong>Tiểu sử</strong>
+        vi: `
+      Chân phước Mác-cô An-tôn Đu-ran-đô sinh ở Mônđôvi (Mondovi), năm 1801; ngài gia nhập Tu Hội Truyền Giáo năm 1818. Sau khi thụ phong linh mục, ngài tỏ ra có lòng nhiệt thành mục vụ đáng chú ý khi đi giảng nhiều tuần đại phúc. Ngài cũng được các giáo sĩ và giáo dân đánh giá cao về sự khôn ngoan và về kinh nghiệm; thế nên nhiều người chọn ngài làm linh hướng. Ngài đã tạo thuận lợi cho sự phát triển của các Nữ Tử Bác Ái ở nước Ý.
+      Năm 1865, ngài lập Dòng “Các Nữ Tử Sự Thương Khó Chúa Giêsu Nazaret” (“Filles de la Passion de Jésus de Nazareth”), thường được gọi là “Các Dì Nazaret”(Soeurs Nazaréennes), mà ngài truyền lại cho việc tôn sùng Cuộc Thương Khó Chúa Giêsu. Ngài trao phó cho các dì sứ mạng giúp đỡ các bệnh nhân ngày cũng như đêm, và việc phục vụ những người trẻ bị bỏ rơi.
+      Cha Mác-cô An-tôn Đu-ran-đô qua đời ở Tu-ri-nô (Turin), ngày 10 / 12 / 1880. Ngài được Đức Giáo Hoàng Gioan Phaolô II phong chân phước ngày 20.10.2002.
+
         
         `,
        
-en: `<strong>Biography</strong>
+en: `
+      Blessed Marco Antonio Durando was born May 22, 1801 in Mondovi, Italy and died December 10, 1880 in Turin, Italy. A priest of the Congregation of the Mission, he founded the Institute of the Sisters of Jesus the Nazarene.
+      The decree of Blessed Durando’s “heroic virtue” was made on July 1, 2000; on December 20, 2001 Pope John Paul II approved recognition of a miracle attributed to Blessed Durando, which paved the way for beatification, which occurred on October 20, 2002.
+      Marco Antonio grew up in Mondovi in a relatively affluent family, the son of a mother who imparted her religious beliefs and practices to her eight children and a father whose interests and beliefs were secular, verging on agnostic.
+      At age 15 Marco Antonio declared his interest in going to China as a missionary and subsequently entered the Congregation of the Mission. He made perpetual vows at age 18 and at Casale Monferrato was ordained a priest on June 12, 1824.
+      Instead of being sent to China, from 1829 until his death Marco Antonio served at the house of Turin. He preached missions throughout Piedmont, in which he emphasized God’s mercy. In the course of the missions, he also worked to instigate direct service to the impoverished. Two years after his arrival in Turin, he was named Superior. One of his early efforts was to help bring the Daughters of Charity to Piedmont, where they served in civilian and military hospitals. He sent them to the battlefront of the Crimean War in 1855.
+      Another early initiative of Marco Antonio’s was the propagation of the Marian Association of the Miraculous Medal among young people. The Association became a fertile ground for vocations; in only ten years, 260 young women of the area joined the Daughters of Charity. The increased numbers made possible the development of centers in Turin where the Daughters collaborated with the Ladies of Charity to provide service to the poor: orphanages, nursery schools, assistance for the sick, workshops for young women, and more.
+      In 1837 Marco Antonio became Superior of the Province of Northern Italy, a position he held until his death. In this capacity he preached retreats for priests and provided spiritual direction, at the request of the archbishop of Turin, to the Sisters of St. Joseph. He served other communities of women religious, including the Sisters of St. Ann, the Poor Clares, and the Repentant Sisters of St. Magdalene. In 1855 he founded the Brignole-Sale School, the purpose of which was to prepare priests to serve in foreign missions.
+      When approached by young women who were not able to enter religious communities because they did not meet canonical requirements, he sent them to serve the sick in their homes, an early kind of in-home hospice care. Servant of God Luigia Borgiotti agreed to become their leader. This group became known as the Company of the Passion of Jesus the Nazorean.
+      In 1928, 48 years after Marco Antonio’s death, the cause of beatification began in Turin. The apostolic process began in Rome in 1940 and culminated in 2001.
 
 `
 },
@@ -5844,6 +6061,176 @@ en: `<strong>MASS</strong>
       // compline: placeholder,
     }
   },
+
+       // 31 Chân phước Giu-li-a Nê-mê-si-a Va-lê
+  {
+    id: 'bl-giulia-nemesia-valle',
+    date: '12-12',
+    title: { 
+      vi: 'Chân phước Giu-li-a Nê-mê-si-a Va-lê',
+      en: 'Bl. Giulia Nemesia Valle'
+    },
+    subtitle: {
+      vi: 'Trinh nữ',
+      en: 'Virgin',
+      
+    },
+    type: 'Lễ nhớ',
+    sections: {
+      biography: {
+        vi: `<strong>Tiểu sử</strong>
+        
+        `,
+       
+en: `<strong>Biography</strong>
+
+`
+},
+      massReadings: {
+vi: `
+
+<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
+
+<strong>Lời nguyện nhập lễ</strong>
+Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Chúng con cầu xin...
+
+<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
+<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
+<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
+Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
+Đó là lời Chúa.  
+
+<strong>Đáp ca (Tv 15)</strong>
+<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
+Lạy Chúa Trời xin giữ gìn con,
+vì bên Ngài con đang ẩn náu.
+Con thưa cùng Chúa: “Ngài là Chúa con thờ,
+ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+
+Con chúc tụng Chúa hằng thương chỉ dạy,
+ngay cả đêm trường, lòng dạ nhắn nhủ con
+Con luôn nhớ có Ngài trước mặt,
+được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+
+
+Chúa sẽ dạy con biết đường về cõi sống:*
+trước Thánh Nhan ôi vui sướng tràn trề,
+ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
+
+<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+
+<strong>Tin Mừng (Ga 15, 9 – 17)</strong>
+<strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
+
+Trước khi bỏ thế gian về với Chúa Cha, Đức Giêsu nói với các môn đệ: “Chúa Cha đã yêu mến Thầy thế nào, Thầy cũng yêu mến anh em như vậy. Anh em hãy ở lại trong tình thương của Thầy. Nếu anh em giữ các điều răn của Thầy, anh em sẽ ở lại trong tình thương của Thầy, như Thầy đã giữ các điều răn của Cha Thầy và ở lại trong tình thương của Người. Các điều ấy, Thầy đã nói với anh em để anh em được hưởng niềm vui của Thầy và niềm vui của anh em được nên trọn vẹn.
+Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết.
+Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại, hầu tất cả những gì anh em xin cùng Chúa Cha nhân danh Thầy, thì Người ban cho anh em. Điều Thầy truyền dạy anh em là “hãy yêu thương nhau”.                  
+Đó là lời Chúa.
+
+<strong>Lời nguyện tiến lễ</strong>
+Lạy Chúa, xin đón nhận lễ phẩm của dân Chúa. Khi chúng con nhớ lại tình yêu vô biên của Con Chúa, xin cho chúng con, theo gương thánh nữ Ê-li-za-bét An-na, biết yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
+Chúng con cầu xin...  
+
+<strong>TIỀN TỤNG</strong>
+Lạy Cha chí thánh,
+là Thiên Chúa toàn năng hằng hữu,
+chúng con tạ ơn Cha mọi nơi mọi lúc,
+thật là chính đáng, phải đạo
+và đem lại ơn cứu độ cho chúng con
+nhờ Đức Kitô, Chúa chúng con.
+Cha luôn làm sống lại sức mạnh của Giáo Hội Cha
+nhờ niềm tin của các thánh,
+và như vậy Cha cho chúng con thấy được tình yêu của Cha.
+Hôm nay, chúng con tạ ơn Cha,
+nhờ gương sáng của các ngài khích lệ,
+và nhờ lời chuyển cầu của các ngài trợ giúp,
+chúng con hăng say hoạt động để Nước Cha trị đến.
+Vì thế, lạy Cha, cùng với toàn thể thiên thần và các thánh,
+chúng con chúc tụng vinh quang Cha rằng:  
+
+<strong>Ca hiệp lễ</strong> <i>(Ga 8,12)</i>
+Đức Giê-su nói với người Do-thái: 
+“Tôi là ánh sáng thế gian. 
+Ai theo tôi, sẽ không phải đi trong bóng tối, 
+nhưng sẽ nhận được ánh sáng đem lại sự sống”.
+
+<strong>Lời nguyện hiệp lễ</strong>
+Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
+Chúng con cầu xin.
+`,
+en: `<strong>MASS</strong>
+
+<strong>Entrance Antiphon (Jer 17:7-8)</strong>
+
+
+<strong>Collect</strong>
+
+
+<strong>Reading (1 Jn 3:14-18)</strong>
+
+<em>A reading from the first Letter of Saint .</em>
+
+
+<strong>Responsorial Psalm (Ps 16)</strong>
+
+<strong>R. You are my inheritance, O Lord!</strong>
+
+ <strong>R.</strong>
+ <strong>R.</strong>
+ <strong>R.</strong>
+
+<strong>Gospel Acclamation (Jn 15:16)</strong>
+
+<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
+
+<strong>Gospel (Jn 15:9-17)</strong>
+
+<strong>A reading from the holy Gospel according to John.</strong>
+
+
+<strong>Prayer over the Offerings</strong>
+
+
+<strong>Communion Antiphon (Jn 8:12)</strong>
+
+
+<strong>Prayer after Communion</strong>
+
+`,    
+},
+      officeOfReadings: {
+        vi: `<strong>KINH SÁCH</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
+      // compline: placeholder,
+    }
+  },
+
+
+  
 
 
 ];
