@@ -5755,38 +5755,50 @@ en: `
       massReadings: {
 vi: `
 
-<strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
+<strong>Ca nhập lễ</strong> (Tv 15, 5-6)
 Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
 
 <strong>Lời nguyện nhập lễ</strong>
-Lạy Chúa, thánh nữ Ê-li-za-bét An-na Xe-tôn đã tha thiết ao ước tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng rực rỡ của Chúa. Xin ban cho chúng con, theo gương người để lại, biết đáp trả tiếng gọi của Tin Mừng, và kiên vững trong đức tin, nhiệt thành trong đức mến. 
+Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hoá chân phước linh mục Mác-Cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, chúng con biết tuân theo giáo huấn Phúc Âm và yêu mến Chúa hết tình con thảo. 
 Chúng con cầu xin...
 
-<strong>Bài đọc (Gr 20, 7,8b-9)</strong>
-<em>(Để đáp trả tiếng gọi của Thiên Chúa, Ê-li-za-bét An-na Xe-tôn đã phải chiến đấu chống lại gia đình mình và chống lại những cám dỗ của riêng mình).</em>
-<strong>Bài trích sách Ngôn sứ Giêrêmia</strong>
-Lạy Đức Chúa Ngài đã quyến rũ con, và con đã để cho Ngài quyến rũ. Ngài mạnh hơn con, và Ngài đã thắng. Suốt ngày con đã nên trò cười cho thiên hạ, để họ nhạo báng con. Vì Lời Đức Chúa mà con đây bị sỉ nhục và chế giễu suốt ngày. Có lần con tự nhủ: “Tôi sẽ không nghĩ đến Người, cũng chẳng nhân danh Người mà nói nữa”. Nhưng Lời Ngài cứ như ngọn lửa bừng cháy trong tim, âm ỉ trong xương cốt. Con nén chịu đến phải hao mòn, nhưng làm sao nén được!
-Đó là lời Chúa.  
+<strong>Bài đọc</strong> (Hc 2,7-11)
+<strong>Bài trích sách Huấn Ca</strong>
+      Hỡi ai kính sợ Đức Chúa,
+      hãy trông đợi lòng lân tuất của Người,
+      Đừng lìa xa Người kẻo ngã.
+      Hỡi ai kính sợ Đức Chúa, hãy tin vào Người,
+      và các bạn sẽ không mất phần thưởng đâu.
+      Hỡi ai kính sợ Đức Chúa, hãy đợi trông ơn lành,
+      niềm vui không cùng là lòng thương xót.
+      Hãy nhìn lại các thế hệ ban đầu mà xem:
+      nào có ai tin vào Đức Chúa mà bị hổ thẹn bao giờ?
+      Hay có ai bền tâm kính sợ Người mà bị bỏ rơi?
+      Hoặc có ai kêu cầu Người mà bị Người khinh dể?
+      Vì Đức Chúa là Đấng nhân từ và hay thương xót:
+      Người thứ tha tội lỗi và cứu vớt trong lúc gian truân.
+      <i>Đó là Lời Chúa.</i>
 
-<strong>Đáp ca (Tv 15)</strong>
+<strong>Đáp ca </strong>(Tv 15)
 <strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
+Lạy Chúa Trời, xin giữ gìn con,
+Vì bên Ngài con đang ẩn náu.
+Con thưa cùng Chúa: Ngài là Chúa con thờ
+Là chén phúc lộc dành cho con,
+Số mạng con, chính Ngài nắm giữ.		    <strong>Đ.</strong>
 
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
+Con chúc tụng Chúa hằng thương chỉ dạy
+Ngay cả đêm trường, lòng dạ nhắn nhủ con.
 Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
+được Ngài ở bên, chẳng nao núng bao giờ.	    <strong>Đ.</strong>
 
+Ngoài Chúa ra đâu là hạnh phúc
+Chúa sẽ dạy con biết đường về cõi sống,
+Trước thánh nhan ôi vui sướng tràn trề,
+ở bên Ngài hoan lạc chẳng hề vơi.		    <strong>Đ.</strong>  
 
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
-
-<strong>Tung hô Tin Mừng (Ga 15,16)</strong>
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Thầy đã chọn anh em từ giữa thế gian, để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
+<strong>Tung hô Tin Mừng</strong> (Mc 1,16)
+<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> Triều đại Thiên Chúa đã đến gần chúng ta. Hãy tin tưởng vào Tin Mừng. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
 
 <strong>Tin Mừng (Ga 15, 9 – 17)</strong>
 <strong>Tin Mừng Đức Giêsu Kitô theo thánh Gio-an</strong>
