@@ -7914,18 +7914,6 @@ const DEFAULT_SETTINGS = {
             vi: 'Lạy Chúa giàu lòng thương xót, chúng con ngợi khen và tôn vinh Chúa, Đấng luôn đồng hành với từng bước chân qua những nẻo đường lịch sử chúng con. Chúng con cảm tạ Chúa đã chọn Cha Thánh Vinh Sơn Phaolô và vì Giáo Hội, Chúa đã biến đổi ngài thành một ngôn sứ của lòng bác ái và công bình. Chúa đã gọi ngài trở nên hình ảnh của Đức Kitô, Mục Tử Nhân Lành, Đấng chăm sóc những người bé nhỏ và yếu đuối, những kẻ lạc lối và bị loại trừ. Chính Thần khí sự thật và ánh sáng của Chúa, đã thối bùng trái tim ngài bằng một tình yêu lớn lao. Qua ngài, Chúa đã nâng đỡ Tu Hội nhỏ bé trong bốn thế kỷ qua, và luôn diễn tả sự bao bọc của Chúa với những người nghèo khổ trên Trái Đất này. Xin cho chúng con trở thành con người cầu nguyện, được nuôi dưỡng bằng Thánh Thể Chúa, ngự trên đôi tay chúng con, được nuôi dưỡng bằng Lời Chúa, ủy thác trên môi miệng chúng con. Để chúng con có khả năng cảm thông trước những khổ đau của nhân loại. Xin đốt lên trong tâm hồn chúng con ngọn lửa của lòng nhân hậu và ngọn lửa truyền giáo. Xin cho chúng con đừng bao giờ quên rằng mọi sự đều là ân huệ Chúa ban. Amen.', 
             en: 'Praise and honor to you, God of mercy, who always accompany our steps along the paths of history. We thank you because you have chosen Vincent de Paul and, for your Church, you converted him into a prophet of charity and justice. You called him to be an icon of Christ, the Good Shepherd, who cares for the least and the fragile, the lost and the excluded. Your Spirit of truth and light, inflamed his heart with a great love. Through him you raised up the Little Company, wich, for four centuries, tells of your solidarity with the poor of the Earth. Make us today men of prayer, capable of his regard for human miseries, nourished by the Eucharist you place in our hands and by the Gospel you entrust to our lips. Let there burn in our hearts the fire of tenderness and mission. Make us never lose the memory that everything is your gift. Amen'
           }},
-          
-// Da Pacem
-{ id: 'dapacem', title: { 
-            vi: 'Da Pacem', 
-            en: 'Da Pacem'
-          
-          }, 
-           content: { 
-            vi: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.', 
-            en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
-          }},
-
 // Kinh Kinh Truyền Tin
            { id: 'kinktruyentin', title: { 
             vi: 'Kinh Truyền Tin', 
@@ -7964,7 +7952,193 @@ Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
 <strong>R:</strong> That we may be made worthy of the promises of Christ.
 <strong>Let us pray:</strong> Pour forth, we beseech You, O Lord, Your Grace into our hearts; that as we have known the incarnation of Christ, your Son by the message of an angel, so by His passion and cross we may be brought to the glory of His Resurrection. Through the same Christ, our Lord. Amen.
             `,
+          }},      
+// Da Pacem
+{ id: 'dapacem', title: { 
+            vi: 'Da Pacem', 
+            en: 'Da Pacem'
+          
+          }, 
+           content: { 
+            vi: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.', 
+            en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
           }},
+// Kinh cầu thánh Vinh Sơn Phaolô
+{ id: 'dapacem', title: { 
+            vi: 'Kinh cầu thánh Vinh Sơn Phaolô', 
+            en: 'The Litany of St. Vincent de Paul'
+          
+          }, 
+           content: { 
+            vi: `
+– Xin Chúa thương xót chúng con.
+<i>Xin Chúa thương xót chúng con.</i>
+– Xin Chúa Kitô thương xót chúng con.
+<i>Xin Chúa Kitô thương xót chúng con.</i>
+- Xin Chúa thương xót chúng con.
+<i>Xin Chúa thương xót chúng con.</i>
+- Chúa Kitô nghe cho chúng con.
+<i>Chúa Kitô nhậm lời chúng con.</i>
+- Đức Chúa Cha ngự trên trời là Đức Chúa Trời thật.
+<i>Thương xót chúng con.</i>
+- Đức Chúa Con chuộc tội cứu thế là Đức C.Trời thật.
+<i>Thương xót chúng con.</i>
+– Đức Chúa Thánh Thần là Đức Chúa Trời thật.
+<i>Thương xót chúng con.</i>
+- Ba Ngôi cũng là một Đức Chúa Trời.
+<i>Thương xót chúng con.</i>
+- Rất Thánh Đức Bà Maria.
+<i>Cầu cho chúng con.</i>
+– Thánh Vinh Sơn khi còn trẻ đã có sự khôn ngoan của bậc lão thành.
+<i>Cầu cho chúng con.</i>
+– Thánh Vinh Sơn ngay từ thời niên thiếu đã có lòng yêu người.
+– Thánh Vinh Sơn là một mục đồng đơn sơ đã được chọn để chăn dắt Dân Chúa.
+– Thánh Vinh Sơn trong thời gian làm nô lệ vẫn giữ được sự tự do đích thực.
+– Thánh Vinh Sơn là người công chính sống bởi Đức Tin.
+– Thánh Vinh Sơn có Đức Cậy mạnh mẽ và vững vàng.
+– Thánh Vinh Sơn được nung đốt bởi ngọn lửa Đức Mến.
+– Thánh Vinh Sơn là người đơn sơ, ngay thẳng và kính sợ Thiên Chúa.
+– Thánh Vinh Sơn dịu hiền và khiêm nhượng trong lòng theo gương Chúa Giêsu Kitô.
+– Thánh Vinh Sơn hãm mình về thể xác và tinh thần.
+– Thánh Vinh Sơn sống bằng tinh thần của Chúa Giêsu Kitô.
+– Thánh Vinh Sơn là người rất nhiệt thành đối với vinh quang Thiên Chúa.
+– Thánh Vinh Sơn đầy lòng hăng say đi tìm kiếm các linh hồn.
+– Thánh Vinh Sơn luôn kiên trì khinh chê và từ bỏ tinh thần thế tục.
+– Thánh Vinh Sơn giàu đức khó nghèo Kitô giáo.
+– Thánh Vinh Sơn được sánh với Thiên Thần về đức khiết tịnh.
+– Thánh Vinh Sơn là người vâng phục và đã chiến thắng nhờ đức vâng phục.
+– Thánh Vinh Sơn từ khi còn niên thiếu đã làm những công việc nặng nhọc.
+– Thánh Vinh Sơn luôn xa lánh tất cả những gì có dáng dấp của sự xấu xa.
+– Thánh Vinh Sơn rất nhiệt thành vươn tới sự trọn lành.
+– Thánh Vinh Sơn như tảng đá không lay chuyển giữa biển giông tố trần gian.
+– Thánh Vinh Sơn kiên trì trong đường lối khôn ngoan, như mặt trời luôn bền bỉ mọc lên và lặn xuống.
+– Thánh Vinh Sơn rất nhẫn nại trong mọi nghịch cảnh.
+– Thánh Vinh Sơn đầy tinh thần chịu đựng và khoan dung.
+– Thánh Vinh Sơn là người con luôn dễ dạy của Giáo Hội Rôma.
+– Thánh Vinh Sơn hằng gắn bó với Tòa Thánh Phêrô cho đến chết.
+– Thánh Vinh Sơn là Cha rất yêu dấu của hàng Giáo sĩ.
+– Thánh Vinh Sơn là vị sáng lập rất khôn ngoan của Tu Hội Truyền Giáo.
+– Thánh Vinh Sơn là vị sáng lập rất ân cần của Tu Hội Nữ Tử Bác Ái.
+– Thánh Vinh Sơn là người đã huấn luyện con cái ngài để làm mọi việc từ thiện.
+– Thánh Vinh Sơn rất quảng đại làm phúc cho tất cả mọi người nghèo.
+– Thánh Vinh Sơn rất chuyên cần trong việc cầu nguyện và trong nhiệm vụ giảng dạy.
+– Thánh Vinh Sơn đã trung thành noi gương nhân đức và đời sống của Chúa Giêsu Kitô.
+– Thánh Vinh Sơn đã bền đỗ đến cùng.
+– Thánh Vinh Sơn đã có một cái chết quý giá trước mặt Thiên Chúa.
+– Thánh Vinh Sơn nay đang hưởng hạnh phúc vì đã chiếm hữu được chân lý, đức ái và đời sống vĩnh cửu.
+– Thánh Vinh Sơn cho chúng con, là những người con yêu dấu, được bước theo vết chân ngài là Cha của chúng con.
+– Lạy Chiên Thiên Chúa, Đấng xóa bỏ tội trần gian
+<i>Xin tha tội cho chúng con.</i>
+– Lạy Chiên Thiên Chúa, Đấng xóa tội trần gian,
+<i>Xin nhậm lời chúng con.</i>
+– Lạy Chiên Thiên Chúa, Đấng xóa bỏ tội trần gian,
+<i>Xin thương xót chúng con.</i>
+– Chúa đã dẫn dắt người công chính trong đường lối ngay thẳng và chính trực.
+<i>Và đã cho người đạt tới Nước Thiên Chúa.</i>
+<strong>Lời Nguyện:</strong>
+      Lạy Chúa, để người nghèo được cứu độ và để hàng giáo sĩ được đào tạo tốt đẹp, Chúa đã đổ muôn ơn tông đồ xuống trên tôi tớ Chúa là Thánh Vinh Sơn Phaolô; chúng con là những người đang muốn học hỏi cuộc sống của thánh nhân. Vậy xin Chúa hằng ban cho chúng con được cháy lửa tình yêu của người, để chúng con biết yêu những gì người đã yêu mến và thực hành những gì người đã truyền dạy. Chúa là Đấng hằng sống và hiển trị muôn đời. Amen.
+          
+            `, 
+
+            en: `
+Lord, have mercy on us,
+Christ, have mercy on us.
+Lord, have mercy on us.
+Christ, hear us, Christ, graciously hear us.
+<strong>V.</strong> The just shall spring up like the lily,
+<strong>R.</strong> and flourish forever before the Lord.
+Holy Mary, Mother of God,
+<i>Pray for us.</i>
+Holy Mary, comforter of the afflicted,
+<i>Pray for us.</i>
+Saint Vincent de Paul,
+<i>Pray for us.</i>
+St. Vincent, who at young age did display a wisdom most mature,
+<i>Pray for us.</i>
+St. Vincent, who from thy childhood was full of pity and compassion,
+<i>Pray for us.</i>
+St. Vincent, who like King David, from a simple shepherd became a ruler and pastor of the people of God,
+<i>Pray for us.</i>
+St. Vincent, who in your captivity by Turkish pirates did preserve perfect freedom,
+<i>Pray for us.</i>
+St. Vincent the just man, who did live by faith,
+<i>Pray for us.</i>
+St. Vincent, always supported on the firm anchor of a Christian hope,
+<i>Pray for us.</i>
+St. Vincent, always inflamed with the fire of perfect charity,
+<i>Pray for us.</i>
+St. Vincent, truly simple, upright, and fearing God,
+<i>Pray for us.</i>
+St. Vincent, true disciple of Jesus Christ, always meek and humble of heart,
+<i>Pray for us.</i>
+St. Vincent, perfectly mortified in heart and mind,
+<i>Pray for us.</i>
+St. Vincent, ever animated with the spirit of Our Lord,
+<i>Pray for us.</i>
+St. Vincent, generous maintainer of the glory of God,
+<i>Pray for us.</i>
+St. Vincent, ever inwardly burning and ever outwardly transported
+with zeal for souls,
+<i>Pray for us.</i>
+St. Vincent, who in Christian poverty did find the precious pearl
+and the rich treasure of the Gospel,
+<i>Pray for us.</i>
+St. Vincent, like to the Angels in thy purity,
+<i>Pray for us.</i>
+St. Vincent, faithful in obedience and victorious in word and deed,
+<i>Pray for us.</i>
+St. Vincent, who did flee the slightest appearance of evil,
+<i>Pray for us.</i>
+St. Vincent, who in all your actions did aspire
+to the practice of perfect virtue,
+<i>Pray for us.</i>
+St. Vincent, who did remain like a rock amid the stormy sea of this world,
+<i>Pray for us.</i>
+St. Vincent, invincible amid the arrows of adversity,
+<i>Pray for us.</i>
+St. Vincent, patient in suffering and indulgent in forgiving,
+<i>Pray for us.</i>
+St. Vincent, ever docile and obedient son of the Holy See,
+<i>Pray for us.</i>
+St. Vincent, who had exceeding horror of the novel ways and subtle words of heretics,
+<i>Pray for us.</i>
+St. Vincent, destined by a special Providence to announce the Gospel to the poor,
+<i>Pray for us.</i>
+St. Vincent, father and model of ecclesiastics,
+<i>Pray for us.</i>
+St. Vincent, prudent founder of the Congregation of the Mission,
+<i>Pray for us.</i>
+St. Vincent, wise institutor of the Congregation of the Sisters of Charity,
+<i>Pray for us.</i>
+St. Vincent, tender in compassionating and prompt in relieving the necessities of the poor,
+<i>Pray for us.</i>
+St. Vincent, equally fervent in the practice of prayerand in ministry of the word,
+<i>Pray for us.</i>
+St. Vincent, admirable in imitation of the life and virtues of Jesus,
+<i>Pray for us.</i>
+St. Vincent, who did persevere to the end in shunning evil and doing good,
+<i>Pray for us.</i>
+St. Vincent, who as in life so in death was most precious in the sight of God,
+<i>Pray for us.</i>
+St. Vincent, glory of France and pride of Paris,
+<i>Pray for us.</i>
+St. Vincent, patron of all charitable associations,
+<i>Pray for us.</i>
+Lamb of God, Who take away the sins of the world,
+<i>Spare us, O Lord.</i>
+Lamb of God, Who take away the sins of the world,
+<i>Graciously hear us, O Lord.</i>
+Lamb of God, Who take away the sins of the world,
+<i>Have mercy on us.</i>
+<strong>V.</strong> The Lord hath led the just man through right ways,
+<strong>R.</strong> and showed unto him the Kingdom of God.
+<strong>Let Us Pray:</strong>
+      O God, Who by an effect of Your infinite goodness, has renewed in our days, in the apostolic character and humility of Your blessed servant St. Vincent, the spirit of Your well-beloved Son to preach the Gospel to the poor, relieve the afflicted, console the miserable, and add new luster to the formation of priests grant, we beseech You, through his powerful intercession, that we also, delivered from the great misery of sin, may labor to please You by the practice of the same humility, through Jesus Christ Our Lord, Who lives with You and the Holy Spirit, one God, world without 
+            
+            `
+          }},
+
+
 
 
         ],
@@ -11179,14 +11353,34 @@ All-powerful God keep us united with your Son in his death and burial so that we
 
 
 
+          ],
+// Tuần cửu nhật kính thánh Vinh Sơn
+          novena: [
+ { id: 'day1', title: { 
+              vi: 'Ngày 1',
+              en: 'Day 1' 
+              }, 
+            content: { 
+              vi: `
+
+      `, 
+
+              en: `
+
+      `,   
+                }},
           ]
     },
+
+
+
     logoUrl: './photos/Logo-CM-tradicional-sin-fondo.png',
     headerTitle: { vi: 'Phụng Vụ Vinh Sơn', en: 'Vincentian Liturgy' },
     headerSubtitle: { vi: 'Dành cho gia đình Vinh Sơn', en: 'For the Vincentian Family'},
     mainSections: [
       { id: 'prayers', title: { vi: 'Kinh Nguyện', en: 'Prayers'}, icon: '' },
-      {id: 'prayersoffice', title: { vi: 'Kinh Tối', en: 'Night Prayers'}, icon: '' }
+      {id: 'prayersoffice', title: { vi: 'Kinh Tối', en: 'Night Prayers'}, icon: '' },
+      {id: 'novena', title: { vi: 'Tuần Cửu Nhật', en: 'Novena'}, icon: '' },
     ],
     supportEmail: 'bantruyenthong.vinhson@gmail.com',
     sectionsConfig: SECTIONS_CONFIG,
