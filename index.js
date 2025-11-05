@@ -7964,7 +7964,7 @@ Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
             en: 'Da Pacem Domine, in diebus nostris. Quia non est alius qui pugnet pro nobis, Nisi tu, Deus noster.'
           }},
 // Kinh cầu thánh Vinh Sơn Phaolô
-{ id: 'dapacem', title: { 
+{ id: 'kinhcauthanhvinhsonphaolo', title: { 
             vi: 'Kinh cầu thánh Vinh Sơn Phaolô', 
             en: 'The Litany of St. Vincent de Paul'
           
