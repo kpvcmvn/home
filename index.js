@@ -5914,46 +5914,209 @@ Trao tặng nhau niềm vui của hy vọng:
 Chúa đang đến, Ngài ngự trong hồn ta.
 
 <strong>Xướng đáp</strong>
-<strong>X </strong> Hễ ngươi nghe Ta phán dạy điều gì
-<strong>Đ </strong> thì hãy nhân danh Ta truyền lại cho chúng.chúng
-<strong>Ca vịnh và Điệp ca: </strong> Theo ngày trong tuần.
+<strong>X</strong> Hễ ngươi nghe Ta phán dạy điều gì
+<strong>Đ</strong> thì hãy nhân danh Ta truyền lại cho chúng.
+<strong>Ca vịnh và Điệp ca: </strong> <i>theo ngày trong tuần.</i>
 
-<strong>Bài đọc 1 </strong>Ep 4, 1 -24
-<strong>Xây dựng thân thể Đức Kitô trong hiệp nhất.
-Trích thư thánh Phaolô gửi tín hữu Ê-phê-xô. </strong>
+<strong>Bài đọc 1</strong> Ep 4,1-24
+<strong>Xây dựng thân thể Đức Kitô trong hiệp nhất. </strong>
+<strong>Trích thư thánh Phaolô gửi tín hữu Ê-phê-xô</strong>
       Vậy, tôi là người đang bị tù vì Chúa, tôi khuyên nhủ anh em hãy sống cho xứng với ơn kêu gọi mà Thiên Chúa đã ban cho anh em. Anh em hãy ăn ở thật khiêm tốn, hiền từ và nhẫn nại; hãy lấy tình Bác Ái mà chịu đựng lẫn nhau. Anh em hãy thiết tha duy trì sự hiệp nhất mà Thần Khí đem lại, bằng cách ăn ở thuận hòa gắn bó với nhau. Chỉ có một thân thể, một Thần Khí, cũng như anh em đã được kêu gọi để chia sẻ cùng một niềm hy vọng. Chỉ có một Chúa, một niềm tin, một phép rửa. Chỉ có một Thiên Chúa, Cha của mọi người, Đấng ngự trên mọi người, qua mọi người và trong mọi người.
       Nhưng mỗi người chúng ta đã nhận được ân sủng tùy theo mức độ Đức Kitô ban cho. Vì thế, có lời Kinh Thánh nói:
       Người đã lên cao, dẫn theo một đám tù;
       Người đã ban ân huệ cho loài người.
-Người đã lên nghĩa là gì, nếu không phải Người đã xuống tận các vùng sâu thẳm dưới mặt đất? Đấng đã xuống cũng chính là Đấng đã lên cao hơn mọi tầng trời để làm cho vũ trụ được viên mãn. Và chính người đã ban ơn cho kẻ này làm tông đồ, người nọ làm ngôn sứ, kẻ khác làm người loan báo Tin Mừng, kẻ khác nữa làm người coi sóc và dạy dỗ. Nhờ đó, các thánh được chuẩn bị để làm công việc phục vụ, là xây dựng thân thể Đức Kitô, cho đến khi tất cả chúng ta đạt tới sự hiệp nhất trong đức tin và trong sự nhận biết Con Thiên Chúa, tới tình trạng con người trưởng thành, tới tầm vóc viên mãn của Đức Kitô.
-Như vậy, chúng ta sẽ không còn là những trẻ nhỏ, bị sóng đánh trôi dạt theo mọi chiều gió đạo lý, giữa trò bịp bợm của những kẻ giảo quyệt khéo dùng mưu ma chước quỷ để làm cho kẻ khác lầm đường. Nhưng, sống theo sự thật và trong tình Bác Ái, chúng ta sẽ lớn lên về mọi phương diện, vươn tới Đức Kitô vì Người là đầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế người làm cho toàn thân lớn lên và được xây dựng trong tình Bác Ái.
-Vậy đây là điều tôi nói với anh em, và có Chúa chứng giám, tôi khuyên anh em: đừng ăn ở như dân ngoại nữa, vì họ sống theo những tư tưởng phù phiếm của họ. Tâm trí họ đã ra tối tăm, họ xa lạ với sự sống Thiên Chúa ban, vì lòng chai dạ đá khiến họ trở nên dốt nát. Họ đã mất ý thức nên đã buông thả, sống phóng đãng đến mức làm mọi thứ ô uế cách vô độ. Còn anh em, anh em đã chẳng học biết về Đức Kitô như vậy đâu; ấy là nếu anh em đã được nghe nói về Đức Giêsu và được dạy dỗ theo tinh thần của Người, đúng như sự thật ở nơi Đức Giêsu. Vì thế, anh em phải cởi bỏ con người cũ với nếp sống xưa, là con người phải hư nát vì bị những ham muốn lừa dối, anh em phải để Thần Khí đổi mới tâm trí anh em, và phải mặc lấy con người mới, là con người đã được sáng tạo theo hình ảnh Thiên Chúa để thật sự sống công chính và thánh thiện.
-
+      Người đã lên nghĩa là gì, nếu không phải Người đã xuống tận các vùng sâu thẳm dưới mặt đất? Đấng đã xuống cũng chính là Đấng đã lên cao hơn mọi tầng trời để làm cho vũ trụ được viên mãn. Và chính người đã ban ơn cho kẻ này làm tông đồ, người nọ làm ngôn sứ, kẻ khác làm người loan báo Tin Mừng, kẻ khác nữa làm người coi sóc và dạy dỗ. Nhờ đó, các thánh được chuẩn bị để làm công việc phục vụ, là xây dựng thân thể Đức Kitô, cho đến khi tất cả chúng ta đạt tới sự hiệp nhất trong đức tin và trong sự nhận biết Con Thiên Chúa, tới tình trạng con người trưởng thành, tới tầm vóc viên mãn của Đức Kitô.
+      Như vậy, chúng ta sẽ không còn là những trẻ nhỏ, bị sóng đánh trôi dạt theo mọi chiều gió đạo lý, giữa trò bịp bợm của những kẻ giảo quyệt khéo dùng mưu ma chước quỷ để làm cho kẻ khác lầm đường. Nhưng, sống theo sự thật và trong tình Bác Ái, chúng ta sẽ lớn lên về mọi phương diện, vươn tới Đức Kitô vì Người là đầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế người làm cho toàn thân lớn lên và được xây dựng trong tình Bác Ái.
+      Vậy đây là điều tôi nói với anh em, và có Chúa chứng giám, tôi khuyên anh em: đừng ăn ở như dân ngoại nữa, vì họ sống theo những tư tưởng phù phiếm của họ. Tâm trí họ đã ra tối tăm, họ xa lạ với sự sống Thiên Chúa ban, vì lòng chai dạ đá khiến họ trở nên dốt nát. Họ đã mất ý thức nên đã buông thả, sống phóng đãng đến mức làm mọi thứ ô uế cách vô độ. Còn anh em, anh em đã chẳng học biết về Đức Kitô như vậy đâu; ấy là nếu anh em đã được nghe nói về Đức Giêsu và được dạy dỗ theo tinh thần của Người, đúng như sự thật ở nơi Đức Giêsu. Vì thế, anh em phải cởi bỏ con người cũ với nếp sống xưa, là con người phải hư nát vì bị những ham muốn lừa dối, anh em phải để Thần Khí đổi mới tâm trí anh em, và phải mặc lấy con người mới, là con người đã được sáng tạo theo hình ảnh Thiên Chúa để thật sự sống công chính và thánh thiện.
 <strong>Xướng đáp</strong>
-<strong>X </strong> 
-<strong>Đ </strong>
+<strong>Đ</strong> Vậy anh em hãy tự khiêm tự hạ dưới bàn tay uy quyền của Thiên Chúa, để Ngài cất nhắc anh em khi đến thời Người đã định. Nếu anh em không trở nên như trẻ nhỏ, thì chẳng được vào Nước Trời.
+<strong>*</strong> Phúc thay ai hiền lành, vì họ sẽ được đất hứa làm gia nghiệp.
+<strong>X</strong> Đức Giê su đã tự khiêm tự hạ, vâng lời cho đến chết, và chết trên thập giá. *
 
-<strong>Bài đọc 2 </strong>
+<strong>Bài đọc 2</strong>
+<strong>Tình Yêu Đức Kitô Chịu Đóng Đinh</strong>
+<strong>Huấn từ của chân phước Mác-cô An-tôn Đu-ran-đô</strong>
+      Can-vê là ngọn núi của những người yêu Chúa và các vết thương há mở của Đức Giêsu chịu đóng đinh là nơi trú ẩn và là chỗ nương thân của những người yêu của Người. Ai không yêu thích ở lại trên đồi Can-vê, hoặc ở trong các vết thương của Chúa, không bao giờ là người yêu của Chúa được. Và nếu tình yêu đã làm cho Chúa ôm lấy thập giá và những đinh nhọn đóng trên gỗ, rồi cuối cùng, Chúa chịu đau khổ, chịu chết vì quá yêu mỗi người chúng ta, làm sao chúng ta có thể nhẫn tâm trước lòng Bác Ái như thế? Làm sao chúng ta có thể không yêu được một sự thiện hảo vô biên, một Thiên Chúa tiêu hao vì yêu chúng ta? Chính ở trên đồi Can-vê mà tình yêu của các thánh Têrêxa, các thánh Catarina, các thánh A-nê, và bao vị thánh khác được hình thành.
+      Để nói cho đúng về tình yêu của Đức Kitô chịu đóng đinh, chúng ta phải chấm bút vào máu của Đấng Chịu Đóng Đinh, và phải có một con tim biết cảm nghiệm, biết yêu và biết sống hy sinh vì tình yêu Chúa, và vì thánh ý của Thiên Chúa. Nhưng tôi còn quá xa lạ với tâm tư đó, đến nỗi tôi không tìm được lối thoát nào hơn là hạ mình. khiêm tốn hay lẩn trốn. Không yêu Thiên Chúa, Đấng vì yêu chúng ta đã chịu đau khổ, và chịu chết, ôi cái tội thật ghê sợ! Từ bao năm qua theo học ở trường của Đấng Chịu Đóng Đinh mà chưa thuộc được bài học yêu quá đơn sơ; giảng cho người ta về tình yêu Chúa mà vẫn còn vô cảm và trơ trơ, ôi, một sự quái lạ kinh khủng quá!
+      Giả như Thiên Chúa ra lệnh cho chúng ta phải ăn chay, phải đi xa, hãm mình phạt xác, tôi có thể từ chối: tôi không thể. Nhưng Thiên Chúa chỉ ra lệnh yêu Ngài; Lý do thoái thác nào khi tôi vẫn vô cảm? Giới răn nào dễ dàng hơn, dịu ngọt hơn, êm ái hơn? Ô! Ôi những chê trách nghiêm khắc vào ngày phán xét! Không yêu người cha hay yêu thương nhất, người bạn chân tình nhất, người anh dịu dàng nhất và hôn phu đẹp và quyến rũ nhất! Còn điều xấu xa nào lớn lao hơn điều xấu của chúng ta? Nhận một con tim để yêu Đức Giêsu mà lại làm ô uế và làm bẩn con tim này khi đem vào đền thánh này tình yêu thụ tạo! Ngài thì quá yêu ta, còn ta thì quá chai đá! Ngài xin con tim chúng ta, mà chúng ta lại từ chối Ngài, mà còn đem tặng cho thụ tạo! Ngài, bằng những lời mời gọi, những cắn rứt lương tâm, sự động viên mạnh mẽ yêu Ngài, mà ta, ta giả điếc làm ngơ trước những lời mời gọi của Ngài, ta dập tắt những cắn rứt, lại từ khước yêu Ngài! Ôi! Quả là có ít người yêu Đức Giêsu! Họ nói họ yêu Chúa, mà thật ra họ không yêu! Họ yêu Chúa trên đồi Ta-Bo, nhưng không yêu Chúa trên đồi Can-vê; Họ yêu Chúa khi cảm thấy sự dịu dàng nào đó hay theo cảm tính, nhưng không yêu khi gặp phiền hà và nhục nhã. Ôi, những người, cả các tu sĩ, yêu Đức Giê-su chịu đóng đinh cách chân tình và hết cả con tim mình vẫn chưa đông!
+      Xin Chúa ban cho chúng ta được ở vào số bé nhỏ này.
+<strong>Xướng đáp</strong>
+<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. Và Thiên Chúa ở lại trong người ấy 
+<strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
+<strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, vì tình yêu bắt nguồn từ Thiên Chúa. *
+<strong>Lời nguyện</strong>
+      Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước Mác-cô An-tôn qua ân ban chiêm niệm cuộc thương khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con qua gương và nhờ lời chuyển cầu của chân phước cho chúng con biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
+      Chúng con cầu xin…
+
 
 `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
       lauds: {
-        vi: `<strong>KINH SÁNG</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>KINH SÁNG</strong>
+<strong>Giáo đầu</strong>
+Ngợi khen Chúa, lạy Chúa Giêsu,
+Chúa là Mục Tử và là người hướng dẫn chúng con.
+<strong>Thánh thi</strong>
+Phúc thay ai hưởng nhan thánh Giêsu
+Tôn nhan Ngài làm say ngất thiên thu
+Tình yêu họ đã nhận ra Thánh Tử
+Trong vũ hoàn và trong cõi nhân sinh.
+
+Phúc thay ai được tình yêu Giêsu 
+Xâm chiếm họ, nắm bắt cả cuộc đời 
+Thoát ly cả bao tình đời nghiệt ngã 
+Trong suốt đời đối diện với Giêsu.
+
+Phúc thay ai được trong tay Giêsu 
+Vượt ba đào ngàn dặm với muôn thu 
+Đến với Cha, ta trở nên sống động 
+Đón Nhiệm Mầu trên đường trần ta đi.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> Rm 12, 1-2
+      Thưa anh em, vì Thiên Chúa thương xót chúng ta, tôi khuyên nhủ anh em hãy hiến dâng thân mình làm của lễ sống động, thánh thiện, và đẹp lòng Thiên Chúa. Đó là cách thức xứng hợp để anh em thờ phượng Người. Anh em đừng có rập theo đời này, nhưng hãy cải biến con người anh em bằng cách đổi mới tâm thần, hầu có thể nhận ra đâu là ý Thiên Chúa: Cái gì là tốt, cái gì đẹp lòng Chúa, cái gì hoàn hảo.
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Xin cho hy lễ chúng con dâng ngày hôm nay được Chúa chấp nhận.
+
+<strong>*</strong> Chúng con đi theo Ngài và chúng con tìm kiếm thánh nhan Ngài.
+<strong>X</strong> Ngợi khen và vinh danh Chúa đến muôn thuở muôn đời. *
+<strong>Tc Tin Mừng</strong>
+<strong>ĐC</strong> Chúa là phần gia nghiệp tôi,
+Người nhân lành đối với ai tìm kiếm Người.
+
+<strong>Lời cầu</strong>
+      Trong niềm hân hoan mừng kính lễ chân phước Mác- cô An-tôn, chúng ta hãy ngợi khen Thiên Chúa là Cha chúng ta, Đấng tác thành chúng ta giống Con Chúa.
+      <i>Chúng con cảm tạ Chúa, lạy Chúa là Cha chúng con.</i>
+      Cầu cho những ai vâng lời Chúa ngày này qua ngày khác, - <i>như Đức Giêsu hoàn toàn tìm kiếm thánh ý Chúa. </i>
+      Cầu cho những ai đã trở thành tất cả cho mọi người, - <i>như Đức Giêsu, người anh chúng con, tôi tớ Chúa. </i>
+      Cầu cho những ai đã tỏ ra hiền lành và khiêm nhường trong lòng, - <i>như Đức Giêsu, chứng nhân của tình yêu Chúa. </i>
+      Cầu cho những ai đã trở thành hoàn toàn là lời nguyện, - <i>như Đức Giêsu mạc khải danh Chúa là Cha. </i>
+      Cầu cho những ai đã bền đỗ cho tới chết, - <i>như Đức Giêsu thực hiện cuộc Vượt Qua của Người để đến với Chúa. </i>
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
+      Chúng con cầu xin...
+
+        
+        `,
 
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+KINH TRƯA
+<strong>Thánh thi</strong>
+<strong>Mùa Vọng</strong>
+Từ bình minh muôn thuở 
+Ngài đã hằng ao ước 
+Mặc lấy hình ảnh ta 
+Chia sẻ ngàn cơm bánh.
+
+Người đã đến gìn giữ 
+Giao ước tự ngàn xưa 
+Trả lại niềm hy vọng 
+Hạt giống của Lời Người.
+
+Người đã đến bẻ gãy 
+Xiềng xích của tử thần 
+Đem đến miền đất lạ 
+Miền đất của tình yêu.
+
+Người đã đến cứu độ 
+Vì yêu thương nhân trần 
+Phục Sinh từ cõi chết 
+Dẫn ta đến nhan Người.
+
+<strong>Ca vịnh và Điệp ca: </strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> Pl 4,8-9  
+      Thưa anh em, những gì là chân thật, cao quý, những gì là chính trực tinh tuyền, những gì là đáng mến và đem lại danh thơm tiếng tốt, những gì là đức hạnh đáng khen thì xin anh em hãy để ý. Những gì anh em đã học hỏi, đã lãnh nhận, đã nghe, đã thấy ở nơi tôi thì hãy đem ra thực hành, và Thiên Chúa là nguồn bình an sẽ ở với anh em.
+<strong>X</strong> Lạy Chúa, những ai yêu mến Danh Chúa,
+<strong>Đ</strong> Chúa bảo vệ họ, nhờ Chúa, họ vui mừng.
+<strong>Lời nguyện</strong>
+      Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
+      Chúng con cầu xin...
+        
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>KINH CHIỀU</strong>
+<strong>Thánh thi</strong>
+Không ai làm môn đệ 
+Mà không làm Tôi tớ 
+Không ai là ánh sáng 
+Mà không có tình yêu.
+
+Nhờ tình yêu khôn tả 
+Ta nhận diện ra Người 
+Thiên Chúa trong anh em 
+Trong khắp cả vũ hoàn.
+
+Không ai biết an ủi 
+Nếu chưa từng đau khổ 
+Không ai biết làm chứng 
+Nếu chưa sống Lời Ngài.
+
+Trong Lời Ngài muôn thuở 
+Ta tìm thấy niềm vui 
+Khi cảm thấy cô đơn 
+Lời Ngài luôn an ủi.
+
+Không ai biết dịu dàng 
+Nếu chưa từng thương tổn 
+Không ai biết thứ tha 
+Nếu chưa từng yếu đuối.
+
+Sự yếu đuối miên trường
+Đưa ta vào vòng tay
+Đấng đã bị đâm thâu 
+Treo thân trên thập giá.
+
+Không ai nói lên được 
+Sự điên rồ Sứ Điệp 
+
+Nếu không tự hiến mình 
+Cho đến cuối hành trình.
+
+Không ai là hạt giống 
+Nếu chưa từng gieo vãi. 
+Không có thời giặt hái 
+Nếu không có vùi chôn.
+
+Những ai là tông đồ 
+Điều phải là hạt giống 
+Hạt giống phải thối đi 
+Để sinh nhều hoa trái.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> Pl 3,7-8
+      Nhưng, những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô.
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Tôi làm được tất cả
+* nơi Đấng làm cho tôi mạnh mẽ.
+<strong>X</strong> Khi tôi yếu, tôi tin tưởng, *
+<strong>Tc Tin Mừng</strong>
+<strong>ĐC</strong> Anh em đã bỏ tất cả để theo Thầy,
+hãy lãnh nhận gấp trăm và sự sống đời đời.
+
+<strong>Lời cầu</strong>
+      Trong ngày mừng kính chân phước Mác-cô An-tôn, chúng ta hãy cầu xin cho Nước Chúa lan rộng:
+      <i>Lạy Cha, xin nhậm lời chúng con vì Đức Giêsu, Người Anh Cả của chúng con.</i>
+      Lạy Chúa, Chúa muốn tất cả mọi dân tộc đều nhận biết Chúa, - <i>xin đánh thức trong Hội Thánh Chúa những tông đồ biết chăm lo cho ơn gọi nơi mỗi nước. </i>
+      Lạy Chúa, Chúa muốn tất cả mọi người đều cộng tác vào công trình của Chúa, - <i>xin khơi dậy trong Hội Thánh Chúa nhiều người làm chứng cho sự hiện diện và hành động của Chúa. </i>
+      Lạy Chúa, Chúa muốn tình yêu Chúa chiến thắng bạo lực, - <i>xin ban cho các Giáo Hội bị bách hại được thêm sức mạnh để đi theo Đức Kitô trên con đường Thập giá. </i>
+      Lạy Chúa, Chúa muốn tất cả con cái Chúa đều được cứu độ, - <i>xin cho những ai qua đời hôm nay được gặp sự viên mãn của tình yêu Chúa. </i>
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
+      Chúng con cầu xin...
+              
+        `,
 
         en: `<strong>EVENING PRAYER</strong>`
       },
