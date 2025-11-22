@@ -5885,8 +5885,57 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>KINH SÁCH</strong>
+<strong>Thánh thi </strong>
+Khách hành hương, khách lạ trên dương thế 
+Dù đêm đen hay ánh sáng huy hoàng. 
+Sự sống Ngài tuôn chảy trên nhân thế 
+ành trình dài hướng về Đấng Quang Lâm.
+
+Khách hành hương, khách lạ trên dương thế 
+Quay lưng đi bỏ lại bao vấn vương 
+Giờ đã đến, giờ của Đấng Sẽ Đến 
+Được tái sinh trong ơn nghĩa hải hà.
+
+Khách hành hương, khách lạ trên dương thế 
+Ánh dịu êm sao Bắc Đẩu tỏ tường tường
+Xóa bỏ đi bao nhọc nhằn khiếp sợ sợ
+Tắm mình trong ánh sáng của Tình Yêu.
+
+Khách hành hương, khách lạ trên dương thế 
+Khúc quanh đời bao nghiệt ngã âm u 
+Sụp đổ hết tan tành theo mây khói khói
+Nhưng tiến lên, Ngài đang đến chờ ta.
+
+Khách hành hương, khách lạ trên dương thế thế
+Đoàn lữ hành hôm nay và mai sau sau
+Trao tặng nhau niềm vui của hy vọng:  
+Chúa đang đến, Ngài ngự trong hồn ta.
+
+<strong>Xướng đáp</strong>
+<strong>X </strong> Hễ ngươi nghe Ta phán dạy điều gì
+<strong>Đ </strong> thì hãy nhân danh Ta truyền lại cho chúng.chúng
+<strong>Ca vịnh và Điệp ca: </strong> Theo ngày trong tuần.
+
+<strong>Bài đọc 1 </strong>Ep 4, 1 -24
+<strong>Xây dựng thân thể Đức Kitô trong hiệp nhất.
+Trích thư thánh Phaolô gửi tín hữu Ê-phê-xô. </strong>
+      Vậy, tôi là người đang bị tù vì Chúa, tôi khuyên nhủ anh em hãy sống cho xứng với ơn kêu gọi mà Thiên Chúa đã ban cho anh em. Anh em hãy ăn ở thật khiêm tốn, hiền từ và nhẫn nại; hãy lấy tình Bác Ái mà chịu đựng lẫn nhau. Anh em hãy thiết tha duy trì sự hiệp nhất mà Thần Khí đem lại, bằng cách ăn ở thuận hòa gắn bó với nhau. Chỉ có một thân thể, một Thần Khí, cũng như anh em đã được kêu gọi để chia sẻ cùng một niềm hy vọng. Chỉ có một Chúa, một niềm tin, một phép rửa. Chỉ có một Thiên Chúa, Cha của mọi người, Đấng ngự trên mọi người, qua mọi người và trong mọi người.
+      Nhưng mỗi người chúng ta đã nhận được ân sủng tùy theo mức độ Đức Kitô ban cho. Vì thế, có lời Kinh Thánh nói:
+      Người đã lên cao, dẫn theo một đám tù;
+      Người đã ban ân huệ cho loài người.
+Người đã lên nghĩa là gì, nếu không phải Người đã xuống tận các vùng sâu thẳm dưới mặt đất? Đấng đã xuống cũng chính là Đấng đã lên cao hơn mọi tầng trời để làm cho vũ trụ được viên mãn. Và chính người đã ban ơn cho kẻ này làm tông đồ, người nọ làm ngôn sứ, kẻ khác làm người loan báo Tin Mừng, kẻ khác nữa làm người coi sóc và dạy dỗ. Nhờ đó, các thánh được chuẩn bị để làm công việc phục vụ, là xây dựng thân thể Đức Kitô, cho đến khi tất cả chúng ta đạt tới sự hiệp nhất trong đức tin và trong sự nhận biết Con Thiên Chúa, tới tình trạng con người trưởng thành, tới tầm vóc viên mãn của Đức Kitô.
+Như vậy, chúng ta sẽ không còn là những trẻ nhỏ, bị sóng đánh trôi dạt theo mọi chiều gió đạo lý, giữa trò bịp bợm của những kẻ giảo quyệt khéo dùng mưu ma chước quỷ để làm cho kẻ khác lầm đường. Nhưng, sống theo sự thật và trong tình Bác Ái, chúng ta sẽ lớn lên về mọi phương diện, vươn tới Đức Kitô vì Người là đầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế người làm cho toàn thân lớn lên và được xây dựng trong tình Bác Ái.
+Vậy đây là điều tôi nói với anh em, và có Chúa chứng giám, tôi khuyên anh em: đừng ăn ở như dân ngoại nữa, vì họ sống theo những tư tưởng phù phiếm của họ. Tâm trí họ đã ra tối tăm, họ xa lạ với sự sống Thiên Chúa ban, vì lòng chai dạ đá khiến họ trở nên dốt nát. Họ đã mất ý thức nên đã buông thả, sống phóng đãng đến mức làm mọi thứ ô uế cách vô độ. Còn anh em, anh em đã chẳng học biết về Đức Kitô như vậy đâu; ấy là nếu anh em đã được nghe nói về Đức Giêsu và được dạy dỗ theo tinh thần của Người, đúng như sự thật ở nơi Đức Giêsu. Vì thế, anh em phải cởi bỏ con người cũ với nếp sống xưa, là con người phải hư nát vì bị những ham muốn lừa dối, anh em phải để Thần Khí đổi mới tâm trí anh em, và phải mặc lấy con người mới, là con người đã được sáng tạo theo hình ảnh Thiên Chúa để thật sự sống công chính và thánh thiện.
+
+<strong>Xướng đáp</strong>
+<strong>X </strong> 
+<strong>Đ </strong>
+
+<strong>Bài đọc 2 </strong>
+
+`,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
