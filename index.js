@@ -5886,7 +5886,7 @@ en: `<strong>MASS</strong>
 },
       officeOfReadings: {
         vi: `
-<strong>KINH SÁCH</strong>
+
 <strong>Thánh thi </strong>
 Khách hành hương, khách lạ trên dương thế 
 Dù đêm đen hay ánh sáng huy hoàng. 
@@ -5941,9 +5941,12 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       Giả như Thiên Chúa ra lệnh cho chúng ta phải ăn chay, phải đi xa, hãm mình phạt xác, tôi có thể từ chối: tôi không thể. Nhưng Thiên Chúa chỉ ra lệnh yêu Ngài; Lý do thoái thác nào khi tôi vẫn vô cảm? Giới răn nào dễ dàng hơn, dịu ngọt hơn, êm ái hơn? Ô! Ôi những chê trách nghiêm khắc vào ngày phán xét! Không yêu người cha hay yêu thương nhất, người bạn chân tình nhất, người anh dịu dàng nhất và hôn phu đẹp và quyến rũ nhất! Còn điều xấu xa nào lớn lao hơn điều xấu của chúng ta? Nhận một con tim để yêu Đức Giêsu mà lại làm ô uế và làm bẩn con tim này khi đem vào đền thánh này tình yêu thụ tạo! Ngài thì quá yêu ta, còn ta thì quá chai đá! Ngài xin con tim chúng ta, mà chúng ta lại từ chối Ngài, mà còn đem tặng cho thụ tạo! Ngài, bằng những lời mời gọi, những cắn rứt lương tâm, sự động viên mạnh mẽ yêu Ngài, mà ta, ta giả điếc làm ngơ trước những lời mời gọi của Ngài, ta dập tắt những cắn rứt, lại từ khước yêu Ngài! Ôi! Quả là có ít người yêu Đức Giêsu! Họ nói họ yêu Chúa, mà thật ra họ không yêu! Họ yêu Chúa trên đồi Ta-Bo, nhưng không yêu Chúa trên đồi Can-vê; Họ yêu Chúa khi cảm thấy sự dịu dàng nào đó hay theo cảm tính, nhưng không yêu khi gặp phiền hà và nhục nhã. Ôi, những người, cả các tu sĩ, yêu Đức Giê-su chịu đóng đinh cách chân tình và hết cả con tim mình vẫn chưa đông!
       Xin Chúa ban cho chúng ta được ở vào số bé nhỏ này.
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. Và Thiên Chúa ở lại trong người ấy 
-<strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
-<strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, vì tình yêu bắt nguồn từ Thiên Chúa. *
+<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. 
+Và Thiên Chúa ở lại trong người ấy 
+<strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu 
+Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
+<strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, 
+vì tình yêu bắt nguồn từ Thiên Chúa. *
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước Mác-cô An-tôn qua ân ban chiêm niệm cuộc thương khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con qua gương và nhờ lời chuyển cầu của chân phước cho chúng con biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin…
@@ -5955,10 +5958,31 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       },
       lauds: {
         vi: `
-<strong>KINH SÁNG</strong>
+
 <strong>Giáo đầu</strong>
-Ngợi khen Chúa, lạy Chúa Giêsu,
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
+<strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong> Ngợi khen Chúa, lạy Chúa Giêsu,
 Chúa là Mục Tử và là người hướng dẫn chúng con.
+
+<strong><i>Tv 99 (100) </i> </strong>
+Hãy tung hô Chúa, hỡi toàn thể địa cầu, *
+phụng thờ Chúa với niềm hoan hỷ,
+vào trước thánh nhan Người giữa tiếng hò reo. 
+
+Hãy nhìn nhận Chúa là Thượng Đế,
+chính Người dựng nên ta, ta thuộc về Người, *
+ta là dân Người, là đoàn chiên Người dẫn dắt.
+
+Hãy vào cửa thánh điện cất tiếng tạ ơn,
+tới khuôn viên đền vàng dâng lời ca ngợi, *
+tạ ơn Chúa và chúc tụng danh Người.
+
+Bởi vì Chúa nhân hậu,
+muôn ngàn đời Chúa vẫn trọn tình thương, *
+qua bao thế hệ vẫn một niềm thành tín.
+
 <strong>Thánh thi</strong>
 Phúc thay ai hưởng nhan thánh Giêsu
 Tôn nhan Ngài làm say ngất thiên thu
@@ -5978,9 +6002,9 @@ Vượt ba đào ngàn dặm với muôn thu
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 <strong>Lời Chúa</strong> Rm 12, 1-2
       Thưa anh em, vì Thiên Chúa thương xót chúng ta, tôi khuyên nhủ anh em hãy hiến dâng thân mình làm của lễ sống động, thánh thiện, và đẹp lòng Thiên Chúa. Đó là cách thức xứng hợp để anh em thờ phượng Người. Anh em đừng có rập theo đời này, nhưng hãy cải biến con người anh em bằng cách đổi mới tâm thần, hầu có thể nhận ra đâu là ý Thiên Chúa: Cái gì là tốt, cái gì đẹp lòng Chúa, cái gì hoàn hảo.
+
 <strong>Xướng đáp</strong>
 <strong>XĐ</strong> Xin cho hy lễ chúng con dâng ngày hôm nay được Chúa chấp nhận.
-
 <strong>*</strong> Chúng con đi theo Ngài và chúng con tìm kiếm thánh nhan Ngài.
 <strong>X</strong> Ngợi khen và vinh danh Chúa đến muôn thuở muôn đời. *
 <strong>Tc Tin Mừng</strong>
@@ -6007,7 +6031,15 @@ Người nhân lành đối với ai tìm kiếm Người.
       },
       middayPrayer: {
         vi: `
-KINH TRƯA
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
 <strong>Mùa Vọng</strong>
 Từ bình minh muôn thuở 
@@ -6035,6 +6067,7 @@ Dẫn ta đến nhan Người.
       Thưa anh em, những gì là chân thật, cao quý, những gì là chính trực tinh tuyền, những gì là đáng mến và đem lại danh thơm tiếng tốt, những gì là đức hạnh đáng khen thì xin anh em hãy để ý. Những gì anh em đã học hỏi, đã lãnh nhận, đã nghe, đã thấy ở nơi tôi thì hãy đem ra thực hành, và Thiên Chúa là nguồn bình an sẽ ở với anh em.
 <strong>X</strong> Lạy Chúa, những ai yêu mến Danh Chúa,
 <strong>Đ</strong> Chúa bảo vệ họ, nhờ Chúa, họ vui mừng.
+
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin...
@@ -6045,7 +6078,15 @@ Dẫn ta đến nhan Người.
       },
       vespers: {
         vi: `
-<strong>KINH CHIỀU</strong>
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
 Không ai làm môn đệ 
 Mà không làm Tôi tớ 
@@ -6079,7 +6120,6 @@ Treo thân trên thập giá.
 
 Không ai nói lên được 
 Sự điên rồ Sứ Điệp 
-
 Nếu không tự hiến mình 
 Cho đến cuối hành trình.
 
