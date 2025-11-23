@@ -5846,41 +5846,7 @@ Chúng con cầu xin...
 `, 
 en: `<strong>MASS</strong>
 
-<strong>Entrance Antiphon (Jer 17:7-8)</strong>
-
-
-<strong>Collect</strong>
-
-
-<strong>Reading (1 Jn 3:14-18)</strong>
-
-<em>A reading from the first Letter of Saint .</em>
-
-
-<strong>Responsorial Psalm (Ps 16)</strong>
-
-<strong>R. You are my inheritance, O Lord!</strong>
-
- <strong>R.</strong>
- <strong>R.</strong>
- <strong>R.</strong>
-
-<strong>Gospel Acclamation (Jn 15:16)</strong>
-
-<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
-
-<strong>Gospel (Jn 15:9-17)</strong>
-
-<strong>A reading from the holy Gospel according to John.</strong>
-
-
-<strong>Prayer over the Offerings</strong>
-
-
-<strong>Communion Antiphon (Jn 8:12)</strong>
-
-
-<strong>Prayer after Communion</strong>
+Loading...
 
 `,    
 },
@@ -5954,7 +5920,11 @@ vì tình yêu bắt nguồn từ Thiên Chúa. *
 
 `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+Loading...
+        
+        
+        `
       },
       lauds: {
         vi: `
