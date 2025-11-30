@@ -196,6 +196,14 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
 },
       officeOfReadings: {
         vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
 <strong>Thánh thi</strong>
 Hãy đặt đèn của bạn trên giá 
 Càng tốt khi dầu cạn đèn tắt! 
@@ -413,8 +421,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -589,8 +607,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -766,8 +794,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+`,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -933,8 +971,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -1120,8 +1168,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -1306,8 +1364,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -1491,8 +1559,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+`,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -1660,8 +1738,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+`,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -1837,8 +1925,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2018,8 +2116,18 @@ Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the 
 
 },
         officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+    `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2196,8 +2304,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2366,8 +2484,19 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2548,8 +2677,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2743,8 +2882,18 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+
+`,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -2892,11 +3041,39 @@ Chúng con cầu xin...
                 <strong>Communion Antiphon</strong>
                 <strong>Prayer after Communion</strong>`,
       },
-      officeOfReadings: placeholder,
-      lauds: placeholder,
-      middayPrayer: placeholder,
-      vespers: placeholder,
-      compline: placeholder,
+      officeOfReadings: {
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
+
+        en: `<strong>OFFICE OF READINGS</strong>`
+      },
+      lauds: {
+        vi: `<strong>KINH SÁNG</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MORNING PRAYER</strong>`
+      },
+      middayPrayer: {
+        vi: `<strong>KINH TRƯA</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>MIDDAY PRAYER</strong>`
+      },
+      vespers: {
+        vi: `<strong>KINH CHIỀU</strong>
+        <strong>Thánh thi </strong>`,
+
+        en: `<strong>EVENING PRAYER</strong>`
+      },
     }
 },
 
@@ -3069,8 +3246,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -3251,8 +3437,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -3422,8 +3617,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -3610,8 +3814,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -3813,8 +4026,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+       vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -4029,8 +4251,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -4244,8 +4475,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -4412,8 +4652,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -4778,8 +5027,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -4989,8 +5247,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -5167,8 +5434,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -5351,8 +5627,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -5540,8 +5825,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -5743,8 +6037,17 @@ en: `<strong>MASS</strong>
 `,    
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
