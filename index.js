@@ -275,8 +275,18 @@ Trong Ngài bạn sẽ luôn sáng ngời.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -451,8 +461,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -641,8 +661,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -832,8 +862,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1013,8 +1053,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1214,8 +1264,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1414,8 +1474,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1613,8 +1683,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1795,8 +1875,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -1985,8 +2075,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -2180,8 +2280,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -2372,8 +2482,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -2557,8 +2677,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -2753,8 +2883,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -2962,8 +3102,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -3125,8 +3275,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -3333,8 +3493,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -3528,8 +3698,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -3712,8 +3892,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -3913,8 +4103,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -4129,8 +4329,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -4358,8 +4568,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -4586,8 +4806,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -4766,8 +4996,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -5144,9 +5384,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
 
+<strong>Thánh thi</strong>
+        `,
         en: `<strong>MIDDAY PRAYER</strong>`
       },
       vespers: {
@@ -5368,8 +5617,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -5559,8 +5818,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -5756,9 +6025,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
 
+<strong>Thánh thi</strong>
+        `,
         en: `<strong>MIDDAY PRAYER</strong>`
       },
       vespers: {
@@ -5958,8 +6236,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
@@ -6174,8 +6462,18 @@ Ha-lê-lui-a.
         en: `<strong>MORNING PRAYER</strong>`
       },
       middayPrayer: {
-        vi: `<strong>KINH TRƯA</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+        `,
 
         en: `<strong>MIDDAY PRAYER</strong>`
       },
