@@ -195,8 +195,64 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
     
 },
       officeOfReadings: {
-        vi: `<strong>KINH SÁCH</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Thánh thi</strong>
+Hãy đặt đèn của bạn trên giá 
+Càng tốt khi dầu cạn đèn tắt! 
+Bạn sẽ có niềm vui đích thật, 
+Lời kinh là ngọn đuốc sáng ngời
+Chúa sẽ thương xót giữ gìn bạn.
+
+Hãy đặt đèn của bạn trên giá 
+Càng tốt khi đèn đã lật đổ 
+Và nếu lửa đã bén vào gỗ; 
+Bạn sẽ chẳng phải thiệt hại chi 
+Lửa gian trần sẽ thanh luyện bạn.
+
+Hãy đặt đèn của bạn trên giá 
+Càng tốt khi các ngón tay bạn 
+Bị cháy bỏng không cầm được đèn: 
+Con tim bạn, Chúa sẽ ngự trị 
+Người sẽ cầm đèn thay thế bạn.
+
+Hãy đặt đèn của bạn trên giá 
+Càng tốt khi bạn chẳng còn gì 
+Để tiêu hao, ngay cả cho Ngài : 
+Chúa sẽ cung cấp củi và lửa. 
+Trong Ngài bạn sẽ luôn sáng ngời.
+
+<strong>Ca vịnh và Điệp ca: </strong> theo ngày trong tuần.
+<strong>Xướng đáp</strong>
+<strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn, là Đấng cứu chuộc con.
+<strong>Đ</strong> Tiếng lòng con thầm thĩ, mong được thấu đến Ngài. 
+
+<strong>Bài đọc 1</strong> PI 3,7-14
+<strong>Hãy vui luôn</strong>
+<strong>Trích thư thánh Phaolô tông đồ gửi tín hữu Phi-líp-phê</strong>
+      Những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Mô-sê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, nhờ nên đồng hình đồng dạng với Người trong cái chết của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết. Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Kitô Giêsu chiếm đoạt. Thưa anh em, tôi không nghĩ mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước. Tôi chạy thẳng tới đích, để chiếm phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Kitô Giêsu.
+<strong>Xướng đáp</strong>
+<strong>Đ</strong> Tôi làm được mọi sự trong Đấng đã tăng sức cho tôi,
+* Dù trong yếu đuối, lăng nhục, cưỡng bức, ngược đãi và khắc khoải.
+<strong>X</strong> Khi tôi yếu chính là lúc tôi mạnh. *
+
+<strong>Bài đọc 2</strong>
+<strong>Tôi tìm kiếm Thiên Chúa và Giáo Hội Người</strong>
+<strong>Trích bút tích của thánh Ê-li-za-bét An-na Xê-tơn</strong>
+      “Tôi quỳ gối khấn xin Thiên Chúa soi sáng cho tôi thấy sự thật không còn sự hoài nghi và lưỡng lự nữa ... Vẫn còn những điều tệ hại đến trong tâm trí tôi; chúng khuấy động tâm trí và làm lung lay đức tin của tôi. Dù Thiên Chúa nhân từ ban cho tôi sự chắc chắn hoàn toàn rằng, nhờ Danh Đức Giêsu, cuối cùng, các kinh nguyện của tôi sẽ được nhậm lời, song, hiện tại, trên đường tôi đi, vẫn còn một áng mây bao quanh tôi, đang khi tôi không ngừng cầu xin Chúa đâu là con đường đích thật... Tôi có thể đơn thuần nói lên điều ấy, đó là tôi hết sức ước ao, và tôi muốn tôn thờ Thiên Chúa trong sự thật... Thiên Chúa, Ngài biết cái điều duy nhất đang lôi cuốn tâm hồn tôi: Niềm ao ước làm vui lòng Ngài, chỉ mình Ngài thôi, niềm ao ước đến thật gần Ngài, đời này và cả đời sau... Tâm hồn đáng thương của tôi, từng ngày, càng do dự và càng bối rối, như con chim dẫy dụa trong lưới, không thể thoát khỏi những e ngại và khiếp sợ... “Mọi lúc, mọi nơi, kinh nguyện là nơi trú ẩn duy nhất của tôi ... Chúa là của tôi, tôi thuộc về Ngài". <i>(bút tích của thánh An-na Xê-tơn)</i>
+      “Lạy Thiên Chúa con, thật là những sự mới lạ cho tâm hồn con! Ngày Lễ truyền Tin, con sẽ chẳng làm gì hơn là làm một với Đấng đã phán: “Nếu các con không ăn Thịt Ta, và nếu các con không uống Máu Ta, các con sẽ không có phần với Ta...”. Tôi đếm từng ngày và từng giờ... Con tim tỉnh thức chờ niềm hạnh phúc tột đỉnh nó đã ao ước quá lâu... ngày 25 tháng 3. Cuối cùng, Chúa thuộc về tôi và tôi thuộc về Chúa. Giờ đây, xin cho mọi sự đi đúng đường mình. Tôi đã nhận được đường đi!...
+      Hành trình dài về tới thành đô... Mỗi bước chân tôi: càng gần phố xá, càng gần nhà tạm; càng gần lúc mà Ngài bước vào nơi nghèo nàn, nhỏ bé thảm hại, đến mức hoàn toàn thuộc về Ngài! ...
+      Và khi Ngài đã ở đó! Ý nghĩ đầu tiên đến trong trí nhớ tôi: “Thiên Chúa đứng lên, quân địch Ngài chạy tán loạn”. Bởi, dường như, thay vì sự tiếp rước khiêm nhường, đầy dịu dàng mà tôi đợi chờ dâng Ngài, thì đó chỉ là sự vui mừng và hân hoan của chiến thắng, bởi vì Ngài đã đến, Ngài, Đấng giải Phóng, Sự bảo vệ, khiên thuẫn của tôi, sức mạnh và ơn cứu độ của tôi, trở thành sở hữu của tôi vì thế giới này và vì tha nhân...
+      Hai dặm đường quay về với kho tàng của tâm hồn tôi... Cái hôn đầu tiên và sự cầu phúc đầu tiên dành cho năm con yêu quí của tôi, khi đem về chỗ ở bé nhỏ của chúng tôi một Bậc Thầy thật vĩ đại”.
+<strong>Xướng đáp</strong>
+<strong>Đ</strong> Sự hân hoan thuộc về những ai ẩn náu nơi Chúa, Niềm Vui Sướng đời đời.
+* Chúa bảo vệ họ, nhờ Chúa, họ mừng vui.
+<strong>X</strong> Chúa chúc phúc cho những người mến yêu danh Chúa. *
+
+<strong>Lời nguyện</strong>
+      Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
+      Chúng con cầu xin…
+        
+        `,
 
         en: `<strong>OFFICE OF READINGS</strong>`
       },
@@ -5916,8 +5972,6 @@ vì tình yêu bắt nguồn từ Thiên Chúa. *
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước Mác-cô An-tôn qua ân ban chiêm niệm cuộc thương khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con qua gương và nhờ lời chuyển cầu của chân phước cho chúng con biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin…
-
-
 `,
 
         en: `
@@ -5993,11 +6047,13 @@ Người nhân lành đối với ai tìm kiếm Người.
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin...
-
-        
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+
+ 
+        
+        `
       },
       middayPrayer: {
         vi: `
