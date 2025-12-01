@@ -279,7 +279,94 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
-        
+
+<strong>ĐC</strong> Lạy Chúa Chí Thánh, mọi sự thánh thiện đều bắt nguồn từ Chúa.
+
+<strong><i>Tv 66 (67)</i></strong>
+Nguyện Chúa Trời rủ thương và chúc phúc,
+xin toả ánh tôn nhan rạng ngời trên chúng con, *
+cho cả hoàn cầu biết đường lối Chúa,
+và muôn nước biết ơn cứu độ của Ngài.
+
+Ước gì chư dân cảm tạ Ngài, lạy Thiên Chúa,
+chư dân phải đồng thanh cảm tạ Ngài !
+
+Ước gì muôn nước reo hò mừng rỡ,
+vì Chúa cai trị cả hoàn cầu theo lẽ công minh, *
+Người cai trị muôn nước theo đường chính trực
+và lãnh đạo muôn dân trên mặt đất này.
+
+Ước gì chư dân cảm tạ Ngài, lạy Thiên Chúa,
+chư dân phải đồng thanh cảm tạ Ngài.
+
+Đất đã sinh ra mùa màng hoa trái :
+Chúa Trời, Chúa chúng ta, đã ban phúc lộc. *
+Nguyện Chúa Trời ban phúc lộc cho ta
+ước chi toàn cõi đất kính sợ Người !
+
+<strong>Thánh thi</strong>
+Nguồn mạch hy vọng tuôn trào 
+Chúa là sự sống hiến trao cho đời 
+Con đường Chúa dẫn lên trời 
+Cho con theo Chúa sáng ngời bước chân.
+
+Ngài là Tuổi Trẻ tình thân 
+Là tương lai sáng, là tình mến thương. 
+Ngài là tình mến thiên đường 
+Là nơi ẩn náu, là đường đi lên.
+
+Công trình ánh sáng của Cha, 
+Tình yêu Cha đã tạo ra con người. 
+Vinh danh Tạo Hóa tuyệt vời! 
+Vinh danh Đấng Cứu Độ người trần gian!
+
+Quả đất tay Chúa nắn tròn, 
+Trổ hoa, sinh trái, tay con góp vào. 
+Cùng sáng tạo với Chúa cao, 
+Niềm vui nguyện sẽ truyền rao không ngừng.
+
+Vì nền công lý muôn dân 
+Chúa còn ở lại dưới trần không ngơi. 
+Vinh danh Tạo Hóa tuyệt vời! 
+Vinh danh Đấng Cứu Độ người trần gian!
+
+Chúng con chiến đấu gian nan, 
+Để bênh vực kẻ lầm than đọa đầy. 
+Chúa mời sáng tạo với Ngài, 
+Đi làm sứ giả niềm vui loan truyền.
+
+Công trình kiên nhẫn Chúa mong, 
+Nên Ngài thử thách lửa hồng đức tin. 
+Vinh quang dâng Chúa muôn nghìn! 
+Tri ân Thiên Chúa dâng tình thiên thu!
+
+Đời đầy bạo lực căm thù, 
+Thập giá xin vác, khiêm nhu theo Ngài. 
+Chúa đã không tỏ quyền oai, 
+Ngài luôn thấu hiểu những ai ưu phiền.
+
+Cho việc chia sẻ lâu bền, 
+Chúa ban một trái tim hiền tốt xinh. 
+Ngợi khen Chúa cả thiên đình! 
+Ca mừng Đấng cứu sinh linh nhân từ!
+
+Ra khơi Thần Khí dẫn đưa, 
+Xa vòng khép kín, vượt bờ nhỏ nhen. 
+Nhờ Ngài hiển thắng tiến lên, 
+Thoát tay thần chết, tới miền ánh quang.
+
+Muôn người quy tụ bình an, 
+Chúng con sứ giả đi mang danh Ngài. 
+Vinh danh dâng Chúa quyền oai! 
+Tri ân Đấng Cứu Độ đầy tình yêu!
+
+Trong Hội Thánh Chúa phong nhiêu, 
+Chúng con như thợ sớm chiều chuyên chăm.
+Giêsu trăn trối hết tâm: 
+“Yêu thương, hiệp nhất, giới răn của Thầy”.
+
+
+
         `,
 
         en: `
@@ -7951,7 +8038,6 @@ Loading...
 },
       officeOfReadings: {
         vi: `
-
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
