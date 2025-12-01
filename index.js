@@ -369,11 +369,48 @@ Giêsu trăn trối hết tâm:
 
         `,
 
-        en: `
+   en: `
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -391,6 +428,7 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
         `,
 
+
         en: `
 God, come to my assistance.
 <strong>—</strong> <i>Lord, make haste to help me.</i>
@@ -399,6 +437,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -417,7 +465,7 @@ Ha-lê-lui-a.
 
         `,
 
-        en: `
+  en: `
 God, come to my assistance.
 <strong>—</strong> <i>Lord, make haste to help me.</i>
 Glory to the Father, and to the Son, and to the Holy Spirit:
@@ -425,6 +473,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -16273,6 +16361,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -16392,11 +16488,49 @@ dẫn ta bước vào đường nẻo bình an.
 <strong>Cộng đoàn</strong>  A-men.
         `,
 
-        en: `
+ en: `
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
+        
         `
       },
       middayPrayer: {
@@ -16452,6 +16586,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -16547,7 +16691,7 @@ hãy lãnh nhận gấp trăm và sự sống đời đời.
      
         `,
 
-        en: `
+ en: `
 God, come to my assistance.
 <strong>—</strong> <i>Lord, make haste to help me.</i>
 Glory to the Father, and to the Son, and to the Holy Spirit:
@@ -16555,7 +16699,48 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
 
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
+
+        
         `
       },
       // compline: placeholder,
