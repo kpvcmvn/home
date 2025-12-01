@@ -523,6 +523,25 @@ Kính cẩn dâng Ngài vạn lời phúc vinh.
 <strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần
 <strong>Lời Chúa </strong>Rm 8,, 28-30
       Chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để Con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Hạnh phúc cho những ai nương náu nơi Chúa là niềm vui vĩnh cửu!
+* Họ hớn hở reo mừng vì được Ngài chở che.
+<strong>X</strong> Chúa sẽ chúc phúc cho những ai yêu mến danh Chúa. *
+
+<strong>Tc Tin Mừng</strong>
+<strong>ĐC</strong> Linh hồn tôi hớn hở vui mừng Vì Chúa ở với tôi và tôi thuộc về Chúa.
+
+<strong>Lời cầu</strong>
+Chúng ta hãy chiêm ngưỡng các kỳ công của Chúa, được tỏ hiện nơi thánh nữ Ê-li-za-bét An-na, và chúng ta hãy cầu xin Chúa đổ tràn ân sủng Người trên chúng ta.
+<i>Lạy Chúa, xin cho chúng con thấy ánh sáng ân sủng của Chúa.</i>
+Nhờ ơn Chúa, thánh nữ Ê-li-za-bét An-na đã biết truyền đạt cho các giáo viên niềm say mê của ngài đối với nền giáo dục Kitô giáo, <i>- xin ban ánh sáng và sức mạnh của Chúa cho các bậc phụ huynh, các nhà giáo và các giáo lý viên.</i>
+Nhờ ơn Chúa, thánh nữ Ê-li-za-bét An-na đã dấn thân phục vụ người nghèo trong thời đại ngài, <i>- xin Chúa ban cho tất cả các Nữ Tử Bác Ái biết phục vụ những người nghèo, là Chủ và Chúa của các chị với một niềm tin tưởng như thánh nữ.</i>
+Nhờ ơn Chúa, thánh nữ Ê-li-za-bét An-na đã gặp được những tình bạn thắm thiết giúp ngài biết Chúa nhiều hơn, <i>- xin Chúa cho chúng con biết sống sự chia sẻ huynh đệ và thân tình mà không tìm kiếm điều gì cho riêng mình.</i>
+Nhờ ơn Chúa, thánh nữ Ê-li-za-bét An-na đã biết khơi dậy và nâng đỡ niềm hy vọng của những người đang hấp hối, <i>- xin Chúa ban bình an cho những ai hôm nay ra đi gặp Chúa.</i>
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
+<i>Chúng con cầu xin…</i>
 
 
         `,
