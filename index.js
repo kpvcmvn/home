@@ -8903,6 +8903,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
