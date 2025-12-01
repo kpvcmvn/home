@@ -567,7 +567,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -579,6 +579,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -589,6 +609,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -597,6 +625,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -604,7 +734,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -620,6 +787,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -630,6 +823,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -646,6 +849,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -656,6 +915,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -812,7 +1111,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -824,6 +1123,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -834,6 +1153,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -842,6 +1169,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -849,7 +1278,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -865,6 +1331,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -875,6 +1367,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -891,6 +1393,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -901,6 +1459,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -1058,7 +1656,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -1070,6 +1668,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -1080,6 +1698,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -1088,6 +1714,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -1095,7 +1823,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -1111,6 +1876,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -1121,6 +1912,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -1137,6 +1938,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -1147,6 +2004,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -1294,7 +2191,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -1306,6 +2203,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -1316,6 +2233,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -1324,6 +2249,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -1331,7 +2358,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -1347,6 +2411,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -1357,6 +2447,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -1373,6 +2473,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -1383,6 +2539,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -1550,7 +2746,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -1562,6 +2758,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -1572,6 +2788,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -1580,6 +2804,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -1587,7 +2913,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -1603,6 +2966,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -1613,6 +3002,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -1629,6 +3028,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -1639,6 +3094,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -1805,7 +3300,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -1817,6 +3312,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -1827,6 +3342,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -1835,6 +3358,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -1842,7 +3467,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -1858,6 +3520,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -1868,6 +3556,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -1884,6 +3582,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -1894,6 +3648,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -2059,7 +3853,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -2071,6 +3865,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -2081,6 +3895,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -2089,6 +3911,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -2096,7 +4020,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -2112,6 +4073,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -2122,6 +4109,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -2138,6 +4135,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -2148,6 +4201,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -2297,7 +4390,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -2309,6 +4402,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -2319,6 +4432,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -2327,6 +4448,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -2334,7 +4557,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -2350,6 +4610,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -2360,6 +4646,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -2376,6 +4672,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -2386,6 +4738,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -2543,7 +4935,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -2555,6 +4947,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -2565,6 +4977,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -2573,6 +4993,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -2580,7 +5102,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -2596,6 +5155,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -2606,6 +5191,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -2622,6 +5217,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -2632,6 +5283,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -2793,7 +5484,7 @@ The Lord says: Amen, I say to you, whatever you did for one of these least broth
 Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
 
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -2805,6 +5496,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -2815,6 +5526,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -2823,6 +5542,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -2830,7 +5651,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -2846,6 +5704,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -2856,6 +5740,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -2872,6 +5766,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -2882,6 +5832,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -3040,7 +6030,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -3052,6 +6042,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -3062,6 +6072,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -3070,6 +6088,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -3077,7 +6197,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -3093,6 +6250,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -3103,6 +6286,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -3119,6 +6312,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -3129,6 +6378,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -3279,7 +6568,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -3291,6 +6580,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -3301,6 +6610,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -3309,6 +6626,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -3316,7 +6735,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -3332,6 +6788,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -3342,6 +6824,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -3358,6 +6850,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -3368,6 +6916,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -3530,226 +7118,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
-
-<strong>Giáo đầu</strong>
-<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
-<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
-Vinh danh Chúa Cha và Chúa Con,
-cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
-Ha-lê-lui-a.
-<strong>Thánh thi</strong>
-        `,
-
-        en: `<strong>OFFICE OF READINGS</strong>`
-      },
-      lauds: {
-        vi: `
-<strong>Giáo đầu</strong>
-<strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
-<strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
-        
-        `,
-
-        en: `<strong>MORNING PRAYER</strong>`
-      },
-      middayPrayer: {
-        vi: `
-<strong>Giáo đầu</strong>
-<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
-<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
-Vinh danh Chúa Cha và Chúa Con,
-cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
-Ha-lê-lui-a.
-
-<strong>Thánh thi</strong>
-        `,
-
-        en: `<strong>MIDDAY PRAYER</strong>`
-      },
-      vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
-
-        en: `<strong>EVENING PRAYER</strong>`
-      },
-      // compline: placeholder,
-    }
-  },
-
-// 15 Thánh Phê-rô Gióc Phờ-rát-sa-ti
-  {
-    id: 'St-pierre-georges-frassat',
-    date: '07-04',
-    title: { 
-      vi: 'Thánh Phê-rô Gióc Phờ-rát-sa-ti',
-      en: 'Bl. Pierre Georges Frassat',
-     
-    },
-    subtitle: {
-      vi: 'Giáo dân',
-      en: 'Layman',
-      
-    },
-    type: 'Lễ nhớ',
-    sections: {
-      biography: {
-        vi: `
-      Thánh Pier Giorgio Frassati (1901-1925) là một thanh niên Công giáo người Ý, được biết đến với lòng đạo đức sâu sắc, sự dấn thân mạnh mẽ cho công bằng xã hội và tình yêu bao la dành cho người nghèo. Ngài được Thánh Giáo hoàng Gioan Phaolô II gọi là "Người của Tám Mối Phúc Thật".
-      Ngài sinh ngày 6 tháng 4 năm 1901 tại Turin, Ý, trong một gia đình thượng lưu. Mặc dù xuất thân giàu có, Pier Giorgio lại có một trái tim nhạy cảm đặc biệt với những người thiếu thốn. Đời sống thiêng liêng của ngài được nuôi dưỡng bằng việc tham dự Thánh lễ và rước lễ hằng ngày, cùng với lòng sùng kính sâu sắc Bí tích Thánh Thể và Đức Trinh Nữ Maria.
-      Khi là sinh viên ngành kỹ thuật khai mỏ, ngài đã tích cực tham gia nhiều hội đoàn Công giáo, bao gồm Hiệp Hội Thánh Vinh Sơn Phaolô và phong trào Công giáo Tiến hành. Ngài dành phần lớn thời gian và tiền bạc của mình để trực tiếp thăm viếng và phục vụ những người nghèo khổ trong các khu ổ chuột ở Turin.
-      Pier Giorgio là một thanh niên năng động, yêu thích thể thao, đặc biệt là leo núi (ngài có câu nói nổi tiếng "Verso l'alto" - Hướng lên cao). Ngài cũng là thành viên Dòng Ba Đa Minh.
-      Ngài qua đời khi chỉ mới 24 tuổi, vào ngày 4 tháng 7 năm 1925, do bệnh bại liệt cấp tính, căn bệnh mà ngài được tin là đã mắc phải khi phục vụ người bệnh.
-      Ngài được Thánh Giáo hoàng Gioan Phaolô II tuyên phong Chân phước vào ngày 20 tháng 5 năm 1990 và được Đức Thánh Cha Lêô XIV tuyên phong Hiển Thánh vào ngày 7 tháng 9 năm 2025.
-
-        `,
-       
-en: `
-    Saint Pier Giorgio Frassati (1901-1925) was an Italian Catholic layman, known for his deep piety, strong commitment to social justice, and immense love for the poor. He was called "The Man of the Eight Beatitudes" by Pope St. John Paul II.
-    He was born on April 6, 1901, in Turin, Italy, into an upper-class family. Despite his wealthy background, Pier Giorgio possessed a heart particularly sensitive to those in need. His spiritual life was nourished by daily Mass and Holy Communion, along with a profound devotion to the Eucharist and the Virgin Mary.
-    As a mining engineering student, he was actively involved in numerous Catholic associations, including the Society of St Vincent de Paul and Catholic Action. He dedicated much of his time and personal money to directly visiting and serving the poor and sick in the slums of Turin.
-    Pier Giorgio was an active young man who loved sports, especially mountain climbing (he famously said "Verso l'alto" - To the heights). He was also a lay member of the Third Order of St. Dominic.
-    He died at the young age of 24, on July 4, 1925, from acute poliomyelitis, which he is believed to have contracted while serving the sick.
-    He was beatified by Pope St. John Paul II on May 20, 1990 and was canonized as a Saint by Pope Leo XIV on September 7, 2025.
-
-`
-},
-      massReadings: {
-vi: `
-
-<strong>Ca nhập lễ</strong> (Tv 20, 2-3)
-Lạy Chúa, Ngài tỏ uy lực khiến nhà vua sung sướng.
-Lòng vua ước nguyện sao,
-Chúa đã ban như vậy,
-miệng vua khấn xin gì,
-Ngài cũng không từ chối.
-
-<strong>Lời nguyện nhập lễ</strong>
-Lạy Cha, Cha đã ban cho thánh Phêrô Gióc Frát-sa-ti niềm vui được gặp Đức Kitô trong đức tin và lòng bác ái. Nhờ lời chuyển cầu của ngài, xin cho chúng con cũng biết đổ tràn giữa loài người thời đại chúng con, tinh thần các mối phúc của Tin Mừng. 
-Chúng con cầu xin...
-
-<strong>Bài đọc</strong> (Pl 3,8-14)
-<strong>Bài trích thư của thánh Phaolô tông đồ gửi tín hữu Phi-líp-phê</strong>
-      Thưa anh em, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Môsê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết.
-      Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi đang cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Kitô Giêsu chiếm đoạt. Thưa anh em, tôi không nghĩ là mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước. Tôi chạy thẳng tới đích, để chiếm được phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Kitô Giêsu.
-      <i>Đó là Lời Chúa.</i>
-
-<strong>Đáp ca</strong> (Tv 15)
-<strong>Đ. Lạy Chúa, Chúa là nguồn hạnh phúc và niềm vui của con!</strong>
-Lạy Chúa Trời xin giữ gìn con,
-vì bên Ngài con đang ẩn náu.
-Con thưa cùng Chúa: “Ngài là Chúa con thờ,
-ngoài Chúa ra đâu là hạnh phúc”.		    <strong>Đ.</strong>
-
-Con chúc tụng Chúa hằng thương chỉ dạy,
-ngay cả đêm trường, lòng dạ nhắn nhủ con
-Con luôn nhớ có Ngài trước mặt,
-được Ngài ở bên chẳng nao núng bao giờ.		    <strong>Đ.</strong>
-
-
-Chúa sẽ dạy con biết đường về cõi sống:*
-trước Thánh Nhan ôi vui sướng tràn trề,
-ở bên Ngài, hoan lạc chẳng hề vơi! 		    <strong>Đ.</strong>  
-
-<strong>Tung hô Tin Mừng</strong> (Mt 5, 3)
-<strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong> ThPhúc thay ai có tâm hồn nghèo khó, vì Nước Trời là của họ. <strong>Ha-lê-lu-i-a. Ha-lê-lu-i-a.</strong>
-
-<strong>TIN MỪNG</strong> (Mt 5, 1-12)
-<strong>Tin Mừng Đức Giêsu Kitô theo thánh Mát-thêu</strong>
-      Thấy đám đông, Đức Giêsu lên núi. Người ngồi xuống, các môn đệ đến gần bên. Người mở miệng dạy họ rằng:
-      “Phúc thay ai có tâm hồn nghèo khó, vì Nước Trời là của họ.
-      Phúc thay ai hiền lành, vì họ sẽ được đất hứa làm gia nghiệp.
-      Phúc thay ai sầu khổ, vì họ sẽ được Thiên Chúa ủi an.
-      Phúc thay ai khát khao nên người công chính,
-      vì họ sẽ được Thiên Chúa cho thỏa lòng.
-      Phúc thay ai xót thương người,
-      vì họ sẽ được Thiên Chúa xót thương.
-      Phúc thay ai có tâm hồn trong sạch,
-      vì họ sẽ được nhìn thấy Thiên Chúa.
-      Phúc thay ai xây dựng hoà bình,
-      vì họ sẽ được gọi là con Thiên Chúa.
-      Phúc thay ai bị bách hại vì sống công chính,
-      vì Nước Trời là của họ.
-      Phúc thay anh em khi vì Thầy mà bị người ta sỉ vả,
-      bách hại và vu khống đủ điều xấu xa.
-      Anh em hãy vui mừng hớn hở,
-      vì phần thưởng dành cho anh em ở trên trời thật lớn lao.”
-    <i>Đó là lời Chúa.</i>
-
-<strong>Lời nguyện tiến lễ</strong>
-Lạy Chúa, xin nhận lễ tiến dâng của dân Chúa: trong khi chúng con tưởng nhớ tình yêu vô biên của Con Chúa, xin cho chúng con biết theo gương thánh Phê-rô Gióc Phờ-rát-sa-ti, mà yêu mến Chúa và yêu thương tha nhân với một tâm hồn quảng đại hơn.
-Chúng con cầu xin...  
-
-<strong>TIỀN TỤNG</strong>
-Lạy Cha chí thánh,
-là Thiên Chúa toàn năng hằng hữu,
-chúng con tạ ơn Cha mọi nơi mọi lúc
-nhờ Đức Kitô, Chúa chúng con,
-thật là chính đáng, phải đạo
-và đem lại ơn cứu độ cho chúng con.
-Cha luôn làm sống lại sức mạnh của Hội Thánh Cha
-được chứng tỏ qua niềm tin của các thánh,
-và cũng biểu lộ cho chúng con tình yêu của Cha.
-Ngày hôm nay, chúng con tạ ơn Cha,
-vì gương sáng của các ngài khích lệ chúng con
-và lời cầu nguyện của thánh Phê-rô Gióc Phờ-rát-sa-ti,
-giúp chúng con hành động để Nước Cha trị đến.
-Vì thế, cùng với các thiên thần và toàn thể các thánh,
-chúng con tuyên xưng vinh quang Cha rằng:
-
-<strong>Ca hiệp lễ</strong> <i>(Ga 13, 35)</i>
-Chúa phán: Điều làm cho mọi người nhận biết anh em là môn đệ của Thầy: là anh em yêu thương nhau.
-
-<strong>Lời nguyện hiệp lễ</strong>
-Lạy Chúa là Cha chúng con, nhờ sự hiệp thông với các mầu nhiệm thánh này, xin cứu độ và củng cố dân Chúa trong sự khôn ngoan của Tin Mừng Chúa. 
-Chúng con cầu xin...
-`,     
-en: `<strong>MASS</strong>
-
-<strong>Entrance Antiphon (Jer 17:7-8)</strong>
-
-
-<strong>Collect</strong>
-
-
-<strong>Reading (1 Jn 3:14-18)</strong>
-
-<em>A reading from the first Letter of Saint .</em>
-
-
-<strong>Responsorial Psalm (Ps 16)</strong>
-
-<strong>R. You are my inheritance, O Lord!</strong>
-
- <strong>R.</strong>
- <strong>R.</strong>
- <strong>R.</strong>
-
-<strong>Gospel Acclamation (Jn 15:16)</strong>
-
-<strong>Alleluia, alleluia.</strong>  <strong>Alleluia, alleluia.</strong> 
-
-<strong>Gospel (Jn 15:9-17)</strong>
-
-<strong>A reading from the holy Gospel according to John.</strong>
-
-
-<strong>Prayer over the Offerings</strong>
-
-
-<strong>Communion Antiphon (Jn 8:12)</strong>
-
-
-<strong>Prayer after Communion</strong>
-
-`,    
-},
- officeOfReadings: {
+        officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -3761,6 +7130,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -3771,6 +7160,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -3779,6 +7176,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -3786,7 +7285,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -3802,6 +7338,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -3812,6 +7374,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -3828,6 +7400,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -3838,6 +7466,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -3968,7 +7636,7 @@ Chúng con cầu xin...
                 <strong>Communion Antiphon</strong>
                 <strong>Prayer after Communion</strong>`,
       },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -3980,6 +7648,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -3990,6 +7678,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -3998,6 +7694,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -4005,7 +7803,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -4021,6 +7856,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -4031,6 +7892,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -4047,6 +7918,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -4057,6 +7984,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -4232,7 +8199,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -4244,6 +8211,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -4254,6 +8241,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -4262,6 +8257,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -4269,7 +8366,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -4285,6 +8419,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -4295,6 +8455,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -4311,6 +8481,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -4321,6 +8547,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -4483,7 +8749,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -4495,6 +8761,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -4505,6 +8791,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -4513,6 +8807,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -4520,7 +8916,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -4536,6 +8969,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -4546,6 +9005,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -4562,6 +9031,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -4572,6 +9097,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -4723,7 +9288,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -4735,6 +9300,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -4745,6 +9330,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -4753,6 +9346,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -4760,7 +9455,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -4776,6 +9508,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -4786,6 +9544,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -4802,6 +9570,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -4812,6 +9636,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -4980,7 +9844,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -4992,6 +9856,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -5002,6 +9886,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -5010,6 +9902,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -5017,7 +10011,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -5033,6 +10064,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -5043,6 +10100,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -5059,6 +10126,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -5069,6 +10192,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -5252,7 +10415,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -5264,6 +10427,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -5274,6 +10457,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -5282,6 +10473,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -5289,7 +10582,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -5305,6 +10635,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -5315,6 +10671,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -5331,6 +10697,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -5341,6 +10763,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -5537,7 +10999,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -5549,6 +11011,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -5559,6 +11041,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -5567,6 +11057,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -5574,7 +11166,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -5590,6 +11219,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -5600,6 +11255,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -5616,6 +11281,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -5626,6 +11347,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -5821,7 +11582,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -5833,6 +11594,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -5843,6 +11624,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -5851,6 +11640,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -5858,7 +11749,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -5874,6 +11802,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -5884,6 +11838,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -5900,6 +11864,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -5910,6 +11930,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -6058,7 +12118,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -6070,6 +12130,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -6080,6 +12160,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -6088,6 +12176,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -6095,7 +12285,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -6111,6 +12338,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -6121,6 +12374,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -6137,6 +12400,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -6147,6 +12466,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -6493,7 +12852,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -6505,6 +12864,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -6515,6 +12894,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -6523,6 +12910,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -6530,7 +13019,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -6546,6 +13072,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -6556,6 +13108,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -6572,6 +13134,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -6582,6 +13200,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -6773,7 +13431,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -6785,6 +13443,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -6795,6 +13473,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -6803,6 +13489,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -6810,7 +13598,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -6826,6 +13651,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -6836,6 +13687,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -6852,6 +13713,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -6862,6 +13779,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -7020,7 +13977,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -7032,6 +13989,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -7042,6 +14019,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -7050,6 +14035,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -7057,7 +14144,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -7073,6 +14197,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -7083,6 +14233,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -7099,6 +14259,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -7109,6 +14325,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -7273,7 +14529,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+      officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -7285,6 +14541,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -7295,6 +14571,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -7303,6 +14587,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -7310,7 +14696,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -7326,6 +14749,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -7336,6 +14785,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -7352,6 +14811,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -7362,6 +14877,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -7531,7 +15086,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
- officeOfReadings: {
+       officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -7543,6 +15098,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -7553,6 +15128,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -7561,6 +15144,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -7568,7 +15253,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -7584,6 +15306,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -7594,6 +15342,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -7610,6 +15368,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -7620,6 +15434,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
@@ -7803,7 +15657,7 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+            officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
@@ -7815,6 +15669,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -7825,6 +15699,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -7833,6 +15715,108 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -7840,7 +15824,44 @@ Loading…
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -7856,6 +15877,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -7866,6 +15913,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
@@ -7882,6 +15939,62 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
         `,
 
         en: `
@@ -7892,6 +16005,46 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
 
         
         `
