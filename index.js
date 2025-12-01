@@ -8472,6 +8472,7 @@ Lạy Chúa Trời xin giữ gìn con,
 Chúa xử công minh cho người bị áp bức,
 ban lương thực cho kẻ đói ăn,
 Chúa giải phóng những ai tù tội.		    <strong>Đ.</strong>
+
 Chúa mở mắt cho kẻ mù lòa,
 Chúa cho kẻ bị dìm xuống đứng thẳng lên,
 Chúa yêu chuộng những người công chính.		    <strong>Đ.</strong>
@@ -8596,6 +8597,14 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING 1</strong>
+Loading...
+<strong>READING 2</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+Loading...
 
         `
       },
@@ -8604,6 +8613,43 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>ĐC</strong>
+
+<strong><i>Tv 94 (95) </i> </strong>
+Hãy đến đây ta reo hò mừng Chúa,
+tung hô Người là núi đá độ trì ta. *
+Vào trước Thánh Nhan dâng lời cảm tạ,
+cùng tung hô theo điệu hát cung đàn.
+
+Bởi Đức Chúa là Chúa Trời cao cả,
+là đại vương trổi vượt chư thần,
+nắm trong tay bao vực sâu lòng đất,
+giữ chủ quyền muôn ngọn núi vút cao. *
+Đại dương Chúa đã tạo thành là của Chúa,
+lục địa do tay Người nhào nắn cũng thuộc về Người.
+
+Hãy vào đây ta cúi mình phủ phục,
+quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
+Bởi chính Người là Thiên Chúa ta thờ,
+còn ta là dân Người lãnh đạo,
+là đoàn chiên tay Người dẫn dắt.
+
+Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
+Người phán : “Các ngươi chớ cứng lòng
+như tại Mê-ri-ba,
+như ngày ở Ma-xa trong sa mạc,
+nơi tổ phụ các ngươi đã từng thách thức
+và dám thử thách Ta
+dù đã thấy những việc Ta làm.
+
+“Suốt bốn mươi năm,
+dòng giống này làm Ta chán ngán,
+Ta đã nói :
+Đây là dân tâm hồn lầm lạc,
+chúng nào biết đến đường lối của Ta ! *
+Nên Ta mới thịnh nộ thề rằng :
+Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
 
@@ -8676,7 +8722,44 @@ dẫn ta bước vào đường nẻo bình an.
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
 Loading…
-       
+<strong>PSALMODY</strong>
+Loading…
+<strong>Luke 1:68 – 79
+The Messiah and his forerunner</strong>
+<strong>Ant.</strong>
+
+Blessed be the Lord, the God of Israel;
+he has come to his people and set them free.
+He has raised up for us a mighty savior,
+born of the house of his servant David.
+
+Through his holy prophets he promised of old
+that he would save us from our enemies,
+from the hands of all who hate us.
+He promised to show mercy to our fathers
+and to remember his holy covenant.
+
+This was the oath he swore to our father Abraham:
+to set us free from the hands of our enemies,
+free to worship him without fear,
+holy and righteous in his sight all the days of our life.
+
+You, my child, shall be called the prophet of the Most High;
+for you will go before the Lord to prepare his way,
+to give his people knowledge of salvation
+by the forgiveness of their sins.
+
+In the tender compassion of our God
+the dawn from on high shall break upon us,
+to shine on those who dwell in darkness and the shadow of death,
+and to guide our feet into the way of peace.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+<strong>Concluding Prayer</strong>
+
+
         
         `
       },
@@ -8728,6 +8811,16 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 
 <strong>HYMN</strong>
 Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>CONCLUDING PRAYER</strong>
+<strong>ACCLAMATION</strong>
+Let us praise the Lord.
+— And give him thanks.
 
         `
       },
