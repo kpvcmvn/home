@@ -8174,9 +8174,46 @@ Vượt ba đào ngàn dặm với muôn thu
 <strong>XĐ</strong> Xin cho hy lễ chúng con dâng ngày hôm nay được Chúa chấp nhận.
 <strong>*</strong> Chúng con đi theo Ngài và chúng con tìm kiếm thánh nhan Ngài.
 <strong>X</strong> Ngợi khen và vinh danh Chúa đến muôn thuở muôn đời. *
-<strong>Tc Tin Mừng</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
 <strong>ĐC</strong> Chúa là phần gia nghiệp tôi,
 Người nhân lành đối với ai tìm kiếm Người.
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
       Trong niềm hân hoan mừng kính lễ chân phước Mác- cô An-tôn, chúng ta hãy ngợi khen Thiên Chúa là Cha chúng ta, Đấng tác thành chúng ta giống Con Chúa.
@@ -8190,6 +8227,16 @@ Người nhân lành đối với ai tìm kiếm Người.
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin...
+            
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         `,
 
         en: `
@@ -8334,7 +8381,17 @@ hãy lãnh nhận gấp trăm và sự sống đời đời.
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin...
-              
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+     
         `,
 
         en: `
@@ -8509,6 +8566,26 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>XĐ</strong> 
+<strong>Đ</strong> 
+<strong>Bài đọc 1</strong>
+
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Bài đọc 2</strong>
+<strong>XĐ</strong> 
+*
+<strong>X</strong> 
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
         `,
 
         en: `
@@ -8527,6 +8604,71 @@ Loading…
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
+
+<strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong>
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
+<strong>ĐC</strong> 
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         
         `,
 
@@ -8550,6 +8692,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong>
+<strong>Đ</strong>
+
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong> Tạ ơn Chúa.
         `,
 
         en: `
@@ -8575,6 +8743,62 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+
+<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong>
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong>
+*
+<strong>X</strong>
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong>
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
 
         `,
 
