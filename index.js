@@ -191,7 +191,8 @@ Lord God, may the sacrifice we offer you on this memorial of Saint Elizabeth Ann
 The Lord says: I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
 
 <strong>Prayer after Communion</strong>
-Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.`,
+Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann Seton, fill us with the spirit of your love. May we learn to love you and to serve you in our brothers and sisters. We ask this through Christ our Lord.
+`,
     
 },
       officeOfReadings: {
@@ -240,9 +241,9 @@ Trong Ngài bạn sẽ luôn sáng ngời.
 <strong>Trích thư thánh Phaolô tông đồ gửi tín hữu Phi-líp-phê</strong>
       Những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Mô-sê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, nhờ nên đồng hình đồng dạng với Người trong cái chết của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết. Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Kitô Giêsu chiếm đoạt. Thưa anh em, tôi không nghĩ mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước. Tôi chạy thẳng tới đích, để chiếm phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Kitô Giêsu.
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Tôi làm được mọi sự trong Đấng đã tăng sức cho tôi,
+<strong>X</strong> Tôi làm được mọi sự trong Đấng đã tăng sức cho tôi,
 * Dù trong yếu đuối, lăng nhục, cưỡng bức, ngược đãi và khắc khoải.
-<strong>X</strong> Khi tôi yếu chính là lúc tôi mạnh. *
+<strong>Đ</strong> Khi tôi yếu chính là lúc tôi mạnh. *
 
 <strong>Bài đọc 2</strong>
 <strong>Tôi tìm kiếm Thiên Chúa và Giáo Hội Người</strong>
@@ -253,9 +254,9 @@ Trong Ngài bạn sẽ luôn sáng ngời.
       Và khi Ngài đã ở đó! Ý nghĩ đầu tiên đến trong trí nhớ tôi: “Thiên Chúa đứng lên, quân địch Ngài chạy tán loạn”. Bởi, dường như, thay vì sự tiếp rước khiêm nhường, đầy dịu dàng mà tôi đợi chờ dâng Ngài, thì đó chỉ là sự vui mừng và hân hoan của chiến thắng, bởi vì Ngài đã đến, Ngài, Đấng giải Phóng, Sự bảo vệ, khiên thuẫn của tôi, sức mạnh và ơn cứu độ của tôi, trở thành sở hữu của tôi vì thế giới này và vì tha nhân...
       Hai dặm đường quay về với kho tàng của tâm hồn tôi... Cái hôn đầu tiên và sự cầu phúc đầu tiên dành cho năm con yêu quí của tôi, khi đem về chỗ ở bé nhỏ của chúng tôi một Bậc Thầy thật vĩ đại”.
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Sự hân hoan thuộc về những ai ẩn náu nơi Chúa, Niềm Vui Sướng đời đời.
+<strong>X</strong> Sự hân hoan thuộc về những ai ẩn náu nơi Chúa, Niềm Vui Sướng đời đời.
 * Chúa bảo vệ họ, nhờ Chúa, họ mừng vui.
-<strong>X</strong> Chúa chúc phúc cho những người mến yêu danh Chúa. *
+<strong>Đ</strong> Chúa chúc phúc cho những người mến yêu danh Chúa. *
 
 <strong>Lời nguyện</strong>
       Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
@@ -748,12 +749,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Xin dâng Ngài, lạy Con Cha Chí Ái 
+Hương cam tùng phần thưởng thật lớn lao 
+Sự sống nữ tỳ Chúa đã hiến trao 
+Thành lời ca dâng lên Ngài nguồn sống.
+
+Hướng về Ngài, con tim đang lắng nghe 
+Trong thinh lặng, Thánh Danh được vang xa 
+Hướng về Ngài, niềm hy vọng chứa chan: 
+Chúng con hưởng hạnh phúc Chúa thương ban.
+
+Trong tay Ngài, lạy Con Cha Chí Ái 
+Đem niềm vui trọn hảo đến trần ai Sự sống 
+Ngài, quà tặng Thần Linh Chúa 
+Cho nữ tỳ, cho đến mãi muôn thu.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
-<strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+<strong>Xướng đáp</strong>
+<strong>X</strong> Tâm hồn chúng tôi đợi trông Chúa,
+<strong>Đ</strong> Bởi Người luôn che chở phù trì.
+
+<strong>Bài đọc 1</strong> 2 Cr 4,5-15
+<strong>Trích thư thứ hai của thánh Phaolô gửi tín hữu Cô-rin-tô</strong>
+      Bởi chúng tôi không rao giảng chính mình, mà chỉ rao giảng Đức Kitô Giêsu là Chúa; còn chúng tôi, chúng tôi chỉ là tôi tớ của anh em, vì Đức Giêsu. Quả thật, xưa Thiên Chúa đã phán: Ánh sáng hãy bừng lên từ tối tăm! Người cũng làm cho ánh sáng chiếu soi lòng trí chúng tôi, để tỏ bày cho thiên hạ được biết vinh quang của Thiên Chúa rạng ngời trên gương mặt Đức Kitô.
+      Nhưng kho tàng ấy, chúng tôi lại chứa đựng trong những bình sành, để chứng tỏ quyền năng phi thường phát xuất từ Thiên Chúa, chứ không phải từ chúng tôi. Chúng tôi bị dồn ép tư bề, nhưng không bị đè bẹp; hoang mang, nhưng không tuyệt vọng; bị ngược đãi, nhưng không bị bỏ rơi; bị quật ngã, nhưng không bị tiêu diệt. Chúng tôi luôn mang nơi thân mình cuộc thương khó của Đức Giêsu, để sự sống của Đức Giêsu cũng được biểu lộ nơi thân mình chúng tôi. Thật vậy, tuy sống, chúng tôi hằng bị cái chết đe dọa vì Đức Giêsu, để sự sống của Đức Giêsu cũng được biểu lộ nơi thân xác phải chết của chúng tôi. Như thế, sự chết hoạt động nơi chúng tôi, còn sự sống hoạt động nơi anh em.
+      Vì có được cùng một lòng tin, như đã chép: “Tôi đã tin, nên tôi mới nói" thì chúng tôi cũng tin, nên chúng tôi mới nói. Quả thật, chúng tôi biết rằng Đấng đã làm cho Chúa Giêsu trỗi dậy cũng sẽ làm cho chúng tôi được trỗi dậy với Chúa Giêsu, và đặt chúng tôi bên hữu Người cùng với anh em. Thật vậy, tất cả những điều ấy xảy ra là vì anh em. Như thế, ân sủng càng dồi dào, thì càng có đông người hơn dâng lên Thiên Chúa muôn ngàn lời cảm tạ, để tôn vinh Người.
 
 <strong>XĐ</strong> 
 *
