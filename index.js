@@ -14217,7 +14217,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
           novena: [
  { id: 'day1', title: { 
               vi: 'Ngày thứ nhất: Đức Kitô Của Thánh Vinh Sơn Phaolô',
-              en: 'Day 1: ' 
+              en: 'The first day: The Christ of St. Vincent de Paul' 
               }, 
             content: { 
               vi: `
@@ -14250,6 +14250,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14287,6 +14288,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14322,6 +14324,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14356,6 +14359,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14394,6 +14398,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14429,6 +14434,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14465,6 +14471,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14500,6 +14507,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
@@ -14536,6 +14544,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
       `, 
 
               en: `
+Loading...
 
       `,   
                 }},
