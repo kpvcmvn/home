@@ -776,14 +776,24 @@ Cho nữ tỳ, cho đến mãi muôn thu.
       Nhưng kho tàng ấy, chúng tôi lại chứa đựng trong những bình sành, để chứng tỏ quyền năng phi thường phát xuất từ Thiên Chúa, chứ không phải từ chúng tôi. Chúng tôi bị dồn ép tư bề, nhưng không bị đè bẹp; hoang mang, nhưng không tuyệt vọng; bị ngược đãi, nhưng không bị bỏ rơi; bị quật ngã, nhưng không bị tiêu diệt. Chúng tôi luôn mang nơi thân mình cuộc thương khó của Đức Giêsu, để sự sống của Đức Giêsu cũng được biểu lộ nơi thân mình chúng tôi. Thật vậy, tuy sống, chúng tôi hằng bị cái chết đe dọa vì Đức Giêsu, để sự sống của Đức Giêsu cũng được biểu lộ nơi thân xác phải chết của chúng tôi. Như thế, sự chết hoạt động nơi chúng tôi, còn sự sống hoạt động nơi anh em.
       Vì có được cùng một lòng tin, như đã chép: “Tôi đã tin, nên tôi mới nói" thì chúng tôi cũng tin, nên chúng tôi mới nói. Quả thật, chúng tôi biết rằng Đấng đã làm cho Chúa Giêsu trỗi dậy cũng sẽ làm cho chúng tôi được trỗi dậy với Chúa Giêsu, và đặt chúng tôi bên hữu Người cùng với anh em. Thật vậy, tất cả những điều ấy xảy ra là vì anh em. Như thế, ân sủng càng dồi dào, thì càng có đông người hơn dâng lên Thiên Chúa muôn ngàn lời cảm tạ, để tôn vinh Người.
 
-<strong>XĐ</strong> 
-*
-<strong>X</strong> 
+<strong>XĐ</strong> Ai đánh mất mạng sống mình thì sẽ tìm lại được.
+* Không có tình yêu nào lớn hơn tình yêu chết cho người mình yêu.
+<strong>X</strong> Chúng ta có nhiều nhân chứng, hãy tiến bước, mắt gắn chặt vào Đức Kitô. *
+
 <strong>Bài đọc 2</strong>
-<strong>XĐ</strong> 
-*
-<strong>X</strong> 
+<strong>Trích bút tích thiêng liêng của thánh Louise de Marillac, trang 768.</strong>
+      Những suy tư về Thánh giá.
+      Thánh Phao-lô vừa khóc vừa nói: có lắm kẻ sống như thù địch của Thập Giá Đức Giêsu Kitô. Phần chúng ta, chúng ta được kêu gọi tôn vinh thập giá; thập giá nói đây là tất cả mọi khổ ải, vừa là do liên quan đến chính thập giá mà Chúa chúng ta đã chịu đóng đinh, cũng như những phiền muộn và đau đớn mà Chúa đã chịu trong suốt cuộc sống nhân loại thánh thiện của Chúa, chính Ngài đã dạy chúng ta ở nhiều chỗ trong các Tin Mừng. Hơn nữa, chính các tâm hồn được Chúa chọn thì rất đặc biệt, sự đau khổ được dành cho họ, đối với họ, đau khổ lại êm dịu và dễ thương tới mức họ thà chết hơn là không đau khổ; vì yêu mến và đau khổ chỉ là một với họ. Chúa chúng ta đã muốn cho biết phẩm giá của đau khổ, khi Ngài nói thánh Phaolô sẽ được tôn vinh nhờ những đau khổ vì Danh Ngài, và quả thật, niềm tin này phải được thiết lập trong con tim chúng ta, vì chúng ta làm gì trên trần gian khi chúng ta chịu đau khổ?
+      Chúng ta hưởng dùng công nghiệp những đau khổ của Chúa Giêsu Kitô. Và trên thiên đàng Thiên Chúa đang làm gì? Muôn đời Ngài thực hiện cái chết và những đau khổ của Con Ngài: Ngài ban hạnh phúc cho các tâm hồn được cứu chuộc nhờ những đau khổ. Ôi Thập Giá, những đau khổ, ngươi đáng mến biết bao, vì ngươi được tôn vinh và đời đời sẽ được tôn vinh nhờ sức mạnh mà ngươi đã tìm được cho các tâm hồn biết ca tụng và yêu mến Chúa. Ôi Thập Giá! Ôi những đau khổ: các ngươi đáng mến biết bao, vì tình thương của một Vị Thiên Chúa đã dành chỗ cho các ngươi trong Con của Ngài, để nhờ các ngươi Con Ngài nhận quyền ban thiên đàng cho những ai mà những thú vui đã đuổi họ ra khỏi thiên đàng.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Lạy Chúa, con tạ ơn Chúa;
+* Chúa là Đấng bảo vệ và là Đấng bênh đỡ con Ước chi con được vui mừng hớn hở trong tình thương của Chúa.
+<strong>X</strong> Chúng ta có nhiều nhân chứng. *
+
 <strong>Lời nguyện</strong>
+      Lạy Chúa, nơi chân phước Lin-dan-ba, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng triều thiên tử đạo. Nhờ lời chuyển cầu của chân phước, xin Chúa cho chúng con biết dâng hiến chính cuộc sống chúng con làm của lễ đẹp lòng Chúa, bằng cách làm mọi việc vì tình yêu Chúa.
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -1316,22 +1326,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -1861,22 +1882,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -2396,22 +2428,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -2951,22 +2994,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -3505,22 +3559,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -4058,22 +4123,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -4595,22 +4671,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -5140,22 +5227,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -5689,18 +5787,28 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -6235,22 +6343,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -6773,22 +6892,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -7323,22 +7453,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -7841,22 +7982,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -8404,22 +8556,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -8954,22 +9117,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -9493,22 +9667,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -10049,22 +10234,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -10620,22 +10816,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -11204,22 +11411,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -11787,22 +12005,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -12323,22 +12552,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -13057,22 +13297,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -14182,22 +14433,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -14734,22 +14996,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -15291,18 +15564,28 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -15862,22 +16145,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
@@ -16443,6 +16737,7 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       Để nói cho đúng về tình yêu của Đức Kitô chịu đóng đinh, chúng ta phải chấm bút vào máu của Đấng Chịu Đóng Đinh, và phải có một con tim biết cảm nghiệm, biết yêu và biết sống hy sinh vì tình yêu Chúa, và vì thánh ý của Thiên Chúa. Nhưng tôi còn quá xa lạ với tâm tư đó, đến nỗi tôi không tìm được lối thoát nào hơn là hạ mình. khiêm tốn hay lẩn trốn. Không yêu Thiên Chúa, Đấng vì yêu chúng ta đã chịu đau khổ, và chịu chết, ôi cái tội thật ghê sợ! Từ bao năm qua theo học ở trường của Đấng Chịu Đóng Đinh mà chưa thuộc được bài học yêu quá đơn sơ; giảng cho người ta về tình yêu Chúa mà vẫn còn vô cảm và trơ trơ, ôi, một sự quái lạ kinh khủng quá!
       Giả như Thiên Chúa ra lệnh cho chúng ta phải ăn chay, phải đi xa, hãm mình phạt xác, tôi có thể từ chối: tôi không thể. Nhưng Thiên Chúa chỉ ra lệnh yêu Ngài; Lý do thoái thác nào khi tôi vẫn vô cảm? Giới răn nào dễ dàng hơn, dịu ngọt hơn, êm ái hơn? Ô! Ôi những chê trách nghiêm khắc vào ngày phán xét! Không yêu người cha hay yêu thương nhất, người bạn chân tình nhất, người anh dịu dàng nhất và hôn phu đẹp và quyến rũ nhất! Còn điều xấu xa nào lớn lao hơn điều xấu của chúng ta? Nhận một con tim để yêu Đức Giêsu mà lại làm ô uế và làm bẩn con tim này khi đem vào đền thánh này tình yêu thụ tạo! Ngài thì quá yêu ta, còn ta thì quá chai đá! Ngài xin con tim chúng ta, mà chúng ta lại từ chối Ngài, mà còn đem tặng cho thụ tạo! Ngài, bằng những lời mời gọi, những cắn rứt lương tâm, sự động viên mạnh mẽ yêu Ngài, mà ta, ta giả điếc làm ngơ trước những lời mời gọi của Ngài, ta dập tắt những cắn rứt, lại từ khước yêu Ngài! Ôi! Quả là có ít người yêu Đức Giêsu! Họ nói họ yêu Chúa, mà thật ra họ không yêu! Họ yêu Chúa trên đồi Ta-Bo, nhưng không yêu Chúa trên đồi Can-vê; Họ yêu Chúa khi cảm thấy sự dịu dàng nào đó hay theo cảm tính, nhưng không yêu khi gặp phiền hà và nhục nhã. Ôi, những người, cả các tu sĩ, yêu Đức Giê-su chịu đóng đinh cách chân tình và hết cả con tim mình vẫn chưa đông!
       Xin Chúa ban cho chúng ta được ở vào số bé nhỏ này.
+
 <strong>Xướng đáp</strong>
 <strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. 
 Và Thiên Chúa ở lại trong người ấy 
@@ -16450,6 +16745,7 @@ Và Thiên Chúa ở lại trong người ấy
 Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
 <strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, 
 vì tình yêu bắt nguồn từ Thiên Chúa. *
+
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước Mác-cô An-tôn qua ân ban chiêm niệm cuộc thương khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con qua gương và nhờ lời chuyển cầu của chân phước cho chúng con biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
       Chúng con cầu xin…
@@ -17010,22 +17306,33 @@ Ha-lê-lui-a.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>XĐ</strong> 
+<strong>Xướng đáp</strong>
+<strong>X</strong> 
 <strong>Đ</strong> 
-<strong>Bài đọc 1</strong>
+
+<strong>Bài đọc 1</strong> 
+<strong> </strong>
 
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Bài đọc 2</strong>
+<strong> </strong>
+     
+<strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
-*
+* 
 <strong>X</strong> 
+
 <strong>Lời nguyện</strong>
+      
+     <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
+
 
         `,
 
