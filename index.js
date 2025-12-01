@@ -618,7 +618,15 @@ Nhờ ơn Chúa, thánh nữ Ê-li-za-bét An-na đã biết khơi dậy và nâ
 Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
 <i>Chúng con cầu xin…</i>
 
-
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
         `,
 
   en: `
@@ -838,7 +846,7 @@ Trong tay Ngài, lạy Con Cha Chí Ái
 Ngài, quà tặng Thần Linh Chúa 
 Cho nữ tỳ, cho đến mãi muôn thu.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
 <strong>X</strong> Tâm hồn chúng tôi đợi trông Chúa,
@@ -900,7 +908,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Đức Kitô là Vua các anh hùng tử đạo, 
+nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -938,17 +947,39 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Không có tình yêu nào 
+Lớn hơn tình hy sinh 
+Hy sinh chính thân mình 
+Cho bạn hữu thân tình.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Lời Giê-su thiết tha 
+Cho tất cả chúng ta 
+Hỡi ai bạn hữu Ngài 
+Hãy thi hành Thánh Ý.
 
-<strong>Lời Chúa</strong>
+Chính Giê-su là Thầy 
+Và là Chúa chúng ta 
+Chính Ngài đã nêu gương 
+Cho chúng ta tỏ tường.
+
+Hạnh phúc thay người nào 
+Trung kiên trong cuộc sống 
+Hy sinh chính thân mình 
+Cho Chúa, cho tha nhân.
+
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
+
+<strong>Lời Chúa</strong> Dc 8,6-7
+      Xin đặt em như chiếc ấn trên trái tim anh, như chiếc ấn trên cánh tay anh. Phải, tình yêu mãnh liệt như tử thần, cơn đam mê dữ dội như âm phủ. Lửa tình là ngọn lửa bừng cháy, một ngọn lửa thần thiêng. Nước lũ không dập tắt nổi tình yêu, sóng cồn chẳng tài nào vùi lấp.
+      Ai đem hết gia tài sự nghiệp mà đổi lấy tình yêu, ắt sẽ bị người đời khinh dể.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Nếu ai giữ lời Ta
+* Cha Ta sẽ yêu mến người ấy.
+<strong>X</strong> Chúng ta sẽ đến ở trong người ấy. *
+
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Ta không đến để được phục vụ, nhưng đến để phục vụ và hiến mạng sống mình làm giá chuộc cho nhiều người.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -988,10 +1019,18 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Chúng ta hãy tạ ơn Chúa vì nữ tỳ Người, chân phước Lin-dan-ba, nơi chân phước Tin Mừng đã rực sáng.
+      <i>Chúng con xin ngợi khen Chúa, lạy Thiên Chúa hằng sống. </i>
+      Vì biết bao phụ nữ đã kín múc sức mạnh nơi Chúa và tìm được niềm vui trong sự trung tín.
+      Vì tất cả mọi người nữ đã kiên nhẫn, kiên trì và dịu hiền khi gặp phải bạo lực.
+      Vì tất cả mọi người nữ đã hiến đời mình cho Chúa bước theo Đức Kitô khó nghèo.
+      Vì tất cả mọi người nữ sống thánh hiến đã dành sức lực phục vụ bệnh nhân và người nghèo.
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, nơi chân phước Lin-đan-ba, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng triều thiên tử đạo. Nhờ lời chuyển cầu của chân phước, xin Chúa cho chúng con biết dâng hiến chính cuộc sống chúng con làm của lễ đẹp lòng Chúa, bằng cách làm mọi việc vì tình yêu Chúa.
+      <i>Chúng con cầu xin...</i>
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -1076,13 +1115,15 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> 2 Cr 9, 7-9
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Hãy phục vụ Chúa Kitô
+<strong>Đ</strong> Bạn sẽ được phần thưởng trong gia nghiệp của Người.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, nơi chân phước Lin-đan-ba, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng triều thiên tử đạo. Nhờ lời chuyển cầu của chân phước, xin Chúa cho chúng con biết dâng hiến chính cuộc sống chúng con làm của lễ đẹp lòng Chúa, bằng cách làm mọi việc vì tình yêu Chúa.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -1122,15 +1163,39 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Tình yêu Thiên Chúa bao la 
+Người đã ban tặng Con là Giê-su 
+Dầu cho sự chết âm u 
+Làm sao lìa tách Giê-su trong đời.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+Từ khi tội lỗi lan tràn 
+Nhân gian trầm khốn trong vàn điêu linh 
+Chúa Cha vội tỏ uy linh 
+Sai Người Con Một tỏ tình với ta.
+
+Chúa Cha đã chọn chúng ta 
+Chúa Con hiến tế chính là xác thân 
+Đời ta đổi mới canh tân 
+Quay về chính lối bước dần đến Cha.
+
+Xin cho chúng con hàng ngày 
+Biết luôn tỉnh thức van nài kêu xin 
+Trở nên nguồn sống vô biên 
+Cho người con Chúa mãn viên muôn đời. 
+
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> Pl 3,7-8
+      Nhưng, những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Giêsu Kitô, Chúa của tôi.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Tôi có thể làm mọi sự
+* trong Đấng làm cho tôi nên mạnh mẽ.
+<strong>X</strong> Khi tôi yếu, tôi giữ niềm tin. *
+
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> “Hạnh phúc thay được bước theo Chúa Giêsu! 
+Thật là hồng ân đặc biệt! 
+Thật không thể chống lại tình yêu của Ngài".
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -1165,9 +1230,17 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+Nhân ngày lễ kính chân phước Lin-dan-ba, chúng ta hãy cầu xin Đức Giêsu, vị chứng nhân trung thành, chính Ngài đã ban cho chúng ta chứng từ cao đẹp nhất.
+<i>Chúa đã chiến thắng sự chết, xin nghe lời chúng con.</i>
+Lạy Chúa, Chúa đã phái Thần Khí xuống trên chân phước Lin-đan-ba, <i>- xin soi sáng cho những người đang phải giãi bày đức tin.</i>
+Lạy Chúa, Chúa đã phái Thần Khí sức mạnh xuống trên chân phước Lin-dan-ba, <i>- xin ban sức mạnh cho những ai đang phải chiến đấu vì đức tin.</i>
+Lạy Chúa, Chúa đã phái Thần Khí bác ái xuống trên chân phước Lin-đan-ba, <i>- xin đỡ nâng những ai đang phải đau khổ vì Chúa.</i>
+Lạy Chúa, Chúa đã phái Thần Khí nhiệt thành xuống trên chân phước Lin-đan-ba, <i>- xin động viên những ai đang loan báo Tin Mừng Nước Chúa.</i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, nơi chân phước Lin-đan-ba, Chúa đã chuẩn nhận việc phục vụ người nghèo bằng triều thiên tử đạo. Nhờ lời chuyển cầu của chân phước, xin Chúa cho chúng con biết dâng hiến chính cuộc sống chúng con làm của lễ đẹp lòng Chúa, bằng cách làm mọi việc vì tình yêu Chúa.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
