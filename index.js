@@ -201,9 +201,10 @@ Lord, may this Eucharist, which we have shared in memory of Saint Elizabeth Ann 
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
 Hãy đặt đèn của bạn trên giá 
 Càng tốt khi dầu cạn đèn tắt! 
@@ -262,7 +263,16 @@ Trong Ngài bạn sẽ luôn sáng ngời.
         
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -272,7 +282,13 @@ Trong Ngài bạn sẽ luôn sáng ngời.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -281,20 +297,50 @@ Trong Ngài bạn sẽ luôn sáng ngời.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -434,21 +480,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
-        
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -458,7 +513,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -467,20 +528,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -634,21 +725,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
-<strong>Thánh thi</strong>
 
+<strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -658,7 +758,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -667,20 +773,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -835,21 +971,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
+        `,
 
-`,
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -859,7 +1004,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -868,20 +1019,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -1026,21 +1207,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
-<strong>Thánh thi</strong>
 
+<strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -1050,7 +1240,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -1059,20 +1255,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -1237,21 +1463,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
-<strong>Thánh thi</strong>
 
+<strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -1261,7 +1496,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -1270,20 +1511,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -1447,21 +1718,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
-        
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -1471,7 +1751,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -1480,20 +1766,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -1656,21 +1972,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
+        `,
 
-`,
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -1680,7 +2005,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -1689,20 +2020,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -1849,21 +2210,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
+        `,
 
-`,
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -1872,7 +2242,14 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
         
         `,
-        en: `<strong>MORNING PRAYER</strong>`
+
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -1881,20 +2258,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -2049,21 +2456,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
-<strong>Thánh thi</strong>
 
+<strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -2072,7 +2488,14 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
         
         `,
-        en: `<strong>MORNING PRAYER</strong>`
+
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -2081,20 +2504,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -2253,21 +2706,30 @@ The Lord says: Amen, I say to you, whatever you did for one of these least broth
 Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
 
 },
-        officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
+        `,
 
-    `,
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -2277,7 +2739,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -2286,20 +2754,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -2455,21 +2953,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
-<strong>Thánh thi</strong>
 
+<strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -2479,7 +2986,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -2488,20 +3001,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -2649,22 +3192,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
-
-
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -2674,7 +3225,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -2683,20 +3240,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -3075,21 +3662,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
+        `,
 
-`,
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -3099,7 +3695,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -3108,20 +3710,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -3249,20 +3881,30 @@ Chúng con cầu xin...
                 <strong>Communion Antiphon</strong>
                 <strong>Prayer after Communion</strong>`,
       },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -3272,7 +3914,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -3281,20 +3929,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
     }
 },
@@ -3467,20 +4145,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -3490,7 +4178,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -3499,20 +4193,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -3672,20 +4396,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -3695,7 +4429,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -3704,20 +4444,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -3866,20 +4636,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -3889,7 +4669,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -3898,20 +4684,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -4077,20 +4893,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -4100,7 +4926,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -4109,20 +4941,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -4303,20 +5165,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-       vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -4326,7 +5198,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -4335,20 +5213,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -4542,20 +5450,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
-        vi: `
+ officeOfReadings: {
+vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -4565,7 +5483,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -4574,20 +5498,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -4780,20 +5734,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -4803,7 +5767,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -4812,20 +5782,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -4971,20 +5971,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -4993,7 +6003,14 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
         
         `,
-        en: `<strong>MORNING PRAYER</strong>`
+
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -5002,20 +6019,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -5359,20 +6406,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -5381,7 +6438,14 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
         
         `,
-        en: `<strong>MORNING PRAYER</strong>`
+
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -5390,19 +6454,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
-        en: `<strong>MIDDAY PRAYER</strong>`
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -5591,20 +6686,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -5614,7 +6719,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -5623,20 +6734,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -5792,20 +6933,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -5815,7 +6966,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -5824,20 +6981,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -5999,20 +7186,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -6022,7 +7219,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -6031,19 +7234,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
-        en: `<strong>MIDDAY PRAYER</strong>`
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -6210,20 +7444,30 @@ en: `<strong>MASS</strong>
 
 `,    
 },
-      officeOfReadings: {
+ officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
+
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -6233,7 +7477,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -6242,20 +7492,50 @@ Ha-lê-lui-a.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
-        vi: `<strong>KINH CHIỀU</strong>
-        <strong>Thánh thi </strong>`,
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
 
-        en: `<strong>EVENING PRAYER</strong>`
+<strong>Thánh thi</strong>
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -6450,7 +7730,16 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -6460,7 +7749,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -6476,7 +7771,16 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
         vi: `
@@ -6493,7 +7797,17 @@ Ha-lê-lui-a.
 
         `,
 
-        en: `<strong>EVENING PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
       // compline: placeholder,
     }
@@ -6643,11 +7957,11 @@ Loading...
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi </strong>
+<strong>Thánh thi</strong>
 Khách hành hương, khách lạ trên dương thế 
 Dù đêm đen hay ánh sáng huy hoàng. 
 Sự sống Ngài tuôn chảy trên nhân thế 
@@ -6713,9 +8027,14 @@ vì tình yêu bắt nguồn từ Thiên Chúa. *
 `,
 
         en: `
-Loading...
-        
-        
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
         `
       },
       lauds: {
@@ -6788,9 +8107,10 @@ Người nhân lành đối với ai tìm kiếm Người.
         `,
 
         en: `
-
- 
-        
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
         `
       },
       middayPrayer: {
@@ -6800,8 +8120,8 @@ Người nhân lành đối với ai tìm kiếm Người.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
@@ -6838,7 +8158,16 @@ Dẫn ta đến nhan Người.
         
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
         vi: `
@@ -6847,8 +8176,8 @@ Dẫn ta đến nhan Người.
 <strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con,
 cùng vinh danh Thánh Thần Thiên Chúa,
-tự muôn đời và chính hiện nay
-luôn mãi đến thiên thu vạn đại. A-men.
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
@@ -6922,7 +8251,14 @@ hãy lãnh nhận gấp trăm và sự sống đời đời.
               
         `,
 
-        en: `<strong>EVENING PRAYER</strong>
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
 
         `
       },
@@ -7089,7 +8425,16 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>OFFICE OF READINGS</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       lauds: {
         vi: `
@@ -7099,7 +8444,13 @@ Ha-lê-lui-a.
         
         `,
 
-        en: `<strong>MORNING PRAYER</strong>`
+        en: `
+Lord, open my lips.
+<strong>—</strong> <i>And my mouth will proclaim your praise.</i>
+Loading…
+       
+        
+        `
       },
       middayPrayer: {
         vi: `
@@ -7115,7 +8466,16 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
         `,
 
-        en: `<strong>MIDDAY PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        `
       },
       vespers: {
         vi: `
@@ -7132,7 +8492,17 @@ Ha-lê-lui-a.
 
         `,
 
-        en: `<strong>EVENING PRAYER</strong>`
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+
+        
+        `
       },
     }
   },
