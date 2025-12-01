@@ -365,8 +365,6 @@ Chúng con như thợ sớm chiều chuyên chăm.
 Giêsu trăn trối hết tâm: 
 “Yêu thương, hiệp nhất, giới răn của Thầy”.
 
-
-
         `,
 
    en: `
@@ -426,6 +424,36 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ngày tới lúc thật huy hoàng rực rỡ,
+Khắp địa cầu tràn ngập ánh thiều quang,
+Đoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Đấng Toàn Năng cao cả.
+
+Xin dập tắt những đam mê tội lỗi,
+Lửa giận hờn còn nung nấu tâm can,
+Cho bác ái thành mưa sa tưới gội
+Lòng chúng con hoa thắm nở bình an.
+
+Xin nhậm lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Đức Ki-tô, Con Một Chúa,
+Đấng trị vì cùng với Chúa Thánh Thần
+Tự ngàn xưa tới muôn đời muôn thuở.
+
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần
+<strong>Lời Chúa </strong>1 Cr 1,26-30
+      Khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy kẻ khôn ngoan trước mặt người đời, đâu có mấy người quyền thế, mấy người quý phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém, thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan phát xuất từ Thiên Chúa, Đấng đã làm cho anh em trở nên công chính, đã thánh hóa và cứu chuộc anh em.
+
+<strong>Xướng đáp</strong>
+<strong>X</strong> Hạnh phúc cho những ai tuân theo luật Chúa.
+<strong>Đ</strong> Hạnh phúc cho những ai tìm kiếm Chúa hết lòng.
+
+<strong>Lời nguyện</strong>
+      Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
+      <i>Chúng con cầu xin...</i>
+
+<strong>Kết thúc</strong>
+<strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
+<strong>Cộng đoàn</strong>	Tạ ơn Chúa.
         `,
 
 
@@ -462,6 +490,40 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Hôm nay Thánh Thần gọi mời ta sống 
+Với sự sống thần linh của Chúa Trời 
+Ngài cũng mời gọi chúng ta tin tưởng 
+Tin nơi tình yêu hoàn hảo của Người.
+
+Để chúng ta thực hiện công trình Chúa 
+Công trình cứu độ minh chứng tình yêu 
+Ngài yêu thương ta và ban ân sủng 
+Vũ trụ tràn trề hoan hỷ Phục sinh.
+
+Hãy khám phá tác động của Thần Khí 
+Đã khơi dậy ngập tràn cõi đất này 
+Và trở nên muối men, nên ánh sáng 
+Dấn thân phục vụ hết mọi người.
+
+Nhờ đó ta tạo nên miền đất hứa 
+Rao giảng Lời Người, ban phát bánh ăn 
+Mọi thù hận chiến tranh không còn nữa 
+Hòa bình công lý mở rộng trần gian.
+
+Ôi! Đá tảng góc tường vững bền mãi 
+Xây dựng nên nền Giáo Hội trường tồn 
+Để đón nhận muôn ngàn lời thở than 
+Hát vang mãi niềm hy vọng ngàn đời.
+
+Tôn vinh Chúa Cha ngàn muôn thánh thiện 
+Và Ngôi Con Đấng từ ái một niềm 
+Cùng Thánh Linh muôn đời tồn tại mãi 
+Kính cẩn dâng Ngài vạn lời phúc vinh.
+
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần
+<strong>Lời Chúa </strong>Rm 8,, 28-30
+      Chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để Con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+
 
         `,
 
