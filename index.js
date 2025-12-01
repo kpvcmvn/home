@@ -18932,7 +18932,7 @@ const DEFAULT_SETTINGS = {
             vi: 'Lạy Chúa giàu lòng thương xót, chúng con ngợi khen và tôn vinh Chúa, Đấng luôn đồng hành với từng bước chân qua những nẻo đường lịch sử chúng con. Chúng con cảm tạ Chúa đã chọn Cha Thánh Vinh Sơn Phaolô và vì Giáo Hội, Chúa đã biến đổi ngài thành một ngôn sứ của lòng bác ái và công bình. Chúa đã gọi ngài trở nên hình ảnh của Đức Kitô, Mục Tử Nhân Lành, Đấng chăm sóc những người bé nhỏ và yếu đuối, những kẻ lạc lối và bị loại trừ. Chính Thần khí sự thật và ánh sáng của Chúa, đã thối bùng trái tim ngài bằng một tình yêu lớn lao. Qua ngài, Chúa đã nâng đỡ Tu Hội nhỏ bé trong bốn thế kỷ qua, và luôn diễn tả sự bao bọc của Chúa với những người nghèo khổ trên Trái Đất này. Xin cho chúng con trở thành con người cầu nguyện, được nuôi dưỡng bằng Thánh Thể Chúa, ngự trên đôi tay chúng con, được nuôi dưỡng bằng Lời Chúa, ủy thác trên môi miệng chúng con. Để chúng con có khả năng cảm thông trước những khổ đau của nhân loại. Xin đốt lên trong tâm hồn chúng con ngọn lửa của lòng nhân hậu và ngọn lửa truyền giáo. Xin cho chúng con đừng bao giờ quên rằng mọi sự đều là ân huệ Chúa ban. Amen.', 
             en: 'Praise and honor to you, God of mercy, who always accompany our steps along the paths of history. We thank you because you have chosen Vincent de Paul and, for your Church, you converted him into a prophet of charity and justice. You called him to be an icon of Christ, the Good Shepherd, who cares for the least and the fragile, the lost and the excluded. Your Spirit of truth and light, inflamed his heart with a great love. Through him you raised up the Little Company, wich, for four centuries, tells of your solidarity with the poor of the Earth. Make us today men of prayer, capable of his regard for human miseries, nourished by the Eucharist you place in our hands and by the Gospel you entrust to our lips. Let there burn in our hearts the fire of tenderness and mission. Make us never lose the memory that everything is your gift. Amen'
           }},
-// Kinh Kinh Truyền Tin
+// Kinh  Truyền Tin
            { id: 'kinktruyentin', title: { 
             vi: 'Kinh Truyền Tin', 
             en: 'The Angelus'
@@ -18970,6 +18970,34 @@ Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death.
 <strong>R:</strong> That we may be made worthy of the promises of Christ.
 <strong>Let us pray:</strong> Pour forth, we beseech You, O Lord, Your Grace into our hearts; that as we have known the incarnation of Christ, your Son by the message of an angel, so by His passion and cross we may be brought to the glory of His Resurrection. Through the same Christ, our Lord. Amen.
             `,
+          }}, 
+          // Kinh lạy nữ vương thiên đàng
+           { id: 'kinhlaynuvuongthiendang', title: { 
+            vi: 'Kinh Lạy Nữ Vương Thiên Đàng', 
+            en: 'Regina caeli'
+          
+          }, 
+           content: { 
+            vi: `
+<strong>Xướng:</strong> Lạy Nữ Vương Thiên đàng hãy vui mừng. Alleluia.
+<strong>Đáp:</strong> Vì Đấng Mẹ đã đáng cưu mang trong lòng. Alleluia.
+<strong>Xướng:</strong> Người đã sống lại thật như lời đã phán hứa. Alleluia.
+<strong>Đáp:</strong> Xin cầu cùng Chúa cho chúng con. Alleluia.
+<strong>Xướng:</strong> Lạy Đức Nữ Đồng Trinh Maria, hãy hỉ hoan khoái lạc. Alleluia.
+<strong>Đáp:</strong> Vì Chúa đã sống lại thật. Alleluia.
+<strong>Lời nguyện:</strong> Lạy Chúa là Đấng đã làm cho thiên hạ được vui mừng quá bội, bởi Đức Chúa Giêsu Kitô là Con Chúa, cùng là Chúa chúng con, đã sống lại; xin vì Đức Nữ Đồng Trinh Maria là Thánh Mẫu Người, nguyện cầu cho chúng con được hưởng phúc vui vẻ hằng sống đời đời. Vì công nghiệp Chúa Kitô là Chúa chúng con. Amen.
+
+            `, 
+ en: `
+<strong>V:</strong> Queen of Heaven, rejoice, alleluia.
+<strong>R:</strong> For He whom you did merit to bear, alleluia.
+<strong>V:</strong> Has risen, as he said, alleluia.
+<strong>R:</strong> Pray for us to God, alleluia.
+<strong>V:</strong> Rejoice and be glad, O Virgin Mary, alleluia.
+<strong>R:</strong> For the Lord has truly risen, alleluia.
+<strong>Let us pray:</strong> O God, who gave joy to the world through the resurrection of Thy Son, our Lord Jesus Christ, grant we beseech Thee, that through the intercession of the Virgin Mary, His Mother, we may obtain the joys of everlasting life. Through the same Christ our Lord
+
+`,
           }},      
 // Da Pacem
 { id: 'dapacem', title: { 
