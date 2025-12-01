@@ -366,6 +366,80 @@ Chúng con như thợ sớm chiều chuyên chăm.
 Giêsu trăn trối hết tâm: 
 “Yêu thương, hiệp nhất, giới răn của Thầy”.
 
+<strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> <i>Rm 12, 1-2</i>
+      Thưa anh em, vì Thiên Chúa thương xót chúng ta, tôi khuyên nhủ anh em hãy hiến dâng thân mình làm của lễ sống động, thánh thiện và đẹp lòng Chúa. Đó là cách thức xứng hợp để anh em thờ phượng Người. Anh em đừng có rập theo đời này, nhưng hãy cải biến con người anh em bằng cách đổi mới tâm thần, hầu có thể nhận ra đâu là ý Thiên Chúa: cái gì là tốt, cái gì đẹp lòng Chúa, cái gì hoàn hảo.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Xin cho hy lễ chúng con hôm nay được đẹp lòng Chúa,
+* Chúng con theo Chúa và tìm kiếm thánh nhan Ngài.
+<strong>X</strong> Ngợi khen và vinh danh Chúa đến muôn thuở muôn đời. *
+
+<strong>Tc Tin Mừng</strong>
+<strong>ĐC</strong> “Điều duy nhất lôi cuốn linh hồn tôi,
+là ước nguyện làm đẹp lòng một mình Chúa thôi".
+
+Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
+Đã viếng thăm cứu chuộc dân Người.
+
+Từ dòng dõi trung thần Đa-vít,
+Người đã cho xuất hiện
+Vị Cứu Tinh quyền thế để giúp ta.
+
+Như Người đã dùng miệng các vị thánh ngôn sứ
+Mà phán hứa tự ngàn xưa :
+
+Sẽ cứu ta thoát khỏi địch thù,
+Thoát tay mọi kẻ hằng ghen ghét ;
+
+Sẽ trọn bề nhân nghĩa với tổ tiên
+Và nhớ lại lời xưa giao ước ;
+
+Chúa đã thề với tổ phụ Áp-ra-ham
+Rằng sẽ giải phóng ta khỏi tay địch thù,
+
+Và cho ta chẳng còn sợ hãi,
+Để ta sống thánh thiện công chính trước nhan Người,
+Mà phụng thờ Người suốt cả đời ta.
+
+Hài nhi hỡi, con sẽ mang tước hiệu
+Là ngôn sứ của Đấng Tối Cao : *
+Con sẽ đi trước Chúa, mở lối cho Người,
+
+Bảo cho Dân Chúa biết : Người sẽ cứu độ
+Là tha cho họ hết mọi tội khiên.
+
+Thiên Chúa ta đầy lòng trắc ẩn,
+Cho Vầng Đông tự chốn cao vời viếng thăm ta,
+
+Soi sáng những ai ngồi nơi tăm tối
+Và trong bóng tử thần,
+dẫn ta bước vào đường nẻo bình an.
+
+<strong>Lời cầu</strong>
+      Chúng ta hãy chúc tụng Đức Giêsu Kitô, vị Thầy của chúng ta. Trong ngày lễ thánh nữ E-li-sa-bét, Người mời gọi chúng ta dâng lời ngợi khen.
+      <i>Lạy Chúa, Chúa là nguồn mạch sự sống. Nhờ ánh sáng của Ngài, chúng con được nhìn thấy ánh sáng. </i>
+      Vì tình yêu sâu xa trong đời sống hôn nhân của thánh nữ, chúng con ngợi khen Chúa, <i>- chúng con cầu nguyện cho tất cả những ai sống đời hôn nhân đang hạnh phúc hay đang gặp khó khăn. </i>
+      Vì kinh nghiệm thiêng liêng của thánh nữ khi chia sẻ với năm người con của ngài, chúng con ngợi khen Chúa, <i>- chúng con cầu nguyện cho các bà mẹ được trở nên biểu trưng sự hiện diện của tình yêu trong gia đình. </i>
+      Vì sự kiên trì của thánh nữ trong những đêm tối của đức tin, chúng con ngợi khen Chúa, <i>- chúng con cầu nguyện cho tất cả các phụ nữ đang đương đầu với nỗi cô đơn. </i>
+      Vì thánh nữ đã hoàn toàn tin tưởng vào Chúa khi sáng lập Tu Hội “Các Dì Bác Ái", chúng con ngợi khen Chúa, <i>- chúng con cầu nguyện cho tất cả những ai đang làm chứng cho sự hiện diện và hành động của Chúa giữa trần gian. </i>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
+      <i>Chúng con cầu xin…</i>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
+
         `,
 
    en: `
