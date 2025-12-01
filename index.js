@@ -11020,7 +11020,7 @@ Lamb of God, Who take away the sins of the world,
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -11390,7 +11390,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -11429,7 +11429,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
@@ -11471,7 +11470,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -11866,7 +11865,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -11905,7 +11904,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
@@ -11946,7 +11944,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -12316,7 +12314,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -12355,7 +12353,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
@@ -12397,7 +12394,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -12851,7 +12848,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -13223,7 +13220,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -13262,7 +13259,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
@@ -13303,7 +13299,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -13675,7 +13671,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -13714,7 +13710,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
@@ -13756,7 +13751,7 @@ All-powerful God keep us united with your Son in his death and burial so that we
 <strong>Chủ sự:</strong> Lạy Chúa Trời, xin tới giúp con.
 <strong>Cộng đoàn:</strong> Muôn lạy Chúa, xin mau phù trợ.
 Vinh danh Chúa Cha và Chúa Con, cùng vinh danh Thánh Thần Thiên Chúa, 
-tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong>
+<i>tự muôn đời và chính hiện nay luôn mãi đến thiên thu vạn đại. <strong>Amen.</strong> <strong>(Halleluia)</strong></i>
 
 <i>(Sau đó, nên thinh lặng giây lát để xét mình. Có thể dùng một công thức thống hối như trong thánh lễ).</i>
 
@@ -14145,7 +14140,7 @@ You are in our midst, O Lord, your name we bear: do not forsake us, O Lord, our 
     <strong>V</strong> Glory to the Father, and to the Son, and to the Holy Spirit.
     <strong>R</strong> Into your hands, Lord, I commend my spirit, alleluia, alleluia.
 
-<strong>Thánh ca Tin Mừng “Muôn lạy Chúa” </strong>(Nunc dimittis)
+<strong>Gospel Canticle </strong>(Nunc dimittis)
     <strong>Ant.</strong> Protect us, Lord, as we stay awake; watch over us as we sleep, that awake, we may keep watch with Christ, and asleep, rest in his peace.
 
     Lord, now you let your servant go in peace; *
@@ -14184,7 +14179,6 @@ All-powerful God keep us united with your Son in his death and burial so that we
     Et Iesum, benedíctum fructum ventris tui,
     nobis post hoc exsílium osténde.
     O clemens, o pia, o dulcis Virgo María.
-
 
 <strong>2</strong> Hail, holy Queen, mother of mercy,
     our life, our sweetness, and our hope.
