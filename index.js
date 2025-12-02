@@ -1480,20 +1480,38 @@ Ha-lê-lui-a.
 <strong>Bài đọc 1</strong> 
 <strong> </strong>
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Bài đọc 2</strong>
-<strong> </strong>
-     
 <strong>Xướng đáp</strong>
 <strong>XĐ</strong> 
 * 
 <strong>X</strong> 
 
-<strong>Lời nguyện</strong>
-      
+<strong>Bài đọc 2</strong> <i>2(chọn một trong hai)</i>
+<strong>
+I
+Sứ mạng được trao ban ở Folleville
+Trích những bài huấn đức của thánh Vinh Sơn, Coste XI, 2 tt</strong>
+      Sau khi đã kể lại việc hoán cải của người nông dân xứ Gan (Gannes), thánh Vinh Sơn thêm:
+      “Vào tháng giêng năm 1617, việc đó xảy ra; và ngày lễ thánh Phaolô trở lại, ngày 25, bà quí phái đó đã xin tôi giảng ở nhà thờ Folleville để khuyên dân chúng đến xưng tội chung; việc đó tôi đã làm. Tôi đã giảng cho họ về tầm quan trọng và lợi ích của việc xưng tội chung; và tôi đã dạy họ cách xưng tội nên; và Chúa đã đoái thương lòng trông cậy và thiện chí của bà ta (vì dù tội tôi nhiều và nặng nề đã ngăn cản kết quả của hoạt động này) nên Chúa đã chúc phúc cho bài nói chuyện của tôi; tất cả đám dân tốt lành này đều được Chúa đánh động, nên tất cả đều đến xưng tội chung. Tôi tiếp tục dạy họ và chuẩn bị họ đón nhận các bí tích, và tôi bắt đầu nghe họ. Nhưng số người đông đến nỗi một linh mục khác giúp tôi cũng không đủ, bà đã sai người đi mời các cha Dòng Tên đáng kính ở xứ Damiens đến giúp.
+      Bà đã viết cho cha quản nhiệm đáng kính, chính ngài cũng đích thân đến, và, vì không có thì giờ, ngài chỉ ở lại một thời gian ngắn, ngài đã gửi cha Fourché, cùng Dòng; cha này đã giúp chúng tôi giải tội, giảng và dạy giáo lý, và đã thấy, nhờ lòng thương xót Chúa, những việc phải làm. Sau đó, chúng tôi tới các làng khác thuộc về bà trong khu vực, chúng tôi cũng làm như ở làng đầu tiên. Có sự thi đua hợp tác tốt đẹp, và Chúa đã chúc phúc mọi nơi. Đó là bài giảng đầu tiên của Tu Hội Truyền Giáo và sự thành công Chúa ban cho Tu Hội vào ngày lễ thánh Phaolô trở lại; Chúa đã không làm điều đó mà không có ý định nào vào một ngày như vậy”.
+<strong>
+II
+Thuở ban đầu của Tu Hội Truyền Giáo
+Trích Coste XII, 7-8
+</strong>
+      “Một ngày, người ta đã mời tôi đi giải tội cho một người đàn ông bệnh nặng sắp chết, ông được tiếng là người đức hạnh nhất, ít ra là một trong số những người đạo hạnh nhất trong làng. Tuy nhiên, ông ta biết mình mắc nhiều tội mà chưa bao giờ ông dám xưng ra trong tòa giải tội, và ông đã tự tuyên bố sự việc trước sự hiện diện của bà vợ quá cố của tướng tư lệnh hải quân, ông ta đã nói to:
+      “Thưa bà, nếu tôi đã không xưng tội chung, tôi sẽ bị luận phạt vì những tội trọng mà tôi đã không dám xưng”.
+      Sau đó, người đàn ông này đã chết, và bà tướng mà tôi vừa nói, đã nhận ra sự cần thiết của việc xưng tội chung, muốn tôi giảng về đề tài này ngày hôm sau. Tôi đã giảng và Chúa đã ban ân phúc đến nỗi tất cả dân miền đều đi xưng tội chung, và đông đến nỗi phải đi mời hai cha dòng Tên đến giúp giải tội, giảng và dạy giáo lý.
+      Đó là nguyên do mà chúng tôi phải tiếp tục làm việc đó nơi các xứ khác thuộc lãnh địa của bà tướng trong nhiều năm, sau hết, bà muốn có các linh mục tiếp tục công việc và vì mục đích này, bà giao trường Bons-Enfants cho chúng tôi, nơi chúng tôi về ở, cha Portail và tôi; rồi, chúng tôi đem theo một linh mục tốt lành, mà mỗi năm chúng tôi trả thù lao 50 đồng tiền vàng.
+      Chúng tôi, cả ba, đi giảng và mở tuần đại phúc từ làng này qua làng khác. Khi đi, chúng tôi gửi chìa khóa nơi một người hàng xóm, hoặc chúng tôi xin họ đến ngủ đêm canh chừng nhà. Song, ở mọi nơi, tôi chỉ có một bài giảng duy nhất mà tôi có cả ngàn cách để xoay chuyển: đó là bài giảng về lòng tôn sợ Chúa.
+      Đó là những gì mà chúng tôi làm khác người ta, và Thiên Chúa đã làm những gì Người dự định trước, từ thuở đời đời. Chúa đã chúc phúc vài lần cho công việc của chúng tôi; nhìn thấy công việc, nhiều giáo sĩ tốt lành nhập đoàn với chúng tôi và xin ở với chúng tôi. Ôi, lạy Chúa Cứu Thế! Ôi, lạy Chúa Cứu Thế! Có ai đã nghĩ tới sự việc sẽ đi đến như hiện trạng bây giờ? Giá có ai đã nói với tôi điều ấy lúc đó, chắc chắn tôi sẽ cười nhạo người ấy. Tuy nhiên, chính nhờ vậy mà Thiên Chúa đã muốn ban sự khởi đầu cho những gì mà anh em hiện chứng kiến”.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Xin hướng lòng con làm chứng cho Chúa.
+* Xin đổ sức sống Lời Chúa cho con.
+<strong>X</strong> Xin Chúa giữ lời hứa với tôi tớ Chúa. *
+
+<strong>Lời nguyện</strong> 
+      Lạy Thiên Chúa là Cha chúng con. Trong ngày chúng con cử hành lễ thánh Phaolô tông đồ trở lại, Chúa đã kêu gọi thánh Vinh Sơn Phaolô thành lập một gia đình thiêng liêng để rao giảng Tin Mừng cho người nghèo và đào tạo hàng giáo sĩ. Xin làm cho chúng con trở nên xứng đáng để rao giảng Tin Mừng chân lý và Tin Mừng bình an.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
