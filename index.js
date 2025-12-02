@@ -2138,7 +2138,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Lạy Chúa, Chúa luôn trung tín 
+đối với những ai trông cậy nơi Ngài.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -2176,17 +2177,43 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Đoàn dân thánh vui vẻ đang tiến bước 
+Rộn ràng vang muôn khúc khải hoàn ca 
+Ôi bức tranh tuyệt mỹ của niềm vui 
+Dân được cứu đang tiến về Thiên Quốc.
+
+Tình yêu Chúa trong muôn ngàn biểu hiện 
+Cùng hợp hoan trong nguồn ánh vinh quang 
+Chỉ mình Ngài Nguồn Sáng của tình yêu 
+Chúc tụng Chúa nguồn sự sống muôn đời.
+
+Trên thập giá máu đào Ngài tuôn đổ 
+Thanh tẩy ta nên nghĩa tử cao vời 
+Thành con Cha trong cội nguồn ân phúc 
+Xin dâng lời tạ ơn Chúa muôn đời.
+
+Trong Thánh Thể, Ngài hiến dâng mạng sống 
+Bánh nuôi hồn cho mọi người thế nhân 
+Để từ đây họ đánh tan sự chết. 
+Xin dâng lời hoan hô Chúa ngàn nơi.
+
+Trong gian truân, Ngài đồng hành chia sẻ 
+Với con người, với hết thảy chúng sinh 
+Cùng sức mạnh Phục Sinh của vinh thắng 
+Xin dâng vạn lời ca tụng lên Ngài.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 4,12-14
+      Anh em thân mến, anh em đang bị lửa thử thách: đừng ngạc nhiên mà coi đó như một cái gì khác thường xảy đến cho anh em. Được chia sẻ những đau khổ của Đức Kitô bao nhiêu, anh em hãy vui mừng bấy nhiêu, để khi vinh quang Người tỏ hiện, anh em cùng được vui mừng hoan hỷ. Nếu bị sỉ nhục vì danh Đức Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền là Thần Khí của Thiên Chúa, ngự trên anh em.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Chúa là sức mạnh và là thành lũy của con.
+* Tâm hồn con tin tưởng nơi Người.
+<strong>X</strong> Tấm thân con Chúa luôn gìn giữ, Con cất lời cảm tạ tri ân.*
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Ai đánh mất mạng sống mình, 
+sẽ được sự sống đời đời làm gia nghiệp.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -2226,10 +2253,17 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Cùng với chị Maria Anna và chị Ô-đi-la đã hy sinh mạng sống mình để tuyên xưng đức tin vào Đức Giêsu Con Chúa, lạy Chúa, chúng con ngợi khen Ngài:
+      <i>Lạy Cha, chúng con xin tạ ơn Cha</i>
+      Chúc tụng Chúa, Thiên Chúa Tối Cao, vì đức tin của các chân phước tử đạo không thể lay chuyển khi tuyên xưng danh Chúa.
+      Chúc tụng Chúa, Thiên Chúa Tối Cao, vì sự gắn bó vĩnh viễn của các chân phước với Giáo Hội.
+      Chúc tụng Chúa, Thiên Chúa Tối Cao, vì sự hiện diện quan tâm của các chân phước đối với tất cả những ai chia sẻ khổ đau của các ngài.
+      Chúc tụng Chúa, Thiên Chúa Tối Cao, vì những hạt lúa mì rơi xuống đất và những mùa gặt mới bắt đầu.
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, với đức ái không mệt mỏi luôn sẵn sàng tha thứ, và với lời chứng sáng ngời của các ngài trước mặt thế gian.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
