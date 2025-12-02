@@ -2044,30 +2044,66 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Từ muôn phương đoàn người cùng tiến bước 
+Tiến bước về Ngai tòa Đấng Thiên Sai 
+Máu Cứu Độ tuôn tràn ơn cứu thoát 
+Thanh tẩy họ ngập tràn ánh vinh quang.
+
+Nhành thiên tuế máu tử đạo nhuộm thắm 
+Khắc vào lòng dấu ấn của Tình Yêu 
+Qua đau thương, vượt thử thách can trường 
+Cất tiếng ca vinh thắng tận hoàng thiên.
+
+Từ giờ đây được nhìn ngắm Thiên Nhan 
+Đấng Cứu Độ tuôn tràn muôn ơn phúc 
+Ngài rộng tay ban phát mọi ơn lành 
+Họ vui mừng hớn hở mãi nghìn thu.
+
+Từ giờ đây sẽ không còn đói khát 
+Hết chiến tranh, hận thù của trần gian 
+Chiên Thiên Chúa hằng chỉ đường dẫn lối 
+Tới Nước Thiêng, nguồn sống mãi muôn đời.
+
+Ca khen Ngài, lạy Con Chiên vinh thắng 
+Đổ máu đào cứu độ toàn thể nhân 
+Nay chúng con nguyện xin hằng theo bước 
+Bậc tử đạo, chư thánh của ngàn dân.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tâm hồn chúng tôi đợi trông Chúa,
+<strong>Đ</strong> bởi Người luôn che chở phù trì.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> <i>Kh 7, 114b-17</i>
+<strong>Đoàn dân đông không thể đếm nổi
+Trích sách Khải Huyền của thánh Gioan tông đồ</strong>
+Họ là những người đã đến, sau khi trải qua cơn thử thách lớn lao. Họ đã giặt sạch và tẩy trắng áo mình trong máu Con Chiên. Vì thế họ được chầu trước ngai Thiên Chúa, đêm ngày thờ phượng trong Đền Thờ của Người; Đấng ngự trên ngai sẽ căng lều của Người cho họ trú ẩn. Họ sẽ không còn phải đói, phải khát, không còn bị ánh nắng mặt trời thiêu đốt và khí nóng hành hạ nữa. Vì con chiên đang ngự ở giữa ngai sẽ chăn dắt và dẫn đưa họ tới nguồn nước trường sinh. Và Thiên Chúa sẽ lau sạch nước mắt họ.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Phúc thay những người dự tiệc cưới Con Chiên.
+* Họ đã giặt áo mình trong máu Con Chiên, đã nhận được ân huệ của Chúa.
+<strong>X</strong> Họ trải qua sự chết đến sự sống,
+Vinh quang Phục sinh rạng rỡ trên gương mặt. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Ai có thể tách chúng ta ra khỏi Tình Yêu của Đức Kitô
+Trích bài giảng của Đức Gioan Phaolô II vào ngày phong chân phước</strong>
+      Đó là vấn nạn, ngày xưa, thánh Tông đồ Phaolô đã đặt ra trong thư gửi giáo đoàn Rôma. Khi ấy, trước mắt, ngài thấy những đau khổ và những bách hại nơi các môn đệ của thế hệ đầu tiên, các chứng nhân của Đức Kitô. Và Hội Thánh ngày nay, cùng với các vị tử đạo thế kỷ XVIII và XIX, đến lượt mình tự hỏi ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Thánh Phaolô vội vã đưa ra câu trả lời chắc chắn cho vấn nạn này: Không gì có thể tách chúng ta ra khỏi tình yêu của Thiên Chúa trong Đức Giêsu Kitô, Chúa chúng ta; không gì cả: dù sự chết, dù những sức mạnh huyền bí của vũ trụ, dù tương lai, dù bất kể thụ tạo nào.
+      Vì Thiên Chúa đã trao nộp Con duy nhất của Ngài cho thế gian, vì Người Con này đã hiến mạng sống mình cho chúng ta, một tình yêu vĩ đại như vậy sẽ không ngưng lại được. Tình yêu ấy gìn giữ những người đã yêu mến Thiên Chúa, đến độ hiến mạng sống mình cho Thiên Chúa trong sự sống đời đời. Các chế độ bách hại đều qua đi. Nhưng vinh quang của các thánh tử đạo vẫn tồn tại. Chúng ta là những người chiến thắng vĩ đại nhờ Đấng đã yêu chúng ta. Đó là chiến thắng mà các thánh tử đạo đã dành được cho vinh dự bàn thờ qua việc phong chân phước.
+      Trước hết, đó là rất nhiều các vị tử đạo của giáo phận Angers, vào thời Cách Mạng Pháp, đã chấp nhận cái chết, vì các ngài đã muốn, theo lối nói của chân phước Guillaume Repin, “bảo toàn đức tin và tôn giáo của họ”, các ngài đã gắn bó bền chặt với Hội Thánh Công Giáo Rôma; các linh mục, thì đã từ chối lời thề ly giáo, đã không từ bỏ nhiệm vụ mục tử của mình; Các giáo dân, họ đã trung thành với các linh mục, với các Thánh lễ các linh mục này cử hành, với những cử chỉ tôn kính Đức Maria và các thánh. Chắc hẳn, trong một bối cảnh có những căng thẳng lớn về ý thức hệ, về chính trị và quân sự, người ta đã có thể đổ trên họ những nghi ngờ bất trung với tổ quốc, người ta đã cáo buộc các vị tử đạo này, trong các bản cáo trạng, những điều làm mất thanh danh như “các lực lượng chống phá cách mạng”; vả lại, cũng xảy ra như thế ở hầu hết các cuộc bách hại, ngày xưa cũng như ngày nay. Nhưng đối với những người nam và những người nữ này mà danh họ được ghi nhớ, những gì họ thực sự đã sống không để lại một nghi ngờ nào trên quyết định trung thành mặc nguy hiểm cho tính mạng – với những gì đức tin đòi hỏi, không để lại một nghi ngờ nào trên nguyên do sâu xa của bản án: sự hận thù và khinh chê với đức tin mà các quan án tỏ ra như “sự sùng đạo không ai chịu nổi” và “sự cuồng tin”. Chúng ta chiêm ngưỡng những câu trả lời quả quyết, bình tĩnh, ngắn gọn, bộc trực, khiêm tốn, mà không có gì là khiêu khích, nhưng rõ ràng và chắc chắn về điều cốt lõi: Lòng trung thành với Hội Thánh. Các linh mục, tất cả mọi người bị chém đầu như vị niên trưởng đáng kính Guillaume Repin, các nữ tu - họ cũng không để ai nghĩ là họ đã thề - và bốn ông giáo dân đều đã trả lời như trên. Cả 80 người nữ đó đã trả lời theo cung cách ấy, người ta không thể cáo buộc các chị em về tội chống đối có vũ trang. Một số người đã biểu lộ trước ước muốn, thà chết vì Danh Đức Giêsu chứ không chối bỏ tôn giáo.
+      Các kitô hữu đích thật này cũng minh chứng ước muốn hòa bình với mọi ngưới bằng sự không hề ghét bỏ các đao phủ giết hại họ, bằng sự tha thứ: “Tôi đã chỉ cầu nguyện cho hòa bình và sự hiệp nhất mọi người” (Maria Cassin ). Sau hết, những phút giây cuối đời của họ biểu lộ niềm tin sâu sắc. Một số hát các thánh thi và các thánh vịnh cho tới nơi hành quyết: “họ xin ít phút để dâng hy lễ đời mình lên Thiên Chúa, họ sốt sắng nhiệt thành đến độ chính các đao phủ cũng lấy làm ngạc nhiên”. Dì Maria Anna, Nữ Tử Bác Ái, động viên người chị em thế này: “Chúng ta sắp được hạnh phúc thấy Thiên Chúa và đời đời có Thiên Chúa và chúng ta sẽ chiếm hữu Thiên Chúa mà không còn sợ bị tách xa Ngài". Phải, những lời của Thánh Tông Đồ Phaolô được chứng thực cách sáng ngời: “Chúng ta là những người chiến thắng vĩ đại nhờ Đấng đã yêu chúng ta".
+      Các vị tử đạo này cũng mời gọi chúng ta nghĩ đến số đông các tín hữu hiện đang chịu bách hại ngày nay, khắp thế giới, một cách nhức nhối, không ai biết, và cũng thật nặng nề, những bách hại như là thiếu tự do tôn giáo, nạn kỳ thị, không có khả năng tự bảo vệ, sự giam giữ, không có quyền pháp nhân: thử thách của các kitô hữu này có nhiều điểm giống với thử thách của các chân phước của chúng ta. Cuối cùng, chúng ta cũng phải xin cho chính chúng ta lòng can đảm cho đức tin, cho sự trung thành mạnh mẽ với Đức Kitô, với Hội Thánh, vào lúc thử thách cũng như trong đời sống hằng ngày. Thế giới quá lãnh đạm và không hiểu biết của chúng ta đang chờ đợi nơi các môn đệ của Đức Kitô một chứng tá rõ ràng, tương xứng, như các vị tử đạo được cử hành hôm nay, để nói cho thế giới:
+      Đức Giêsu Kitô hằng sống; kinh nguyện và Thánh Thể cần thiết cho chúng ta để sống sự sống của Đức Kitô, việc tôn kính Đức Maria giữ chúng ta làm môn đệ Chúa; sự gắn bó với Hội Thánh hợp thành một nhờ đức tin; sự đoàn kết huynh đệ làm nên nhãn hiệu tuyệt vời các kitô hữu; công bình đích thật, sự thanh khiết, tình yêu, sự tha thứ và sự bình an là hoa trái Thần Khí Đức Kitô; sự hăng say truyền giáo là thành phần của chứng từ này; chúng ta không được cất dấu đèn thắp sáng của chúng ta.
+      Chúc tụng Chúa đã làm sống dậy lửa đức tin của chúng ta, của việc tạ ơn, của sự sống chúng ta. Hôm nay, chính nhờ máu của các chân phước mà các lời của thánh Phaolô được viết cho chúng ta: “Ai sẽ tách chúng ta ra khỏi tình yêu của Đức Kitô? Sự sống, sự chết, hiện tại, tương lai không một thụ tạo nào, không gì có thể tách chúng ta ra khỏi tình yêu của Thiên Chúa trong Đức Giêsu Kitô, Chúa chúng ta".
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Không có tình yêu nào lớn hơn tình yêu hiến mạng sống cho người mình yêu.
+* Anh em sẽ là bạn hữu của Ta nếu anh em làm theo ý muốn của Ta
+Ta là Thầy và là Chúa, Ta đã nêu gương cho anh em.
+<strong>X</strong> Hạnh phúc cho các con, nếu các con biết hiến mạng sống mình. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, đức ái không mệt mỏi luôn sẵn sàng tha thứ và lời chứng sáng ngời của các ngài trước mặt thế gian.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
