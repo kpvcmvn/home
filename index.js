@@ -2264,6 +2264,7 @@ dẫn ta bước vào đường nẻo bình an.
 <strong>Lời nguyện</strong>
       Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, với đức ái không mệt mỏi luôn sẵn sàng tha thứ, và với lời chứng sáng ngời của các ngài trước mặt thế gian.
       <i>Chúng con cầu xin...</i>
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -2349,12 +2350,15 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 5,10-11
+      Thiên Chúa là nguồn mọi ân sủng, cũng là Đấng đã kêu gọi anh em vào vinh quang đời đời của Người trong Đức Kitô. Phần anh em là những kẻ phải chịu khổ ít lâu, chính Thiên Chúa sẽ cho anh em được nên hoàn thiện, vững vàng, mạnh mẽ và kiên cường. Kính dâng Người vinh quang và uy quyền đến muôn thuở muôn đời. Amen.
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Họ luôn trông cậy Chúa,
+<strong>Đ</strong> họ được sức mạnh nơi Ngài.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, với đức ái không mệt mỏi luôn sẵn sàng tha thứ, và với lời chứng sáng ngời của các ngài trước mặt thế gian.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -2394,15 +2398,43 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Mầu nhiệm Nước Trời vượt ngàn cao thẳm 
+Vượt ngàn muôn tri thức bậc hiền nhân 
+Vượt vạn dặm uy quyền kẻ quyền thế 
+Họ đã không chiếm giữ được Nước Trời.
+
+Người bé nhỏ trong muôn ngàn yếu đuối 
+Kẻ hèn mọn trong vững dạ kiên tâm 
+Nước Thiên Chúa từ nay thuộc về họ 
+Ôi, lạ lùng thay mầu nhiệm Nước Trời.
+
+Chúc tụng Chúa là Thiên Chúa chúng con 
+Niềm vui sướng của người nghèo muôn thuở. 
+Chúa lắng nghe tiếng kêu người bất hạnh
+Rộng đôi tay luôn ủi an vỗ về.
+
+Chúa đưa công lý đến người hèn mọn 
+Dạy cho họ biết đường lối Công Minh. 
+Chúa gìn giữ những ai thường quỵ ngã 
+Chúa đỡ nâng những kẻ lúc rã rời.
+
+Người đặc biệt yêu những trẻ bé thơ 
+Dạy cho chúng biết chúc tụng danh Ngài 
+Tỏ cho chúng Dung Nhan Ngài vinh hiển. 
+Mời gọi ta nên tinh thần trẻ thơ.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 8, 35,37-39
+      Ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Phải chăng là gian truân, khốn khổ, đói rách, hiểm nguy, bắt bớ, gươm giáo? Nhưng trong mọi thử thách ấy, chúng ta toàn thắng nhờ Đấng đã yêu mến chúng ta. Đúng thế, tôi tin chắc rằng: cho dầu là sự chết hay sự sống, thiên thần hay ma vương quỷ lực, hiện tại hay tương lai, hoặc bất cứ sức mạnh nào, trời cao hay vực thẳm hay bất cứ một loài thọ tạo nào khác, không có gì tách được chúng ta ra khỏi tình yêu của Thiên Chúa thể hiện nơi Đức Kitô Giêsu, Chúa chúng ta.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Không có tình yêu nào lớn hơn tình yêu hy sinh mạng sống cho người mình yêu.
+* Mạng sống Tôi, không ai lấy được, nhưng chính Tôi hy sinh.
+<strong>X</strong> Anh em hãy làm cho nhau như Thầy đã làm cho anh em. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Các ngài đã hy sinh chính mình đến sẵn sàng chịu chết,
+các ngài đã tẩy trắng áo mình trong máu Con Chiên, 
+các ngài đứng trước ngai Thiên Chúa.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -2437,10 +2469,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Chúng ta nhớ lại, vào cuối ngày hôm nay, bữa tiệc Vua các vị tử đạo đã hiến dâng mạng sống vì chúng ta, và thập giá nơi đó Người phó thác linh hồn trong tay Chúa Cha, chúng ta hãy cầu xin Chúa.
+      <i>Lạy Chúa Giêsu, chúng con cầu xin Chúa. </i>
+      Chúa đã yêu thương chúng con đến cùng, Chúa là nguồn mạch can đảm của các chân phước tử đạo thành Angers, <i>- xin đổ tràn sức mạnh của Chúa trên các vị tử đạo thời đại chúng con. </i>
+      Chúa đã cho các tông đồ thấy ý nghĩa của việc phục vụ huynh đệ, Chúa đã kêu gọi chị Maria Anna và chị Ô-đi-la phục vụ Chúa nơi người nghèo, <i>- xin cho chúng con biết thể hiện lòng thương xót của Chúa đối với những ai đang đau khổ. </i>
+      Chúa đã tha thứ cho kẻ đóng đinh Chúa vào thập giá, Chúa kêu gọi các vị tử đạo thành Angers cũng cư xử như vậy, -<i> xin cho tâm hồn chúng con sẵn sàng yêu thương không mệt mỏi, luôn tha thứ. </i>
+      Chúa đã chiến thắng sự chết, Chúa kêu gọi các vị tử đạo thành Angers vào sự sống đích thực, <i>- xin tiếp nhận vào vinh quang Chúa các anh chị em chúng con đã qua đời. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, đức ái không mệt mỏi luôn sẵn sàng tha thứ, và lời chứng sáng ngời của các ngài trước mặt thế gian.
+      <i>Chúng con cầu xin...</i>
+      
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
