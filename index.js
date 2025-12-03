@@ -12619,12 +12619,172 @@ dẫn ta bước vào đường nẻo bình an.
         en: `
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
-Loading…
+
+<strong>Ant. </strong> Come let us worship the Lord who preaches His joyful message to the Poor.
+
+<strong>HYMN</strong>
+Vincent on high, you guide us now
+Showing the way with heavenly light
+Your virtue marks the surest road
+Leading to immortality.
+ 
+Chastity dear to virgins' Spouse
+Your body sanctified to Him:
+Virtues in concert eagerly
+Adorned your pure and upright soul.
+
+Hence comes that charming modesty
+Distrust of self, self-obloquy:
+Hence that accustomed gentleness,
+That candor and simplicity.
+ 
+O'er all, however, leaping up
+Charity blazes flame on flame.
+How many poor it feeds with bread!
+How many hearts subdues to Christ!
+
+Aflame with zeal you spread the word
+Of God to all the farms around,
+Yet fail not in your loving care
+The souls of earth's illustrious.
+
+Error perceived you orthodox
+Repulsing subterfuge with faith:
+Evil met with hostility
+And powerless gave up the fight.
+
+Under your wings a progeny
+Gathers to emulate your work:
+Master and guide you teach them well
+By word and deed and rule of life.
+
+To Him, eternal recompense
+Given for glowing charity
+True God one in persons three
+Praise and eternal glory be. Amen.
+
 <strong>PSALMODY</strong>
-Loading…
+<strong>Ant 1.</strong> Your priests, Lord, shall be clothed with holiness; your faithful shall ring out their joy.
+<strong>Psalm 63:2-9</strong><strong>
+<strong><i>A soul thirsting for God</i></strong>
+<i>Whoever has left the darkness of sin yearns for God</i>
+
+O God, you are my God, for you I long;
+for you my soul is thirsting.
+My body pines for you
+like a dry, weary land without water.
+So I gaze on you in the sanctuary
+to see your strength and your glory.
+
+For your love is better than life,
+my lips will speak your praise.
+So I will bless you all my life,
+in your name I will lift up my hands.
+My soul shall be filled as with a banquet,
+my mouth shall praise you with joy.
+
+On my bed I remember you.
+On you I muse through the night
+for you have been my help;
+in the shadow of your wings I rejoice.
+My soul clings to you;
+your right hand holds me fast. Glory...
+
+<strong><i>Psalm Prayer:</strong></i> <i>Father, creator of unfailing light, give that same light to those who call to you. May our lips praise you; our lives proclaim your goodness; our work give you honor, and our voices celebrate you for ever.</i>
+
+<strong>Ant 2.</strong> Priests of the Lord, bless the Lord; servants of Lord, sing hymns of praise to God.
+<strong>Canticle  -  Daniel 3:57-88,56</strong><strong>
+<strong><i>Let all creatures praise the Lord</i></strong>
+<i>All you servants of the Lord, sing praise to him (Revelation 19:5)</i>
+
+Bless the Lord, all you works of the Lord.
+Praise and exalt him above all forever.
+Angels of the Lord, bless the Lord.
+You heavens, bless the Lord.
+All you waters above the heavens, bless the Lord.
+All you hosts of the Lord, bless the Lord.
+Sun and moon, bless the Lord.
+Stars of heaven, bless the Lord.
+
+Every shower and dew, bless the Lord.
+All you winds, bless the Lord.
+Fire and heat, bless the Lord.
+Cold and chill, bless the Lord.
+Dew and rain, bless the Lord.
+Frost and chill, bless the Lord.
+Ice and snow, bless the Lord.
+Nights and days, bless the Lord.
+Light and darkness, bless the Lord.
+Lightnings and clouds, bless the Lord.
+
+Let the earth bless the Lord.
+Praise and exalt him above all forever.
+Mountains and hills, bless the Lord.
+Everything growing from the earth, bless the Lord.
+You springs, bless the Lord.
+
+Seas and rivers, bless the Lord.
+You dolphins and all water creatures, bless the Lord.
+All you birds of the air, bless the Lord.
+All you beasts, wild and tame, bless the Lord.
+You sons of men, bless the Lord.
+
+O Israel, bless the Lord.
+Praise and exalt him above all forever.
+Priests of the Lord, bless the Lord.
+Servants of the Lord, bless the Lord.
+Spirits and souls of the just, bless the Lord.
+Holy men of humble heart, bless the Lord.
+Hananiah, Azariah, Mishael, bless the Lord.
+Praise and exalt him above all forever.
+
+Let us bless the Father, and the Son, and the Holy Spirit.
+Let us praise and exalt him above all forever.
+Blessed are you, Lord, in the firmament of heaven.
+Praiseworthy and glorious and exalted above all forever.
+
+<strong>Ant 3.</strong> He added beauty to the celebration of the Holy Sacrifice, and therefore his memory will be held in benediction.
+<strong>Psalm 149</strong><strong>
+<strong><i>The joy of God's holy people</i></strong>
+<i>Let the sons of the Church, the children of the new people, rejoice in Christ, their King (Hesychius)</i>
+
+Sing a new song to the Lord,
+his praise in the assembly of the faithful.
+Let Israel rejoice in its maker,
+let Zion’s sons exult in their king.
+Let them praise his name with dancing
+and make music with timbrel and harp.
+
+For the Lord takes delight in his people.
+He crowns the poor with salvation.
+Let the faithful rejoice in their glory,
+shout for joy and take their rest.
+Let the praise of God be on their lips
+and a two-edged sword in their hand,
+
+to deal out vengeance to the nations
+and punishment on all the peoples;
+to bind their kings in chains
+and their nobles in fetters of iron;
+to carry out the sentence pre-ordained;
+this honor is for all his faithful. Glory...
+
+<strong><i>Psalm Prayer:</strong></i> <i>Let Israel rejoice in you, Lord, and acknowledge you as creator and redeemer. We put our trust in your faithfulness and proclaim the wonderful truths of salvation. May your loving kindness embrace us now and for ever.</i>
+
+<strong>Reading</strong> Colossians 3:14-15.
+Above all these put on love, which binds everything together in perfect harmony. And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful.
+
+<strong>Responsory</strong>
+<strong>V.</strong> Priests of the Lord, give thanks and praise to the Lord.
+<strong>R.</strong> Priests of the Lord, give thanks and praise to the Lord.
+<strong>V.</strong> You of holy and humble hearts, acclaim your Lord.
+<strong>R.</strong> Priests of the Lord, give thanks and praise to the Lord.
+<strong>V.</strong> Glory be to the Father and to the Son and to the Holy Spirit.
+<strong>R.</strong> Priests of the Lord, give thanks and praise to the Lord.
+
 <strong>Luke 1:68 – 79
 The Messiah and his forerunner</strong>
-<strong>Ant.</strong>
+<strong>Ant.</strong> Vincent consoled the sorrowful, defended the rights of orphans and generously aided widows.
 
 Blessed be the Lord, the God of Israel;
 he has come to his people and set them free.
@@ -12653,12 +12813,17 @@ to shine on those who dwell in darkness and the shadow of death,
 and to guide our feet into the way of peace.
 
 <strong>INTERCESSIONS</strong>
+      Dearly beloved, let us joyfully praise God the Father who sent Christ to preach his joyful message to the poor, and ask him:
+      <i>Guide our ways in the light of your countenance, Lord.</i>
+      God, you have deigned to show us in Christ your mercy and your love. Effectively continue the Mission of Christ through the Church. 
+      May we always cooperate with you so that the world may be pervaded with your charity, and peace. 
+      Spirit, and that society may more readily achieve its end in justice, Help us renew ourselves, and make us perform an abundance of pious works today so that others may experience Your benevolence. 
+      Grant that faithful to our vocation we may truly be neighbours to those in misery and affliction, in imitation of Christ, the good Samaritan. 
+      Forgive us for failing to see Christ in the poor, the distressed and the troublesome and for our failure to reverence your Son in their persons. 
 
 Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
 <strong>Concluding Prayer</strong>
-
-
-        
+      O God, Who instilled Your priest Saint Vincent de Paul, with the spirit of the Apostles, to work for the service of the poor and the instruction of the clergy, may we, who follow his example, animated by the same fervor, continue the mission of Your Son in the world, Who lives and reigns with You, in the unity of the Holy Spirit, God forever and ever.
         `
       },
       middayPrayer: {
