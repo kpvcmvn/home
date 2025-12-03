@@ -17447,7 +17447,7 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       Như vậy, chúng ta sẽ không còn là những trẻ nhỏ, bị sóng đánh trôi dạt theo mọi chiều gió đạo lý, giữa trò bịp bợm của những kẻ giảo quyệt khéo dùng mưu ma chước quỷ để làm cho kẻ khác lầm đường. Nhưng, sống theo sự thật và trong tình Bác Ái, chúng ta sẽ lớn lên về mọi phương diện, vươn tới Đức Kitô vì Người là đầu. Chính Người làm cho các bộ phận ăn khớp với nhau và toàn thân được kết cấu chặt chẽ, nhờ mọi thứ gân mạch nuôi dưỡng và mỗi chi thể hoạt động theo chức năng của mình. Như thế người làm cho toàn thân lớn lên và được xây dựng trong tình Bác Ái.
       Vậy đây là điều tôi nói với anh em, và có Chúa chứng giám, tôi khuyên anh em: đừng ăn ở như dân ngoại nữa, vì họ sống theo những tư tưởng phù phiếm của họ. Tâm trí họ đã ra tối tăm, họ xa lạ với sự sống Thiên Chúa ban, vì lòng chai dạ đá khiến họ trở nên dốt nát. Họ đã mất ý thức nên đã buông thả, sống phóng đãng đến mức làm mọi thứ ô uế cách vô độ. Còn anh em, anh em đã chẳng học biết về Đức Kitô như vậy đâu; ấy là nếu anh em đã được nghe nói về Đức Giêsu và được dạy dỗ theo tinh thần của Người, đúng như sự thật ở nơi Đức Giêsu. Vì thế, anh em phải cởi bỏ con người cũ với nếp sống xưa, là con người phải hư nát vì bị những ham muốn lừa dối, anh em phải để Thần Khí đổi mới tâm trí anh em, và phải mặc lấy con người mới, là con người đã được sáng tạo theo hình ảnh Thiên Chúa để thật sự sống công chính và thánh thiện.
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Vậy anh em hãy tự khiêm tự hạ dưới bàn tay uy quyền của Thiên Chúa, để Ngài cất nhắc anh em khi đến thời Người đã định. Nếu anh em không trở nên như trẻ nhỏ, thì chẳng được vào Nước Trời.
+<strong>XĐ</strong> Vậy anh em hãy tự khiêm tự hạ dưới bàn tay uy quyền của Thiên Chúa, để Ngài cất nhắc anh em khi đến thời Người đã định. Nếu anh em không trở nên như trẻ nhỏ, thì chẳng được vào Nước Trời.
 <strong>*</strong> Phúc thay ai hiền lành, vì họ sẽ được đất hứa làm gia nghiệp.
 <strong>X</strong> Đức Giê su đã tự khiêm tự hạ, vâng lời cho đến chết, và chết trên thập giá. *
 
@@ -17460,7 +17460,7 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       Xin Chúa ban cho chúng ta được ở vào số bé nhỏ này.
 
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. Và Thiên Chúa ở lại trong người ấy 
+<strong>XĐ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. Và Thiên Chúa ở lại trong người ấy 
 <strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
 <strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, vì tình yêu bắt nguồn từ Thiên Chúa. *
 
