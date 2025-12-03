@@ -2480,7 +2480,7 @@ Và cho con cháu đến muôn đời.
 <strong>Lời nguyện</strong>
       Lạy Chúa, Chúa đã dùng đức ái Chúa Kitô để thúc đẩy các chân phước Maria Anna và Ô-đi-la, và đã làm cho các ngài trở nên quảng đại trong khi phục vụ người nghèo, và sẵn sàng hy sinh mạng sống mình vì Chúa; xin ban cho chúng con sức mạnh để noi gương đức tin vững mạnh của các chân phước, đức ái không mệt mỏi luôn sẵn sàng tha thứ, và lời chứng sáng ngời của các ngài trước mặt thế gian.
       <i>Chúng con cầu xin...</i>
-      
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -2700,31 +2700,66 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Người chính nguồn sinh khí sự sống
+Là huyết mạch chạy khắp châu thân.
+Lửa hồng mến tin Người chiếm giữ 
+Vạn lời ca con tìm Thánh Nhan.
+
+Lạy Chúa niềm hoan lạc của con 
+Lòng khiêm hạ được Chúa tác tạo 
+Trở thành nơi thánh Chúa ghé thăm 
+Là chốn mọi sinh linh tôn thờ 
+Lạ lùng thay mầu nhiệm Chúa Trời.
+
+Lạy Chúa niềm hoan lạc của con 
+Tình thương Chúa là nguồn sức mạnh 
+Thế giới vạn vật được dựng nên 
+Trong bàn tay dịu kỳ của Chúa 
+Chỉ có Chúa là Đấng Chí Thánh.
+
+Lạy Chúa niềm hoan lạc của con 
+Chúa dẹp tan hạng người kiêu căng 
+Chẳng khác chi gió thổi rơm bay. 
+Chúa yêu thương những ai khốn khổ 
+Tựa mẹ hiền ấp ủ con thơ.
+
+Lạy Chúa niềm hoan lạc của con 
+Chúa trung thành với lời giao ước 
+Lòng thương ấy trải rộng vô biên. 
+Từ thuở đời đời và luôn mãi 
+Xin ngợi khen cảm tạ muôn đời.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Chúa sẽ dạy con biết đường về cõi sống.
+<strong>Đ</strong> Trước Thánh Nhan, hoan lạc chẳng hề vơi.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1 Ga 3,18-24
+<strong>Thần Khí khơi dậy nơi chúng ta lòng tin và lòng mến
+Trích thư thứ nhất của thánh Gioan Tông Đồ </strong> 
+      Hỡi anh em là những người con bé nhỏ, chúng ta đừng yêu thương nơi đầu môi chót lưỡi, nhưng phải yêu thương cách chân thật, và bằng việc làm. Căn cứ vào điều đó, chúng ta biết rằng chúng ta đứng về phía sự thật, và chúng ta sẽ được an lòng trước mặt Thiên Chúa. Vì nếu lòng chúng ta có cáo tội chúng ta, Thiên Chúa còn cao cả hơn lòng chúng ta, và Người biết hết mọi sự. Anh em thân mến, nếu lòng chúng ta không cáo tội chúng ta, chúng ta được mạnh dạn đến cùng Thiên Chúa. Và bất cứ điều gì chúng ta xin, chúng ta được Người ban cho, bởi vì chúng ta tuân giữ các điều răn của Người và làm những gì đẹp ý Người. Đây là điều răn của Người: chúng ta phải tin vào Danh Đức Giêsu Kitô, Con của Người, và phải yêu thương nhau, theo điều răn Người đã ban cho chúng ta. Ai tuân giữ các điều răn của Thiên Chúa thì ở lại trong Thiên Chúa và Thiên Chúa ở lại trong người ấy. Căn cứ vào điều này, chúng ta biết được Thiên Chúa ở lại trong chúng ta, đó là nhờ Thần Khí, Thần Khí mà Người đã ban cho chúng ta.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Ai giữ lời Ta người ấy ở trong Thiên Chúa, và Thiên Chúa ở trong người ấy.
+* Thiên Chúa đã loan báo qua ngôn sứ: Ta sẽ đổ Thần Khí Ta trên mọi thụ tạo.
+<strong>X</strong> Chúng ta biết rằng Thiên Chúa ở trong chúng ta nhờ Thần Khí mà Người đã ban cho chúng ta. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Lòng bác ái tiếp tục việc Nhập Thể
+Trích bút ký của chân phước Gio-sép-phin Ni-cô-li </strong>
+      Đức Giêsu muốn rằng việc Nhập Thể của Ngài trải rộng tới khắp toàn thể nhân loại, mỗi người trong chúng ta. Và Ngài đã ban cho chúng ta Thánh Thể. Như vậy, Ngài không những ở giữa chúng ta, mà còn hiến mình cho mỗi người chúng ta, kết hiệp Thịt Máu Ngài với thịt máu chúng ta, lòng Ngài với lòng chúng ta, tâm hồn Ngài với tâm hồn chúng ta, bởi vì trong việc rước lễ chúng ta làm thành một thân thể duy nhất nơi Ngài. Ngài thần thánh hóa chúng ta. Thiên Chúa đã quá yêu chúng ta! Thế đó, Thiên Chúa đã yêu thương chúng ta biết chừng nào, và Ngài cũng muốn chúng ta yêu nhau biết bao! Vì Ngài đã yêu thương chúng ta không biên giới, nên chúng ta không được đặt ranh giới cho tình yêu đối với anh em ta. Thiên Chúa muốn vậy biết bao! "Anh em hãy yêu thương nhau như Thầy đã yêu thương anh em".
+      "Lạy Cha xin cho chúng nên một, như Chúng Ta là một". Như vậy, Ngài đã muốn tình yêu không còn ranh giới nào nữa, để chúng ta hiểu rằng chúng ta không bao giờ yêu thương cho đủ. Mỗi một nghề có một tên, tên đó vạch ra lo toan của người làm nghề ấy. Nghề của chúng ta làm Nữ Tử Bác Ái. Những từ này có nhiều ý nghĩa và chúng ta không hiểu chúng thấu đáo, các sơ của nhiều dòng hiến mình làm những công việc tốt đẹp được gọi là “Các Dì Bác Ái", còn chúng ta, chúng ta được gọi là “Nữ Tử Bác Ái", điều đó có nghĩa là chúng ta xuất phát từ con tim Thiên Chúa.
+      Phải minh chứng điều đó bằng những việc làm. Chúng ta phải là những thiên thần hộ mệnh cho những người nghèo, và vì đó, mỗi lần họ nói với chúng ta, chúng ta phải tiếp đón họ cách nhân từ, và dùng mọi cách để giúp đỡ họ.
+      Chúng ta không còn thuộc về chúng ta nữa; chúng ta thuộc về người nghèo; thời giờ của chúng ta phải được dành cho họ. Khi chúng ta có thiện chí như vậy, chúng ta cuốn hút được lòng tin của những người khốn khổ. Thật vậy, chúng ta sẽ thấy nhiều người giầu có bề ngoài, nhưng thực tế là những người nghèo, họ thiếu thốn đủ thứ. Những người này chỉ dám thổ lộ cho Nữ Tử Bác Ái biết những đau khổ của họ. Với chị, người ta có thể tâm sự mọi chuyện, vì họ biết rằng chị hiểu tất cả những gì là vất vả nghèo khổ và sẽ tìm cách chữa lành tất những bất hạnh của họ.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Chúng ta hãy yêu thương nhau, vì Thiên Chúa đã yêu thương chúng ta trước. Đây là giới răn của Người:
+* Ai yêu mến Thiên Chúa, thì cũng yêu mến anh em mình.
+<strong>X</strong> Tình yêu của Thiên Chúa đã được đổ xuống trong lòng chúng ta nhờ Thánh Thần đã được bản cho chúng ta. *
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Chúa, Chúa đã ban cho chị Gio-sép-phin nên trinh nữ và chân phước. Chúa đã đổ tràn trên chị tinh thần Tin Mừng và niềm vui trong tâm hồn để giáo dục các trẻ em. Xin ban cho chúng con biết bắt chước các nhân đức của chị, để chúng con cũng nhận được niềm vui vĩnh cửu.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -2758,7 +2793,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Đức Kitô là Vua các trình nữ, 
+nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -2796,17 +2832,34 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Niềm hoan lạc tuyệt hảo ở nơi Chúa 
+Ơn an bình dâng lên tựa bình minh 
+Hạnh phúc thay được sống trong lòng Chúa 
+Hãy đến đây ca hát cùng chúng tôi.
+
+Để niềm vui của ta nên trọn hảo 
+Hãy tuân giữ Lời Chúa đã phán dạy: 
+Hãy yêu thương nhau trong tình huynh đệ 
+Hãy ở lại trong tình yêu của Chúa.
+
+Để niềm vui của ta nên trọn hảo 
+Hãy vững tin nơi Lời Ngài đã nói: 
+Thiên Chúa là Cha Nhân Ái của ta 
+Cứ xin rồi Người sẽ cho thỏa lòng.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 2 Cr 9,7-9
+      “Mỗi người hãy cho tùy theo quyết định của lòng mình, không buồn phiền, cũng không miễn cưỡng, vì ai vui vẻ dâng hiến, thì được Thiên Chúa yêu thương.
+      Và lại, Thiên Chúa có đủ quyền tuôn đổ xuống trên anh em mọi thứ ân huệ, để anh em luôn được đầy đủ mọi mặt, vừa được dư thừa mà làm mọi việc thiện, theo như lời đã chép: kẻ túng nghèo Người rộng tay làm phúc; đức công chính Người tồn tại muôn đời”.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Hạnh phúc thay ai quan tâm đến người yếu hèn và người nghèo khổ:
+* Họ sẽ được xót thương.
+<strong>X</strong> Người đức hạnh biết xót thương và chia sẻ. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Tình yêu Chúa của chúng ta
+là thước đo tình yêu tha nhân của chúng ta”
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -2846,10 +2899,19 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Bắt đầu ngày mới này, cùng với chân phước Gio-sép- phin, người đã dành cả đời cho việc phục vụ trẻ em, chúng ta hãy chúc tụng và khẩn cầu Chúa:
+      <i>Lạy Chúa, xin lắng nghe lời chúng con cầu xin. </i>
+      Lạy Chúa, xin ban cho các trẻ được sinh ra trong ngày hôm nay niềm vui được nhận biết danh thánh và tình yêu của Chúa.
+      Lạy Chúa, xin cho chúng con biết đón nhận Nước Trời theo cách thế trẻ em.
+      Lạy Chúa, xin ban cho các trẻ em bị bỏ rơi, sự bình an nơi những ai đón tiếp chúng.
+      Lạy Chúa, xin ban lòng can đảm và tính dịu hiền cho các cha mẹ và các nhà giáo dục các thiếu niên khuyết tật.
+      Lạy Chúa, xin ban bình an Chúa cho những ai đang bị rối loạn vì mất con.
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã ban cho dì Gio-sép-phin nên trinh nữ và chân phước. Chúa đã đổ tràn trên dì tinh thần Tin Mừng và niềm vui trong tâm hồn để giáo dục các trẻ em. Xin ban cho chúng con biết bắt chước các nhân đức của dì, để chúng con cũng nhận được niềm vui vĩnh cửu.
+      <i>Chúng con cầu xin...</i>
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -2935,12 +2997,15 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Gc 2, 5
+      Anh em thân mến của tôi, anh em hãy nghe đây: nào Thiên Chúa đã chẳng chọn những kẻ nghèo khó trước mặt người đời, để họ trở nên giàu đức tin và thừa hưởng vương quốc Người đã hứa cho những ai yêu mến Người hay sao?
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Lạy Chúa hạnh phúc thay ai đặt niềm hy vọng nơi Chúa.
+<strong>Đ</strong> Niềm vui đời đời cho những ai được Chúa ngự trị.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho dì Gio-sép-phin nên trinh nữ và chân phước. Chúa đã đổ tràn trên dì tinh thần Tin Mừng và niềm vui trong tâm hồn để giáo dục các trẻ em. Xin ban cho chúng con biết bắt chước các nhân đức của dì, để chúng con cũng nhận được niềm vui vĩnh cửu.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -2980,15 +3045,56 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Chúc tụng Ngài, xin Ngài ngự đến 
+Lạy Đức Vua, Thiên Chúa của con. 
+Hãy mở ra, mở rộng tâm hồn 
+Chào đón Chúa với lòng khiêm hạ.
+
+Người đến với ta như người nghèo 
+Chẳng quyền thế, chẳng chút cao sang. 
+Ngài đơn sơ trong lối ăn cách ở 
+Luôn khiêm nhu trong suốt cuộc đời.
+
+Chúc tụng Ngài, xin Ngài ngự đến 
+Lạy Đức Vua, Thiên Chúa của con. 
+Hãy mạnh mẽ bước trong tin yêu 
+Thoát tăm tối tiến vào ánh sáng.
+
+Bất hạnh thay bao người giàu có 
+Họ không muốn nghe lời Ki-tô 
+Lời đã hứa cứu chuộc nhân loại 
+Lời ân sủng ban của đầy dư.
+
+Chúc tụng Ngài, xin Ngài ngự đến 
+Lạy Đức Vua, Thiên Chúa của con. 
+Hỡi tất cả những ai khiêm nhường 
+Hướng về Ki-tô nguồn an ủi.
+
+Đây Đấng Cứu Độ muôn dân nước 
+Vinh quang tỏa rạng Ngày Quang Lâm 
+Tất cả uy quyền với danh dự 
+Suy phục Ngài, Lạy Đấng Tối Cao.
+
+Chúc tụng Ngài, xin Ngài ngự đến 
+Lạy Đức Vua, Thiên Chúa của con.
+Ngài là Mục Tử luôn chở che 
+Ban bình an cho những ai nghèo khổ.
+
+Lạy Chúa, Đấng Dịu Hiền, Khiêm Nhường 
+Ách của Chúa êm ái, nhẹ nhàng 
+Chính tay Ngài sẽ dẫn đưa con 
+Tiến vào chốn thảnh thơi muôn đời.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 12,6-8
+      Chúng ta có những đặc sủng khác nhau, tùy theo ân sủng Thiên Chúa ban cho mỗi người. Được ơn làm ngôn sứ, thì phải nói sao cho phù hợp với đức tin. Được ơn phục vụ, thì phải phục vụ. Ai dạy bảo, thì cứ dạy bảo. Ai khuyên răn, thì cứ khuyên răn. Ai phân phát, thì phải chân thành. Ai chủ tọa, thì phải có nhiệt tâm. Ai làm việc bác ái, thì hãy vui vẻ.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Đức Giêsu Kitô, là đường sự thật, Là ánh sáng soi bước chúng ta!
+* Ai sống theo sự thật thì đến cùng ánh sáng.
+<strong>X</strong> Ai yêu mến thì được sinh ra bởi Thiên Chúa và nhận biết Thiên Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> “Ta hãy phụng sự Chúa với niềm vui, luôn tín thác vào Ngài, phó thác hoàn toàn nơi Ngài"
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -3023,10 +3129,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Hiệp với chân phước Gio-sép-phin, chúng ta hãy cầu xin cho Giáo Hội được trung thành với Tin Mừng tình yêu:
+      <i>Lạy Đấng cứu độ loài người, xin nhậm lời chúng con. </i>
+      Đối với những người không được ai lắng nghe, chẳng được ai quan tâm, những người bị loại trừ, <i>- xin sai các môn đệ Chúa đi làm chứng về tình yêu của Chúa. </i>
+      Đối với những người mà xã hội kết án, các tù nhân, các người sống bên lề xã hội, <i>- xin sai các môn đệ Chúa đi làm chứng về lòng thương xót của Chúa. </i>
+      Đối với những người đang bị nhận chìm trong nỗi khốn khổ, bệnh tật, bạo lực, <i>- xin sai các môn đệ Chúa đi làm chứng về sự công bình của Chúa. </i>
+      Đối với những người đang đánh mất ý nghĩa cuộc đời vì quá đau khổ, <i> - xin sai các môn đệ Chúa đi làm chứng về niềm hy vọng của Chúa. </i>
+      Đối với những người hấp hối đang chuẩn bị đi vào sự phục sinh đời đời, <i>- Lạy Chúa Giêsu, Chúa là Đấng Hằng Sống, xin gìn giữ họ trong tình yêu Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho dì Gio-sép-phin nên trinh nữ và chân phước. Chúa đã đổ tràn trên dì tinh thần Tin Mừng và niềm vui trong tâm hồn để giáo dục các trẻ em. Xin ban cho chúng con biết bắt chước các nhân đức của dì, để chúng con cũng nhận được niềm vui vĩnh cửu. 
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
