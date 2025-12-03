@@ -17191,16 +17191,13 @@ Chúa đang đến, Ngài ngự trong hồn ta.
       Xin Chúa ban cho chúng ta được ở vào số bé nhỏ này.
 
 <strong>Xướng đáp</strong>
-<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. 
-Và Thiên Chúa ở lại trong người ấy 
-<strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu 
-Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
-<strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, 
-vì tình yêu bắt nguồn từ Thiên Chúa. *
+<strong>Đ</strong> Ai tuân giữ các điều răn của Chúa, thì ở lại trong Thiên Chúa. Và Thiên Chúa ở lại trong người ấy 
+<strong>*</strong> còn chúng ta, chúng ta đã biết tình yêu Thiên Chúa nơi chúng ta, và chúng ta tin vào tình yêu đó.
+<strong>X</strong> anh em thân mến, chúng ta hãy yêu thương nhau, vì tình yêu bắt nguồn từ Thiên Chúa. *
 
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước Mác-cô An-tôn qua ân ban chiêm niệm cuộc thương khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân; xin cho chúng con qua gương và nhờ lời chuyển cầu của chân phước cho chúng con biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
-      Chúng con cầu xin…
+      <i>Chúng con cầu xin...</i>
 `,
 
         en: `
@@ -17341,12 +17338,76 @@ dẫn ta bước vào đường nẻo bình an.
  en: `
 Lord, open my lips.
 <strong>—</strong> <i>And my mouth will proclaim your praise.</i>
-Loading…
-<strong>PSALMODY</strong>
-Loading…
+
+<strong>Ant. </strong>Christ is the chief Shepherd, the leader of His flock; come let us adore Him.
+
+<strong>Psalm 95</strong>
+Come, let us sing to the Lord
+and shout with joy to the Rock who saves us.
+Let us approach him with praise and thanksgiving
+and sing joyful songs to the Lord.
+
+The Lord is God, the mighty God,
+the great king over all the gods.
+He holds in his hands the depths of the earth
+and the highest mountains as well
+He made the sea; it belongs to him,
+the dry land, too, for it was formed by his hands.
+
+Come, then, let us bow down and worship,
+bending the knee before the Lord, our maker,
+For he is our God and we are his people,
+the flock he shepherds.
+
+Today, listen to the voice of the Lord:
+Do not grow stubborn, as your fathers did
+in the wilderness,
+when at Meriba and Massah
+they challenged me and provoked me,
+Although they had seen all of my works.
+
+Forty years I endured that generation.
+I said, “They are a people whose hearts go astray
+and they do not know my ways.”
+So I swore in my anger,
+“They shall not enter into my rest.”
+
+The saints who toiled from place to place,
+Spreading the Gospel of God's grace,
+Now in their heavenly homeland dwell
+With Christ, whom here they served so well.
+
+Alert at thy command to go,
+And everywhere thy word to sow,
+They went, O Master, far and wide,
+Eager, but yet unsatisfied.
+ 
+Thine was the task they took in hand,
+Thine their good news for every land,
+Thine was their power, and thine again
+Their passion for the souls of men.
+ 
+That task of thine, by them begun,
+Must now by our weak hands be done:
+Strengthen, O Lord, to work for thee
+These hands, at home and over sea.
+
+<strong>PSALMODY</strong> 
+<strong>Ant. 1</strong> Those who do not love to stay on Calvary or dwell in those wounds will never be true lovers of Jesus.
+<strong>Ant. 2</strong> Not to have loved the most loving father, the most sincere friend, the most tender brother, and the most beautiful and attractive spouse! What greater indignity than ours?
+<strong>Ant. 3</strong> They love him on Tabor, but not on Calvary; they love him when they feel some tenderness and sensitivity, but not in adversity and humiliations. 
+
+<strong>Reading</strong> Romans 12:1-2.
+      I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
+
+<strong>RESPONSORY</strong>
+<strong>R. </strong> 
+<strong>*</strong> 
+<strong>V. </strong> 
+
 <strong>Luke 1:68 – 79
 The Messiah and his forerunner</strong>
-<strong>Ant.</strong>
+<strong>Ant.</strong> It is on Calvary that the Teresas, the Catherines, the Agneses, and all the saints in heaven were formed to love.
 
 Blessed be the Lord, the God of Israel;
 he has come to his people and set them free.
@@ -17375,11 +17436,16 @@ to shine on those who dwell in darkness and the shadow of death,
 and to guide our feet into the way of peace.
 
 <strong>INTERCESSIONS</strong>
+      In memory of Blessed Marco Antonio Durando, we direct our prayer to Christ the Redeemer, so that, united with the mystery of His passion, we live and bring the gift of salvation to our brothers:
+      <i>Bless Your family, Lord.</i>
+      Blessed are You, O Jesus, Savior of the world, who did not refuse to undergo the passion and the cross for us, redeeming us with Your precious blood. 
+      May we always and everywhere carry Your passion in our bodies, manifesting Your immortal life within us.
+      Redeemer of all, on this day, You call us to cooperate in Your work of salvation; make us a sign of Your grace toward our neighbors. 
+      Turn Your gaze of goodness to the sick and suffering, whom You have associated with Your cross; may they feel the comfort of Your presence. 
 
 Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
 <strong>Concluding Prayer</strong>
-
-
+      O God, Who through the contemplation of the Passion of the Lord sanctified blessed Marc Antonio Durando, and made him shine for his gift of counsel and care for the poor and the sick, grant us, through his example and his intercession, to follow the teachings of the Gospel, and to love You with a filial love. Through our Lord Jesus Christ, Your Son, Who lives and reigns with You, in the unity of the Holy Spirit, God forever and ever.
         
         `
       },
@@ -17424,7 +17490,7 @@ Dẫn ta đến nhan Người.
 
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
-      Chúng con cầu xin...
+      <i>Chúng con cầu xin...</i>
         
         `,
 
@@ -17524,6 +17590,7 @@ hãy lãnh nhận gấp trăm và sự sống đời đời.
       Lạy Chúa, Chúa muốn tất cả mọi người đều cộng tác vào công trình của Chúa, - <i>xin khơi dậy trong Hội Thánh Chúa nhiều người làm chứng cho sự hiện diện và hành động của Chúa. </i>
       Lạy Chúa, Chúa muốn tình yêu Chúa chiến thắng bạo lực, - <i>xin ban cho các Giáo Hội bị bách hại được thêm sức mạnh để đi theo Đức Kitô trên con đường Thập giá. </i>
       Lạy Chúa, Chúa muốn tất cả con cái Chúa đều được cứu độ, - <i>xin cho những ai qua đời hôm nay được gặp sự viên mãn của tình yêu Chúa. </i>
+
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
       Lạy Chúa là Thiên Chúa chúng con, Chúa đã thánh hóa chân phước linh mục Mác-cô An-tôn qua ân ban chiêm niệm cuộc Thương Khó của Đức Kitô, và Chúa đã làm cho chân phước trở nên lỗi lạc nhờ ơn biết lo liệu, và ân cần đối với người nghèo và bệnh nhân, xin cho chúng con, qua gương và nhờ lời chuyển cầu của chân phước, biết tuân theo giáo huấn Tin Mừng và yêu mến Chúa hết tình con thảo.
