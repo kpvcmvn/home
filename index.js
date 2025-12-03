@@ -17401,9 +17401,12 @@ These hands, at home and over sea.
       I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship. Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.
 
 <strong>RESPONSORY</strong>
-<strong>R. </strong> 
-<strong>*</strong> 
-<strong>V. </strong> 
+<strong>V. </strong>Make us truly love Jesus crucified with all our heart.
+<strong>R. </strong>Make us truly love Jesus crucified with all our heart.
+<strong>V. </strong>May God grant us the grace to be in this number of few.
+<strong>R. </strong>Make us truly love Jesus crucified with all our heart.
+<strong>V. </strong>Glory be to the Father and to the Son and to the Holy Spirit.
+<strong>R. </strong>Make us truly love Jesus crucified with all our heart.
 
 <strong>Luke 1:68 – 79
 The Messiah and his forerunner</strong>
@@ -17615,16 +17618,60 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 <strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
 <strong>HYMN</strong>
-Loading…
+Who are these like stars appearing,
+these before God's throne who stand?
+Each a golden crown is wearing;
+who are all this glorious band?
+Alleluia! Hark, they sing,
+praising loud their heav'nly King.
+ 
+Who are these of dazzling brightness,
+these in God's own truth arrayed,
+clad in robes of purest whiteness,
+robes whose luster ne'er shall fade,
+ne'er be touched by time's rude hand?
+Whence come all this glorious band?
+ 
+These are they who have contended
+for their Savior's honor long,
+wrestling on 'til life was ended,
+following not the sinful throng;
+these, who well the fight sustained,
+triumph thro' the Lamb have gained.
+ 
+These are they whose hearts were riven,
+sore with woe and anguish tried,
+who in prayer full oft have striven
+with the God they glorified;
+now, their painful conflict o'er,
+God has bid them weep no more.
+ 
+These, like priests, have watched and waited,
+offering up to Christ their will;
+soul and body consecrated,
+day and night to serve him still:
+now in God's most holy place
+blest they stand before his face.
+
 <strong>PSALMODY</strong>
-Loading…
-<strong>READING</strong>
-Loading...
+<strong>Ant. 1</strong> Those who do not love to stay on Calvary or dwell in those wounds will never be true lovers of Jesus.
+<strong>Ant. 2</strong> Not to have loved the most loving father, the most sincere friend, the most tender brother, and the most beautiful and attractive spouse! What greater indignity than ours?
+<strong>Ant. 3</strong> They love him on Tabor, but not on Calvary; they love him when they feel some tenderness and sensitivity, but not in adversity and humiliations. 
+
+<strong>READING</strong> Romans 8:28-30.
+we know that for those who love God all things work together for good, for those who are called according to his purpose. For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.
+
 <strong>RESPONSORY</strong>
-Loading...
+<strong>V.</strong> Make us truly love Jesus crucified with all our heart.
+<strong>R.</strong> Make us truly love Jesus crucified with all our heart.
+<strong>V.</strong> May God grant us the grace to be in this number of few.
+<strong>R.</strong> Make us truly love Jesus crucified with all our heart.
+<strong>V.</strong> Glory be to the Father and to the Son and to the Holy Spirit.
+<strong>R.</strong> Make us truly love Jesus crucified with all our heart.
+
 <strong>Luke 1:46-55
 The soul rejoices in the Lord</strong>
-<strong>Ant.</strong>
+<strong>Ant.</strong> It is on Calvary that the Teresas, the Catherines, the Agneses, and all the saints in heaven were formed to love.
 
 My soul proclaims the greatness of the Lord,
 my spirit rejoices in God my Savior
@@ -17652,10 +17699,18 @@ the promise he made to our fathers,
 to Abraham and his children for ever.
 
 <strong>INTERCESSIONS</strong>
+      May the joy of celebrating Blessed Marc Antonio Durando and the memory of his life of dedication obtain from the heavenly Father the light and strength for our commitment to our vocation of mission and charity:
+      <i>Support us, Lord, our mission and charity. </i>
+      We thank You, Father, for giving us Your Son, may we be filled with the riches of Your word and knowledge. 
+      May we participate in the passion of Jesus amid life’s struggles and trials, may we experience the depth of redemption within us.
+      Inspire us with brotherly love toward the sick and suffering, may we recognize and serve Christ Your Son in them. 
+      Confirm the vocation of those who have abandoned everything to follow Christ, grant them to be living gospels and authentic witnesses to the holiness of the Church. 
+      Grant the joy of contemplating You in eternal happiness to our departed brothers and sisters who have recognized Your face in the poor and suffering. 
 
 Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
 
 <strong>CONCLUDING PRAYER</strong>
+      O God, Who through the contemplation of the Passion of the Lord sanctified blessed Marc Antonio Durando, and made him shine for his gift of counsel and care for the poor and the sick, grant us, through his example and his intercession, to follow the teachings of the Gospel, and to love You with a filial love. Through our Lord Jesus Christ, Your Son, Who lives and reigns with You, in the unity of the Holy Spirit, God forever and ever.
 
         
         `
