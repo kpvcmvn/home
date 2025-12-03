@@ -12965,9 +12965,113 @@ Glory to the Father, and to the Son, and to the Holy Spirit:
 <strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
 
 <strong>HYMN</strong>
-Loading…
+What new rejoicing triumphs now in heaven?
+Let hymns resound the celestial acclaim:
+Light of the clergy, father of the needy
+See now in splendor.
+ 
+Vincent, your actions now are your adornment:
+Charity crowns you with most precious jewels;
+You who on earth were clothed in humble raiment
+Go now in glory.
+ 
+Truths you once taught the lowliest peoples
+Now are revealed to you in all their beauty;
+What to the poor your hand dispensed so freely
+Heaven exchanges.
+ 
+Priests, even now, in following your precepts
+Spread far and wide glad tidings of Christ;
+Through you the vineyard yields a richer harvest
+Holy and joyful.
+ 
+What floods of glory given by your daughters,
+Virgins all pure, and their companion mothers!
+Like you, rejoicing in the poor their masters
+Servants most faithful!
+ 
+Pure heart, who raised up misery and weakness
+Learn now to hear the prayers of mankind:
+With friendly tumult all the earth's forsaken
+Claim you, their patron.
+ 
+Honour supreme to the eternal Father
+And to the Son, consoler of the wretched,
+And to the Spirit, Three in equal glory,
+Praise be forever. Amen.
+
 <strong>PSALMODY</strong>
-Loading…
+<strong>Ant 1.</strong> Blessed is he whom you choose, Lord, and call to dwell in your courts.
+<strong>Psalm 15 </strong><strong>
+<strong><i>Who is worthy to stand in God’s presence? </i></strong>
+<i>You have come to Mount Zion, to the city of the living God (Hebrews 12:22). </i>
+
+Lord, who shall be admitted to your tent
+and dwell on your holy mountain?
+
+He who walks without fault;
+he who acts with justice
+and speaks the truth from his heart;
+he who does not slander with his tongue;
+
+He who does no wrong to his brother,
+who casts no slur on his neighbor,
+who holds the godless in disdain,
+but honors those who fear the Lord;
+
+he who keeps his pledge, come what may;
+who takes no interest on a loan
+and accepts no bribes against the innocent.
+Such a man will stand firm forever.
+
+<strong><i>Psalm Prayer:</strong></i> <i>Make our lives blameless, Lord. Help us to do what is right and to speak what is true, that we may dwell in your tent and find rest on your holy mountain.</i>
+
+<strong>Ant 2.</strong>  Open-handed, he gives to the poor; his justice stands firm forever.
+<strong>Psalm 111 (112) </strong><strong>
+<strong><i>How blessed are the just </i></strong>
+<i>“Be like the children of the light; for the fruits of the light are seen in complete goodness and right living and truth” (Eph 5, 8,9). </i>
+
+Happy the man who fears the Lord,
+who takes delight in all his commands.
+His sons will be powerful on earth;
+the children of the upright are blessed.
+
+Riches and wealth are in his house;
+his justice stands firm for ever.
+He is a light in the darkness for the upright:
+he is generous, merciful and just.
+
+The good man takes pity and lends,
+he conducts his affairs with honour.
+The just man will never waver:
+he will be remembered for ever.
+
+He has no fear of evil news;
+with a firm heart he trusts in the Lord.
+With a steadfast heart he will not fear;
+he will see the downfall of his foes.
+
+Open-handed, he gives to the poor;
+his justice stands firm for ever.
+His head will be raised in glory.
+
+The wicked man sees and is angry,
+grinds his teeth and fades away;
+the desire of the wicked leads to doom.
+
+<strong>Ant 3.</strong> The Lord has given him unending glory; his name shall be in everlasting remembrance.
+<strong>CANTICLE: REV 15:3-4 </strong><strong>
+
+Great and wonderful are your deeds.
+O Lord God the Almighty!
+Just and true are your ways,
+O King of the ages!
+ 
+Who shall not fear and glorify your name, O Lord?
+For you alone are holy.
+All nations shall come and worship you,
+for your judgments have been revealed.
+
 <strong>READING</strong>
 Loading...
 <strong>RESPONSORY</strong>
