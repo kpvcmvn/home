@@ -3380,30 +3380,61 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Đâu có tình yêu thương 
+Nơi đó Thiên Chúa ngự. 
+Bởi tình yêu khởi đi 
+Từ suối nguồn Thiên Chúa.
+
+Không phải do chúng ta 
+Nhưng Thiên Chúa yêu trước 
+Đã sai Người Con Một 
+Làm của lễ đền thay.
+
+Để nhờ Con Duy Nhất 
+Mà chúng ta được sống 
+Và Thần Khí của Người 
+được ban phát cho ta.
+
+Thiên Chúa đã yêu trước 
+Chúng ta phải thương yêu. 
+Có ai được diễm phúc 
+Chiêm ngưỡng Chúa bao giờ.
+
+Nếu chúng ta thương yêu 
+Tình yêu của Thiên Chúa 
+Sẽ tồn tại mãi mãi 
+Trong đời sống chứng nhân.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn Là Đấng cứu chuộc con.
+<strong>Đ</strong> Tiếng lòng con thầm thĩ, mong được thấu đến Ngài.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Hc 3, 29-4,1-10
+<strong>Trích sách Huấn Ca </strong>
+      Người sáng trí để tâm nghiên cứu các ẩn dụ, kẻ khôn ngoan ao ước có tai thính để nghe. Con ơi, đừng tước đoạt miếng cơm manh áo của người nghèo, đừng để kẻ khốn cùng luống công chờ đợi. Đừng làm cho kẻ đói phải buồn tủi, đừng chọc tức ai khi họ phải ngặt nghèo. Một tâm hồn đang bực bội, con đừng làm khổ thêm, đừng bắt kẻ túng thiếu đợi lâu mới được con giúp đỡ. Kẻ khốn khổ nài xin, con đừng từ chối, gặp người nghèo, con đừng ngoảnh mặt đi. Đừng làm ngơ không nhìn đến kẻ thiếu thốn, kẻo nên cớ cho người ta nguyền rủa con. Ai cay đắng trong lòng mà nguyền rủa con, thì Đấng tạo thành ra nó sẽ nghe theo lời nó thỉnh nguyện. Hãy làm cho công hội mến thương con, và tỏ lòng kính trọng người làm lớn. Hãy lắng nghe kẻ nghèo, và nhã nhặn chào lại họ.
+      Hãy giải thoát người bị áp bức khỏi tay phường áp bức, đừng hèn nhát khi con phải xét xử. Đối với trẻ mồ côi, con hãy xử như một người cha, và với mẹ của chúng, hãy xử như một người chồng; được vậy, con sẽ nên như người con của Đấng Tối Cao, và Người sẽ thương con hơn cả mẹ của con nữa.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Ai ở trong tình yêu thì ở trong Thiên Chúa, và Thiên Chúa ở trong người ấy.
+* Không có gì dịu ngọt hơn là gắn bó với giới răn của Chúa.
+<strong>X</strong> Chúng ta đã nhận biết tình yêu của Chúađối với chúng ta và chúng ta đã tin vào Chúa. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Tính ngôn sứ của đời sống thánh hiến 
+Đời sống thánh hiến số 84-85 </strong>
+      Các Nghị phụ tại Thượng Hội Đồng đã nhấn mạnh nhiều đến đặc tính ngôn sứ của đời thánh hiến. Đặc tính này là một cách tham gia đặc biệt vào chức vụ ngôn sứ của Đức Kitô, đã được Thánh Thần thông ban cho toàn thể dân Chúa. Tính ngôn sứ đó gắn liền với đời thánh hiến, bởi lẽ nó đòi buộc phải triệt để bước theo Chúa Kitô, và như vậy nó kêu mời dấn thân vào sứ mệnh có đặc tính ngôn sứ. Công Đồng Vat. II công nhận đời tu có phận sự làm dấu chỉ, một dấu chỉ có tính ngôn sứ về vị thế trổi vượt của Thiên Chúa và của những giá trị Tin Mừng trong đời sống kitô hữu. Chính do vị thế trổi vượt đó, không có gì đáng kể hơn là mối tình dành riêng cho Chúa Kitô và cho những người nghèo vì lẽ Chúa Kitô đang sống nơi họ.
+      Truyền thống giáo phụ đã nhận ra nơi ông Êlia, ngôn sứ can trường và người bạn của Thiên Chúa, một khuôn mặt của đời đan tu. Ông Êlia sống trong sự hiện diện với Chúa, chiêm ngưỡng Chúa đi qua trong thinh lặng, chuyển cầu cho toàn dân và can đảm công bố thiên ý, ông đấu tranh cho những quyền lợi của Thiên Chúa và đứng ra bảo vệ những người nghèo trước những kẻ nắm quyền lực thế gian. Trong lịch sử Giáo Hội, bên cạnh những kitô hữu khác vẫn luôn có những người nam người nữ tận hiến cho Thiên Chúa, nhờ đặc ân riêng của Thánh Thần, thi hành tác vụ ngôn sứ chân chính, lên tiếng nhân danh Thiên Chúa để nói cho mọi người và cho cả những mục tử trong Giáo hội, lời ngôn sứ chân chính đến từ Thiên Chúa, từ việc sống trong tình thân với Thiên Chúa, từ sự chăm chú lắng nghe lời Chúa trong những giai đoạn khác nhau của lịch sử. Ngôn sứ cảm thấy trong lòng mình sôi sục nỗi đam mê sự thánh thiện của Thiên Chúa, và sau khi đã đón nhận lời Chúa trong đối thoại và cầu nguyện, ngôn sứ công bố lời đó qua cuộc sống, trên môi miệng, và bằng hành động của mình, trở thành phát ngôn viên của Thiên Chúa chống lại sự dữ và tội lỗi. Chúng ta là ngôn sứ buộc phải liên lỉ và say sưa tìm ý Chúa, nhất thiết và quảng đại hiệp thông với Giáo Hội, thực hành sự phân định thiêng liêng và yêu mến sự thật. Vị ngôn sứ trở thành chứng tá vì biết tố giác những điều trái ngược với ý Chúa, và biết khai mở những con đường mới đem Tin Mừng vào lịch sử, cho Nước Chúa sớm đến.
+      Trong thế giới của chúng ta, những dấu vết của Thiên Chúa dường như bị xóa nhòa, nên người ta cảm thấy nhu cầu khẩn trương của một chứng tá ngôn sứ thật mãnh liệt từ phía những người được thánh hiến. Chứng tá đótrước tiênkhẳng định vị thế ưu việt của Thiên Chúa và của những điều thiện hảo sẽ đến, khẳng định đó được biểu lộ trong việc bước theo Chúa Kitô, trong việc noi gương Chúa Kitô trinh khiết, khó nghèo và vâng phục, tận hiến hoàn toàn để tôn vinh Danh Cha Người và để yêu thương anh chị em của Người. Tự nó, đời sống huynh đệ làmột lời ngôn sứ bằng hành động trong một xã hội khao khát thật sâu xa tình huynh đệ không biên giới, cho dù đôi khi xã hội này không nhận ra điều đó. Sự trung thành với đặc sủng của họ giúp những người được thánh hiến nêu cao khắp nơi chứng tá của họ với sự ngay thẳng của vị ngôn sứ không sợ hy sinh đến cả mạng sống.
+      Sự liên kết chặt chẽ giữa việc loan báo và cách sống sẽ mang lại một sức thuyết phục đặc biệt cho lời ngôn sứ. Những người được thánh hiến sẽ trung thành với sứ mạng của họ trong Giáo Hội và trongthế giới nếu họ có khả năng thường xuyên xét mình dưới ánh sáng Lời Chúa. Nhờ đó họ sẽ có thể truyền đạt cho các tín hữu khácsự phong phú của các đặc sủng đã lãnh nhận, đồng thời vẫn để cho các thành phần kháctrong Giáo Hội có thể đặt lại vấn đề với họ bằng những lý lẽ cũng mang tính ngôn sứ. Trong cuộc trao đổi các hồng ân đó, được chính thức hóanhờ hoàn toàn thuận hợp với huấn quyền và kỷ luật của Giáo Hội, sẽ biểu dương một cách sáng chói, tác động của Thánh Thần “Đấng hợp nhất Giáo Hội trong hiệp thông và phục vụ, ban cho Giáo Hội những hồng ân khác nhau, những hồng ân mang tính phẩm trật và đặc sủng, hướng dẫn Giáo Hội nhờ những hồng ân đó”.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Ôi sự giàu có, khôn ngoan và thông suốt của Thiên Chúa sâu thẳm dường nào!
+* Đức khôn ngoan đã dẫn đưa các thánh trên đường kỳ diệu.
+<strong>X</strong> Đức khôn ngoan để lộ mình ra cho những ai tìm kiếm. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã ban cho chân phước Rô-za-li tinh thần yêu thương của Chúa khiến chân phước giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương chân phước, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -3438,7 +3469,7 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa uy linh giữa triều thần thánh, nào ta đến phủ phục tôn thờ.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -3476,17 +3507,38 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Trong trái tim sâu thẳm của Chúa Cha 
+Bén rễ sâu trong suốt cả cuộc đời 
+Chị trở thành cột mốc của tình yêu 
+Trên đường đi của những người bất hạnh.
+
+Rô-Za-Li cột mốc của tình yêu
+Không loại bỏ những người đang đau khổ 
+Rộng đôi tay ôm ấp kẻ túng nghèo 
+Nhận nơi họ khuôn mặt Đức Ki-tô.
+
+Chị khuyên bảo cả những người quyền thế 
+Biết thương yêu, chăm sóc kẻ khó nghèo 
+Đi đến đâu, chị làm phúc đến đó
+Tình yêu chị phản ánh tình Giê-su
+
+Noi gương Chúa, mẫu gương Ngài duy nhất
+Giúp chúng con tiến bước đường Ngài đi
+Đường yêu thương, yêu thương hết mọi người
+Dẫn chúng con về quên nhà Thiên Quốc.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 12, 1-2
+      Thưa anh em, vì Thiên Chúa thương xót chúng ta, tôi khuyên nhủ anh em hãy hiến dâng thân mình làm của lễ sống động, thánh thiện và đẹp lòng Thiên Chúa. Đó là cách thức xứng hợp để anh em thờ phượng Người. Anh em đừng có rập theo đời này, nhưng hãy cải biến con người anh em bằng cách đổi mới tâm thần, hầu có thể nhận ra đâu là ý Thiên Chúa: cái gì là tốt, cái gì đẹp lòng Chúa, cái gì hoàn hảo.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Ước gì hy lễ chúng con đâng hôm nay được đẹp lòng Chúa.
+* Chúng con bước theo Chúa và tìm kiếm thánh nhan Ngài.
+<strong>X</strong> Ngợi khen và vinh danh Chúa đến muôn đời. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Chúa là phần gia nghiệp của con,
+Người nhân lành đối với ai tìm kiếm Người.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -3526,9 +3578,16 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
-
+      Lạy Chúa, Chúa đã muốn chị Rô-za-li ở giữa chúng con, như biểu tượng sống động của tình yêu nhân hậu Chúa. Chúng ta cùng dâng lên Chúa lời ngợi khen:
+      <i>Chúa là ánh sáng muôn dân, chúng con ca tụng Chúa.</i>
+      Chúng con ngợi khen Chúa, lạy Chúa, vì tình yêu vô hạn của chị, chị đã múc lấy tình yêu trong suy niệm Phúc Âm không ngừng.
+      Chúng con ngợi khen Chúa, lạy chúa, vì lòng khiêm tốn sâu xa của chị, lòng khiêm tốn đã khiến chị đơn sơ nói lên các nhu cầu của người dân trong khu vực của chị. 
+      Chúng con ngợi khen Chúa, lạy chúa, vì chị sáng suốt phân định được sự đau khổ của dân chúng, sự sáng suốt mà chị đã truyền đạt cho những ai đã đến gần chị.
+      Chúng con ngợi khen Chúa, lạy chúa, vì chị có nhiều tài năng do Chúa ban, các tài năng mà chị đã biết sử dụng để giúp đỡ những người nghèo khổ và trả lại nhân phẩm cho họ.
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho chân phước Rô-za-li tinh thần yêu thương của Chúa khiến chân phước giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương chân phước, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi. 
+     <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -3615,13 +3674,17 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Xh 3, 7-12
+      ĐỨC CHÚA phán: “Ta đã thấy rõ cảnh khổ cực của dân Ta bên Ai-cập, Ta đã nghe tiếng chúng kêu than vì bọn cai hành hạ. Phải, Ta biết các nỗi đau khổ của chúng. Ta xuống giải thoát chúng khỏi tay người Ai-cập, và đưa chúng từ đất ấy lên một miền đất tốt tươi, rộng lớn, miền đất tuôn chảy sữa và mật, xứ sở của người Ca-na-an, Khết, E-mô-ri, Pơ-rít-di, Khi-vi và Giơ-vút. Giờ đây, tiếng rên siết của con cái Ít-ra-en đã thấu tới Ta; Ta cũng đã thấy cảnh áp bức chúng phải chịu vì người Ai-cập. Bây giờ, ngươi hãy đi! Ta sai ngươi đến với Pha-ra-ô để đưa dân Ta là con cái Ít-ra-en ra khỏi Ai-cập.”
+      Ông Mô-sê thưa với Thiên Chúa: “Con là ai mà dám đến với Pha-ra-ô và đưa con cái Ít-ra-en ra khỏi Ai-cập?” Người phán: “Ta sẽ ở với ngươi. Và đây là dấu cho ngươi biết là Ta đã sai ngươi: khi ngươi đưa dân ra khỏi Ai-cập, các ngươi sẽ thờ phượng Thiên Chúa trên núi này.”
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Chúa sẽ dạy con người biết đường về nẻo sống.
+<strong>Đ</strong> Xin dạy con biết thánh ý của Ngài.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho chân phước Rô-za-li tinh thần yêu thương của Chúa khiến chân phước giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương chân phước, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi. 
+     <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
