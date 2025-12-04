@@ -33,11 +33,11 @@ const getMultilingualText = (
 const SECTIONS_CONFIG = [
   { key: 'biography', icon: 'fa-book-open', title: { vi: 'Tiểu Sử', en: 'Biography' } },
   { key: 'massReadings', icon: 'fa-cross', title: { vi: 'Thánh Lễ', en: 'Mass Readings' } },
+  { key: 'eveningprayer1', icon: 'fa-moon', title: { vi: 'Kinh Chiều I', en: 'Evening Prayer I' } },
   { key: 'officeOfReadings', icon: 'fa-book-bible', title: { vi: 'Kinh Sách', en: 'Office of Readings' } },
   { key: 'lauds', icon: 'fa-sun', title: { vi: 'Kinh Sáng', en: 'Lauds' } },
   { key: 'middayPrayer', icon: 'fa-clock', title: { vi: 'Kinh Trưa', en: 'Midday Prayer' } },
   { key: 'vespers', icon: 'fa-moon', title: { vi: 'Kinh Chiều', en: 'Vespers' } },
-  //{ key: 'compline', icon: 'fa-bed', title: { vi: 'Kinh Tối', en: 'Compline' } },
 ];
 
 
@@ -3757,16 +3757,17 @@ Muôn hoa thắm đây nghĩa trang cổ kính
 Vạn hương thơm kính viếng mộ tri ân 
 Rô-za-li nghỉ giữa Mông-bạc-nát 
 Hương thánh thiện lan tỏa đến muôn dân. 
-Ca vịnh theo ngày trong tuần.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Ga 15,12-16
+Đây là điều răn của Thầy: anh em hãy yêu thương nhau như Thầy đã yêu thương anh em. Không có tình thương nào cao cả hơn tình thương của người đã hy sinh tính mạng vì bạn hữu của mình. Anh em là bạn hữu của Thầy, nếu anh em thực hiện những điều Thầy truyền dạy. Thầy không còn gọi anh em là tôi tớ nữa, vì tôi tớ không biết việc chủ làm. Nhưng Thầy gọi anh em là bạn hữu, vì tất cả những gì Thầy nghe được nơi Cha Thầy, Thầy đã cho anh em biết. Không phải anh em đã chọn Thầy, nhưng chính Thầy đã chọn anh em, và cắt cử anh em để anh em ra đi, sinh được hoa trái, và hoa trái của anh em tồn tại.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Xin Chúa mở lòng chúng con để đón nhận lời ánh sáng của Chúa.
+* Chúc tụng Chúa, vì Chúa mặc khải bí mật Nước Trời cho những kẻ bé nhỏ.
+<strong>X</strong> Phúc cho ai đi theo đến cùng con đường mà Chúa đã vạch ra. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Phúc cho ai nghĩ tới người nghèo và giúp đỡ anh em mình.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -3801,9 +3802,21 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Chúng ta hãy ca mừng các kỳ công Chúa thực hiện nơi những ai được Chúa kêu gọi phục vụ Chúa. Nhờ lời chuyển cầu của chân phước Rô-za-li, chúng ta hãy xin Người cho chúng ta sức mạnh ban sự sống của Tình yêu Đức Kitô.
+      <i>Xin chiếu sáng trên chúng còn lòng thương xót của Chúa. </i>
+      Một cách sáng suốt và dũng cảm, chị Rô-za-li đã dám làm mọi việc để phục vụ người nghèo, không có gì ngăn cản chị khi phải tìm cách giúp con người đứng dậy.
+      <i>Lạy Chúa, xin hãy là ánh sáng cho chúng con. </i>
+      Một cách dịu dàngvà kính trọng, chị Rô-za-li đã dám xin mọi người, giàu hay nghèo, những gì họ có thể đem ra để phục vụ những người túng thiếu nhất.
+      <i>Lạy Chúa, xin chỉ đường cho chúng con. </i>
+      Một cách thực tế và gan dạ, chị Rô-za-li đã dám huy động tất cả mọi sự để làm cho các tầng lớp xã hội xích lại gần nhau. Như vậy, chị đã mở ra một con đường hòa giải.
+      <i>Lạy Chúa, xin dẫn chúng con đến sự bình an của Chúa</i>
+      Một cách cảm thông và can đảm, chị Rô-za-li đã dám đương đầu với bệnh dịch và biến loạn để đồng hành với người hấp hối trong giây phút cuối cùng.
+      <i>Lạy Chúa, xin ban cho chúng con tinh thần yêu thương của Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho chân phước Rosalie tinh thần yêu thương của Chúa khiến chân phước giúp đỡ tất cả những ai lâm cảnh gian truân và bị bỏ rơi. Xin Chúa ban cho chúng con niềm vui, để theo gương chân phước, khám phá ra Đức Kitô nơi người nghèo và phục vụ Người với một tình yêu không mệt mỏi.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -4058,15 +4071,21 @@ Ha-lê-lui-a.
 <strong>X</strong> 
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Khí cụ của lòng Bác Ái bao la và từ phụ của Thiên Chúa
+Trích những bài nói chuyện của thánh Vinh Sơn - Coste XII.260-263 </strong>
+      Bác Ái là bắt buộc; đó là một giới răn của Chúa, nó bao hàm nhiều giới răn khác. Mọi người đều biết rằng Lề luật và các sứ ngôn đều bao gồm trong tình yêu Chúa và tha nhân. Tất cả đều tùy thuộc Bác Ái; tất cả đều đi về đó; và tình yêu này có sức mạnh và ưu tiên tới mức ai có Bác Ái là chu toàn mọi lề luật của Chúa, vì mọi lề luật đều liên hệ đến tình yêu này, và Bác Ái dạy ta làm tất cả những gì Thiên Chúa đòi buộc ta: “vì ai yêu người, thì đã chu toàn Lề Luật” (Rm 13,8).
+      Vậy, điều đó không những liên quan tới tình yêu đối với Chúa, mà còn đối với lòng Bác Ái đối với tha nhân vì yêu Chúa, xin anh em để ý vì yếu Chúa; điều này cao trọng đến độ trí óc con người không thể hiểu được; phải có ánh sáng từ trên cao nâng chúng ta lên mới làm chúng ta hiểu được chiều cao và chiều sâu, chiều rộng và sự ưu việt của tình yêu này.
+      Chúng ta phải hiến mình cho Chúa thật sự để in vào tâm hồn chúng ta các chân lý này, để điều hướng cuộc sống ta theo tỉnh thần này và thực hiện những công việc của tình yêu này. Không có người nào trên thế gian buộc phải làm như thế hơn chúng ta, cũng không có cộng đoàn nào buộc phải thi hành lòng Bác Ái thân tình hơn chúng ta. Tại sao vậy? Chính Thiên Chúa đã dựng nên Tu Hội nhỏ bé này vì yêu thương và theo ý Ngài như tất cả các Tu Hội khác. Mọi Tu Hội đều hướng về tình yêu Chúa, nhưng mỗi Tu Hội yêu Chúa một cách: các đan sĩ Chartreux bằng sự cô tịch, các đan sĩ Capucinô bằng sự khó nghèo, các tu sĩ khác bằng những lời hát ca khen Chúa; còn chúng ta, thưa anh em, nếu chúng ta yêu, chúng ta phải chứng tỏ ra, bằng cách làm cho dân chúng yêu Chúa và yêu tha nhân, yêu tha nhân vì Chúa và yêu Chúa vì tha nhân. Chúng ta được Chúa chọn làm khí cụ cho tình phụ tử bao la của Ngài, mà Ngài muốn thiết lập và làm triển nở nơi các tâm hồn.
+      Ôi! Giá mà chúng ta hiểu được sự thực hành thánh thiện này là gì! Chúng ta sẽ chẳng bao giờ hiểu thấu trong đời này; vì ôi, nếu chúng ta hiểu, chúng ta đã hành động cách khác rồi.
+      Vậy ơn gọi của chúng ta là đi đến, không phải là một giáo xứ, cũng không phải là một tòa giám mục, mà là khắp thế giới; để làm gì? Đốt nóng con tim mọi người, làm những gì Con Thiên Chúa đã làm, Ngài là Đấng đã đến đem lửa xuống trần gian để thiêu đốt trần gian bằng Tình Yêu của Ngài. Chúng ta mong muốn gì, lại không là muốn lửa đó nung đốt và thiêu hủy mọi sự ư? Anh em thân mến của tôi ơi, xin anh em hãy suy nghĩ. Quả thật, tôi được sai đi, không những để yêu Chúa, mà còn là làm cho người ta yêu Chúa. Nếu tha nhân không yêu Chúa thì mình tôi yêu Chúa chưa đủ. Tôi phải yêu tha nhân là hình ảnh và là đối tượng tình yêu của Thiên Chúa, và tôi phải làm sao cho mọi người yêu mến Đấng Tạo Hóa của họ, Đấng đã biết họ và nhận họ làm anh em của Ngài, Đấng đã cứu độ họ, và bằng lòng Bác Ái hỗ tương, họ yêu thương nhau vì yêu Chúa, Đấng đã yêu thương họ tới độ trao nộp Con độc nhất của Ngài chịu chết vì họ.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Tất cả những ai yêu thương đều là con cái Thiên Chúa.
+* Ai ở trong tình yêu là ở trong Thiên Chúa và Thiên Chúa ở trong người ấy.
+<strong>X</strong> Chúng ta hãy yêu thương nhau vì tình yêu từ Thiên Chúa mà đến. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Cha chí thánh giàu lòng thương xót, Cha đã lấy lòng Bác Ái nung đốt thánh Vinh Sơn, để thánh nhân cứu giúp bao nỗi khốn khổ của người thời đại mình; hôm nay, ngày tưởng nhớ việc di chuyển hài cốt của thánh nhân, chúng con nài xin Cha, ban cho chúng con được thấm nhuần Thần Khí của Cha, để chúng con cũng biết tôn kính Con yêu dấu Cha, và phụng sự Ngài nơi những người nghèo.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -6257,6 +6276,253 @@ Graciously accept, O Lord, the gifts we bring, and grant that, filled with the s
 The Lord says: Amen, I say to you, whatever you did for one of these least brothers of mine, you did for me.
 <strong>Prayer after Communion</strong>
 Renewed by the Body and Blood of your Son, we pray, O Lord, that, following the example of Saint Louise, we may be attentive to the needs of all and so become witnesses to your love in the world. Through Christ our Lord.`,
+
+},
+eveningprayer1:{
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+Khác nào ngọn lửa cháy lan,
+Dịu dàng mãnh liệt, ngút ngàn sức thiêu,
+Tình yêu Thiên Chúa dại điên,
+Thánh Thần, kho báu nhiệm mầu linh thiêng.
+
+Khác nào ngọn lửa cháy bừng,
+Hủy thiêu bằng sự khoan dung, khổ sầu,
+Tình yêu Thiên Chúa dại điên,
+Chính là thập giá Kitô cứu đời.
+
+Khác nào ngọn lửa ngút trời,
+Toàn thiêu cuộc sống lễ dâng cứu đời, 
+Tình yêu Thiên Chúa dại điên,
+Chúa ban Thánh Thể muôn trùng quý yêu.
+
+Khác nào ngọn lửa bốc cao, 
+Khôn ngoan soi sáng làm nguồn sức thiêng.
+Tình yêu Thiên Chúa dại điên, 
+Cha, Con cùng với Ngôi Ba Thánh Thần.
+
+<strong>Ca vịnh</strong>
+Tv 112
+<strong>Thiên Chúa tối cao và đầy yêu thương</strong>
+<strong>ĐC</strong> “Tôi muốn sống kết hiệp mật thiết với Đức Giêsu Kitô"
+
+Hỡi tôi tớ Chúa, hãy dâng lời ca ngợi, 
+nào ca ngợi danh thánh Chúa đi!
+
+Chúc tụng danh thánh Chúa, 
+tự giờ đây cho đến mãi muôn đời! * 
+ca ngợi danh thánh Chúa 
+từ rạng đông tới lúc chiều tà!
+
+Chúa siêu việt trên hết mọi dân, 
+vinh quang Người vượt xa trời cao thẳm. *
+ Ai sánh tày Thượng Đế Chúa ta, 
+Đấng ngự chốn cao vời, 
+cúi xuống để nhìn xem bầu trời trái đất !
+
+Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi, 
+ai nghèo túng, Người cất nhắc từ đống phân tro, * 
+đặt ngồi chung với hàng quyền quý, 
+hàng quyền quý dân Người.
+
+Người làm cho đàn bà son sẻ 
+thành mẹ đông con, vui cửa vui nhà.
+
+Tv 147
+<strong>Thành Giêrusalem mới</strong>
+<strong>ĐC</strong> “Tôi phó thác cho thánh ý Chúa, tôi tin tưởng vào lòng nhân từ của Người”
+
+Giê-ru-sa-lem hỡi, nào tôn vinh Chúa, 
+này Xi-on, hãy ca ngợi Thiên Chúa của ngươi!
+
+Then cửa nhà ngươi, Chúa làm cho thêm chắc, 
+con cái trong thành, Người giáng phúc thi ân. * 
+Cõi biên cương, Người thiết lập hòa bình, 
+và cho ngươi no đầy lúa mì tinh hảo.
+
+Người tống đạt lệnh truyền xuống đất, 
+lời phán ra, hỏa tốc chạy đi. * 
+Tuyết tựa lông chiên, Chúa trải dài, 
+sương giá như tro, Người rải rắc.
+
+Làm mưa đá, Chúa tung từng miếng nhỏ,
+ chịu nổi làm sao giá lạnh của Người! * 
+Chúa phán một lời là băng giải tuyết tan, t
+hổi gió lên nước liền tuôn chảy.
+
+Chúa bày tỏ lời Người cho nhà Gia-cóp, 
+chiếu chỉ luật điều cho Ít-ra-en. *
+Chúa không đối xử với dân nào như vậy, 
+không cho họ biết những điều luật của Người.
+
+Tc Ep 1,3-10
+<strong>Thiên Chúa cứu độ</strong>
+<strong>ĐC</strong> “Thiên Chúa Cha đã muốn chứng tỏ cho chúng ta tình yêu của Người khi ban cho chúng ta Con của Người"
+Chúc tụng Thiên Chúa
+là Thân Phụ Đức Giêsu Kitô, Chúa chúng ta.
+
+Trong Đức Kitô
+từ cõi trời, Người đã thi ân giáng phúc 
+cho ta hưởng muôn vàn ơn phúc của Thánh Thần.
+
+Trong Đức Kitô
+Người đã chọn ta trước cả khi tạo thành vũ trụ,
+để trước thánh nhan Người,
+ta trở nên tỉnh tuyền thánh thiện,
+nhờ tình thương của Người.
+
+Theo ý muốn và lòng nhân ái của Người,
+Người đã tiền định cho ta làm nghĩa tử, 
+nhờ Đức Giêsu Kitô.
+
+để ta hằng ngợi khen ân sủng rạng ngời, * 
+ân sủng Người ban tặng cho ta 
+trong Thánh Tử yêu dấu.
+
+Trong Thánh Tử, nhờ máu Thánh Tử đổ ra, 
+chúng ta được cứu chuộc, *
+được thứ tha tội lỗi
+theo lượng ân sủng rất phong phú của Người.
+
+Ân sủng này, Thiên Chúa đã rộng ban cho ta 
+cùng với tất cả sự khôn ngoan thông hiểu.
+
+Người cho ta được biết thiên ý nhiệm mầu: * 
+thiên ý này là kế hoạch yêu thương, 
+Người đã định từ trước trong Đức Kitô
+
+Đó là đưa thời gian tới hồi viên mãn, * 
+là qui tụ muôn loài trong trời đất, 
+dưới quyền một thủ lãnh là Đức Kitô.
+
+<strong>Lời Chúa</strong> Rm 11, 33-36
+      Sự giàu có, khôn ngoan và thông suốt của Thiên Chúa sâu thẳm dường nào! Quyết định của Người, ai dò cho thấu! Đường lối của Người, ai theo dõi được! Thật vậy, ai đã biết tư tưởng của Chúa? Ai đã làm cố vấn cho Người? Ai đã cho Người trước, để Người phải trả lại sau? Vì muôn vật đều do Người mà có, nhờ Người mà tồn tại và quy hướng về Người. Xin tôn vinh Thiên Chúa đến muôn đời! A-men.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Lạy Chúa, vinh quang Chúa chiếu tỏa đến muôn đời.
+* Chúa đã cho chúng con biết chiều sâu của tình yêu Chúa.
+<strong>X</strong> Chúa xứng đáng muôn lời ngợi khen. *
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong> “Ngay trên thế gian này, ước gì con được tuôn chảy trong đại dương của thần tính Chúa!"
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>Lời cầu</strong>
+      Lạy Chúa, Chúa đã khiến cho tình yêu Chúa tỏ hiện trong đời sống của thánh nữ Lu-i-xa Ma-ri-ắc. Với lòng biết ơn, chúng con cầu xin Chúa:
+      <i>Lạy Chúa, xin dạy chúng con biết đường dẫn tới Chúa. </i>
+      Như thánh nữ Lu-i-xa đã khám phá Chúa nơi sâu thẳm nhất đêm tối của ngài, <i>- xin Chúa hãy để cho tất cả những ai tìm kiếm Chúa được thấy Chúa. </i>
+      Như thánh nữ Lu-i-xa đã biết đáp trả bằng tình yêu lời mời gọi bất chợt của Chúa, <i>- xin cho chúng con can đảm đi theo Chúa bằng đức tin. </i>
+      Như thánh nữ Lu-i-xa đã gặp được thánh nhan Chúa trên khuôn mặt người yếu đuối và kẻ bé nhỏ, <i>- xin Chúa hướng chúng con nhìn đến những người không ai nhìn nhận. </i>
+      Như thánh nữ Lu-i-xa đã kinh ngạc khi được lãnh nhận Chúa trong Phép Thánh Thể, <i>- xin Chúa làm cho những lần chúng con rước lễ khơi dậy nơi chúng con sức mạnh của tình yêu Chúa. </i>
+      Như thánh nữ Lu-i-xa đã chuẩn bị trong an bình để gặp Chúa, <i>- xin Chúa cho tất cả những người hấp hối không cảm thấy sợ hãi khi đi gặp Chúa. </i>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã cho thánh nữ Louise de Marillac nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ cách kính trọng và yêu thương.
+      <i>Chúng con cầu xin...</i>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
+
+        
+        `
 
 },
        officeOfReadings: {
