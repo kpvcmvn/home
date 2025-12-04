@@ -3723,6 +3723,41 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Như lửa ấm giữa giá lạnh mùa đông 
+Như sao sáng giữa đêm trường tăm tối 
+Chị là ai, hy vọng cho bao người 
+Giữa Ba-lê, chị bừng cháy yêu thương.
+
+Dẫu đường đi gặp nhiều nỗi gian truân 
+Hiến lễ dâng mãi mãi luôn vẹn toàn 
+Thánh Thần Chúa luôn hiện diện gần bên 
+In dấu đời cho muôn người tiến bước.
+
+Tình Giêsu thúc bách chị luôn mãi 
+Luôn đáp lời người bất hạnh kêu than 
+Quan tâm đến thế giới đang đau khổ 
+Cảm thông mọi khổ ải với lo âu.
+
+Đời nhân sinh, ôi cao cả biết bao 
+Giá trị lắm ý nghĩa của cuộc đời 
+Biết bao kẻ lang thang và cùng khốn 
+Chị đem lại hạnh phúc với an vui.
+
+Cảm thông với nỗi lòng người cô quạnh 
+Hiểu thấu luôn cơn giận kẻ hung hăng 
+Biết lắng nghe tiếng vọng của chiến tranh 
+Đem Thiên Đàng cho mọi người dương thế.
+
+Cùng xích lại người giàu, kẻ nghèo khó 
+Giang rộng tay vươn tới tận chân trời 
+Lời công bố: tình yêu luôn hiện diện 
+Đắp xây đời nền công lý vạn dân.
+
+Muôn hoa thắm đây nghĩa trang cổ kính 
+Vạn hương thơm kính viếng mộ tri ân 
+Rô-za-li nghỉ giữa Mông-bạc-nát 
+Hương thánh thiện lan tỏa đến muôn dân. 
+Ca vịnh theo ngày trong tuần.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 <strong>Lời Chúa</strong>
