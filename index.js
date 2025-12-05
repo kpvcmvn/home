@@ -6684,8 +6684,54 @@ Trích thư thánh Phaolô tông đồ gửi tín hữu Cô-rin-tô</strong>
 Chúa là Bánh Hằng Sống, Thiên Chúa đã ban cho chúng con.
 <strong>X</strong> Ai ăn thịt Ta và uống Máu Ta, thì ở trong Ta và Ta ở trong người ấy. *
 
+<strong>Thánh thi tạ ơn</strong>
+Lạy Thiên Chúa,
+Chúng con xin ca ngợi hát mừng, 
+Tuyên xưng Ngài là Đức Chúa.
+Chúa là Cha, Đấng trường tồn vạn đại, 
+hoàn vũ này kính cẩn suy tôn.
+
+Trước nhan Chúa, các tổng thần phủ phục,* 
+Mọi thiên thần và đạo binh Thiên quốc 
+Đều cảm tạ và cung chúc tôn thờ, 
+Chẳng khi ngừng vang dậy tiếng tung hô:
+
+Thánh ! Thánh! Chí thánh! 
+Chúa Tể càn khôn là Đấng Thánh .*
+Trời đất rạng ngời vinh quang Chúa uy linh.
+
+Bậc Tông Đồ đồng thanh ca ngợi Chúa, 
+Bao vị ngôn sứ tán tụng Ngài.
+
+Đoàn tử đạo quang huy hùng dũng 
+Máu đào đổ ra minh chứng về Ngài, 
+Và trải rộng khắp nơi trần thế, 
+Hội thánh Ngài hoan hỷ tuyên xưng:
+
+Chúa là Cha lẫm liệt oai hùng,
+Và Con Một Ngài chí tôn chí ái, 
+Cùng Thánh Thần, Đấng an ủi yêu thương.
+
+Lạy Đức Kitô, Con Chúa Trời hằng sống, 
+Ngài là Chúa hiển vinh.
+
+Đã chẳng nề mặc lấy xác phàm 
+Nơi cung lòng Trinh nữ 
+Hầu giải phóng nhân loại lầm than.
+Ngài đã ra tay chiến thắng tử thần, 
+Mở cửa trời cho những ai tin tưởng.
+
+Ngài hiển trị bên hữu Chúa Cha,
+Ngày cuối cùng sẽ giáng lâm thẩm phán.
+
+Cúi lạy Chúa, xin phù hộ bầy tôi
+Ngài cứu chuộc bằng bửu huyết tuôn tràn.
+
+Xin được hợp đoàn cùng muôn thần thánh, 
+Phúc miên trường vui hưởng ánh vinh quang.
+
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã cho thánh nữ Lu-i-xa Ma-ri-ắc nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ với lòng kính trọng và yêu thương.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -6719,7 +6765,7 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Lạy Chúa, Chúc tụng Chúa, Thiên Chúa nhân từ và yêu thương.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -6757,17 +6803,167 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Ai yêu mến thì sinh bởi Cha
+Ai biết mến yêu thì biết Người
+Ai sống trong tình yêu trao hiến 
+Họ sẽ được ở trong tình Cha.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Cao cả dường bao tình Chúa Cha 
+Cho ta được làm con của Người. 
+Khi Ki-tô xuất hiện tỏ tường 
+Ta trở nên giống Ngài mãi mãi.
 
-<strong>Lời Chúa</strong>
+Đức Giê-su hiến mạng vì ta 
+Ta cũng trao hiến vì anh em 
+Ai khép lòng trước nỗi cảm thông 
+Tình Chúa không ở lại trong họ.
+
+Ai yêu Chúa mà không yêu người 
+Ấy là kẻ nói dối nói gian 
+Ai không yêu anh em mình thấy 
+Không thể yêu Chúa, Đấng Vô Hình.
+
+Ai được làm con Cha Hằng Hữu 
+Họ được thanh sạch trước nhan 
+Người Đức Ki-tô luôn gìn giữ họ 
+Khỏi ác thần cảm bẫy tử vong.
+
+<strong>Ca vịnh</strong>
+Tv 62
+<strong>Khao khát Thiên Chúa </strong>
+<strong>ĐC</strong> Ôi Thiên Chúa, chính Chúa muốn hiệp thông sâu xa với chúng con.
+Lạy Thiên Chúa, Ngài là Chúa con thờ, 
+ngay từ rạng đông, con tìm kiếm Chúa.
+
+Linh hồn con đã khát khao Ngài, 
+tấm thân này mòn mỏi đợi trông, * 
+như mảnh đất hoang khô cằn, không giọt nước.
+
+Nên con đến ngắm nhìn Ngài trong nơi thánh điện, 
+để thấy uy lực và vinh quang của Ngài. * 
+Bởi ân tình Ngài quý hơn mạng sống, 
+miệng lưỡi này xin ca ngợi tán dương.
+
+Suốt cả đời con, nguyện dâng lời chúc tụng, 
+và giơ tay cầu khẩn danh Ngài. * 
+Lòng thỏa thuê như khách vừa dự tiệc, 
+môi miệng con rộn rã khúc hoan ca.
+
+Con tưởng nhớ Chúa trên giường ngủ, 
+suốt năm canh thầm thĩ với Ngài. * 
+Quả thật Ngài đã thương trợ giúp, 
+nương bóng Ngài, con hớn hở reo vui.
+
+Trót cả tâm tình, con cùng Ngài gắn bó,
+giơ tay quyền lực, Ngài che chở phù trì.
+
+Tc Đn 3
+<strong>Thánh thi ba trẻ nhỏ </strong>
+<strong>ĐC</strong> “Ôi tình yêu tuyệt vời,
+ôi bí mật được giấu kín. 
+Chúa đã muốn làm cho chúng con 
+hiểu được tình yêu cao cả của Chúa, 
+khi tạo dựng con người"
+
+Chúc tụng Chúa đi, mọi công trình của Chúa,
+muôn ngàn đời, hãy ca tụng suy tôn.*
+Chúc tụng Chúa đi, các thiên sứ của Người,
+Chúc tụng Chúa đi, chín tầng trời thăm thẳm,
+
+Chúc tụng Chúa đi, nguồn nước tận cao xanh,
+Chúc tụng Chúa đi, mọi cơ binh thượng giới,*
+Chúc tụng Chúa đi, mặt trời với mặt trăng,
+Chúc tụng Chúa đi, hỡi tinh tú trên trời,
+
+Chúc tụng Chúa đi, nào mưa sương tất cả,
+Chúc tụng Chúa đi, mọi luồng gió cơn dông,*
+Chúc tụng Chúa đi, sức nóng với lửa hồng,
+Chúc tụng Chúa đi, trời nồng và khí lạnh,
+
+Chúc tụng Chúa đi, nào sương đọng mưa tuôn,
+Chúc tụng Chúa đi, kìa thời đông tiết giá,*
+Chúc tụng Chúa đi, này băng phủ tuyết rơi,
+Chúc tụng Chúa đi, hỡi đêm ngày đắp đổi,
+
+Chúc tụng Chúa đi, ánh sáng và bóng tối,
+Chúc tụng Chúa đi, chớp giật với mây trôi,*
+Chúc tụng Chúa đi, tất cả mười phương đất,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Chúc tụng Chúa đi, này đồi xanh núi biếc,
+Chúc tụng Chúa đi, kìa hoa lá cỏ cây,*
+Chúc tụng Chúa đi, hỡi suối nước tràn đầy,
+Chúc tụng Chúa đi, nào sông sâu biển cả,
+
+Chúc tụng Chúa đi, kình ngư cùng thuỷ tộc,
+Chúc tụng Chúa đi, hết mọi loài chim chóc,*
+Chúc tụng Chúa đi, gia súc lẫn thú rừng,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Chúc tụng Chúa đi, hỡi phàm nhân dương thế,
+Chúc tụng Chúa đi, dòng dõi Ít-ra-en,*
+Chúc tụng Chúa đi, tư tế phụng thờ Chúa,
+Chúc tụng Chúa đi, tôi tớ phục vụ Người,
+
+Chúc tụng Chúa đi, hồn thiêng hàng công chính,
+Chúc tụng Chúa đi, người thánh kẻ khiêm nhường,*
+Chúc tụng Chúa đi, này Kha-na-ni-a,
+A-da-ri-a và Mi-sa-ên hỡi,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Nào chúc tụng Chúa Cha,
+Chúa Con và Chúa Thánh Thần,*
+muôn ngàn đơi, hãy ca tụng suy tôn.
+
+Lạy Chúa,
+Chúc tụng Chúa trên cõi trời cao thẳm, *
+muôn ngàn đời , xin ca tụng suy tôn.
+<i>(Chú ý: không đọc kinh "Vinh Danh" cuối thánh ca này.)</i>
+
+Tv 149
+<strong>Ngợi khen Chúa bằng những bài ca chiến thắng </strong>
+<strong>ĐC</strong> “Ôi lạy Chúa,
+không vui sướng nào hơn vui sướng
+yêu mến và ước ao được làm vui lòng Chúa”
+
+Hát lên mừng Chúa một bài ca mới,
+ngợi khen Người trong cộng đoàn những kẻ hiếu trung!
+ 
+Hỡi Ít-ra-en, nào hoan hỷ,
+vì có Chúa là Ðấng tạo thành ngươi. *
+Con cái Xi-on, hãy nhảy mừng,
+vì được Chúa làm Vua hiển trị.
+ 
+Mừng Thánh Danh, nào dâng điệu vũ,
+nhịp trống họa đàn theo khúc hoan ca. *
+Bởi vì Chúa mến chuộng Dân Người,
+ban cho kẻ nghèo hèn được vẻ vang chiến thắng.
+ 
+Kẻ hiếu trung hãy vui mừng rạng rỡ,
+nào phủ phục mà cất tiếng reo hò, *
+miệng vang lời tán dương Thiên Chúa,
+thanh gươm hai lưỡi, cầm chắc trong tay.
+ 
+Ðể trả thù muôn nước
+và trừng trị chư dân,
+để xiềng chân vua chúa
+và xích cổ vương hầu,
+ 
+để thi hành án phạt
+Chúa đã viết từ xưa.
+Ðó là niềm vinh dự
+cho mọi kẻ trung hiếu với Người.
+
+<strong>Lời Chúa</strong> 1 Ga 4,10-12
+      Tình yêu cốt ở điều này: không phải chúng ta đã yêu mến Thiên Chúa, nhưng chính Người đã yêu thương chúng ta, và sai Con của Người đến làm của lễ đền tội cho chúng ta. Anh em thân mến, nếu Thiên Chúa đã yêu thương chúng ta như thế, chúng ta cũng phải yêu thương nhau. Thiên Chúa chưa ai được chiêm ngưỡng bao giờ. Nếu chúng ta yêu thương nhau, thì Thiên Chúa ở lại trong chúng ta, và tình yêu của Người nơi chúng ta mới nên hoàn hảo.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Ai ở trong Tình yêu
+* * thì ở trong Thiên Chúa và Thiên Chúa ở trong người ấy.
+<strong>X</strong> Không có gì dịu dàng hơn khi gắn bó với các điều răn của Chúa. *
+
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Sức mạnh của Tình yêu, kho tàng cao quí được giấu kín nơi sâu thẳm nhất của tâm hồn”.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -6807,9 +7003,17 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Chúa đã đổ tràn đầy hồng ân Chúa trên thánh nữ Lu-i-xa Ma-ri-ắc và ban cho thánh nữ đầy lòng nhiệt thành phục vụ Chúa, Chúng ta hãy cầu xin Chúa lôi kéo chúng ta bước theo thánh nữ.
+      <i>Xin soi sáng con, xin cứu thoát con, lạy Thiên Chúa Đấng Cứu độ con! </i>
+      Lạy Chúa Giêsu, Đấng tôn thờ Chúa Cha, <i>- xin khơi dậy nơi chúng con nhu cầu tìm gặp Chúa. </i>
+      Lạy Chúa Giêsu, Đấng rao giảng Tin Mừng cho người nghèo, <i>- xin mở lòng chúng con biết yêu thương, cảm thông và kính trọng sâu xa anh chị em chúng con. </i>
+      Lạy Chúa Giêsu, Vị thừa sai của Chúa Cha, <i>- xin giúp chúng con phân định các ưu tiên khi phục vụ người nghèo. </i>
+      Lạy Chúa Giêsu, người tôi tớ thi hành ý định Yêu thương của Chúa Cha, <i>- xin cho chúng con biết xây dựng những cộng đoàn huynh đệ được đặt nền trên đức tin và được Tình Yêu đổi mới. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Chúa đã cho thánh nữ Lu-i-xa Ma-ri-ắc nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ với lòng kính trọng và yêu thương.
+      <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -6895,14 +7099,95 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Ca vịnh</strong>
+Tv 119
+<strong>Than phiền chống miệng lưỡi điêu ngoa </strong>
+<strong>ĐC</strong> Lạy Thiên Chúa của con, xin kết hiệp ý con theo thánh ý Chúa.
+
+Lúc ngặt nghèo, tôi kêu lên cùng Chúa,
+Chúa đã thương đáp lời. *
+Lạy Chúa, xin Ngài cứu mạng con
+khỏi môi miệng điêu ngoa, tấc lưỡi phỉnh phờ.
+ 
+Lưỡi phỉnh phờ kia hỡi,
+Chúa sẽ giáng gì xuống ngươi đây,
+và còn thêm chi nữa? *
+Giáng toàn mũi tên nhọn của người chiến binh,
+thêm những hòn than đước đỏ hồng!
+ 
+Thật bất hạnh cho tôi
+phải trú ngụ trong miền rợ Me-séc,
+phải sống cùng dân du mục Kê-đa.
+ 
+Tấm thân này trải bao năm tháng
+sống cùng những kẻ ghét hoà bình. *
+Tôi vốn chuộng hoà bình,
+nhưng hễ tôi nói tới
+thì phe họ lại muốn chiến tranh.
+
+Tv 120
+<strong>Chúa là Đấng bảo vệ các tín hữu </strong>
+<strong>ĐC</strong> Lạy Thiên Chúa của con, con muốn được ở trước Nhan thánh Ngài.
+
+Tôi ngước mắt nhìn lên rặng núi 
+Ơn phù hộ tôi đến từ nơi nao? * 
+Ơn phù hộ tôi đến từ Đức Chúa 
+Là Đấng dựng nên cả đất trời.
+
+Xin Đấng gìn giữ bạn
+Đừng để bạn lỡ chân trật bước, 
+Xin người chớ ngủ quên.*
+Đấng gìn giữ Ít-ra-en,
+Lẽ nào chợp mắt ngủ quên cho đành!
+
+Chính Chúa là đấng canh giữ bạn, 
+Chính Chúa là Đấng vẫn chở che, 
+Người luôn luôn ở gần kề.
+
+Ngày sáu khắc, vầng ô không tác họa, 
+Đêm năm canh, vành nguyệt chẳng hại chi.
+
+Chúa giữ gìn bạn khỏi mọi điều bất hạnh, 
+Giữ gìn cho sinh mệnh an toàn.* 
+Chúa giữ gìn bạn lúc ra vào lui tới, 
+Từ giờ đây cho tới mãi muôn đời.
+
+Tv 124
+<strong>Chúa ngự đến giúp dân Ngài chống kẻ thù.</strong>
+<strong>ĐC</strong> Lạy Chúa, xin ngự đến chiếm ngự trọn vẹn trái tim con.
+
+Ai tin tưởng vào Chúa, 
+Khác nào núi Xion 
+Chẳng bao giờ lay chuyển 
+Muôn thuở vẫn trường tồn.
+
+Như núi đồi bao bọc 
+Thành Giêrusalem,
+Chúa bao bọc dân Người
+Bây giờ và mãi mãi.
+
+Chúa sẽ không cho vương trượng ác nhân 
+Đè nặng trên phần đất người lành, 
+Kẻo người lành tra tay làm điều ác.
+
+Lạy Chúa, xin đối xử nhân hậu với người nhân hậu 
+Và những ai lòng dạ thẳng ngay.
+
+Nhưng kẻ ngả theo đường tà vạy, 
+Xin Chúa đuổi đi cùng bọn làm điều ác.* 
+Nguyện chúc Ít-ra-en được thái bình.
+
+<strong>Lời Chúa</strong> Gc 2,5,12-13
+      Anh em thân mến của tôi, anh em hãy nghe đây: nào Thiên Chúa đã chẳng chọn những kẻ nghèo khó trước mặt người đời, để họ trở nên giàu đức tin và thừa hưởng vương quốc Người đã hứa cho những ai yêu mến Người hay sao? Anh em hãy nói năng và hành động như những người sẽ bị xét xử theo luật tự do. Vì Thiên Chúa không thương xót khi xét xử kẻ không biết thương xót. Còn ai thương xót, thì chẳng quan tâm đến việc xét xử.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Phúc cho ai có lòng thương xót.
+<strong>Đ</strong> Họ biết thương giúp người nghèo và tin tưởng vào Chúa.
 
 <strong>Lời nguyện</strong>
-
+      Chúa đã cho thánh nữ Lu-i-xa Ma-ri-ắc nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ với lòng kính trọng và yêu thương.
+      <i>Chúng con cầu xin...</i>
+      
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
