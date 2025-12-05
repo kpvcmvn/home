@@ -6537,27 +6537,152 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Lạy Giêsu, chúng con tìm kiếm Chúa 
+Chúng con chờ mong, khao khát nhan Người 
+Được chiêm ngưỡng Chúa ngày dài đêm thâu 
+Lòng con no thỏa phúc ân nhiệm mầu.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Như nguồn nước reo vui tuôn dào dạt 
+Những lời ca chiếm trọn cả đêm trường 
+Thánh Danh Người: Thiên Chúa là Tình Yêu 
+Từ nguyên thủy Cha hằng thương yêu Con.
+
+Trong âm thầm Hạt Giống đã hiến trao 
+Thánh Thể Chúa, loài người khôn diễn tả 
+Này bánh rượu biến thành Mình Máu Chúa 
+Làm thần lương nuôi sống toàn thế nhân.
+
+Trong hân hoan Người đưa dẫn chúng ta
+Đến Bê-lem trong âm thầm lặng lẽ 
+Nơi mộ trống rực rỡ ánh Phục sinh 
+Nào ta tung hô Thiên Chúa sự sống.
+
+<strong>Ca vịnh</strong>
+Tv 18A
+<strong>Ca khen Thiên Chúa tạo dựng</strong>
+<strong>I</strong>
+<strong>ĐC</strong> “Lời Ngài như lửa thiêu"
+
+Trời xanh tường thuật vinh quang 
+Thiên Chúa, Không trung loan báo việc tay Người làm.* 
+Ngày qua mách bảo cho ngày tới, 
+Đêm này kể lại với đem kia.
+
+Chẳng một lời một lẽ, 
+Chẳng nghe thấy âm thanh, * 
+Mà tiếng vang đã dội khắp hoàn cầu 
+Và thông điệp loan đi tới chân trời góc biển.
+
+Chúa căng lều cho thái dương tại đó, * 
+Thái dương xuất hiện như tân lang rời khỏi loan phòng, 
+Và vui sướng lên đường như tráng sĩ.
+
+Từ chân trời này, thái dương xuất hiện, 
+Rồi chuyển vẫn mãi đến chân trời kia,* 
+Chẳng có chỉ tránh khỏi ánh dương nồng.
+
+Tv 44
+<strong>Hôn lễ Quân Vương</strong>
+<strong>ĐC</strong> “Lạy Chúa là Thiên Chúa của con, con mong mỏi Chúa hết cả tâm hồn"
+
+Lòng trào dâng những lời cẩm tú, 
+Miệng ngâm thơ mừng chúc thánh quân,* 
+Lưỡi tôi ví tựa tay người phóng bút.
+
+Giữa thế nhân, Ngài vô song tuyệt mỹ, 
+Nét duyên tươi thắm nở môi Ngài, * 
+Nên Ngài được Thiên Chúa ban phúc lành mãi mãi.
+
+Bảo kiếm hãy đeo lưng, này kiện tướng,* 
+Lẫm liệt oai hùng, hãy phóng ngựa tiến lên 
+Bênh sự thật lòng nhân và công lý.
+
+Tay hữu Ngài rắc gieo kinh hãi, 
+Tên nhọn vừa buông, dân gục ngã dưới chân Ngài, * 
+Địch thủ vương triều bị bắn trúng tim.
+
+Ngôi báu Thiên Chúa tặng ban cho Ngài 
+Sẽ trường tồn vạn kỷ, 
+Vương trượng Ngài, vương trượng công minh; * 
+Ngài ưa điều chính trực, ghét điều gian ác.
+
+Chính vì vậy, Thiên Chúa là Thiên Chúa của 
+Ngài Đã tôn phong Ngài vượt trổi các đồng liêu 
+Mà xức cho dầu thơm hoan lạc.
+
+Quế trầm mộc dược, hương tỏa long bào,
+Nhã nhạc điện ngà khiến Ngài vui thỏa.
+
+Hàng cung nữ có những vì công chúa,* 
+Bên hữu Ngài, hoàng hậu sánh vai, 
+Trang điểm vàng Ô-phia lộng lẫy.
+
+<strong>II</strong>
+<strong>ĐC</strong> “Ôi lạy Chúa, Ngài biết con, tình thương Ngài dẫn dắt con"
+
+Tôn nương hơi, xin hãy nghe nào, 
+Đưa mắt nhìn và hãy lắng tai,* 
+Quên dân tộc, quên đi nhà thân phụ.
+
+Sắc nước hương trời, Quân vương sủng ái,
+ Hãy vào phục lạy: Người là Chúa của bà,* 
+Thiếu nữ thành Tia mang lễ tới, 
+Phú hào trong xứ đến cầu ân.
+
+Đẹp lộng lẫy, này đây công chúa, 
+Mặc xiêm y dệt gấm thêu vàng,* 
+Phục sức huy hoàng, được dẫn tới Quân Vương, 
+Cùng các trinh nữ theo sau hầu cận.
+
+Lòng hoan hỷ, đoàn người tiến bước, 
+Vẻ tưng bừng, vào tận hoàng cung.
+
+Con cái Ngài sẽ nối dòng tiên đế, 
+Ngài phong làm vương bá khắp trần gian.
+
+Danh thơm Ngài, thần xin truyền tụng 
+Thế hệ này tới thế hệ kia,*
+Vì thế, dân dân sẽ nức lòng ca ngợi,
+Tiếng ngợi ca bất tận muôn đời.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn, là Đấng cứu chuộc con.
+<strong>Đ</strong> tiếng lòng con thầm thĩ, mong được thấu đến Ngài.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1 Cr 13,1-13
+<strong> Tình yêu sẽ không bao giờ qua đi
+Trích thư thánh Phaolô tông đồ gửi tín hữu Cô-rin-tô</strong>
+      Giả như tôi có nói được các thứ tiếng của loài người và của các thiên thần đi nữa, mà không có đức mến, thì tôi cũng chẳng khác gì thanh la phèng phèng, chũm chọe xoang xoảng. Giả như tôi được ơn nói tiên tri, và được biết hết mọi điều bí nhiệm, mọi lẽ cao siêu, hay có được tất cả đức tin đến chuyển núi dời non, mà không có đức mến, thì tôi cũng chẳng là gì. Giả như tôi có đem hết gia tài cơ nghiệp mà bố thí, mà không có đức mến, thì cũng chẳng ích gì cho tôi. Đức mến thì nhẫn nhục, hiền hậu, không ghen tuông, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả. Đức mến không bao giờ mất được. Ơn nói tiên tri ư? Cũng chỉ nhất thời.
+      Nói các tiếng lạ chăng? Có ngày sẽ hết. Ơn hiểu biết ư? Rồi cũng chẳng còn. Vì chưng sự hiểu biết thì có ngần, ơn tiên tri cũng có hạn. Khi cái hoàn hảo tới, thì cái có ngần có hạn sẽ biến đi. Cũng như khi tôi còn là trẻ con, tôi nói năng như trẻ con, hiểu biết như trẻ con, suy nghĩ như trẻ con; nhưng khi tôi đã thành người lớn, thì tôi bỏ tất cả những gì là trẻ con. Bây giờ chúng ta thấy lờ mờ như trong một tấm gương, mai sau sẽ được mặt giáp mặt. Bây giờ tôi biết chỉ có ngần có hạn, mai sau tôi sẽ được biết hết, như Thiên Chúa biết tôi. Hiện nay đức tin, đức cậy, đức mến, cả ba đều tồn tại, nhưng cao trọng hơn cả là đức mến.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Mọi giới luật nên trọn vẹn trong lời duy nhất này: Ngươi hãy yêu tha nhân như chính mình ngươi
+* Chúng ta hãy sống yêu thương phục vụ lẫn nhau.
+<strong>X</strong> Ta ban cho các con một điều răn mới, là các con hãy yêu thương yêu nhau như Thầy đã yêu thương các con. *
 
-<strong>Bài đọc 2</strong>
-<strong> </strong>
+<strong>Bài đọc 2</strong> <i>(Chọn một trong hai)</i>
+<strong>I</strong>
+      Lạy Đức Thánh Trinh Nữ, con thuộc về Mẹ, để được hoàn toàn thuộc về Chúa. Con thuộc về Mẹ, xin dạy con bắt chước đời sống thánh thiện của Mẹ, thực hành những gì Chúa đòi nơi con.
+      Con thành tâm kêu xin Mẹ giúp đỡ; Mẹ biết con yếu đuối, Mẹ nhìn thấu tâm can con. Xin Mẹ hãy làm những gì con thiếu sót vì yếu đuối hay vì chểnh mảng bằng lời chuyển cầu của Mẹ.
+      Vì chính từ Con yêu quí của Mẹ, Đấng Cứu Độ chúng con, Mẹ đã nhận được những nhân đức anh hùng mà Mẹ đã thực thi trên trần gian, xin kết hiệp tinh thần những việc làm của con với sự hiện diện thánh thiện của Chúa vì vinh quang Tình yêu của Chúa.
+      Ước gì mọi thụ tạo tôn vinh những uy thế của Mẹ, yêu mến Mẹ hơn mọi thụ tạo, nhìn nhận Mẹ là phương thế bảo đảm đi về Chúa; chớ gì mọi thụ tạo tôn vinh Mẹ, vinh hiển xứng với Mẹ là ái nữ của Chúa Cha, là Mẹ của Chúa Con và hiền thê của Chúa Thánh Thần.
      
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Mẹ đứng trên cao, Mẹ đứng gần thập giá.
+* Lạy Đức Trinh Nữ Maria, Mẹ là Vinh quang của toàn dân.
+<strong>X</strong> “Mẹ đẹp lòng Thiên Chúa”, nhờ Chúa, Danh Mẹ sẽ truyền từ đời nọ đến đời kia. *
+
+<strong>II</strong>
+<strong>Thánh Thể, một phát minh đáng chiêm ngắm - Trích Louise de Marillac, Ecrits spirituels, trang 811</strong>
+      Chúng ta phải thử nhìn, trong chính Chúa, lý do nào của việc làm này rất đáng chiêm ngắm và không thể hiểu được theo sự hiểu biết của loài người. Và, không thể nhận ra lý do nào khác ngoài lý do là vì tình yêu của Chúa mà thôi, nên chúng ta phải tôn vinh danh dự của Chúa bằng những hành vi chiêm ngắm, thờ lạy, và tình yêu đối với Thánh Thể, một phát minh đáng chiêm ngắm này. Khi thì chúng ta thưa với Chúa có phải Chúa làm người chưa đủ để chiếm trọn con tim của chúng ta! Khi thì chúng ta hỏi Chúa có điều gì nơi chúng ta mà Chúa muốn mua chuộc với giá quá đắt như vậy mà dâng lên Chúa Cha.
+      Việc nhận biết sự uy nghiêm của bí tích cực thánh này phải làm nảy sinh ra sự nhận biết rằng chúng ta không thể có khả năng chuẩn bị rước Chúa. Và vì lý do này, chúng ta hãy ước ao và cầu xin với TÌNH YÊU, Đấng đã phát minh sáng kiến này, là Chúa Thánh Thần; xin Ngài ngự đến trong tim chúng ta và xin chính Ngài là sự trang hoàng con tim ta, đồng thời đặt để nơi tim ta mọi khả năng cần thiết để tôn vinh sự hiện diện của một VỊ CHÚA TỂ như vậy. Hãy tiếp nhận bí tích rất tôn nghiêm này, như đón tiếp Chúa chúng ta, Vua và Hôn Phu chúng ta. Hãy dâng lên Chúa những hành vi tôn thờ, tùy thuộc, tin tưởng và phó thác hoàn toàn mọi sự, toàn con người ta. Hãy xin Chúa chiếm ngự, kết liên với ta như hôn phu hoàn toàn theo thánh ý Ngài. Chúng ta hãy có những hành vi yêu mến, chú ý những đề tài mà ta phải để tâm, đặc biệt đề tài về sự hiện diện thực sự của Chúa trong tim ta. Hãy chú tâm những việc Chúa tác động nơi chúng ta, dù chúng ta không nhìn thấy.
+      Sau khi rước Chúa, hãy chú ý sự hiện diện của Chúa, tạ ơn Chúa cách chung, những lần khác, hãy có những hành vi Tạ ơn riêng đối với từng Ngôi Vị Thiên Chúa theo phẩm tính các Ngôi. Hãy mừng vui lên khi chiêm ngắm phát minh đáng suy ngắm này và một sự kết hiệp yêu thương. Nhờ đó, Thiên Chúa, hiện thân nơi ta, lại làm ta nên giống Ngài nhờ sự hiệp thông, không những nhờ ân sủng, mà còn nhờ Chính Ngài. Ngài cho chúng ta hưởng dùng cách rất hiệu lực công nghiệp cuộc sống và cái chết của Ngài, đến độ, Ngài cho chúng ta khả năng sống trong Ngài, khi có Ngài sống trong ta.
+      Linh hồn có thể chuyên lo việc tập luyện này cách hết sức đơn sơ, khi tạ ơn trong mọi hoàn cảnh của đời mình, khi dâng lên Chúa tất cả Vinh quang của chính Chúa mà Ngài đã nhận từ thuở đời đời, khi dâng lên Chúa Vinh Quang mà nhân tính thánh thiện của Con Chúa sẽ dâng đời đời, và Vinh Quang mà Chúa sẽ nhận mãi mãi từ các phúc nhân. Chúng ta hãy làm việc ấy trong tâm tình tạ ơn về một sự thiện hảo như thế, nhận được do lòng nhân từ quá hào phóng đối với chúng ta.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Ta sống nhờ Cha, và ai ăn Ta sẽ sống nhờ Ta.
+* Lạy Chúa Giêsu!
+Chúa là Bánh Hằng Sống, Thiên Chúa đã ban cho chúng con.
+<strong>X</strong> Ai ăn thịt Ta và uống Máu Ta, thì ở trong Ta và Ta ở trong người ấy. *
 
 <strong>Lời nguyện</strong>
       
