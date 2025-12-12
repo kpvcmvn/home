@@ -3987,15 +3987,21 @@ Lạy Chúa Tể càn khôn,
 Phúc thay người tin tưởng vào Chúa!
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Chúa dẫn dắt người lành trên đường ngay nẻo chính,
+<strong>Đ</strong> và cho họ được thấy Nước Trời.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1Cr 1,17-2,5
+<strong>Tôi chẳng muốn biết gì khác hơn là Đức Giêsu Kitô
+Trích thư thứ nhất của thánh Phaolô gửi tín hữu Cô-rin-tô </strong>
+Quả vậy, Đức Kitô đã chẳng sai tôi đi làm phép rửa, nhưng sai tôi đi rao giảng Tin Mừng, và rao giảng không phải bằng lời lẽ khôn khéo, để Thập giá Đức Kitô khỏi trở nên vô hiệu. Thật thế, lời rao giảng về thập giá là một sự điên rồ đối với những kẻ đang trên đà hư mất, nhưng đối với chúng ta là những người được cứu độ, thì đó lại là sức mạnh của Thiên Chúa. Vì có lời chép rằng: Ta sẽ hủy diệt sự khôn ngoan của người khôn ngoan, và sẽ vứt bỏ sự thông thái của người thông thái. Người khôn ngoan đâu? Người học thức đâu? Thiên Chúa lại đã không để cho sự khôn ngoan của thế gian ra điên rồ đó sao? Thật vậy, thế gian đã không dùng sự khôn ngoan mà nhận biết Thiên Chúa ở những nơi Thiên Chúa biểu lộ sự khôn ngoan của Người. Cho nên Thiên Chúa đã muốn dùng lời rao giảng điên rồ để cứu những người tin. Trong khi người Do Thái đòi hỏi những điểm thiêng dấu lạ, còn người Hy lạp tìm kiếm lẽ khôn ngoan, thì chúng tôi rao giảng một Đấng Kitô chịu đóng đinh, điều mà người Do thái cho là ô nhục không thể chấp nhận, và dân ngoại cho là điên rồ. Nhưng đối với những ai được Thiên Chúa kêu gọi, dù là Do thái hay Hy lạp, Đấng ấy chính là Đức Kitô, sức mạnh và sự khôn ngoan của Thiên Chúa. Vì cái điên rồ của Thiên Chúa còn hơn cái khôn ngoan của loài người, và cái yếu đuối của Thiên Chúa còn hơn cái mạnh mẽ của loài người.
+Thưa anh em, anh em thử nghĩ lại xem: khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy kẻ khôn ngoan trước mặt người đời, đâu có mấy người quyền thế, mấy người quý phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém, thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan phát xuất từ Thiên Chúa: Đấng đã làm cho anh em trở nên công chính, đã thánh hóa và cứu chuộc anh em, hợp như lời đã chép rằng: Ai tự hào thì hãy tự hào trong Chúa.
+Thưa anh em, khi tôi đến với anh em, tôi không dùng lời lẽ hùng hồn hoặc triết lý cao siêu mà loan báo mẫu nhiệm của Thiên Chúa. Vì hồi còn ở giữa anh em, tôi đã không muốn biết đến chuyện gì khác ngoài Đức Giêsu Kitô chịu đóng đinh vào thập giá. Vì thế, khi đến với anh em, tôi thấy mình yếu kém, sợ sệt và run rẩy. Tôi nói, tôi giảng mà chẳng có dùng lời lẽ khôn ngoan hấp dẫn, nhưng chỉ dựa vào bằng chứng xác thực của Thần Khí và quyền năng Thiên Chúa. Có vậy, Đức tin của anh em mới không dựa vào lẽ khôn ngoan người phàm, nhưng dựa vào quyền năng Thiên Chúa.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Các sứ giả Tin Mừng, 
+Các ngài loan báo An Bình đến tận cùng trái đất.
+* Lạ lùng thay ân phúc Chúa!
+Chúa giao phó cho con người những bí nhiệm của Chúa Cha.
+<strong>X</strong> Hạnh phúc thay dân tộc được Chúa chọn, làm gia nghiệp riêng mình.*
 
 <strong>Bài đọc 2</strong>
 <strong>Khí cụ của lòng Bác Ái bao la và từ phụ của Thiên Chúa
