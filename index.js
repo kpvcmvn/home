@@ -85,8 +85,8 @@ en:
 `,
 
 },
-      massReadings: {
-        vi: `
+massReadings: {
+vi: `
 
 <strong>Ca nhập lễ (Gr 17, 7 - 8)</strong>
 Phúc thay kẻ đặt niềm tin vào Đức Chúa, và có Đức Chúa làm chỗ nương thân. Người ấy như cây trồng bên dòng nước, và không ngừng trổ sinh hoa trái.
@@ -157,6 +157,7 @@ nhưng sẽ nhận được ánh sáng đem lại sự sống”.
 <strong>Lời nguyện hiệp lễ</strong>
 Lạy Thiên Chúa toàn năng, xin cho Bí tích Thánh Thể này trợ giúp chúng con, để theo gương thánh nữ Ê-li-za-bét An-na, tâm hồn và cả đời sống chúng con biểu lộ tình bác ái huynh đệ và làm tỏa rạng chân lý.
 Chúng con cầu xin...
+
 `,
        
 en: `
@@ -1117,7 +1118,9 @@ Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh và Điệp ca</strong> theo ngày trong tuần.
 <strong>Lời Chúa</strong> 2 Cr 9, 7-9
-<strong>Xướng đáp</strong>
+      Mỗi người hãy cho tùy theo quyết định của lòng mình, không buồn phiền, cũng không miễn cưỡng, vì ai vui vẻ dâng hiến, thì được Thiên Chúa yêu thương. Vả lại, Thiên Chúa có đủ quyền tuôn đổ xuống trên anh em mọi thứ ân huệ, để anh em vừa được luôn đầy đủ mọi mặt, vừa được dư thừa mà làm mọi việc thiện, theo như lời đã chép: “kẻ túng nghèo, Người rộng tay làm phúc; đức công chính của Người tồn tại muôn đời".
+
+      <strong>Xướng đáp</strong>
 <strong>X</strong> Hãy phục vụ Chúa Kitô
 <strong>Đ</strong> Bạn sẽ được phần thưởng trong gia nghiệp của Người.
 
@@ -1230,12 +1233,12 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
-Nhân ngày lễ kính chân phước Lin-dan-ba, chúng ta hãy cầu xin Đức Giêsu, vị chứng nhân trung thành, chính Ngài đã ban cho chúng ta chứng từ cao đẹp nhất.
-<i>Chúa đã chiến thắng sự chết, xin nghe lời chúng con.</i>
-Lạy Chúa, Chúa đã phái Thần Khí xuống trên chân phước Lin-đan-ba, <i>- xin soi sáng cho những người đang phải giãi bày đức tin.</i>
-Lạy Chúa, Chúa đã phái Thần Khí sức mạnh xuống trên chân phước Lin-dan-ba, <i>- xin ban sức mạnh cho những ai đang phải chiến đấu vì đức tin.</i>
-Lạy Chúa, Chúa đã phái Thần Khí bác ái xuống trên chân phước Lin-đan-ba, <i>- xin đỡ nâng những ai đang phải đau khổ vì Chúa.</i>
-Lạy Chúa, Chúa đã phái Thần Khí nhiệt thành xuống trên chân phước Lin-đan-ba, <i>- xin động viên những ai đang loan báo Tin Mừng Nước Chúa.</i>
+      Nhân ngày lễ kính chân phước Lin-dan-ba, chúng ta hãy cầu xin Đức Giêsu, vị chứng nhân trung thành, chính Ngài đã ban cho chúng ta chứng từ cao đẹp nhất.
+      <i>Chúa đã chiến thắng sự chết, xin nghe lời chúng con.</i>
+      Lạy Chúa, Chúa đã phái Thần Khí xuống trên chân phước Lin-đan-ba, <i>- xin soi sáng cho những người đang phải giãi bày đức tin.</i>
+      Lạy Chúa, Chúa đã phái Thần Khí sức mạnh xuống trên chân phước Lin-dan-ba, <i>- xin ban sức mạnh cho những ai đang phải chiến đấu vì đức tin.</i>
+      Lạy Chúa, Chúa đã phái Thần Khí bác ái xuống trên chân phước Lin-đan-ba, <i>- xin đỡ nâng những ai đang phải đau khổ vì Chúa.</i>
+      Lạy Chúa, Chúa đã phái Thần Khí nhiệt thành xuống trên chân phước Lin-đan-ba, <i>- xin động viên những ai đang loan báo Tin Mừng Nước Chúa.</i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
@@ -1470,20 +1473,166 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Cuộc thương khó của hai thủ lãnh
+Ðã làm nên ngày thánh huy hoàng,
+Phê-rô thắng trận vẻ vang,
+Phao-lô chỉ cách bạn vàng ít lâu.
+ 
+Cùng dòng máu anh hào tử tiết
+Kết giao thành bạn thiết nghìn thu,
+Niềm tin vào Ðức Ki-tô
+Kiện toàn cuộc sống phượng thờ Chúa Cha.
+ 
+Phê-rô thật chính là anh cả,
+Nhưng Phao-lô cũng chả thua chi,
+Bình vàng Chúa chọn ai bì,
+Niềm tin son sắt kém gì hiền huynh.
+ 
+Cây giá ngược chẳng kinh chẳng sợ,
+Si-mon làm rạng rỡ Thánh Danh,
+Nhớ câu Thầy nhắn nhủ mình,
+Thân treo thập giá đóng đinh như Thầy.
+ 
+Lòng sùng bái từ đây vươn mạnh,
+Cả Rô-ma thành kính dâng lên,
+Máu ai thắm đỏ tinh tuyền,
+Máu Phê-rô đã thấm nền thánh đô.
+ 
+Ai ngờ thiên hạ nô nức tới
+Người bốn phương trẩy hội nơi này
+Kinh thành vạn quốc là đây,
+Ngai tòa của Ðấng làm thầy muôn dân.
+ 
+Nguyện xin Chúa khoan nhân từ ái
+Khấng nghe lời con cái nài van,
+Ban cho hưởng phúc thiên đàng
+Cùng hai thánh cả hát vang muôn đời.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Ca vịnh</strong>
+<strong>Tv 18A (19)
+Ca tụng Chúa tạo thành
+</strong>
+<i>Thiên Chúa khiến Vầng Đông tự chốn cao vời toả xuống hào quang sáng chói, dẫn ta bước vào đường nẻo bình an (Lc 1,78-79).</i>
+<strong>ĐC</strong> Này anh Si-mon Phê-rô, anh có yêu mến Thầy, 
+thì hãy chăn dắt đoàn chiên của Thầy.
+
+Trời xanh tường thuật vinh quang Thiên Chúa,
+không trung loan báo việc tay Người làm. *
+Ngày qua mách bảo cho ngày tới,
+đêm này kể lại với đêm kia.
+ 
+Chẳng một lời một lẽ,
+chẳng nghe thấy âm thanh, *
+mà tiếng vang đã dội khắp hoàn cầu
+và thông điệp loan đi tới chân trời góc biển.
+ 
+Chúa căng lều cho thái dương tại đó, *
+thái dương xuất hiện như tân lang rời khỏi loan phòng,
+và vui sướng lên đường như tráng sĩ.
+ 
+Từ chân trời này, thái dương xuất hiện,
+rồi chuyển vần mãi đến chân trời kia, *
+chẳng có chi tránh khỏi ánh dương nồng.
+
+<strong>Tv 63 (64) </strong>
+<strong>Cầu xin Chúa giúp đối phó với kẻ thù</strong>
+<i>Thánh vịnh này đặc biệt nói về Chúa Ki-tô chịu thương khó (thánh Âu-tinh). </i>
+<strong>ÐC</strong> Ðối với tôi, sống là Ðức Ki-tô,
+chết là một mối lợi;
+và niềm vinh dự của tôi,
+chính là thập giá Ðức Ki-tô, Chúa chúng ta.
+ 
+Lạy Chúa Trời, xin nghe tiếng thở than,
+gìn giữ mạng con khỏi quân thù khủng bố. *
+Này kẻ ác mưu đồ, chúng ồn ào tác hại,
+xin giấu kỹ con đi.
+ 
+Chúng mài lưỡi như mài gươm sắc,
+lời thâm độc tựa tên lắp vào cung, *
+bắn trộm người vô tội,
+bắn thình lình mà chẳng sợ chi.
+ 
+Chúng quyết tâm làm điều độc dữ,
+bàn luận xem gài bẫy thế nào, *
+rồi nhỏ to: "Ai mà thấy được?"
+ 
+Bày kế lập mưu làm điều ác,
+chúng hoàn thành kế hoạch đã mưu toan: *
+Thâm hiểm biết bao, lòng dạ người đời!
+ 
+Nhưng Thiên Chúa lại bắn tên vào chúng,
+thình lình chúng đã bị trúng thương. *
+Tấc lưỡi mình hại mình là thế!
+Thiên hạ xem, ai cũng lắc đầu.
+ 
+Hết thảy mọi người đều kính sợ, *
+họ sẽ loan truyền hành động của Thiên Chúa
+và hiểu ngay những việc Người làm.
+ 
+Người công chính sẽ vui mừng trong Chúa
+và ẩn náu bên Người. *
+Mọi tấm lòng chính trực
+đều lấy thế làm vinh.
+ 
+<strong>Tv 96 (97)</strong>
+<strong>Chúa vinh quang khi xét xử</strong>
+<i>Thánh vịnh này có ý nói về việc Chúa cứu độ thế gian và muôn dân tin vào Người (thánh A-tha-na-xi-ô). </i>
+<strong>ÐC</strong> Lạy Chúa, nếu quả thật là Ngài,
+thì xin truyền cho con đi trên mặt nước mà đến với Ngài.
+ 
+Chúa là Vua hiển trị,
+hỡi địa cầu, hãy nhảy mừng lên, *
+vui đi nào, ngàn muôn hải đảo!
+ 
+Mây u ám bao phủ quanh Người,
+bệ ngai rồng là công minh chính trực. *
+Ngọn lửa hồng mở lối tiên phong,
+đốt tiêu tan địch thù tứ phía.
+ 
+Ánh chớp của Người soi sáng thế gian,
+địa cầu trông thấy mà run sợ; *
+núi tan chảy như sáp,
+khi diện kiến Thánh Nhan
+Vị Chúa Tể hoàn cầu.
+ 
+Trời xanh tuyên bố Người là Ðấng Chính Trực,
+hết mọi dân được thấy vinh quang Người.
+ 
+Nhục nhã thay ai thờ ngẫu tượng,
+huênh hoang vì những vật hư vô này. *
+Chư thần chư thánh, phục bái Chúa đi!
+ 
+Ðược biết thế, Xi-on tưng bừng hoan hỷ; *
+thành thị miền Giu-đa hớn hở nhảy mừng
+vì những phán quyết của Ngài, lạy Chúa,
+ 
+chính bởi vì Ngài, muôn lạy Chúa
+là Ðấng cao cả trên khắp địa cầu, *
+Ngài trổi vượt chư thần hết thảy.
+ 
+Kẻ yêu Chúa, hãy ghét điều gian ác, *
+Người giữ gìn tính mạng kẻ hiếu trung,
+giải thoát họ khỏi tay phường độc dữ.
+ 
+Ánh sáng bừng lên chiếu rọi người công chính,
+niềm vui làm rạng rỡ kẻ lòng ngay. *
+Trước nhan thánh Chúa, người công chính hãy vui mừng,
+tưởng nhớ Thánh Danh mà dâng lời cảm tạ.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Lời Chúa vẫn tồn tại đến muôn đời muôn thuở.
+<strong>Đ</strong> Ðó chính là lời mà Tin Mừng đem lại cho anh em.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Gl 1,15- 2;10
+<strong>Lời Chúa trong thư của thánh Phao-lô Tông Đồ gởi tín hữu Ga-lát. </strong>
+      Thiên Chúa đã dành riêng tôi ngay từ khi tôi còn trong lòng mẹ, và đã gọi tôi nhờ ân sủng của Người. Người đã đoái thương mặc khải Con của Người cho tôi, để tôi loan báo Tin Mừng về Con của Người cho các dân ngoại. Tôi đã chẳng thuận theo các lý do tự nhiên, cũng chẳng lên Giê-ru-sa-lem để gặp các vị đã là Tông Đồ trước tôi, nhưng tức khắc tôi đã sang xứ Ả-rập, rồi lại trở về Đa-mát. Ba năm sau tôi mới lên Giê-ru-sa-lem diện kiến ông Kê-pha, và ở lại với ông mười lăm ngày. Tôi đã không gặp một vị Tông Đồ nào khác ngoài ông Gia-cô-bê, người anh em của Chúa. Viết cho anh em những điều này, tôi cam đoan trước mặt Thiên Chúa là tôi không nói dối. Sau đó tôi đến miền Xy-ri và miền Ki-li-ki-a. Nhưng lúc ấy các Hội Thánh Đức Ki-tô tại miền Giu-đê không biết mặt tôi. Họ chỉ nghe nói rằng: "Người trước đây bắt bớ chúng ta, bây giờ lại loan báo đức tin mà xưa kia ông những muốn tiêu diệt", và vì tôi họ tôn vinh Thiên Chúa.
+      Rồi sau mười bốn năm, tôi lại lên Giê-ru-sa-lem một lần nữa cùng với ông Ba-na-ba; tôi cũng đem theo anh Ti-tô đi với tôi. Tôi lên đó vì được Thiên Chúa mặc khải, và đã trình bày cho người ta Tin Mừng tôi rao giảng cho dân ngoại, -cách riêng cho các vị có thế giá-, vì sợ rằng tôi ngược xuôi, và đã ngược xuôi vô ích. Thế mà ngay cả anh Ti-tô, người cùng đi với tôi và là người Hy-lạp, cũng không bị ép phải chịu cắt bì. Sở dĩ thế là vì có những tên xâm nhập, những kẻ giả danh giả nghĩa anh em, đã len lỏi vào dò xét sự tự do của chúng ta, sự tự do chúng ta có được trong Đức Ki-tô Giê-su; họ làm như vậy là để bắt chúng ta trở thành nô lệ. Nhưng với những người ấy, chúng tôi đã không chịu nhượng bộ, dù chỉ trong giây lát, để duy trì cho anh em chân lý của Tin Mừng. Còn về các vị có thế giá -lúc bấy giờ các vị ấy có là gì đi nữa, điều đó không quan hệ đối với tôi: Thiên Chúa không thiên vị ai-, các vị có thế giá ấy đã không đưa ra thêm điều gì cho tôi.
+      Trái lại, các ngài thấy rằng tôi đã được uỷ thác nhiệm vụ loan báo Tin Mừng cho những người không được cắt bì, cũng như ông Phê-rô được uỷ thác nhiệm vụ loan báo Tin Mừng cho những người được cắt bì. Thật vậy, Đấng đã hoạt động nơi ông Phê-rô, biến ông thành Tông Đồ của những người được cắt bì, cũng đã hoạt động biến tôi thành Tông Đồ các dân ngoại. Vậy khi nhận ra ân huệ Thiên Chúa đã ban cho tôi, các ông Gia-cô-bê, Kê-pha và Gio-an, những người được coi là cột trụ, đã bắt tay tôi và ông Ba-na-ba để tỏ dấu hiệp thông: chúng tôi thì lo cho các dân ngoại, còn các vị ấy thì lo cho những người được cắt bì. Chỉ có điều này là chúng tôi phải nhớ đến những người túng thiếu, điều mà tôi vẫn gắng làm. 
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Anh là Tảng Đá, trên tảng đá này, Thầy sẽ xây Hội Thánh của Thầy, và quyền lực tử thần sẽ không thắng nổi;
+* Thầy sẽ trao cho anh chìa khoá Nước Trời.
+<strong>X</strong> Dưới đất, anh cầm buộc điều gì, trên trời cũng sẽ cầm buộc; dưới đất, anh tháo cởi điều gì, trên trời cũng sẽ tháo cởi. *
 
 <strong>Bài đọc 2</strong> <i>2(chọn một trong hai)</i>
 <strong>
@@ -1546,7 +1695,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong>  Ðức Ki-tô là Vua các Tông Ðồ,
+ta hãy cùng phủ phục suy tôn.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -1584,17 +1734,185 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Cuộc thương khó của hai thủ lãnh
+Ðã làm nên ngày thánh huy hoàng,
+Phê-rô thắng trận vẻ vang,
+Phao-lô chỉ cách bạn vàng ít lâu.
+ 
+Cùng dòng máu anh hào tử tiết
+Kết giao thành bạn thiết nghìn thu,
+Niềm tin vào Ðức Ki-tô
+Kiện toàn cuộc sống phượng thờ Chúa Cha.
+ 
+Phê-rô thật chính là anh cả,
+Nhưng Phao-lô cũng chả thua chi,
+Bình vàng Chúa chọn ai bì,
+Niềm tin son sắt kém gì hiền huynh.
+ 
+Cây giá ngược chẳng kinh chẳng sợ,
+Si-mon làm rạng rỡ Thánh Danh,
+Nhớ câu Thầy nhắn nhủ mình,
+Thân treo thập giá đóng đinh như Thầy.
+ 
+Lòng sùng bái từ đây vươn mạnh,
+Cả Rô-ma thành kính dâng lên,
+Máu ai thắm đỏ tinh tuyền,
+Máu Phê-rô đã thấm nền thánh đô.
+ 
+Ai ngờ thiên hạ nô nức tới
+Người bốn phương trẩy hội nơi này
+Kinh thành vạn quốc là đây,
+Ngai tòa của Ðấng làm thầy muôn dân.
+ 
+Nguyện xin Chúa khoan nhân từ ái
+Khấng nghe lời con cái nài van,
+Ban cho hưởng phúc thiên đàng
+Cùng hai thánh cả hát vang muôn đời.
+ 
+<strong>Ca vịnh</strong>
+<strong>Tv 62 (63) 2-9
+Tâm hồn khao khát Chúa</strong>
+<i>Kẻ từ bỏ những công việc tối tăm mờ ám, ấy là người tỉnh thức chờ mong Chúa. </i>
+<strong>ÐC</strong> Tôi biết rõ Ðấng tôi tin cậy, và thâm tín rằng:
+Người là Vị Thẩm Phán chí công
+sẽ thừa sức gìn giữ kho tàng đức tin của tôi
+cho tới ngày Người đến.
+ 
+Lạy Thiên Chúa, Ngài là Chúa con thờ,
+ngay từ rạng đông, con tìm kiếm Chúa.
+Linh hồn con đã khát khao Ngài,
+tấm thân này mòn mỏi đợi trông, *
+như mảnh đất hoang khô cằn, không giọt nước.
+ 
+Nên con đến ngắm nhìn Ngài trong nơi thánh điện,
+để thấy uy lực và vinh quang của Ngài. *
+Bởi ân tình Ngài quý hơn mạng sống,
+miệng lưỡi này xin ca ngợi tán dương.
+ 
+Suốt cả đời con, nguyện dâng lời chúc tụng,
+và giơ tay cầu khẩn danh Ngài. *
+Lòng thỏa thuê như khách vừa dự tiệc,
+môi miệng con rộn rã khúc hoan ca.
+ 
+Con tưởng nhớ Chúa trên giường ngủ,
+suốt năm canh thầm thĩ với Ngài. *
+Quả thật Ngài đã thương trợ giúp,
+nương bóng Ngài, con hớn hở reo vui.
+ 
+Trót cả tâm tình, con cùng Ngài gắn bó,
+giơ tay quyền lực, Ngài che chở phù trì.
+ 
+<strong>Tc Ðn 3, 57-88.56
+Muôn loài muôn vật hãy ca ngợi Chúa</strong>
+<i>Nào ca ngợi Chúa đi, hỡi những ai hằng kính sợ Người (Kh 19,5). </i>
+ 
+<strong>ÐC</strong> Ơn Thiên Chúa luôn ở cùng tôi,
+và đã không bao giờ vô hiệu.
+ 
+Chúc tụng Chúa đi, mọi công trình của Chúa,
+muôn ngàn đời, hãy ca tụng suy tôn. *
+Chúc tụng Chúa đi, các thiên sứ của Người,
+chúc tụng Chúa đi, chín tầng trời thăm thẳm.
+ 
+Chúc tụng Chúa đi, nguồn nước tận cao xanh,
+chúc tụng Chúa đi, mọi cơ binh thượng giới, *
+Chúc tụng Chúa đi, mặt trời với mặt trăng,
+chúc tụng Chúa đi, hỡi tinh tú muôn ngàn.
+ 
+Chúc tụng Chúa đi, nào mưa sương tất cả,
+chúc tụng Chúa đi, mọi luồng gió cơn dông, *
+chúc tụng Chúa đi, sức nóng với lửa hồng,
+chúc tụng Chúa đi, trời nồng và khí lạnh.
+ 
+Chúc tụng Chúa đi, nào sương đọng mưa tuôn,
+chúc tụng Chúa đi, kìa thời đông tiết giá. *
+Chúc tụng Chúa đi, này băng phủ tuyết rơi,
+chúc tụng Chúa đi, hỡi đêm ngày đắp đổi.
+ 
+Chúc tụng Chúa đi, ánh sáng và bóng tối,
+chúc tụng Chúa đi, chớp giật với mây trôi, *
+chúc tụng Chúa đi, tất cả mười phương đất,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Chúc tụng Chúa đi, này đồi xanh núi biếc,
+chúc tụng Chúa đi, kìa hoa lá cỏ cây, *
+chúc tụng Chúa đi, hỡi suối nước tràn đầy,
+chúc tụng Chúa đi, nào sông sâu biển cả.
+ 
+Chúc tụng Chúa đi, kình ngư cùng thủy tộc,
+chúc tụng Chúa đi, hết mọi loài chim chóc, *
+chúc tụng Chúa đi, gia súc lẫn thú rừng,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Chúc tụng Chúa đi, hỡi phàm nhân dương thế,
+chúc tụng Chúa đi, dòng dõi Ít-ra-en, *
+chúc tụng Chúa đi, tư tế phụng thờ Chúa,
+chúc tụng Chúa đi, tôi tớ phục vụ Người.
+ 
+Chúc tụng Chúa đi, hồn thiêng hàng công chính,
+chúc tụng Chúa đi, người thánh kẻ khiêm nhường. *
+Chúc tụng Chúa đi, này Kha-na-ni-a,
+A-da-ri-a và Mi-sa-en hỡi,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Nào chúc tụng Chúa Cha,
+Chúa Con, và Chúa Thánh Thần, *
+muôn ngàn đời, cùng ca tụng suy tôn.
+ 
+Lạy Chúa,
+chúc tụng Chúa trên cõi trời cao thẳm, *
+muôn ngàn đời, xin ca tụng suy tôn.
+<i>(Chú ý: không đọc kinh "Vinh danh" cuối thánh ca này.) </i>
+ 
+<strong>Tv 149
+Các tín hữu khải hoàn vinh hiển</strong>
+<i>Hỡi con cái của Giáo Hội, tức là những thành phần của dân mới, hãy vui mừng vì được Ðức Ki-tô làm Vua hiển trị (Hê-xi-ki-ô). </i>
+<strong>ÐC</strong> Tôi đã hết mình chiến đấu vì chính nghĩa,
+đã chạy hết chặng đường, và giữ vững đức tin.
+ 
+Hát lên mừng Chúa một bài ca mới,
+ngợi khen Người trong cộng đoàn những kẻ hiếu trung!
+ 
+Hỡi Ít-ra-en, nào hoan hỷ,
+vì có Chúa là Ðấng tạo thành ngươi. *
+Con cái Xi-on, hãy nhảy mừng,
+vì được Chúa làm Vua hiển trị.
+ 
+Mừng Thánh Danh, nào dâng điệu vũ,
+nhịp trống họa đàn theo khúc hoan ca. *
+Bởi vì Chúa mến chuộng Dân Người,
+ban cho kẻ nghèo hèn được vẻ vang chiến thắng.
+ 
+Kẻ hiếu trung hãy vui mừng rạng rỡ,
+nào phủ phục mà cất tiếng reo hò, *
+miệng vang lời tán dương Thiên Chúa,
+thanh gươm hai lưỡi, cầm chắc trong tay.
+ 
+Ðể trả thù muôn nước
+và trừng trị chư dân,
+để xiềng chân vua chúa
+và xích cổ vương hầu,
+ 
+để thi hành án phạt
+Chúa đã viết từ xưa.
+Ðó là niềm vinh dự
+cho mọi kẻ trung hiếu với Người.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Lời Chúa</strong> (1Pr 4,13-14)
+      Ðược chia sẻ những đau khổ của Ðức Ki-tô bao nhiêu, anh em hãy vui mừng bấy nhiêu, để khi vinh quang Người tỏ hiện, anh em cùng được vui mừng hoan hỷ. Nếu bị sỉ nhục vì danh Ðức Ki-tô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền là Thần Khí của Thiên Chúa, ngự trên anh em.
 
-<strong>Lời Chúa</strong>
-
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>Xướng đáp</strong> 
+<strong>XĐ</strong> Các ngài đã hiến dâng mạng sống
+* vì danh Ðức Giê-su Ki-tô.
+<strong>X</strong> Và ra về hớn hở vì đã được coi là xứng đáng chịu khổ nhục. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Ông Si-mon Phê-rô thưa cùng Chúa:
+"Thưa Thầy,
+chúng con bỏ Thầy thì biết đến với ai,
+Thầy mới có những lời ban phúc trường sinh!
+Phần chúng con,
+chúng con đã tin và nhận biết rằng:
+Thầy là Ðấng Ki-tô, Con Thiên Chúa."
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -1634,9 +1952,17 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Ðức Ki-tô đã xây dựng Giáo Hội trên nền tảng các Tông Ðồ và ngôn sứ. Vậy ta hãy tin tưởng nguyện cầu:
+      <i>Xin Chúa ban phúc lành cho Hội Thánh. </i>
+      Chúa đã thương cầu nguyện cho thánh Phê-rô được giữ vững đức tin,<i> - xin củng cố đức tin cho Hội Thánh ở khắp hoàn cầu. </i>
+      Sau khi phục sinh, Chúa đã hiện ra với thánh Phê-rô, và đã cho thánh Phao-lô được thấy Chúa, <i>- xin soi sáng tâm hồn chúng con, để chúng con tuyên xưng Chúa là Ðấng hằng sống muôn đời. </i>
+      Chúa đã tuyển chọn thánh Phao-lô làm tông đồ để các dân ngoại được biết Chúa, <i>- xin cho chúng con cũng trở thành sứ giả đích thực của Tin Mừng. </i>
+      Chúa đã từng tha thứ cho thánh Phê-rô, <i>- xin cũng tha thứ mọi tội lỗi chúng con trót phạm vì yếu đuối. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho chúng con được vui mừng hoan hỷ nhân ngày đại lễ kính hai thánh tông đồ Phê-rô và Phao-lô. Chính nhờ các ngài mà Hội Thánh đã bắt đầu đón nhận đức tin, thì xin cho Hội Thánh cũng luôn trung thành tuân giữ lời các ngài giảng dạy.
+      <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -1709,17 +2035,17 @@ Ha-lê-lui-a.
 <strong>Thánh thi</strong>
 Ngày tới lúc thật huy hoàng rực rỡ,
 Khắp địa cầu tràn ngập ánh thiều quang,
-Đoàn chúng con phủ phục trước ngai vàng
-Thờ lạy Chúa, Đấng Toàn Năng cao cả.
-
+Ðoàn chúng con phủ phục trước ngai vàng
+Thờ lạy Chúa, Ðấng Toàn Năng cao cả.
+ 
 Xin dập tắt những đam mê tội lỗi,
 Lửa giận hờn còn nung nấu tâm can,
 Cho bác ái thành mưa sa tưới gội
 Lòng chúng con hoa thắm nở bình an.
-
-Xin nhậm lời, muôn lạy Chúa toàn năng,
-Cậy nhờ Đức Ki-tô, Con Một Chúa,
-Đấng trị vì cùng với Chúa Thánh Thần
+ 
+Xin nhận lời, muôn lạy Chúa toàn năng,
+Cậy nhờ Ðức Ki-tô, Con Một Chúa,
+Ðấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
