@@ -16316,13 +16316,20 @@ Chúa đã viết từ xưa.
 cho mọi kẻ trung hiếu với Người.
 
 <strong>Lời Chúa</strong> Is 61,10
+Tôi mừng rỡ muôn phần nhờ Đức Chúa.
+Nhờ Thiên chúa tôi thờ, tôi hớn hở biết bao !
+Vì Người mặc cho tôi hồng ân cứu độ,
+Choàng cho tôi đức chính trực công minh,
+Tựa cô dâu điểm trang lộng lẫy.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Mừng vui lên, hỡi thiếu nữ Sion.
+* Muôn ngàn đời Chúa vẫn trọn tình thương.
+<strong>X</strong> Linh hồn tôi chúc tụng Chúa. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Mẹ là vinh quang của Giêrusalem,
+là niềm vui của dân Người,
+là vinh dự của toàn thể Hội Thánh.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -16362,9 +16369,16 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
-
+      Trong ngày lễ mừng kính Đức Maria Vô Nhiễm, chúng ta hãy cảm tạ Thiên Chúa là Cha chúng ta:
+      <i>Chúng con hát mừng Chúa, chúng con ngợi khen Chúa. </i>
+      Chúa đã chọn Đức Maria từ thuở tạo thiên lập địa để Người là đấng thánh và vô nhiễm trước tôn nhan Chúa, <i>- xin ngợi khen Chúa là Cha chúng con. </i>
+      Chúa đã định cho Đức Maria làm mẹ Con Chúa và Chúa đã đổ tràn đầy nơi Người sức mạnh của Thánh Thần Chúa, <i>- xin ngợi khen Chúa là Cha chúng con. </i>
+      Chúa đã làm cho Đức Maria trở thành nữ tỳ hèn mọn của Chúa, sẵn sàng đáp lại Lời Chúa và trở thành sứ giả Tin Mừng, <i>- xin ngợi khen Chúa là Cha chúng con. </i>
+      Chúa đã muốn Đức Maria hiện diện vào lúc khai sinh Hội Thánh và luôn đồng hành cùng Hội Thánh, <i>- xin ngợi khen Chúa là Cha chúng con.</i>
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, qua Đức Trinh Nữ Maria Vô Nhiễm, Chúa đã ban tặng cho nhân loại kho tàng cứu độ đời đời. Nhờ lời Mẹ chuyển cầu, xin Chúa cho chúng con được trung thành phụng sự Chúa và bằng lời nói với việc làm, chúng con ra sức làm cho vinh quang Chúa được tỏa sáng.
+      <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -16451,12 +16465,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Gđt 13,18
+      Thiên Chúa đã chúc phúc cho con, chính Người, qua con, đã tiêu diệt mọi địch thù của chúng ta với sức mạnh của Người. Con ơi, con được Thiên Chúa Tối Cao chúc phúc hơn mọi người nữ trần gian.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Lạy Mẹ Maria Vô Nhiễm Nguyên Tội.
+<strong>Đ</strong> Xin cầu cho chúng con là kẻ chạy đến cùng Me.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, qua Đức Trinh Nữ Maria Vô Nhiễm, Chúa đã ban tặng cho nhân loại kho tàng cứu độ đời đời. Nhờ lời Mẹ chuyển cầu, xin Chúa cho chúng con được trung thành phụng sự Chúa và bằng lời nói với việc làm, chúng con ra sức làm cho vinh quang Chúa được tỏa sáng.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -16496,8 +16514,94 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Maria! Mẹ Vô Nhiễm Nguyên Tội 
+Trông đoàn con đang chạy đến kêu xin 
+Mẹ dủ thương hãy đưa mắt đoái nhìn 
+Chuyển cầu giúp trước Ngai Tòa vinh hiển.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Mẹ là đường tình người, xin chỉ lối: 
+Trái tim Mẹ vòng gai sắc in sâu 
+Đường thập giá chúng con hằng bên Mẹ 
+Về với Chúa nguồn vĩnh cửu an vui.
+
+Mẹ là đường cao cả trong khiêm tốn 
+Người nữ tì hằng chiêm ngắm Chúa Con 
+Xin khắc sâu tâm trí chẳng hao mòn 
+Con Yêu Dấu nêu gương đời phục vụ.
+
+Mẹ là đường hiển linh hằng khôn sánh 
+Là Tước hiệu Nữ Vương các Tông Đồ 
+Là sứ giả theo hình ảnh Ki- tô. 
+Đem niềm vui tràn ngập khắp trần gian.
+
+Mẹ là đường chân lý, xin soi sáng 
+Dẫn chúng con đến với Chúa vinh quang 
+Để sau ngày lìa khỏi chốn dương gian 
+Được muôn đời hưởng thiên đàng vinh phúc.
+
+<strong>Ca vịnh</strong>
+<strong>Tv 121
+Ơn cứu độ cho thành thánh</strong>
+<strong>ĐC</strong> Lạy Đức Maria, Mẹ xinh đẹp tuyệt vời 
+Chẳng hề vương vết nhơ nguyên tội.
+
+Vui dường nào khi thiên hạ bảo tôi:
+"Ta cùng trẩy lên đền thánh Chúa !"
+
+Và giờ đây, Giêrusalem hỡi,
+cửa nội thành, ta đã dừng chân. *
+Giêrusalem khác nào đô thị
+được xây nên một khối vẹn toàn.
+
+Từng chi tộc, chi tộc của Chúa,
+trẩy hội lên đền ở nơi đây, *
+để danh Chúa, họ cùng xưng tụng,
+như lệnh đã truyền cho Ítraen.
+
+Cũng nơi đó, đặt ngai xét xử,
+ngai vàng của vương triều Ðavít.
+
+Hãy nguyện chúc Giêrusalem được thái bình,
+rằng: "chúc thân hữu của thành luôn thịnh đạt, *
+tường trong luỹ ngoài hằng yên ổn,
+lâu đài dinh thự mãi an ninh."
+
+Nghĩ tới anh em cùng là bạn hữu,
+tôi nói rằng: "Chúc thành đô an lạc." *
+Nghĩ tới đền thánh Chúa, Thiên Chúa chúng ta thờ,
+tôi ước mong thành được hạnh phúc, hỡi thành đô.
+
+<strong>Tv 126
+Thiên Chúa, niềm cậy trông duy nhất của ta</strong>
+<strong>ĐC</strong> Mẹ là vinh hiển của Giêrusalem, 
+là niềm vui của Ít-ra-en dân thánh, 
+toàn dân chúng con đều hãnh diện.
+
+Ví như Chúa chẳng xây nhà,
+thợ nề vất vả cũng là uổng công. *
+Thành kia mà Chúa không phòng giữ,
+uổng công người trấn thủ canh đêm.
+
+Bạn có thức khuya hay dậy sớm
+khó nhọc làm ăn cũng hoài công. *
+Còn kẻ được Chúa thương dầu có ngủ,
+Người vẫn ban cho đủ tiêu dùng.
+
+Này con cái là hồng ân của Chúa,
+con mình sinh hạ là phần thưởng Chúa ban. *
+Bầy con sinh hạ thời son trẻ,
+tựa nắm tên người dũng sĩ cầm tay.
+
+Hạnh phúc thay người nào
+đeo ống đầy loại tên như thế ! *
+Họ sẽ không nhục nhã
+khi phải đến cửa công
+tranh tụng với địch thù.
+
+<strong>Tc Ep 1,3-10
+Thiên Chúa cứu độ</strong>
+<strong>ĐC</strong> 
+
 <strong>Lời Chúa</strong>
 <strong>Xướng đáp</strong>
 <strong>XĐ</strong>
