@@ -4419,14 +4419,73 @@ Tôi vốn chuộng hòa bình.
 Nhưng hễ tôi nói tới
 Thì phe họ lại muốn chiến tranh.
 
+<strong>Tv 120
+Chúa là Đấng bảo vệ các tín hữu</strong>
+<strong>ĐC</strong> Chúng ta phải tôn thờ đường lối Chúa 
+và tín thác vào lòng nhân từ Chúa.
 
+Tôi ngước mắt nhìn lên rặng núi 
+Ơn phù hộ tôi đến từ nơi nao ?* 
+Ơn phù hộ tôi đến từ Đức Chúa Là 
+Đấng dựng nên cả đất trời.
 
-<strong>Lời Chúa</strong>
+Xin Đấng gìn giữ bạn 
+Đừng để bạn lỡ chân trật bước, 
+Xin người chớ ngủ quên.* 
+Đấng gìn giữ Ít-ra-en, 
+Lẽ nào chợp mắt ngủ quên cho đành!
+
+Chính Chúa là đấng canh giữ bạn, 
+Chính Chúa là Đấng vẫn chở che, 
+Người luôn luôn ở gần kề.
+
+Ngày sáu khắc, vẫng ô không tác họa, 
+Đêm năm canh, vành nguyệt chẳng hại chi.
+
+Chúa giữ gìn bạn khỏi mọi điều bất hạnh, 
+Giữ gìn cho sinh mệnh an toàn.* 
+Chúa giữ gìn bạn lúc ra vào lui tới, 
+Từ giờ đây cho tới mãi muôn đời.
+
+<strong>Tv 124
+Chúa ngự đến giúp dân Ngài chống kẻ thù</strong>
+<strong>ĐC</strong> “Hãy để Thiên Chúa làm gì thì làm!
+Chúa Quan phòng không bao giờ quên chúng ta 
+khi chúng ta chu toàn phận sự phụng sự Ngài”
+
+Ai tin tưởng vào Chúa, 
+Khác nào núi Xion
+
+Chẳng bao giờ lay chuyển 
+Muôn thuở vẫn trường tồn.
+
+Như núi đồi bao bọc 
+Thành Giêrusalem, 
+Chúa bao bọc dân Người 
+Bây giờ và mãi mãi.
+
+Chúa sẽ không cho vương trượng ác nhân 
+Đè nặng trên phần đất người lành, 
+Kẻo người lành tra tay làm điều ác.
+
+Lạy Chúa, xin đối xử nhân hậu với người nhân hậu 
+Và những ai lòng dạ thẳng ngay.
+
+Nhưng kẻ ngả theo đường tà vạy, 
+Xin Chúa đuổi đi cùng bọn làm điều ác.* 
+Nguyện chúc Ít-ra-en được thái bình.
+
+<strong>Lời Chúa</strong> 1Pr 1,22-23
+      Nhờ vâng phục sự thật, anh em đã thanh luyện tâm hồn để thực thi tình huynh đệ chân thành. Anh em hãy tha thiết yêu mến nhau với tất cả tâm hồn. Vì anh em đã được tái sinh, không phải do hạt giống mục nát, mà do hạt giống bất diệt, nhờ Lời Thiên Chúa hằng sống và tồn tại mãi.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Hãy tán dương Danh Chúa.
+<strong>Đ</strong> Tạ ơn Ngài bằng lời ca khen,
+Từ giờ đây cho đến muôn muôn đời.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho tôi trung của Chúa là thánh Vinh Sơn Phaolô mọi đức tính xứng bậc tông đồ, để thánh nhân phục vụ người cùng khốn và đào tạo các linh mục; xin cho chúng con là những kẻ noi theo lời Người dạy, luôn cháy bừng đức ái của Người để yêu mến những gì Người đã yêu mến và thực hành những gì Người đã dạy.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -4466,8 +4525,66 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Là anh em cùng một Cha trên trời 
+Người nghèo, anh em ruột của chúng ta 
+Đang đợi chờ nơi ta sự dấn thân 
+Đó là sự công chính của tâm hồn.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Người nghèo đang đau khổ, đang cầu cứu 
+Họ đang chờ cánh tay bạn đỡ nâng 
+Tiếng kêu ấy vang vọng chung quanh bạn
+ Đó là tiếng Giêsu đang kêu cầu.
+
+Cảnh lầm than đang đeo bám người nghèo 
+Ngài thôi thúc, ta hãy mau tìm đến 
+Cứu thoát họ khỏi lầm than, cơ cực 
+Đó chính là Giêsu đang bần hàn.
+
+Họ thức khuya dậy sớm lo cơm áo 
+Ngài đặt ta bên cạnh họ ủi an 
+Mở mắt nhìn chúng ta sẽ nhận ra 
+Đó chính là Giêsu đang héo hon.
+
+<strong>Ca vịnh</strong>
+<strong>Tv 14
+Người công chính tiến bước về thành đô Thiên Chúa</strong>
+<strong>ĐC</strong> Lạy Chúa, 
+phúc thay kẻ được Ngài tuyển chọn 
+để ở lại trước nhan ngài.
+
+Lạy Chúa, ai được vào ngụ trong nhà Chúa, 
+được ở trên núi thánh của Ngài?
+
+Là kẻ sống vẹn toàn, 
+luôn làm điều ngay thẳng, 
+bụng nghĩ sao nói vậy, 
+miệng lưỡi chẳng vu oan.
+
+không làm hại người nào, 
+chẳng làm ai nhục nhã, 
+coi khinh phường gian ác, 
+trọng ai kính Chúa Trời.
+
+lỡ thể mà bị thiệt 
+thì cũng chẳng rút lời,
+cho vay không đặt lãi, 
+chẳng nhận quà hối lộ 
+mà hại đến người ngay.
+
+Phàm ai làm những điều này, 
+không hề nao núng chuyển lay bao giờ.
+
+<strong> Tv 111
+Ca tụng lòng kính sợ Chúa </strong>
+<strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
+Đức công chính của họ tồn tại muôn đời.
+
+
+
+<strong>
+ </strong>
+<strong>ĐC</strong> 
+
 <strong>Lời Chúa</strong>
 <strong>Xướng đáp</strong>
 <strong>XĐ</strong>
