@@ -13138,16 +13138,84 @@ Trích những bài nói chuyện của thánh Vinh Sơn (Coste XII, 80-87) </st
       Làm như thế, đó là giảng Tin Mừng bằng lời và bằng việc làm và đó là cách hoàn hảo nhất, và đó cũng là những gì Chúa đã làm, và trên trần thế, những ai đại diện Chúa về sứ vụ và về tính cách - các linh mục-thì phải làm những việc đó.
       Vì vậy, chúng ta phải yêu mến phận sự này hơn tất cả những phận sự và các công việc khác trên trần gian; và chúng ta chân thành nhận biết mình là những người hạnh phúc nhất.
 
-
-     
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Hãy rộng mở lòng con cho người nghèo: 
+họ là anh em con.
+Và khi Con Người ngự đến, Ngài sẽ phán cùng con: 
+Ta đói và con đã cho Ta ăn.
+* Chia cơm sẻ áo cho người đói khổ 
+đó là việc ăn chay làm Chúa hài lòng.
+<strong>X</strong> Hãy rộng mở lòng con cho người nghèo: 
+họ là anh em con.
+Và nếu con kêu cầu, Chúa sẽ đáp lời con; 
+Nghe tiếng con kêu, Chúa sẽ đáp: Này Ta đây! *
+
+<strong>II
+Việc phục vụ người nghèo phải được ưu tiên trên hết
+Trích những bài nói chuyện của thánh Vinh Sơn, (Coste: IX, 32; XIII, 811; XII, 397; ΙΧ, 319)
+</strong>
+      Chúng ta không được nhìn người nghèo theo dáng vẻ bên ngoài của họ, hay theo mức độ hiểu biết của họ; vì nhiều khi, hầu như họ không có bộ mặt và trí óc của những người bình thường, họ thô thiển và quê mùa. Nhưng hãy nhìn khuôn mặt thật của họ (tournez la médaille: hãy lật lại mặt phải tấm huy chương), dưới ánh sáng đức tin, chị em sẽ thấy rằng họ là hiện thân của Con Thiên Chúa, Đấng đã muốn làm người nghèo, Đấng chẳng còn dáng vẻ của một con người trong cuộc thương khó, Đấng bị lương dân cho là điên rồ, bị người Do thái coi là cớ vấp phạm; và với tất cả những điều đó, Người tự xưng là Đấng loan báo Tin Mừng cho người nghèo: “Ngài đã sai tôi đi loan báo Tin Mừng cho người nghèo”. Chúng ta phải có những tâm tình này, và phải làm những gì Đức Kitô đã làm, là quan tâm đến người nghèo: chữa lành họ, an ủi, giúp đỡ và bảo trợ họ. Chính Đức Kitô đã muốn sinh ra làm người nghèo, đã kết nạp người nghèo làm môn đệ, phục vụ người nghèo, đặt mình vào địa vị người nghèo đến nỗi bất cứ điều tốt, hay điều xấu làm cho người nghèo, Chúa cũng coi là làm cho chính Ngài. Vì Thiên Chúa yêu thương người nghèo, nên Thiên Chúa cũng yêu thương những ai yêu thương người nghèo; bởi khi ai thân thiết người nào thì cũng yêu thương cả những bạn bè và những kẻ giúp việc người ấy. Bởi thế, chúng ta hy vọng rằng, vì yêu người nghèo, Thiên Chúa sẽ yêu chúng ta. Cũng vậy, khi đi thăm người nghèo, chúng ta hãy cố gắng đi sâu vào tâm tư của họ dể cùng đau khổ với họ, và mặc lấy tâm tình của vị đại tông đồ khi ngài nói: “Tôi trở nên tất cả cho mọi người”. Và để được vậy, chúng ta phải mở lòng rung cảm và cảm thông những nỗi khổ và những khốn cực của tha nhân, và phải nài xin Chúa ban cho ta lòng lân ái này và lòng xót thương, nài xin Chúa đổ đầy trên chúng ta và giữ gìn nó cho ta.
+      Việc phục vụ người nghèo phải chiếm ưu tiên trước mọi sự khác, và không được chậm trễ. Nếu trong giờ nguyện gẫm, chị em phải đi phát thuốc hay giúp đỡ, thì chị em cứ an tâm đi đến với họ, dâng lên Chúa việc phải làm như là các chị em đang tiếp tục nguyện gẫm. Đừng băn khoăn lo lắng, hay mặc cảm rằng mình có lỗi vì đã bỏ nguyện gẫm mà giúp người nghèo, bởi đó không phải là lơ là với Chúa, mà là bỏ Chúa vì Chúa: quả thật, ta ngưng một công việc của Chúa để làm một công việc khác của Chúa.
+      Vậy, khi chị em bỏ nguyện gẫm để giúp người nghèo, chị em hãy nhớ rằng: làm thế chị em vẫn đang phục vụ Chúa. Đức Ái cao trọng hơn bất cứ lề luật nào, và tất cả các lề luật đều phải hướng về Đức Ái. Đức Ai là bà chúa tuyệt hảo, phải làm những gì bà truyền. Vậy, chúng ta hãy ra sức phục vụ người nghèo với một tình yêu mới, và ra sức tìm kiếm những người nghèo và những người bị bỏ rơi nhất; trước nhan Chúa, chúng ta nhìn nhận họ là những ông hoàng bà chúa của chúng ta.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Phúc thay ai có tâm hồn nghèo khó,
+Vì Nước Trời là của họ.
+* Lạy Chúa Giêsu, Chúa nên nghèo khó, 
+để chúng con nên giàu có nhờ sự khó nghèo của Chúa.
+<strong>X</strong> Ai xin, con hãy cho họ,
+Chớ quay lưng lại với người vay mượn con. *
+
+<strong>Thánh thi tạ ơn</strong>
+Lạy Thiên Chúa,
+Tuyên xưng Ngài là Đức Chúa.
+Chúng con xin ca ngợi hát mừng, 
+Chúa là Cha, Đấng trường tồn vạn đại, 
+hoàn vũ này kính cẩn suy tôn.
+
+Trước nhan Chúa, các tổng thần phủ phục,* 
+Mọi thiên thần và đạo binh Thiên Quốc 
+Đều cảm tạ và cung chúc tôn thờ, 
+Chẳng khi ngừng vang dậy tiếng tung hô:
+
+Thánh ! Thánh! Chí thánh!
+Chúa Tể càn khôn là Đấng Thánh.* 
+Trời đất rạng ngời vinh quang Chúa uy linh.
+
+Bậc Tông Đồ đồng thanh ca ngợi Chúa,
+Bao vị ngôn sứ tán tụng Ngài,
+Đoàn tử đạo quang huy hùng dũng 
+Máu đào đổ ra minh chứng về Ngài,
+
+Và trải rộng khắp nơi trần thế, 
+Hội thánh Ngài hoan hỷ tuyên xưng:
+
+Chúa là Cha lẫm liệt oai hùng, 
+Và Con Một Ngài chí tôn chí ái, 
+Cùng Thánh Thần, Đấng an ủi yêu thương.
+
+Lạy Đức Kitô, Con Chúa Trời hằng sống, 
+Ngài là Chúa hiển vinh.
+
+Đã chẳng nề mặc lấy xác phàm
+Nơi cung lòng Trinh nữ 
+Hầu giải phóng nhân loại lầm than.
+
+Ngài đã ra tay chiến thắng tử thần, 
+Mở cửa trời cho những ai tin tưởng.
+
+Ngài hiển trị bên hữu Chúa Cha, 
+Ngày cuối cùng sẽ giáng lâm thẩm phán.
+
+Cúi lạy Chúa, xin phù hộ bầy tôi 
+Ngài cứu chuộc bằng bửu huyết tuôn tràn.
+
+Xin được hợp đoàn cùng muôn thần thánh,
+Phúc miên trường vui hưởng ánh vinh quang.
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Chúa, Chúa đã ban cho tôi trung của Chúa là thánh Vinh Sơn Phaolô mọi đức tính xứng bậc tông đồ, để thánh nhân phục vụ người cùng khốn và đào tạo các linh mục; xin cho chúng con là những kẻ noi theo lời Người dạy, luôn cháy bừng đức ái của Người để yêu mến những gì Người đã yêu mến và thực hành những gì Người đã dạy.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -14031,32 +14099,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
-
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Bài đọc 2</strong>
-<strong> </strong>
-     
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -14090,97 +14133,7 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
-
-<strong><i>Tv 94 (95) </i> </strong>
-Hãy đến đây ta reo hò mừng Chúa,
-tung hô Người là núi đá độ trì ta. *
-Vào trước Thánh Nhan dâng lời cảm tạ,
-cùng tung hô theo điệu hát cung đàn.
-
-Bởi Đức Chúa là Chúa Trời cao cả,
-là đại vương trổi vượt chư thần,
-nắm trong tay bao vực sâu lòng đất,
-giữ chủ quyền muôn ngọn núi vút cao. *
-Đại dương Chúa đã tạo thành là của Chúa,
-lục địa do tay Người nhào nắn cũng thuộc về Người.
-
-Hãy vào đây ta cúi mình phủ phục,
-quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
-Bởi chính Người là Thiên Chúa ta thờ,
-còn ta là dân Người lãnh đạo,
-là đoàn chiên tay Người dẫn dắt.
-
-Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
-Người phán : “Các ngươi chớ cứng lòng
-như tại Mê-ri-ba,
-như ngày ở Ma-xa trong sa mạc,
-nơi tổ phụ các ngươi đã từng thách thức
-và dám thử thách Ta
-dù đã thấy những việc Ta làm.
-
-“Suốt bốn mươi năm,
-dòng giống này làm Ta chán ngán,
-Ta đã nói :
-Đây là dân tâm hồn lầm lạc,
-chúng nào biết đến đường lối của Ta ! *
-Nên Ta mới thịnh nộ thề rằng :
-Chúng sẽ không được vào chốn yên nghỉ của Ta.”
-
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
-
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
-
-Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
-Đã viếng thăm cứu chuộc dân Người.
-
-Từ dòng dõi trung thần Đa-vít,
-Người đã cho xuất hiện
-Vị Cứu Tinh quyền thế để giúp ta.
-
-Như Người đã dùng miệng các vị thánh ngôn sứ
-Mà phán hứa tự ngàn xưa :
-
-Sẽ cứu ta thoát khỏi địch thù,
-Thoát tay mọi kẻ hằng ghen ghét ;
-
-Sẽ trọn bề nhân nghĩa với tổ tiên
-Và nhớ lại lời xưa giao ước ;
-
-Chúa đã thề với tổ phụ Áp-ra-ham
-Rằng sẽ giải phóng ta khỏi tay địch thù,
-
-Và cho ta chẳng còn sợ hãi,
-Để ta sống thánh thiện công chính trước nhan Người,
-Mà phụng thờ Người suốt cả đời ta.
-
-Hài nhi hỡi, con sẽ mang tước hiệu
-Là ngôn sứ của Đấng Tối Cao : *
-Con sẽ đi trước Chúa, mở lối cho Người,
-
-Bảo cho Dân Chúa biết : Người sẽ cứu độ
-Là tha cho họ hết mọi tội khiên.
-
-Thiên Chúa ta đầy lòng trắc ẩn,
-Cho Vầng Đông tự chốn cao vời viếng thăm ta,
-
-Soi sáng những ai ngồi nơi tăm tối
-Và trong bóng tử thần,
-dẫn ta bước vào đường nẻo bình an.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -14266,13 +14219,7 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
-
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -14311,53 +14258,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
-
-Linh hồn tôi ngợi khen Đức Chúa
-Thần trí tôi hớn hở vui mừng
-Vì Thiên Chúa, Đấng cứu độ tôi.
-
-Phận nữ tỳ hèn mọn,
-Người đoái thương nhìn tới ;
-Từ nay hết mọi đời
-Sẽ khen tôi diễm phúc.
-
-Đấng Toàn Năng đã làm cho tôi
-Biết bao điều cao cả.
-Danh Người thật chí thánh chí tôn !
-
-Đời nọ tới đời kia,
-Chúa hằng thương xót những ai kính sợ Người.
-
-Chúa giơ tay biểu dương sức mạnh
-Dẹp tan phường lòng trí kiêu căng.
-
-Chúa hạ bệ những ai quyền thế,
-Người nâng cao mọi kẻ khiêm nhường.
-
-Kẻ đói nghèo, Chúa ban của đầy dư,
-Người giàu có, lại đuổi về tay trắng.
-
-Chúa độ trì Ít-ra-en, tôi tớ của Người,
-Như đã hứa cùng cha ông chúng ta.
-
-Vì Người nhớ lại lòng thương xót
-Dành cho tổ phụ Áp-ra-ham
-Và cho con cháu đến muôn đời.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
