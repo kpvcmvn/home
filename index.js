@@ -4579,19 +4579,65 @@ Ca tụng lòng kính sợ Chúa </strong>
 <strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
 Đức công chính của họ tồn tại muôn đời.
 
+Hạnh phúc thay, người kính sợ Chúa, 
+những ưa cùng thích mệnh lệnh Chúa truyền ban. * 
+Trên mặt đất, con cháu của họ sẽ hùng cường, 
+dòng dõi kẻ ngay lành được Chúa thương giáng phúc.
 
+Gia đình họ phú quý giàu sang, 
+Đức công chính của họ tồn tại muôn đời. * 
+Giữa tối tăm bừng lên một ánh sáng 
+chiếu rọi kẻ ngay lành: 
+đó là người từ bi nhân hậu và công chính.
 
-<strong>
- </strong>
-<strong>ĐC</strong> 
+Phúc thay người biết cảm thương và cho vay mượn, 
+biết theo lẽ phải mà thu xếp công việc mình. * 
+Họ sẽ không bao giờ lay chuyển, 
+Thiên hạ muôn đời còn tưởng nhớ chính nhân.
 
-<strong>Lời Chúa</strong>
+Họ không lo phải nghe tin dữ, 
+hằng an tâm và tin cậy Chúa, * 
+luôn vững lòng không sợ hãi chi 
+và rốt cuộc coi khinh lũ địch thù.
+
+Kẻ túng nghèo, họ rộng tay làm phúc, 
+đức công chính của họ tồn tại muôn đời, * 
+uy thế họ vươn cao rực rỡ.
+
+Thấy cảnh này ác nhân tức giận, 
+nghiến răng nghiến lợi và mòn mỏi héo hon, * 
+ước vọng của ác nhân sẽ chẳng còn.
+
+<strong>Tc Kh 15,3-4
+Thánh ca thờ phượng </strong>
+<strong>ĐC</strong> Chúa đã ban cho người vinh quang vô tận 
+Hạnh phúc vĩnh cửu là cơ nghiệp của người.
+
+Lạy Chúa là Thiên Chúa toàn năng, 
+sự nghiệp Ngài thật lớn lao kỳ diệu! * 
+lạy Đức Vua trị vì muôn nước, 
+đường lối Ngài quả chân thật công minh!
+
+Lạy Chúa, nào có ai không kính sợ Chúa, 
+ai mà chẳng tôn vinh danh Ngài, * 
+vì chỉ có Ngài chí thánh chí tôn.
+
+Người muôn nước sẽ về 
+phủ phục trước tôn nhan, * 
+vì ai ai cũng đều thấy rõ 
+những phán quyết công minh của Ngài.
+
+<strong>Lời Chúa</strong> 1Cr 13,4-7
+      Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Tiếng kêu của người nghèo, lạy Chúa, Chúa thích nghe.
+* Lạy Đấng Tối Cao là Chúa trời đất.
+<strong>X</strong>Xin nhậm lời kẻ nghèo hèn cầu khẩn. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Điều gì các ngươi đã làm
+cho một trong những anh em bé nhỏ nhất của Ta, 
+là các ngươi đã làm cho chính Ta vậy.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -4626,6 +4672,14 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Trong lời kinh cuối ngày này, chúng ta hãy cảm tạ Chúa và khẩn cầu Người gìn giữ chúng ta trong bình an của Người.
+      <i>Lạy Chúa Giêsu là Sự Sống của chúng con, xin tôn vinh Chúa. </i>
+      Chúa sai chúng con tiếp bước thánh Vinh Sơn đem Tin Mừng cho người nghèo,  <i>- lạy Chúa, xin chúc tụng Chúa vì sứ mạng ấy và xin ban cho chúng con niềm khát khao lòng mến.</i>
+      Chúa mời gọi chúng con tiếp bước thánh Vinh Sơn thánh hóa bản thân chúng con,  <i>- lạy Chúa, xin chúc tụng Chúa vì lời kêu gọi ấy và xin ban cho chúng con đức khiêm nhường của sự toàn hiến.</i>
+      Chúa làm cho chúng con tiếp bước thánh Vinh Sơn, thành những người thợ của Hội Thánh Chúa,  <i>- lạy Chúa, xin chúc tụng Chúa vì sự tín nhiệm ấy và xin ban cho chúng con sức mạnh của sự hy sinh.</i>
+      Chúa kêu gọi chúng con tiếp bước thánh Vinh Sơn, ngợi khen và hy vọng,  <i>- lạy Chúa, xin chúc tụng Chúa vì tình thương của Chúa và xin cho chúng con biết thờ phượng Chúa không ngừng.</i>
+      Chúa hứa cho chúng con, tiếp bước thánh Vinh Sơn, được niềm vui và bình an vĩnh cửu,  <i>- lạy Chúa, xin chúc tụng Chúa, vì cái chết và cuộc phục sinh của Chúa và xin cho chúng con tin vào ơn cứu độ của Chúa.</i>
+      Chúa kêu mời chúng con theo chân thánh Vinh Sơn, vào dự tiệc cưới trong vinh quang Nước Chúa,  <i>- lạy Chúa, xin chúc tụng Chúa, vì lòng thương xót của Chúa dành cho các anh chị em chúng con đã qua đời và xin cho chúng con niềm hy vọng được sống với Chúa.</i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
@@ -4866,32 +4920,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
-
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Bài đọc 2</strong>
-<strong> </strong>
-     
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -4925,98 +4954,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<i>Đang cập nhật...</i>
 
-<strong><i>Tv 94 (95) </i> </strong>
-Hãy đến đây ta reo hò mừng Chúa,
-tung hô Người là núi đá độ trì ta. *
-Vào trước Thánh Nhan dâng lời cảm tạ,
-cùng tung hô theo điệu hát cung đàn.
-
-Bởi Đức Chúa là Chúa Trời cao cả,
-là đại vương trổi vượt chư thần,
-nắm trong tay bao vực sâu lòng đất,
-giữ chủ quyền muôn ngọn núi vút cao. *
-Đại dương Chúa đã tạo thành là của Chúa,
-lục địa do tay Người nhào nắn cũng thuộc về Người.
-
-Hãy vào đây ta cúi mình phủ phục,
-quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
-Bởi chính Người là Thiên Chúa ta thờ,
-còn ta là dân Người lãnh đạo,
-là đoàn chiên tay Người dẫn dắt.
-
-Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
-Người phán : “Các ngươi chớ cứng lòng
-như tại Mê-ri-ba,
-như ngày ở Ma-xa trong sa mạc,
-nơi tổ phụ các ngươi đã từng thách thức
-và dám thử thách Ta
-dù đã thấy những việc Ta làm.
-
-“Suốt bốn mươi năm,
-dòng giống này làm Ta chán ngán,
-Ta đã nói :
-Đây là dân tâm hồn lầm lạc,
-chúng nào biết đến đường lối của Ta ! *
-Nên Ta mới thịnh nộ thề rằng :
-Chúng sẽ không được vào chốn yên nghỉ của Ta.”
-
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
-
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
-
-Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
-Đã viếng thăm cứu chuộc dân Người.
-
-Từ dòng dõi trung thần Đa-vít,
-Người đã cho xuất hiện
-Vị Cứu Tinh quyền thế để giúp ta.
-
-Như Người đã dùng miệng các vị thánh ngôn sứ
-Mà phán hứa tự ngàn xưa :
-
-Sẽ cứu ta thoát khỏi địch thù,
-Thoát tay mọi kẻ hằng ghen ghét ;
-
-Sẽ trọn bề nhân nghĩa với tổ tiên
-Và nhớ lại lời xưa giao ước ;
-
-Chúa đã thề với tổ phụ Áp-ra-ham
-Rằng sẽ giải phóng ta khỏi tay địch thù,
-
-Và cho ta chẳng còn sợ hãi,
-Để ta sống thánh thiện công chính trước nhan Người,
-Mà phụng thờ Người suốt cả đời ta.
-
-Hài nhi hỡi, con sẽ mang tước hiệu
-Là ngôn sứ của Đấng Tối Cao : *
-Con sẽ đi trước Chúa, mở lối cho Người,
-
-Bảo cho Dân Chúa biết : Người sẽ cứu độ
-Là tha cho họ hết mọi tội khiên.
-
-Thiên Chúa ta đầy lòng trắc ẩn,
-Cho Vầng Đông tự chốn cao vời viếng thăm ta,
-
-Soi sáng những ai ngồi nơi tăm tối
-Và trong bóng tử thần,
-dẫn ta bước vào đường nẻo bình an.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
-      
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -5101,13 +5040,7 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
-
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -5146,53 +5079,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
-
-Linh hồn tôi ngợi khen Đức Chúa
-Thần trí tôi hớn hở vui mừng
-Vì Thiên Chúa, Đấng cứu độ tôi.
-
-Phận nữ tỳ hèn mọn,
-Người đoái thương nhìn tới ;
-Từ nay hết mọi đời
-Sẽ khen tôi diễm phúc.
-
-Đấng Toàn Năng đã làm cho tôi
-Biết bao điều cao cả.
-Danh Người thật chí thánh chí tôn !
-
-Đời nọ tới đời kia,
-Chúa hằng thương xót những ai kính sợ Người.
-
-Chúa giơ tay biểu dương sức mạnh
-Dẹp tan phường lòng trí kiêu căng.
-
-Chúa hạ bệ những ai quyền thế,
-Người nâng cao mọi kẻ khiêm nhường.
-
-Kẻ đói nghèo, Chúa ban của đầy dư,
-Người giàu có, lại đuổi về tay trắng.
-
-Chúa độ trì Ít-ra-en, tôi tớ của Người,
-Như đã hứa cùng cha ông chúng ta.
-
-Vì Người nhớ lại lòng thương xót
-Dành cho tổ phụ Áp-ra-ham
-Và cho con cháu đến muôn đời.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -5414,32 +5301,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
-
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Bài đọc 2</strong>
-<strong> </strong>
-     
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -5473,97 +5335,7 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
-
-<strong><i>Tv 94 (95) </i> </strong>
-Hãy đến đây ta reo hò mừng Chúa,
-tung hô Người là núi đá độ trì ta. *
-Vào trước Thánh Nhan dâng lời cảm tạ,
-cùng tung hô theo điệu hát cung đàn.
-
-Bởi Đức Chúa là Chúa Trời cao cả,
-là đại vương trổi vượt chư thần,
-nắm trong tay bao vực sâu lòng đất,
-giữ chủ quyền muôn ngọn núi vút cao. *
-Đại dương Chúa đã tạo thành là của Chúa,
-lục địa do tay Người nhào nắn cũng thuộc về Người.
-
-Hãy vào đây ta cúi mình phủ phục,
-quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
-Bởi chính Người là Thiên Chúa ta thờ,
-còn ta là dân Người lãnh đạo,
-là đoàn chiên tay Người dẫn dắt.
-
-Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
-Người phán : “Các ngươi chớ cứng lòng
-như tại Mê-ri-ba,
-như ngày ở Ma-xa trong sa mạc,
-nơi tổ phụ các ngươi đã từng thách thức
-và dám thử thách Ta
-dù đã thấy những việc Ta làm.
-
-“Suốt bốn mươi năm,
-dòng giống này làm Ta chán ngán,
-Ta đã nói :
-Đây là dân tâm hồn lầm lạc,
-chúng nào biết đến đường lối của Ta ! *
-Nên Ta mới thịnh nộ thề rằng :
-Chúng sẽ không được vào chốn yên nghỉ của Ta.”
-
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
-
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
-
-Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
-Đã viếng thăm cứu chuộc dân Người.
-
-Từ dòng dõi trung thần Đa-vít,
-Người đã cho xuất hiện
-Vị Cứu Tinh quyền thế để giúp ta.
-
-Như Người đã dùng miệng các vị thánh ngôn sứ
-Mà phán hứa tự ngàn xưa :
-
-Sẽ cứu ta thoát khỏi địch thù,
-Thoát tay mọi kẻ hằng ghen ghét ;
-
-Sẽ trọn bề nhân nghĩa với tổ tiên
-Và nhớ lại lời xưa giao ước ;
-
-Chúa đã thề với tổ phụ Áp-ra-ham
-Rằng sẽ giải phóng ta khỏi tay địch thù,
-
-Và cho ta chẳng còn sợ hãi,
-Để ta sống thánh thiện công chính trước nhan Người,
-Mà phụng thờ Người suốt cả đời ta.
-
-Hài nhi hỡi, con sẽ mang tước hiệu
-Là ngôn sứ của Đấng Tối Cao : *
-Con sẽ đi trước Chúa, mở lối cho Người,
-
-Bảo cho Dân Chúa biết : Người sẽ cứu độ
-Là tha cho họ hết mọi tội khiên.
-
-Thiên Chúa ta đầy lòng trắc ẩn,
-Cho Vầng Đông tự chốn cao vời viếng thăm ta,
-
-Soi sáng những ai ngồi nơi tăm tối
-Và trong bóng tử thần,
-dẫn ta bước vào đường nẻo bình an.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -5649,13 +5421,7 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
-
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -5694,53 +5460,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
-
-Linh hồn tôi ngợi khen Đức Chúa
-Thần trí tôi hớn hở vui mừng
-Vì Thiên Chúa, Đấng cứu độ tôi.
-
-Phận nữ tỳ hèn mọn,
-Người đoái thương nhìn tới ;
-Từ nay hết mọi đời
-Sẽ khen tôi diễm phúc.
-
-Đấng Toàn Năng đã làm cho tôi
-Biết bao điều cao cả.
-Danh Người thật chí thánh chí tôn !
-
-Đời nọ tới đời kia,
-Chúa hằng thương xót những ai kính sợ Người.
-
-Chúa giơ tay biểu dương sức mạnh
-Dẹp tan phường lòng trí kiêu căng.
-
-Chúa hạ bệ những ai quyền thế,
-Người nâng cao mọi kẻ khiêm nhường.
-
-Kẻ đói nghèo, Chúa ban của đầy dư,
-Người giàu có, lại đuổi về tay trắng.
-
-Chúa độ trì Ít-ra-en, tôi tớ của Người,
-Như đã hứa cùng cha ông chúng ta.
-
-Vì Người nhớ lại lòng thương xót
-Dành cho tổ phụ Áp-ra-ham
-Và cho con cháu đến muôn đời.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -5970,32 +5690,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
-
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Bài đọc 2</strong>
-<strong> </strong>
-     
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
-
-<strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -6029,98 +5724,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<i>Đang cập nhật...</i>
 
-<strong><i>Tv 94 (95) </i> </strong>
-Hãy đến đây ta reo hò mừng Chúa,
-tung hô Người là núi đá độ trì ta. *
-Vào trước Thánh Nhan dâng lời cảm tạ,
-cùng tung hô theo điệu hát cung đàn.
-
-Bởi Đức Chúa là Chúa Trời cao cả,
-là đại vương trổi vượt chư thần,
-nắm trong tay bao vực sâu lòng đất,
-giữ chủ quyền muôn ngọn núi vút cao. *
-Đại dương Chúa đã tạo thành là của Chúa,
-lục địa do tay Người nhào nắn cũng thuộc về Người.
-
-Hãy vào đây ta cúi mình phủ phục,
-quỳ trước tôn nhan Chúa là Đấng dựng nên ta. *
-Bởi chính Người là Thiên Chúa ta thờ,
-còn ta là dân Người lãnh đạo,
-là đoàn chiên tay Người dẫn dắt.
-
-Ngày hôm nay, ước gì anh em nghe tiếng Chúa ! *
-Người phán : “Các ngươi chớ cứng lòng
-như tại Mê-ri-ba,
-như ngày ở Ma-xa trong sa mạc,
-nơi tổ phụ các ngươi đã từng thách thức
-và dám thử thách Ta
-dù đã thấy những việc Ta làm.
-
-“Suốt bốn mươi năm,
-dòng giống này làm Ta chán ngán,
-Ta đã nói :
-Đây là dân tâm hồn lầm lạc,
-chúng nào biết đến đường lối của Ta ! *
-Nên Ta mới thịnh nộ thề rằng :
-Chúng sẽ không được vào chốn yên nghỉ của Ta.”
-
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
-
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
-
-Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
-Đã viếng thăm cứu chuộc dân Người.
-
-Từ dòng dõi trung thần Đa-vít,
-Người đã cho xuất hiện
-Vị Cứu Tinh quyền thế để giúp ta.
-
-Như Người đã dùng miệng các vị thánh ngôn sứ
-Mà phán hứa tự ngàn xưa :
-
-Sẽ cứu ta thoát khỏi địch thù,
-Thoát tay mọi kẻ hằng ghen ghét ;
-
-Sẽ trọn bề nhân nghĩa với tổ tiên
-Và nhớ lại lời xưa giao ước ;
-
-Chúa đã thề với tổ phụ Áp-ra-ham
-Rằng sẽ giải phóng ta khỏi tay địch thù,
-
-Và cho ta chẳng còn sợ hãi,
-Để ta sống thánh thiện công chính trước nhan Người,
-Mà phụng thờ Người suốt cả đời ta.
-
-Hài nhi hỡi, con sẽ mang tước hiệu
-Là ngôn sứ của Đấng Tối Cao : *
-Con sẽ đi trước Chúa, mở lối cho Người,
-
-Bảo cho Dân Chúa biết : Người sẽ cứu độ
-Là tha cho họ hết mọi tội khiên.
-
-Thiên Chúa ta đầy lòng trắc ẩn,
-Cho Vầng Đông tự chốn cao vời viếng thăm ta,
-
-Soi sáng những ai ngồi nơi tăm tối
-Và trong bóng tử thần,
-dẫn ta bước vào đường nẻo bình an.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
-      
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -6205,13 +5810,7 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
-
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -6250,53 +5849,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
-
-Linh hồn tôi ngợi khen Đức Chúa
-Thần trí tôi hớn hở vui mừng
-Vì Thiên Chúa, Đấng cứu độ tôi.
-
-Phận nữ tỳ hèn mọn,
-Người đoái thương nhìn tới ;
-Từ nay hết mọi đời
-Sẽ khen tôi diễm phúc.
-
-Đấng Toàn Năng đã làm cho tôi
-Biết bao điều cao cả.
-Danh Người thật chí thánh chí tôn !
-
-Đời nọ tới đời kia,
-Chúa hằng thương xót những ai kính sợ Người.
-
-Chúa giơ tay biểu dương sức mạnh
-Dẹp tan phường lòng trí kiêu căng.
-
-Chúa hạ bệ những ai quyền thế,
-Người nâng cao mọi kẻ khiêm nhường.
-
-Kẻ đói nghèo, Chúa ban của đầy dư,
-Người giàu có, lại đuổi về tay trắng.
-
-Chúa độ trì Ít-ra-en, tôi tớ của Người,
-Như đã hứa cùng cha ông chúng ta.
-
-Vì Người nhớ lại lòng thương xót
-Dành cho tổ phụ Áp-ra-ham
-Và cho con cháu đến muôn đời.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
