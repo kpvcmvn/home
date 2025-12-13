@@ -16940,30 +16940,75 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Khi ta được tiếp nhận 
+Tình yêu từ Giêsu 
+Chúng ta đã lãnh nhận 
+Mọi sự từ tay Cha.
+
+Thật hạnh phúc dường bao 
+Niềm vui được chia sẻ 
+Chia sẻ ngàn cơm bánh 
+Cho hết mọi người nghèo.
+
+Khi miệng ta loan truyền 
+Cuộc khổ nạn Kitô 
+Ta phó thác hoàn toàn 
+Mọi sự trong tay Cha.
+
+Sai ta làm Tông đồ 
+Đem hy vọng ngày mai 
+Cho hết mọi người nghèo 
+Trên khắp toàn cõi đất.
+
+Khi trở nên thân mình 
+Của Giêsu Kitô
+Chúng ta là huynh đệ 
+Con một Cha trên trời.
+
+Những ai đang xây đắp
+Hòa bình cho nhân gian
+Sẽ làm chứng về Cha
+Nơi hết mọi người nghèo.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Chúa sẽ dạy con biết đường về cõi sống.
+<strong>Đ</strong> Trước Thánh nhan hoan lạc chẳng hề vơi.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>Bài đọc 1</strong> 1Cr 1,26 -2,2
+<strong>Chúng tôi rao giảng một Đấng Mêsia chịu đóng đinh
+      Trích thư thứ nhất của thánh Phaolô gửi tín hữu Cô-rin-tô </strong>
+      Thưa anh em, anh em thử nghĩ lại xem: khi anh em được Chúa kêu gọi, thì trong anh em đâu có mấy kẻ khôn ngoan trước mặt người đời, đâu có mấy người quyền thế, mấy người quí phái. Song những gì thế gian cho là điên dại, thì Thiên Chúa đã chọn để hạ nhục những kẻ khôn ngoan, và những gì thế gian cho là yếu kém, thì Thiên Chúa đã chọn để hạ nhục những kẻ hùng mạnh; những gì thế gian cho là hèn mạt không đáng kể, là không có, thì Thiên Chúa đã chọn để hủy diệt những gì hiện có, hầu không một phàm nhân nào dám tự phụ trước mặt Người. Phần anh em, chính nhờ Thiên Chúa mà anh em được hiện hữu trong Đức Kitô Giêsu, Đấng đã trở nên sự khôn ngoan của chúng ta, sự khôn ngoan phát xuất từ Thiên Chúa: Đấng đã làm cho anh em trở nên công chính, đã thánh hóa và cứu chuộc anh em, hợp như lời đã chép rằng: Ai tự hào thì hãy tự hào trọng Thiên Chúa.
+      Thưa anh em, khi tôi đến với ảnh em, tôi không dùng lời lẽ hùng hồn hoặc triết lý cao siêu mà loan báo mầu nhiệm của Thiên Chúa. Vì hồi còn ở giữa anh em, tôi đã không muốn biết đến chuyện gì khác ngoài Đức Giêsu kitô, mà là Đức Giêsu Kitô chịu đóng đinh vào thập giá.
+<strong>XĐ</strong> Hãy để tình yêu theo đuổi công việc của mình 
+cho đến ngày của Đức Kitô,
+* vì chỉ tình yêu mới sinh hoa kết trái công chính 
+cho vinh quang Thiên Chúa.
+<strong>X</strong> Hãy mở mắt nhìn ánh sáng tình yêu,
+anh em hãy giữ mình trong sạch
+và không có gì đáng trách vào ngày của Đức Kitô.*
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Những người nghèo là những ông chủ của chúng ta
+Trích những bài nói chuyện của thánh Vinh Sơn”. Coste X, 331-337 </strong>
+Sau tình yêu Chúa và sau việc chị em ước mong làm đẹp lòng Chúa, thì công việc chính của chị em là chăm sóc các bệnh nhân nghèo cách hết sức dịu dàng và thân tình, thông cảm nỗi đau của họ và lắng nghe những lời than van như thể một người mẹ hiền phải làm; vì họ coi chị em như những vú nuôi và những người được Thiên Chúa sai đến để giúp đỡ họ. Như thế chị em được làm những người diễn tả lòng nhân từ của Chúa nơi những bệnh nhân nghèo này. Thế mà, vì lòng nhân từ này đối xử với những người đau khổ một cách dịu dàng và hiền hoà, thì chị em cũng phải cư xử với các bệnh nhân nghèo như chính lòng nhân từ dậy bảo chị em, nghĩa là cư xử cách dịu dàng, thông cảm và với tình thương yêu; vì họ là những ông chủ của các chị em, cũng như của chúng tôi. Có một tu hội, tôi không nhớ tên, gọi họ là những ông hoàng bà chúa của mình, những người đó nói rất chí lý. Oi! Những bệnh nhân nghèo là những ông hoàng trên trời! Cửa nước trời được mở ra cho họ, như chính Chúa nói trong Tin Mừng.
+Vậy đó là những điều buộc chị em phải phục vụ họ với lòng kính trọng như những ông chủ của mình, và với lòng sùng mộ, vì họ biểu trưng đích thân Chúa chúng ta, Đấng đã phán: “Những gì các con làm cho một trong những kẻ bé mọn nhất của Ta đây, là các con làm cho chính Ta”. Cũng thế, chị em ơi, quả thật, Chúa chúng ta ngự nơi người bệnh, Ngài nhận việc phục vụ mà chị em làm cho người bệnh. Và bởi thế, không những phải cảnh giác tránh những sự thô bạo và mất kiên nhẫn, mà còn phải cố gắng phục vụ họ cách thân tình và hết sức dịu dàng...
+Ô, chị em ơi, thật hạnh phúc Thiên Chúa đã ban cho chị em một công việc quá thánh thiêng! Còn gì cao đẹp và dễ thương hơn khi một người bỏ mọi sự để hiến mình hoàn toàn cho Thiên Chúa để phục vụ người nghèo. Ôi! việc đó cao đẹp biết bao! Nếu chúng ta nhìn thấy một Nữ Tử Bác Ái đang phục vụ chu đáo các bệnh nhân, đang lo cho phần rỗi của họ, đang làm việc hết sức mình để nên hoàn thiện, để làm hài lòng Chúa, thì chị em ơi, nếu chúng ta nhìn thấy lối sống của một nữ tử như vậy, thật không còn gì đẹp bằng tâm hồn ấy. Bây giờ chúng ta không nhìn thấy, nhưng chúng ta sẽ nhìn thấy tâm hồn ấy ở trên trời... Nếu chúng ta gặp một nữ tử làm được như thế, ta sẽ thấy tâm hồn chị chiếu sáng như mặt trời, như lời Chúa nói trong Kinh Thánh : “Người công chính chiếu sáng như mặt trời”.
+A ! Các con ơi, nếu các con biết thật là ân phúc được Chúa kêu mời phục vụ người nghèo! Khi một Nữ Tử Bác Ái tốt lành hiến cả đời mình cho việc phục vụ Chúa, thì chị đã bỏ mọi sự, thì với chị, trên thế gian không còn gì, cả cha, cả mẹ, của cải, tư hữu, cả kiến thức, chỉ có Thiên Chúa và Vì Thiên Chúa, thì có lý do chính đáng mà tin rằng nữ tử ấy, một ngày kia sẽ là phúc nhân.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Đây là điều răn chúng ta nhận được từ Người,
+ai yêu mến Thiên Chúa thì cũng yêu thương anh em mình.
+* Ai tuân giữ các điều răn của Chúa,
+thì ở lại trong Thiên Chúa
+và Thiên Chúa ở lại trong người ấy.
+<strong>X</strong> Còn chúng ta, chúng ta đã biết tình yêu Thiên Chúa nơi chúng ta,
+và chúng ta tin vào tình yêu đó.*
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa,
+      Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa nơi người nghèo, và cho chúng con được làm chứng nhân cho tình yêu Chúa trên thế giới.
+      Chúng con cầu xin nhờ Đức Giêsu Kitô, Đấng hằng sống hằng trị cùng Thiên Chúa Cha, hợp nhất với Chúa Thánh Thần đến muôn thuở muôn đời.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -16997,7 +17042,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Ta hãy đến thờ lạy Chúa,
+chỉ có Chúa là Đấng Thánh.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -17035,17 +17081,40 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Ca-thy Ái Nữ Tình Yêu Chúa
+Chia sẻ yêu thương với người nghèo 
+Nguyện xin thánh nữ thương cầu giúp 
+Muôn người quảng đại với tha nhân.
+
+Bác ái như cây nho kiên nhẫn
+Đón gió thu về sẽ đơm hoa 
+Ích kỷ bạo tàn rơi rụng hết 
+Chỉ còn phục vụ với yêu thương.
+
+Tình yêu đưa dẫn vào phục vụ 
+Ngày qua tháng tới bước lên đường 
+Tình yêu đánh bại muôn trở lực 
+Bão tố hung tàn cũng lặng yên.
+
+Tình yêu chiếu sáng niềm hy vọng 
+Gìn giữ niềm tin cho muôn người 
+Tình yêu tuyệt đỉnh là hiến tế 
+Khổ giá gian nguy sá ngại chi.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Dc 8, 7
+Nước lũ không dập tắt nổi tình yêu, 
+Sóng cồn không tài nào vùi lấp. 
+Ai đem hết gia tài sự nghiệp mà đổi lấy tình yêu, 
+Ắt sẽ bị người đời khinh dể.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Ai tuân giữ Lời Thầy,
+* Cha Thầy sẽ yêu mến người ấy.
+<strong>X</strong> Ai khiêm nhường phục vụ tha nhân. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Chúa là phần gia nghiệp của con,
+Người nhân lành đối với những ai tìm kiếm Người.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -17085,9 +17154,18 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Trong niềm hân hoan mừng kính thánh nữ Ca-ta-ri- na, chúng ta hãy cảm tạ Chúa vì chứng tá thánh nữ đã nêu gương cho chúng ta.
+      <i>Vinh danh Chúa, lạy Chúa, chúng con vinh danh Chúa. </i>
+      Chúc tụng Chúa, lạy Chúa, vì sức mạnh của sự thinh lặng nơi thánh nữ trên các biến cố kỳ diệu trong cuộc đời ngài.
+      Chúc tụng Chúa, lạy Chúa, vì tầm quan trọng thánh nữ đã dành cho đời sống cộng đoàn.
+      Chúc tụng Chúa, lạy Chúa, vì sự gắn bó của thánh nữ với kinh nguyện và với bí tích Thánh Thể.
+      Chúc tụng Chúa, lạy Chúa, vì sự kiên nhẫn của thánh nữ đối với những người khó tính và cứng lòng.
+      Chúc tụng Chúa, lạy Chúa, vì sự đơn sơ tin tưởng trong giờ lâm tử của thánh nữ.
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ biết phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa trong người nghèo, và làm chứng cho tình yêu Chúa trên trần gian.
+      <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -17174,13 +17252,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 1,22-23
+      Nhờ vâng phục sự thật, anh em đã thanh luyện tâm hồn để thực thi tình huynh đệ chân thành. Anh em hãy tha thiết yêu mến nhau với tất cả tâm hồn. Vì anh em đã được tái sinh, không phải do hạt giống mục nát, mà do hạt giống bất diệt, nhờ lời Thiên Chúa hằng sống và tồn tại mãi mãi.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Xin dạy con biết phán đoán cho đúng và tuân giữ Lời Chúa,
+<strong>Đ</strong> Vì con hằng tin tưởng giới răn Ngài.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ biết phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa trong người nghèo, và làm chứng cho tình yêu Chúa trên trần gian.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
