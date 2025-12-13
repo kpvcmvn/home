@@ -4053,7 +4053,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Tin Mừng được rao giảng cho người nghèo! 
+Chúa sẽ cứu độ dân Người. Halêluia.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -4091,17 +4092,171 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Nếu tình yêu là một ngọn lửa mới 
+Lời vâng của bạn làm cháy bừng lên 
+Trong Kitô, Thiên Chúa đã tự hiến 
+Cho mọi người, cho hết mọi thế nhân 
+Khi lập nên bí tích của tình yêu
+Xin hãy nhớ:
+“Tình yêu luôn sáng tạo đến vô cùng”.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Mười lần viếng thăm người nghèo, đau khổ 
+Mười lần bạn đã gặp Đức Kitô 
+Ngài đang đau yếu, đang gọi bạn đi 
+Hãy chạy đến mau, Chúa đang đợi chờ 
+Vắng bạn rồi, kinh lễ vẫn không sao 
+Xin hãy nhớ:
+Đó là “rời Chúa vì Chúa” mà thôi.
 
-<strong>Lời Chúa</strong>
+Chúng ta được sống trong Đức Kitô 
+Là nhờ vào cái chết của chính Ngài 
+Và để được chết như Đức Kitô 
+Chúng ta phải sống như Ngài đã sống 
+Tình yêu Ngài đang thôi thúc chúng ta
+Xin hãy nhớ:
+“Ta chỉ được mãn nguyện trong Ngài thôi”.
+
+Nếu người thân cận tôi không yêu Chúa 
+Thì tình tôi yêu Chúa, ích gì đâu 
+Tôi đã sống và phục vụ suốt đời 
+Là niềm vui, là hạnh phúc bền lâu 
+Loan Tin Mừng cho muôn dân muôn nước
+Xin hãy nhớ:
+“Đó chính là theo Chúa trong Kitô”.
+
+<strong>Ca vịnh</strong>
+<strong>Tv 62
+Khao khát Thiên Chúa</strong>
+<strong>ĐC</strong> Thiên Chúa đã ban cho họ vinh quang vô tận,
+Tên tuổi họ sẽ chẳng bị quên lãng bao giờ.
+
+Lạy Thiên Chúa, Ngài là Chúa con thờ,
+ngay từ rạng đông, con tìm kiếm Chúa.
+Linh hồn con đã khát khao Ngài,
+tấm thân này mòn mỏi đợi trông, *
+như mảnh đất hoang khô cằn, không giọt nước.
+ 
+Nên con đến ngắm nhìn Ngài trong nơi thánh điện,
+để thấy uy lực và vinh quang của Ngài. *
+Bởi ân tình Ngài quý hơn mạng sống,
+miệng lưỡi này xin ca ngợi tán dương.
+ 
+Suốt cả đời con, nguyện dâng lời chúc tụng,
+và giơ tay cầu khẩn danh Ngài. *
+Lòng thỏa thuê như khách vừa dự tiệc,
+môi miệng con rộn rã khúc hoan ca.
+ 
+Con tưởng nhớ Chúa trên giường ngủ,
+suốt năm canh thầm thĩ với Ngài. *
+Quả thật Ngài đã thương trợ giúp,
+nương bóng Ngài, con hớn hở reo vui.
+ 
+Trót cả tâm tình, con cùng Ngài gắn bó,
+giơ tay quyền lực, Ngài che chở phù trì.
+
+<strong>Tc Đn 3
+Thánh thi ba trẻ nhỏ</strong>
+<strong>ĐC</strong> Hỡi tôi tớ Chúa,
+muôn ngàn đời hãy chúc tụng Chúa.
+
+Chúc tụng Chúa đi, mọi công trình của Chúa,
+muôn ngàn đời, hãy ca tụng suy tôn. *
+Chúc tụng Chúa đi, các thiên sứ của Người,
+chúc tụng Chúa đi, chín tầng trời thăm thẳm.
+ 
+Chúc tụng Chúa đi, nguồn nước tận cao xanh,
+chúc tụng Chúa đi, mọi cơ binh thượng giới, *
+Chúc tụng Chúa đi, mặt trời với mặt trăng,
+chúc tụng Chúa đi, hỡi tinh tú muôn ngàn.
+ 
+Chúc tụng Chúa đi, nào mưa sương tất cả,
+chúc tụng Chúa đi, mọi luồng gió cơn dông, *
+chúc tụng Chúa đi, sức nóng với lửa hồng,
+chúc tụng Chúa đi, trời nồng và khí lạnh.
+ 
+Chúc tụng Chúa đi, nào sương đọng mưa tuôn,
+chúc tụng Chúa đi, kìa thời đông tiết giá. *
+Chúc tụng Chúa đi, này băng phủ tuyết rơi,
+chúc tụng Chúa đi, hỡi đêm ngày đắp đổi.
+ 
+Chúc tụng Chúa đi, ánh sáng và bóng tối,
+chúc tụng Chúa đi, chớp giật với mây trôi, *
+chúc tụng Chúa đi, tất cả mười phương đất,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Chúc tụng Chúa đi, này đồi xanh núi biếc,
+chúc tụng Chúa đi, kìa hoa lá cỏ cây, *
+chúc tụng Chúa đi, hỡi suối nước tràn đầy,
+chúc tụng Chúa đi, nào sông sâu biển cả.
+ 
+Chúc tụng Chúa đi, kình ngư cùng thủy tộc,
+chúc tụng Chúa đi, hết mọi loài chim chóc, *
+chúc tụng Chúa đi, gia súc lẫn thú rừng,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Chúc tụng Chúa đi, hỡi phàm nhân dương thế,
+chúc tụng Chúa đi, dòng dõi Ít-ra-en, *
+chúc tụng Chúa đi, tư tế phụng thờ Chúa,
+chúc tụng Chúa đi, tôi tớ phục vụ Người.
+ 
+Chúc tụng Chúa đi, hồn thiêng hàng công chính,
+chúc tụng Chúa đi, người thánh kẻ khiêm nhường. *
+Chúc tụng Chúa đi, này Kha-na-ni-a,
+A-da-ri-a và Mi-sa-en hỡi,
+muôn ngàn đời, hãy ca tụng suy tôn.
+ 
+Nào chúc tụng Chúa Cha,
+Chúa Con, và Chúa Thánh Thần, *
+muôn ngàn đời, cùng ca tụng suy tôn.
+ 
+Lạy Chúa,
+chúc tụng Chúa trên cõi trời cao thẳm, *
+muôn ngàn đời, xin ca tụng suy tôn.
+<i>(Chú ý: không đọc kinh "Vinh danh" cuối thánh ca này.)</i>
+
+<strong>Tv 149
+Ngợi khen Chúa bằng những bài ca chiến thắng</strong>
+<strong>ĐC</strong> Kẻ kiên trung, hãy vui mừng rạng rỡ,
+đến giờ toàn thắng hãy cất tiếng reo hò.
+
+Hát lên mừng Chúa một bài ca mới,
+ngợi khen Người trong cộng đoàn những kẻ hiếu trung!
+ 
+Hỡi Ít-ra-en, nào hoan hỷ,
+vì có Chúa là Ðấng tạo thành ngươi. *
+Con cái Xi-on, hãy nhảy mừng,
+vì được Chúa làm Vua hiển trị.
+ 
+Mừng Thánh Danh, nào dâng điệu vũ,
+nhịp trống họa đàn theo khúc hoan ca. *
+Bởi vì Chúa mến chuộng Dân Người,
+ban cho kẻ nghèo hèn được vẻ vang chiến thắng.
+ 
+Kẻ hiếu trung hãy vui mừng rạng rỡ,
+nào phủ phục mà cất tiếng reo hò, *
+miệng vang lời tán dương Thiên Chúa,
+thanh gươm hai lưỡi, cầm chắc trong tay.
+ 
+Ðể trả thù muôn nước
+và trừng trị chư dân,
+để xiềng chân vua chúa
+và xích cổ vương hầu,
+ 
+để thi hành án phạt
+Chúa đã viết từ xưa.
+Ðó là niềm vinh dự
+cho mọi kẻ trung hiếu với Người.
+
+<strong>Lời Chúa</strong> Cl 3,14-15
+      Trên hết mọi đức tính, anh em phải có lòng Bác Ái: đó là mối dây liên kết tuyệt hảo. Ước gì ơn bình an của Đức Kitô điều khiển tâm hồn anh em, vì trong một thân thể duy nhất, anh em đã được kêu gọi đến hưởng ơn bình an đó. Bởi vậy, anh em hãy hết dạ tri ân.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Hàng tư tế của Chúa,
+* Chúc tụng Chúa đi.
+<strong>X</strong> Người thánh kẻ khiêm nhường.*
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Thánh Vinh Sơn là người an ủi kẻ ưu phiền, 
+Là người bênh vực cô nhi quả phụ.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -4141,10 +4296,17 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
-
+      Hiệp nhất trong sức mạnh của Thánh Thần Chúa, chúng ta hãy tin tưởng cầu xin Đức Giêsu Kitô là quy luật của việc truyền giáo.
+      <i>Lạy Chúa, chúng con trông cậy nơi Chúa !</i>
+      Lạy Chúa, xin mở lòng, mở mắt, mở tay chúng con, <i>- để yêu mến Chúa qua anh chị em chúng con gặp gỡ.</i>
+      Lạy Chúa, xin mở cửa Hội Thánh Chúa khắp bốn phương trời, <i>- để Hội Thánh trở thành dấu chỉ tập hợp nhân loại trên con đường về với Chúa.</i>
+      Lạy Chúa, xin mở con đường Hòa bình cho thế giới, <i>- để thế giới nhận biết và tiếp đón Chúa như một người bạn.</i>
+      Lạy Chúa, xin mở tai những người đang cai trị trái đất này, <i>- để họ nghe được tiếng công lý và hòa bình trên trái đất này.</i>
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã ban cho tôi trung của Chúa là thánh Vinh Sơn Phaolô mọi đức tính xứng bậc tông đồ, để thánh nhân phục vụ người cùng khốn và đào tạo các linh mục; xin cho chúng con là những kẻ noi theo lời Người dạy, luôn cháy bừng đức ái của Người để yêu mến những gì Người đã yêu mến và thực hành những gì Người đã dạy.
+      <i>Chúng con cầu xin...</i>
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -4229,7 +4391,36 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Đấng trị vì cùng với Chúa Thánh Thần
 Tự ngàn xưa tới muôn đời muôn thuở.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+<strong>Ca vịnh</strong>
+<strong>Tv 119
+Than phiền chống miệng lưỡi điêu ngoa</strong>
+<strong>ĐC</strong> Hãy hòa hảo với Thiên Chúa, 
+Chúa sẽ là mọi sự cho chúng ta, 
+và với Ngài, chúng ta sẽ có mọi sự.
+
+Lúc ngặt nghèo, tôi kêu lên cùng Chúa,
+Chúa đã thương đáp lời.*
+Lạy Chúa, xin Ngài cứu mạng con 
+Khỏi môi miệng điêu ngoa, tấc lưỡi phỉnh phờ.
+
+Lưỡi phỉnh phờ kia hỡi!
+Chúa sẽ giáng gì xuống ngươi đây,
+Và còn thêm chi nữa ?*
+Giáng toàn mũi tên nhọn của người chiến binh, 
+Thêm những hòn than đước đỏ hồng!
+
+Thật bất hạnh cho tôi
+Phải trú ngụ trong miền rợ Me-séc.
+Phải sống cùng dân du mục Kêđa
+
+Tấm thân này trải bao năm tháng 
+Sống cùng những kẻ ghét hòa bình.*
+Tôi vốn chuộng hòa bình.
+Nhưng hễ tôi nói tới
+Thì phe họ lại muốn chiến tranh.
+
+
+
 <strong>Lời Chúa</strong>
 <strong>Xướng đáp</strong>
 <strong>X</strong>
