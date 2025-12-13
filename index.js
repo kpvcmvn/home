@@ -16041,27 +16041,66 @@ Và ai nấy múa nhảy hát ca:
 Xi-on hỡi, mọi nguồn gốc của tôi ở nơi thành”.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tất cả những điều ấy, Đức Maria hằng ghi nhớ
+<strong>Đ</strong> và suy niệm trong lòng.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Hc 24,1-7;17-22;30
+<strong>Lời Chúa trong sách Huấn ca </strong>
+<i>Sự khôn ngoan của Thiên Chúa, tất cả ơn huệ cuộc sống và sự thật, đều biểu lộ trước nơi Đức Maria.</i>
+      Đức khôn ngoan tự biểu dương, và hãnh diện trong Chúa. Giữa dân mình, Đức khôn ngoan biểu dương vinh quang. Trong đại hội của Đấng Tối Cao, khôn ngoan lên tiếng; trước Đấng Quyền Năng, khôn ngoan được vinh dự.
+      Ta phát xuất từ miệng Đấng Tối Cao, Ta được sinh ra trước mọi loài thụ tạo. Ta đã dựng trên bầu trời một vầng sáng không hề tắt; như mây mù, Ta bao phủ trái đất. Chỗ ở của Ta trên nơi cao thẳm, và ngai Ta trên cột mây. Chỉ mình Ta đi vòng cả bầu trời và rảo bước khắp vực sâu thăm thẳm. Ta đi trên sóng biển, Ta thống trị toàn trái đất; và trên mọi nước, mọi dân, Ta nắm trọn chủ quyền. Và giữa chúng hết thảy, Ta đã tìm chốn nghỉ ngơi, và tại gia nghiệp của Chúa Ta đã đến cư ngụ.
+      Như cây nho, Ta tỏa hương thơm ngát; hoa của Ta sẽ kết trái vinh quang danh dự. Ta là mẹ của tình yêu cao đẹp và của lòng kính sợ Chúa, của nhận thức và của sự hy vọng thánh thiêng; vẻ yêu kiều của cuộc sống và của chân lý đều ở nơi Ta; ở nơi Ta, mọi hy vọng của cuộc sống và của nhân đức. Hỡi những kẻ khao khát Ta, nào hãy đến, hãy ăn cho thỏa hoa trái của ta. Vì tưởng nhớ đến Ta thì ngọt dịu hơn mật, gia sản của Ta dịu ngọt hơn tảng mật ong. Ký ức về Ta thì lưu truyền qua các thế kỷ. Ai ăn Ta sẽ còn đói, ai uống Ta sẽ còn khát. Ai nghe lời Ta sẽ không phải thẹn thùng. Ai hoạt động nhờ Ta sẽ không hề phạm tội. Ai khám phá ra Ta sẽ có sự sống đời đời.
+      Ta, Đức Khôn Ngoan, Ta khơi nguồn các dòng sông. Ta như dòng nước vô hạn chảy từ sông lớn, Ta như nhánh sông lớn; như con kênh dẫn nước, từ Thiên Đàng Ta dẫn ra.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Tôi mừng rỡ muôn phần nhờ Thiên Chúa tôi thờ,
+Tôi hớn hỡ biết bao!
+* Ôi Maria, Mẹ Đấng Cứu Thế,
+Cùng với Mẹ, chúng con ca ngợi Quyền Năng Chúa.
+<strong>X</strong> Vì Người mặc cho tôi hồng ân cứu độ,
+Choàng cho tôi đức chính trực công minh, 
+Thiên Chúa sẽ làm trổ hoa công chính, 
+Làm trổi vang lời ca ngợi trước mặt muôn dân. *
 
-<strong>Bài đọc 2</strong>
-<strong> </strong>
+<strong>Bài đọc 2</strong> <i>(Chọn một trong hai)</i>
+<strong>I
+Đức Maria chuyển cầu cho thế giới bên con Mẹ
+Bút tích của thánh Catarina Labouré
+</strong>
+      Ngày 27/11/1830 là ngày thứ bẩy, áp ngày Chúa nhật I Mùa Vọng, lúc 5g30 chiều, sau giờ nguyện gẫm, lúc đang yên lặng như tờ, nghĩa là vài phút sau khi kết thúc nguyện gẫm, dường như tôi nghe thấy tiếng động bên phía trên gác đàn, phía ảnh thánh Giuse, như tiếng sột soạt của áo dài lụa. Khi nhìn lên phía đó, tôi thấy Đức Trinh Nữ ở độ cao với ảnh thánh Giuse.
+      Đức Trinh Nữ đang đứng, mặc áo trắng, một áo dài lụa trắng vàng trang điểm những gì xứng với trinh nữ, tay áo phẳng, khăn đội đầu trắng rũ thấp xuống. Dưới khăn, tôi thấy tóc vấn, bên trên khăn một giải ren cao khoảng 3 cm không nếp gấp, tức là đặt nhẹ lên tóc Đức Trinh Nữ, gương mặt để lộ; hai bàn chân dẫm lên một quả cầu, tức nửa quả cầu, theo tôi, xem ra là một nửa. Và Đức Trinh Nữ còn cầm trên tay một quả cầu, quả cầu biểu trưng địa cầu. Đức Trinh Nữ đưa tay lên ngang ngực một cách rất dễ dàng, mắt nhìn lên trời... Lúc này gương mặt Đức Trinh Nữ rất đẹp. Tôi không tài nào tả được...
+      Và rồi bỗng nhiên, tôi thấy những chiếc nhẫn trên các ngón tay nạm những viên ngọc đẹp khác nhau, viên thì lớn hơn, viên nhỏ hơn, đều chiếu những tia sáng đẹp khác nhau. Những viên ngọc lớn phát ra những tia sáng lớn, những viên nhỏ phát ra những tia sáng nhỏ, luôn luôn tỏa rộng ra và tỏa về phía dưới, đầy phía dưới. Tôi không còn nhìn thấy chân Đức Trinh Nữ nữa...
+      Vào lúc tôi đang mải ngắm Đức Trinh Nữ, thì Đức Thánh Trinh Nữ ghé mắt nhìn tôi. Một giọng nói vang lên nói với tôi những lời này: “Quả cầu mà con thấy biểu trưng toàn thể thế giới, nhất là nước Pháp và cách riêng là từng người”. Bây giờ, tôi không biết diễn tả ra những gì mà tôi cảm thấy, và những gì mà tôi nhìn thấy, vẻ đẹp và ánh sáng, những tia sáng quá đẹp. “Đó là biểu tượng những ơn huệ mà Mẹ tuôn ban cho những người cầu xin Mẹ, đang khi Mẹ cho tôi hiểu cầu xin Đức Thánh Trinh Nữ thật thú vị biết bao, và Đức Trinh Nữ quảng đại biết bao đối với những người cầu xin với Đức Trinh Nữ. Biết bao ơn huệ ngài ban cho những người kêu cầu, ngài vui mừng biết bao khi ban những ân phúc ấy.
+      Vào lúc này tôi còn tỉnh hay mơ, tôi đang vui thỏa, tôi không biết..thì, quanh Đức Trinh Nữ, hình thành một tấm bảng, hình bầu dục, chỗ cao trên tấm bảng viết những lời này bằng chữ vàng : “Ôi lạy Maria Vô Nhiễm Nguyên Tội, xin cầu cho chúng con là kẻ chạy đến cùng Mẹ".
+      Lúc ấy một giọng nói vang lên bảo tôi: “Hãy cho đúc một mẫu ảnh theo mẫu này. Tất cả những ai đeo ảnh này sẽ nhận được những ơn lớn lao, khi đeo ảnh quanh cổ. Ân phúc sẽ dư tràn trên những ai đeo ảnh với lòng trông cậy”.
+      Lúc tấm bảng đã được lật ngược, tôi thấy mặt sau của mẫu ảnh. Tôi lo lắng vì biết những gì phải khắc ở mặt sau mẫu ảnh, thì sau bao kinh nguyện, một ngày trong giờ nguyện gẫm, tôi nghe một giọng nói bảo tôi: “Chữ M và hai trái tim nói đủ mọi sự“.
      
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Có điềm lạ xuất hiện trên trời:
+một người Nữ mình khoác mặt trời, chân đạp mặt trăng,
+* đầu đội triều thiên mười hai ngôi sao.
+<strong>X</strong> Nữ hoàng bên hữu thánh vương,
+điểm trang lộng lẫy toàn vàng Ophia. *
+
+<strong>II
+Đức Maria, nữ tì của Chúa
+Trích Hiến Chế Tín Lý về Hội Thánh số 61-62 </strong>
+      Từ muôn đời, Đức Trinh Nữ đã được tiền định làm Mẹ Thiên Chúa cùng một lúc với việc nhập thể của Ngôi Lời Thiên Chúa. Và theo chương trình của Chúa Quan Phòng, trên trần gian Ngài đã trở nên Mẹ cao sang của Đấng Cứu Chuộc thần linh, và cách đặc biệt hơn mọi người khác, Ngài là cộng sự viên quảng đại, và tôi tá khiêm hạ của Chúa. Vì đã cưu mang, sinh hạ và nuôi dưỡng Chúa Kitô, đã dâng Chúa Kitô lên Chúa Cha trong đền thánh và cùng đau khổ với con mình chết trên thập giá, Đức Maria đã cộng tác rất đặc biệt vào công trình của Đấng Cứu Thế, nhờ lòng vâng phục, nhờ đức tin, đức cậy và đức ái nồng nhiệt, để tái lập sự sống siêu nhiên cho các linh hồn. Bởi vậy, trên bình diện ân sủng, Ngài thật là mẹ chúng ta.
+      Nhưng trong nhiệm cục ân sủng, Đức Maria luôn tiếp tục thiên chức làm mẹ, từ khi Ngài tin tưởng ưng thuận trong ngày Truyền tin – sự ưng thuận mà Ngài đã không ngần ngại giữ vững bên thập giá - cho tới lúc vĩnh viễn hoàn tất việc cứu rỗi mọi người được tuyển chọn. Thực vậy, sau khi về trời, vai trò của Ngài trong việc cứu độ không chấm dứt, nhưng Ngài vẫn tiếp tục liên lỉ cầu bầu để đem lại cho chúng ta những ân huệ giúp chúng ta được phần rỗi đời đời. Với tình mẫu tử, Ngài chăm sóc những anh em của Con Ngài đang lữ hành trên dương thế và đang gặp bao nguy hiểm, thử thách, cho đến khi họ đạt tới hạnh phúc quê trời. Vì thế, trong Giáo Hội, Đức Trinh Nữ được kêu cầu qua các tước hiệu: Trạng sư, Vị bảo trợ, Đấng phù hộ và Đấng trung gian. Tuy nhiên phải hiểu các tước hiệu ấy thế nào để không thêm bớt gì vào vinh dự và quyền năng của Đấng Trung Gian duy nhất.
+      Thực vậy, không bao giờ có thể đặt một tạo vật ngang hàng với Ngôi Lời nhập thể và cứu chuộc; nhưng cũng như chức linh mục của Chúa Kitô được thông ban dưới nhiều hình thức cho các thừa tác viên và các giáo dân, và cũng như sự tốt lành của Thiên Chúa được ban phát nhiều cách cho các tạo vật, thì sự trung gian duy nhất của Đấng Cứu Thế không những không loại bỏ mà khuyến khích các thụ sinh cộng tác, trong sự tuỳ thuộc vào nguồn mạch duy nhất.
+      Vai trò tuỳ thuộc ấy của Đức Maria, Giáo Hội không ngần ngại tuyên xưng, mà luôn nghiệm thấy, và nhắn nhủ các tín hữu ghi nhớ trong lòng để nhờ sự nâng đỡ và phù hộ từ mẫu của Ngài, họ gắn bó mật thiết hơn với Đấng Trung Gian và Cứu Thế.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Hỡi thiếu nữ Sion, hãy ca tụng và hân hoan: 
+vì này đây Ta đến ngự giữa ngươi.
+* Linh hồn tôi ngợi khen Chúa, 
+muôn ngàn đời Chúa vẫn trọn tình thương!
+<strong>X</strong> Vì ngươi, Ta sẽ vui mừng hoan hỷ, 
+sẽ lấy tình thương mà đổi mới ngươi. 
+Vì ngươi, Ta sẽ nhảy múa tưng bừng như trong ngày lễ hội.*
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Chúa, qua Đức Trinh Nữ Maria Vô Nhiễm, Chúa đã ban cho nhân loại kho tàng ơn cứu độ đời đời. Nhờ lời Mẹ chuyển cầu, xin Chúa cho chúng con trung thành phụng sự Chúa và, bằng lời nói và việc làm, chúng con ra sức làm cho Vinh Quang Chúa được toả sáng.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -16095,7 +16134,10 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúng ta hãy mừng kính
+Đức Trinh Nữ Maria Vô Nhiễm Nguyên Tội:
+chúng ta hãy đến bái thờ Thánh Tử của Người, 
+Đức Kitô, Chúa chúng ta.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -16133,10 +16175,147 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Ánh sáng Chúa muôn muôn ngàn ân sủng,
+Nơi Thiên Chúa hằng chiếu tỏa tình yêu.
+Cùng với Mẹ, ôi Thánh Mẫu mỹ miều, 
+Xin Thần Khí tặng ban trái tim mới.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Ánh sáng Chúa như mặt trời chiếu rọi, 
+Chốn ngục tù, đầy thương tích bất công.
+Cùng với Mẹ, nguyện xin Thánh Thần Chúa 
+Nâng đỡ bao người hèn yếu, khổ đau.
 
-<strong>Lời Chúa</strong>
+Ánh sáng Chúa như ngàn muôn tinh tú,
+Dẫn chúng con tiến bước giữa đêm trường.
+Cùng với Mẹ, nguyện xin Thánh Thần Chúa,
+Ban niềm tin trên nẻo đường Phục Sinh.
+
+<strong>Ca vịnh</strong>
+<strongTv 62
+Khao khát Thiên Chúa</strong
+<strong>ĐC</strong> Mẹ trong trắng biết bao, không vết nhơ tội lỗi
+Mẹ xứng đáng cưu mang Con Chúa Trời.
+
+Lạy Thiên Chúa, Ngài là Chúa con thờ,
+ngay từ rạng đông, con tìm kiếm Chúa.
+
+Linh hồn con đã khát khao Ngài,
+tấm thân này mòn mỏi đợi trông, *
+như mảnh đất hoang khô cằn, không giọt nước.
+
+Nên con đến ngắm nhìn Ngài trong nơi thánh điện,
+để thấy uy lực và vinh quang của Ngài. *
+Bởi ân tình Ngài quý hơn mạng sống,
+miệng lưỡi này xin ca ngợi tán dương.
+
+Suốt cả đời con, nguyện dâng lời chúc tụng,
+và giơ tay cầu khẩn danh Ngài. *
+Lòng thỏa thuê như khách vừa dự tiệc,
+môi miệng con rộn rã khúc hoan ca.
+
+Con tưởng nhớ Chúa trên giường ngủ,
+suốt năm canh thầm thĩ với Ngài. *
+Quả thật Ngài đã thương trợ giúp,
+nương bóng Ngài, con hớn hở reo vui.
+
+Trót cả tâm tình, con cùng Ngài gắn bó,
+giơ tay quyền lực, Ngài che chở phù trì.
+
+<strong>Tc Đn 3
+Thánh thi ba trẻ nhỏ</strong>
+<strong>ĐC</strong> Lạy Đức Trinh Nữ Maria,
+Mẹ được Chúa trên trời chúc phúc
+hơn hết mọi phụ nữ trần gian.
+
+Chúc tụng Chúa đi, mọi công trình của Chúa,
+muôn ngàn đời, hãy ca tụng suy tôn. *
+Chúc tụng Chúa đi, các thiên sứ của Người,
+chúc tụng Chúa đi, chín tầng trời thăm thẳm.
+
+Chúc tụng Chúa đi, nguồn nước tận cao xanh,
+chúc tụng Chúa đi, mọi cơ binh thượng giới, *
+Chúc tụng Chúa đi, mặt trời với mặt trăng,
+chúc tụng Chúa đi, hỡi tinh tú muôn ngàn.
+
+Chúc tụng Chúa đi, nào mưa sương tất cả,
+chúc tụng Chúa đi, mọi luồng gió cơn dông, *
+chúc tụng Chúa đi, sức nóng với lửa hồng,
+chúc tụng Chúa đi, trời nồng và khí lạnh
+
+Chúc tụng Chúa đi, nào sương đọng mưa tuôn,
+chúc tụng Chúa đi, kìa thời đông tiết giá. *
+Chúc tụng Chúa đi, này băng phủ tuyết rơi,
+chúc tụng Chúa đi, hỡi đêm ngày đắp đổi.
+
+Chúc tụng Chúa đi, ánh sáng và bóng tối,
+chúc tụng Chúa đi, chớp giật với mây trôi, *
+chúc tụng Chúa đi, tất cả mười phương đất,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Chúc tụng Chúa đi, này đồi xanh núi biếc,
+chúc tụng Chúa đi, kìa hoa lá cỏ cây, *
+chúc tụng Chúa đi, hỡi suối nước tràn đầy,
+chúc tụng Chúa đi, nào sông sâu biển cả.
+
+Chúc tụng Chúa đi, kình ngư cùng thủy tộc,
+chúc tụng Chúa đi, hết mọi loài chim chóc, *
+chúc tụng Chúa đi, gia súc lẫn thú rừng,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Chúc tụng Chúa đi, hỡi phàm nhân dương thế,
+chúc tụng Chúa đi, dòng dõi Ítraen, *
+chúc tụng Chúa đi, tư tế phụng thờ Chúa,
+chúc tụng Chúa đi, tôi tớ phục vụ Người.
+
+Chúc tụng Chúa đi, hồn thiêng hàng công chính,
+chúc tụng Chúa đi, người thánh kẻ khiêm nhường. *
+Chúc tụng Chúa đi, này Khanania,
+Adaria và Misaen hỡi,
+muôn ngàn đời, hãy ca tụng suy tôn.
+
+Nào chúc tụng Chúa Cha,
+Chúa Con, và Chúa Thánh Thần, *
+muôn ngàn đời, cùng ca tụng suy tôn.
+
+Lạy Chúa,
+chúc tụng Chúa trên cõi trời cao thẳm, *
+muôn ngàn đời, xin ca tụng suy tôn.
+
+<strong>Tv 149
+Ngợi khen Chúa bằng những bài ca chiến thắng</strong>
+<strong>ĐC</strong> Lạy Trinh Nữ chẳng mắc tội truyền,
+xin lôi kéo chúng con theo Mẹ,
+là Đấng đầy hương thơm nhân đức.
+
+Hát lên mừng Chúa một bài ca mới,
+ngợi khen Người trong cộng đoàn những kẻ hiếu trung !
+
+Hỡi Ítraen, nào hoan hỷ,
+vì có Chúa là Ðấng tạo thành ngươi. *
+Con cái Xion, hãy nhảy mừng,
+vì được Chúa làm Vua hiển trị.
+
+Mừng Thánh Danh, nào dâng điệu vũ,
+nhịp trống họa đàn theo khúc hoan ca. *
+Bởi vì Chúa mến chuộng Dân Người,
+ban cho kẻ nghèo hèn được vẻ vang chiến thắng.
+
+Kẻ hiếu trung hãy vui mừng rạng rỡ,
+nào phủ phục mà cất tiếng reo hò, *
+miệng vang lời tán dương Thiên Chúa,
+thanh gươm hai lưỡi, cầm chắc trong tay.
+
+Ðể trả thù muôn nước
+và trừng trị chư dân,
+để xiềng chân vua chúa
+và xích cổ vương hầu,
+
+để thi hành án phạt
+Chúa đã viết từ xưa.
+Ðó là niềm vinh dự
+cho mọi kẻ trung hiếu với Người.
+
+<strong>Lời Chúa</strong> Is 61,10
 
 <strong>Xướng đáp</strong>
 <strong>XĐ</strong>
