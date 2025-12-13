@@ -16600,15 +16600,59 @@ tranh tụng với địch thù.
 
 <strong>Tc Ep 1,3-10
 Thiên Chúa cứu độ</strong>
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Áo Mẹ trắng như tuyết,
+dung nhan Mẹ tươi sáng tựa mặt trời.
 
-<strong>Lời Chúa</strong>
+Chúc tụng Thiên Chúa
+là Thân Phụ Ðức Giêsu Kitô, Chúa chúng ta.
+
+Trong Ðức Kitô,
+từ cõi trời, Người đã thi ân giáng phúc
+cho ta hưởng muôn vàn ân phúc của Thánh Thần.
+
+Trong Ðức Kitô,
+Người đã chọn ta trước cả khi tạo thành vũ trụ,
+
+để trước thánh nhan Người,
+ta trở nên tinh tuyền thánh thiện,
+nhờ tình thương của Người.
+
+Theo ý muốn và lòng nhân ái của Người,
+Người đã tiền định cho ta làm nghĩa tử
+nhờ Ðức Giêsu Kitô,
+
+để ta hằng ngợi khen ân sủng rạng ngời, *
+ân sủng Người ban tặng cho ta
+trong Thánh Tử yêu dấu.
+
+Trong Thánh Tử, nhờ máu Thánh Tử đổ ra,
+chúng ta được cứu chuộc, *
+được thứ tha tội lỗi,
+theo lượng ân sủng rất phong phú của Người.
+
+Ân sủng này, Thiên Chúa đã rộng ban cho ta
+cùng với tất cả sự khôn ngoan thông hiểu.
+
+Người cho ta được biết thiên ý nhiệm mầu: *
+thiên ý này là kế hoạch yêu thương
+Người đã định từ trước trong Ðức Kitô.
+
+Ðó là đưa thời gian tới hồi viên mãn, *
+là quy tụ mọi loài trong trời đất
+dưới quyền một thủ lãnh là Ðức Ki tô.
+
+<strong>Lời Chúa</strong> Kh 21,2-3
+      Tôi thấy thành thánh Giêrusalem mới, từ trời, từ nơi Thiên Chúa mà xuống, sẵn sàng như tân nương trang điểm để đón tân lang. Rồi tôi nghe từ phía ngai có tiếng hô to: “Đây là nơi Thiên Chúa ở cùng nhân loại, Người sẽ cư ngụ cùng với họ. Họ sẽ là dân của Người, còn chính Người sẽ là Thiên Chúa ở cùng họ”.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Thiên Chúa ngươi sẽ là vẻ đẹp của ngươi,
+* Là ánh sáng vĩnh cửu của ngươi.
+<strong>X</strong> Mọi dân tộc từ xa sẽ đến thờ lạy Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Đây là chỗ nghỉ ngơi Chúa chọn 
+để làm nơi cư ngụ, 
+Đây là đền thờ Chúa đã thánh hiến
+để Danh Chúa được kêu cầu.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -16643,10 +16687,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Chúng ta hãy dâng lời ngợi khen Thiên Chúa Cha, là Đấng đã muốn cho mọi thế hệ đều mừng kính Đức Maria, Mẹ của Con Ngài:
+      <i>Cùng với Mẹ Maria, Mẹ Đấng Cứu thế, chúng con tôn vinh quyền năng Thiên Chúa. </i>
+      “Hãy đến dưới chân bàn thờ này”. Chúc tụng Chúa, lạy Chúa, vì lời mời gọi của Đức Maria, Mẹ Thiên Chúa, <i>- xin lắng nghe lời chúc tụng của mọi khách hành hương đến gặp gỡ Chúa trong lời cầu nguyện và bí tích Thánh Thể. </i>
+      “Lạy Mẹ Vô Nhiễm Nguyên Tội, xin cầu cho chúng con". Chúc tụng Chúa, lạy Chúa, vì những điều kỳ diệu của tâm hồn Đức Maria, Mẹ Thiên Chúa, <i>- xin lắng nghe tiếng kêu cầu của người bị áp bức và tin tưởng trông cậy vào lòng nhân từ của Mẹ. </i>
+      “chữ M và Thập giá nói lên mọi sự đủ rồi”. Chúc tụng Chúa, lạy Chúa, vì sự hiện diện của Đức Maria, Mẹ Thiên Chúa, dưới chân Thập giá, <i>- xin Chúa tiếp nhận sự dấn thân của biết bao người nam nữ, đang phục vụ anh chị em bị tổn thương và biến dạng do những khó khăn của cuộc sống. </i>
+      “Quả địa cầu này biểu thị thế giới". Chúc tụng Chúa, lạy Chúa, vì Đức Maria, Mẹ Thiên Chúa, đã sinh ra Đấng Cứu thế, <i>- xin Chúa tập họp chúng con lại từ khắp mọi phương trời, để cùng nhau xây dựng một thế giới công bằng và hòa bình. </i>
+      “Cầu cho chúng con, khi nay và trong giờ lâm tử”. Chúc tụng Chúa, lạy Chúa, vì Đức Maria, Mẹ Thiên Chúa, đã được vào trong vinh quang Chúa, <i>- xin Chúa đón nhận gần bên Mẹ, trong Nước Chúa, tất cả anh chị em chúng con đã qua đời.</i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, qua Đức Trinh Nữ Maria Vô Nhiễm, Chúa đã ban tặng cho nhân loại kho tàng ơn cứu độ đời đời. Nhờ lời Đức Mẹ chuyển cầu, xin Chúa cho chúng con được trung thành phụng sự Chúa và bằng lời nói với việc làm, chúng con ra sức làm cho Vinh Quang Chúa được toả sáng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
