@@ -15663,53 +15663,7 @@ cùng vinh danh Thánh Thần Thiên Chúa,
 luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
-<strong>Thánh thi</strong>
-
-<strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
-<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
-
-Linh hồn tôi ngợi khen Đức Chúa
-Thần trí tôi hớn hở vui mừng
-Vì Thiên Chúa, Đấng cứu độ tôi.
-
-Phận nữ tỳ hèn mọn,
-Người đoái thương nhìn tới ;
-Từ nay hết mọi đời
-Sẽ khen tôi diễm phúc.
-
-Đấng Toàn Năng đã làm cho tôi
-Biết bao điều cao cả.
-Danh Người thật chí thánh chí tôn !
-
-Đời nọ tới đời kia,
-Chúa hằng thương xót những ai kính sợ Người.
-
-Chúa giơ tay biểu dương sức mạnh
-Dẹp tan phường lòng trí kiêu căng.
-
-Chúa hạ bệ những ai quyền thế,
-Người nâng cao mọi kẻ khiêm nhường.
-
-Kẻ đói nghèo, Chúa ban của đầy dư,
-Người giàu có, lại đuổi về tay trắng.
-
-Chúa độ trì Ít-ra-en, tôi tớ của Người,
-Như đã hứa cùng cha ông chúng ta.
-
-Vì Người nhớ lại lòng thương xót
-Dành cho tổ phụ Áp-ra-ham
-Và cho con cháu đến muôn đời.
-
-<strong>Lời cầu</strong>
-
-<strong>Kinh Lạy Cha</strong>
-<strong>Lời nguyện</strong>
+<i>Đang cập nhật...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -15947,8 +15901,144 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Maria thánh mẫu của tình thương, 
+Biến địa cầu thành đất mới thiên đường. 
+Chúa nhân lành tuôn đổ muôn tình thương, 
+Cho chúng con một thế giới tựa nương.
 
-<strong>Ca vịnh</strong> theo ngày trong tuần.
+Trái đất xưa bao tăm tối cô liêu, 
+Được biến đổi nhờ thánh giá tình yêu. 
+Hành tinh xanh là đất mới tuyệt vời, 
+Bừng sáng lên công lý tình cao siêu.
+
+Nơi đất mới còn đâu tiếng chiến tranh, 
+Và còn đâu gươm giáo với bạo hành.
+Còn lại đây nền hòa bình khôn sánh, 
+Hòa lời ca chan chứa mọi ơn lành.
+
+Ôi đất mới dù gần hay xa khuất, 
+Mãi là nơi người nô lệ nghỉ ngơi, 
+Mãi là niềm hoan hỉ cho muôn người 
+Cùng hạnh phúc khôn sánh mãi muôn nơi.
+
+<strong>Ca vịnh</strong>
+<strong>Tv 23
+Thiên Chúa vào Đền thánh của Người cách long trọng</strong>
+<strong>ĐC</strong> Đức Maria đã nhận được
+sự chúc phúc của Chúa
+và sự công chính của Thiên Chúa, Đấng Cứu Độ.
+
+Chúa làm chủ trái đất cùng muôn vật muôn loài, 
+Làm chủ hoàn cầu với toàn thể dân cư,* 
+Nền trái đất Người dựng trên biển cả, 
+Đặt vững vàng trên làn nước mênh mông.
+
+Ai được lên núi Chúa?
+Ai được ở trong đền thánh Người?
+
+Đó là kẻ tay sạch lòng thanh, 
+Chẳng mê theo ngẫu tượng, 
+Không thề gian thề dối.
+
+Người ấy sẽ được Chúa ban phúc lành, 
+Được Thiên Chúa cứu độ thưởng công xứng đáng,* 
+Đây chính là dòng dõi kiếm tìm Người, 
+Tìm thánh nhan Thiên Chúa nhà Giacóp.
+
+Hỡi cửa đền, hãy cất cao lên,* 
+Cao lên nữa, hỡi cửa đền cổ kính, 
+Để Đức vua vinh hiển ngự vào.
+
+Đức Vua vinh hiển đó là ai? * 
+Là Đức Chúa mạnh mẽ oai hùng, 
+Đức Chuá oai hùng khi xuất trận.
+
+Hỡi cửa đền, hãy cất cao lên,*
+Cao lên nữa, hỡi cửa đền cổ kính,
+Để Đức Vua vinh hiển ngự vào.
+
+Đức Vua vinh hiển đó là ai?*
+Là Chúa tể càn khôn:
+Chính Ngài là Đức Vua vinh hiển.
+
+<strong>Tv 45
+Thiên Chúa là sự cứu giúp và là sức mạnh của Dân Người </strong>
+<strong>ĐC</strong> Ngay từ rạng đông,
+Thiên Chúa đã nhận biết:
+Chính Đấng Tối Cao đã thánh hóa nơi Người ngự.
+
+Thiên Chúa là nơi ta ẩn náu,
+Là sức mạnh của ta.*
+Người luôn luôn sẵn sàng giúp đỡ 
+Khi ta phải ngặt nghèo.
+
+Nên dầu cho địa cầu chuyển động,
+Núi đồi có sập xuống biển sâu, *
+Dầu cho sóng biển ầm ầm sôi sục, 
+Núi đồi có lảo đảo khi thủy triều dâng, 
+Ta cũng chẳng sợ gì .
+
+Chính Chúa tể càn khôn 
+Ở cùng ta luôn mãi, 
+Thiên Chúa nhà Gia-cóp 
+Là thành bảo vệ ta.
+
+Một dòng sông chảy ra bao nhánh 
+Đem niềm vui cho thành của Chúa Trời: *
+Đây chính là đền thánh Đấng Tối Cao.
+
+Thiên Chúa ngự giữa thành, thành không lay chuyển; 
+Ngay từ rạng đông, Thiên Chúa thương trợ giúp. * 
+Muôn dân náo động, muôn nước chuyển lay, 
+Tiếng Người vang lên là trái đất rã rời.
+
+Chính Chúa Tể càn khôn Ở cùng ta luôn mãi, 
+Thiên Chúa nhà Gia-cóp Là thành bảo vệ ta.
+
+Đến mà xem công trình của Chúa, 
+Đấng gieo kinh hãi trên mặt địa cầu.
+
+Người chấm dứt chiến tranh trên toàn cõi thế, 
+Cung tên bẻ gẫy, gươm giáo đập tan, * 
+Còn khiên thuẫn thì quăng vào lửa.
+
+Dừng tay lại ! Hãy biết Ta đây là Thiên Chúa ! 
+Ta thống trị muôn dân, thống trị địa cầu.
+
+Chính Chúa Tể càn khôn 
+Ở cùng ta luôn mãi, 
+Thiên Chúa nhà Gia-cóp 
+Là thành bảo vệ ta.
+
+<strong>Tv 86 
+Xi-on là Mẹ muôn dân</strong>
+<strong>ĐC</strong> Ôi Maria ! Chúng con hát mừng Mẹ vinh hiển,
+Mẹ là nơi Chúa ngự;
+vì Chúa đã đặt Mẹ trên núi thánh của Người.
+
+Thành Xion được lập trên núi thánh, *
+Chúa yêu chuộng cửa thành
+Hơn mọi nhà của dòng họ Gia cóp.
+
+Thành của Thiên chúa hỡi,
+Thiên hạ nói bao điều hiển hách về thành!
+
+Chúa phán :
+“Ta sẽ kể Babilon và Ai cập
+Vào số những dân tộc nhận biết Ta”.
+
+Kìa xứ Phi-li-tinh,
+Thành Tia cùng miền Ê-thi-óp: *
+Tại đó, kẻ này người nọ đã sinh ra.
+
+Nhưng nói về Xi-on, thiên hạ bảo:
+“Người người sinh tại đó.” *
+Chính Đấng Tối Cao đã củng cố thành.
+
+Chúa ghi vào sổ bộ các dân:
+“Kẻ này người nọ đều sinh ra tại đó". *
+Và ai nấy múa nhảy hát ca:
+Xi-on hỡi, mọi nguồn gốc của tôi ở nơi thành”.
 
 <strong>Xướng đáp</strong>
 <strong>X</strong> 
