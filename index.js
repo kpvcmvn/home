@@ -8058,37 +8058,92 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Lạy tình yêu vô biên cực thánh 
+Không ai biết mầu nhiệm của Ngài 
+Nhưng tim Ngài hằng luôn khao khát 
+Chờ mong, tìm kiếm đứa con xa.
+
+Ngài ôm vào lòng người con ấy 
+Đứa con đi xa nay trở về 
+Người con hoang đàng không ai khác 
+Chính là mọi người chúng con đây.
+
+Lạy tình yêu vô biên cực thánh 
+Không ai thấy được Thánh Nhan Ngài 
+Nhưng đôi mắt Ngài đang dõi bước 
+Những ai sống dưới ách bạo tàn.
+
+Ngài chiếu trên gương mặt chúng con 
+Ánh sáng của tình yêu tha thứ 
+Ngài là chính cội nguồn ánh sáng 
+Xua tan mọi áp bức bạo tàn.
+
+Lạy tình yêu vô biên cực thánh 
+Không ai nhìn thấy việc Ngài làm 
+Nhưng tay Ngài dịu dàng nâng đỡ 
+Làm vơi đi nhọc nhằn, lo âu.
+
+Ngài đã xuống trần làm người thế 
+Đồng lao cộng khổ với chúng con 
+Ngài mở lối đời cho nhân thế 
+Con đường dẫn về chốn nghỉ ngơi.
+
+Lạy tình yêu vô biên cực thánh 
+Không ai biết ngôn ngữ của Ngài 
+Nhưng Ngài là tiếng thét kêu gào 
+Gọi ta đến với người anh em.
+
+Nầy tiếng kêu khóc người tội lỗi 
+Vọng lên từ vực thẳm âm u 
+Cầu xin Ngài ra tay giải thoát 
+Lạy Ngài, Thiên Chúa của tự do.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Chúa sẽ dạy con biết đường về cõi sống.
+<strong>Đ</strong> Trước Thánh Nhan, hoan lạc chẳng hề vơi.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 2 Cr 4, 5-18
+<strong>Kho tàng chứa trong bình sành
+      Trích thư thứ hai của thánh Phaolô gửi tín hữu Cô-rin-tô</strong>
+      Bởi chúng tôi không bao giờ rao giảng chính mình, mà chỉ rao giảng Đức Giêsu Kitô là Chúa; còn chúng tôi, chúng tôi chỉ là tôi tớ của anh em, vì Đức Giêsu. Quả thật, xưa Thiên Chúa đã phán: Ánh sáng hãy bừng lên từ chốn tối tăm! Người cũng làm cho ánh sáng chiếu soi lòng trí chúng tôi, để tỏ bày cho thiên hạ được biết vinh quang của Thiên Chúa rạng ngời trên khuôn mặt Đức Kitô.
+      Nhưng kho tàng ấy, chúng tội lại chứa đựng trong những bình sành, để chứng tỏ quyền năng phi thường phát xuất từ Thiên Chúa, chứ không phải từ chúng tôi. Chúng tôi bị dồn ép tư bề, nhưng không bị đè bẹp; hoang mang, nhưng không tuyệt vọng; bị ngược đãi, nhưng không bị bỏ rơi; bị quật ngã, nhưng không bị tiêu diệt. Chúng tôi luôn mang nơi thân mình cuộc thương khó của Đức Giêsu, để sự sống của Đức Giêsu cũng được biểu lộ nơi thân mình chúng tôi. Thật vậy, tuy sống, chúng tôi hằng bị cái chết đe dọa vì Đức Giêsu, để sự sống của Đức Giêsu cũng biểu lộ nơi thân xác phải chết của chúng tôi. Như thế, sự chết hoạt động nơi chúng tôi, còn sự sống thì lại hoạt động nơi anh em.
+      Vì có được cùng một lòng tin, như đã chép: Tôi đã tin, nên tôi mới nói, thì chúng tôi cũng tin, nên chúng tôi mới nói. Quả thật, chúng tôi biết rằng Đấng đã làm cho Chúa Giêsu chỗi dậy cũng sẽ làm cho chúng tôi được chỗi dậy với Chúa Giêsu, và đặt chúng tôi bên hữu Người cùng với anh em. Thật vậy, tất cả những điều ấy xảy ra là vì anh em. Như thế, ân sủng càng dồi dào, thì càng có đông người hơn dâng lên Thiên Chúa muôn ngàn lời cảm tạ, để tôn vinh Người.
+      Cho nên chúng tôi không chán nản. Trái lại, dù con người bên ngoài của chúng tôi có tiêu tan đi, thì con người bên trong của chúng tôi ngày càng đổi mới. Thật vậy, một chút gian truân tạm thời trong hiện tại sẽ mang lại cho chúng ta cả một khối vinh quang vô tận, tuyệt vời. Vì thế, chúng ta mới không chú tâm đến những sự vật hữu hình, nhưng đến những thực tại vô hình. Quả vậy, những sự vật hữu hình thì chỉ tạm thời, còn những thực tại vô hình mới tồn tại vĩnh viễn.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Đấng đã làm cho Đức Giêsu chỗi dậy 
+cũng sẽ làm cho chúng tôi chỗi dậy, 
+và đặt chúng tôi bên hữu Người.
+* Ân sủng càng dồi dào,
+thì càng có nhiều lời tạ ơn 
+dâng lên tôn vinh Thiên Chúa.
+<strong>X</strong> Chúng tôi mang nơi thân mình sự chết của 
+Đức Giêsu, để sự sống của Đức Giêsu 
+cũng được biểu lộ nơi thân mình chúng tôi. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Về tinh thần nội tâm cần có nơi các Nữ Tử Bác Ái
+Trích Bút tích thiêng liêng của thánh Louise de Marillac, trang 814. </strong>
+      Cuộc trò chuyện nội tâm của chúng ta với Chúa, theo tôi nghĩ, phần nhiều phải diễn ra trong việc tưởng nhớ sự hiện diện thánh thiêng của Người, thờ phượng Người mọi giây phút, và có những hành vi yêu mến đối với lòng nhân từ của Người, nhất là chúng ta phải nhớ chúng ta làm hư hỏng những chủ đề mà chúng ta quan tâm nhiều trong giờ nguyện gẫm, và chính yếu là những trìu mến và những quyết định chúng ta đã làm, để chúng ta sửa mình và tiến bước trong tình yêu thánh thiện này.
+      Trong những lần gặp gỡ khó chịu đối với giác quan, chúng ta phải ngắm nhìn lòng nhân ái từ phụ của Thiên Chúa, Đấng là người Cha nhân ái, cho phép chúng ta được đụng chạm đến sự công chính thánh thiêng của Người, khi thì sửa dạy chúng ta, khi thì để chứng tỏ cho chúng ta tình thương bao la của Người, bằng cách cho chúng ta dự phần đau khổ để ban cho chúng ta công nghiệp của những đau khổ của Con Chúa, chúng ta có được những hành vi biết ơn.
+      Trong những lần gặp những sự việc làm chúng ta hài lòng và những việc tiếp nối những ước muốn của chúng ta, trước khi bị lôi cuốn vào niềm vui, chúng ta hãy nhìn lên Chúa bằng một ánh mắt nội tâm và hãy biết ơn lòng thương xót Chúa, ban cho chúng ta sự ủi an này chỉ vì thương, chấp nhận nó trong lối nhìn này, với một hành vi yêu thương nào đó mà chúng phải có. Chúng ta cũng phải cố gắng để tất cả những vật trình diện trước giác quan chúng ta giúp chúng ta nâng tâm trí lên cùng Chúa, khi thì coi chúng như được tạo dựng từ bàn tay quyền năng của Chúa, khi thì nhận ra ý Chúa trong việc tạo dựng chúng, việc tạo dựng này luôn hầu như dành cho con người sử dụng, hầu con người biết ơn Chúa về những vật đó.
+      Nhiều lần khác chúng ta hãy nghĩ đến sự ưu việt của hữu thể mà Chúa đã ban cho ta, hầu chúng ta chỗi dậy thoát những yếu hèn mà bản tính hư hoại của ta lôi kéo bởi những ưa thích nhiều công việc phù phiếm chẳng đáng tâm trí phải bận lòng, và cam đoan rằng trên trần gian này chúng ta không mong muốn gì ngoài Thiên Chúa.
+      Nhưng đôi khi, dường như, bị nhu cầu to lớn thúc ép, chúng ta ước muốn và hy vọng sự giúp đỡ của các thụ tạo điều chúng ta thiếu, hoặc do sự quan phòng của Chúa, hoặc do lỗi của người khác luôn gây nên, chúng ta phải tức thời nhìn Thánh ý Thiên Chúa, chấp nhận thánh ý qua sự thiếu thốn này, nâng tâm trí lên cùng Chúa, và chạy nhờ sự giúp đỡ của một mình Người mà thôi, thấy rằng từ thuở đời đời Người đã sung mãn và chỉ mình Người đang sung mãn cho chính mình, vì thế Người có thể và phải làm sung mãn chúng ta; và bởi vì chúng ta rất hạnh phúc ở trong tình trạng mà chúng ta phải lấy một mình Người là an ủi, thì chúng ta phải có một hành vi chấp nhận sự thiếu vắng này cách trân trọng, dù rằng thật chính đáng và phải lẽ chúng ta phải có nó, và hãy ở trong bình an với Chúa chỉ hai người với nhau, không bất bình, nếu Thiên Chúa cho phép xảy ra điều ấy. Nhưng phải cố gắng để tâm trí chúng ta được kết hợp mạnh mẽ với Thiên Chúa, và để ý chí chúng ta có những hành vi này, như phương thế để làm cho tâm trí chúng ta chú tâm vào Thiên Chúa, theo ý Thiên Chúa. Qua tất cả những lần gặp gỡ nói trên, quả thật phải thường xuyên có những hành vi yêu mến đối với Chúa, điều chúng ta mắc nợ Người, và phải từ bỏ những gì làm Chúa không vui; chúng ta thường xuyên phó mình cho Chúa, cho Người thấy con tim chúng ta đầy sự tin tưởng và biết ơn, và cố gắng đôi lần trên môi miệng có những lời nguyện tắt.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Tuân giữ các giới răn của Người, đó là yêu mến Chúa,
+* và các giới răn của Người không có nặng nề.
+<strong>X</strong> Không có gì dịu ngọt hơn là gắn bó với các lệnh truyền của Chúa. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa. Chúa đã ban cho chân phước Mác-ta biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch Ơn Cứu Độ.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
-
-
         `,
 
         en: `
@@ -8116,7 +8171,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa là Vua các trinh nữ, 
+nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -8154,17 +8210,38 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Ôi Giêsu, Danh Ngài vang vọng mãi 
+Ngài là ký ức sống động Chúa Cha 
+Nhờ Danh Thánh, và trong Danh Thánh 
+Danh vang vọng từ vực sâu thế gian.
+
+Ôi Giêsu, Danh Ngài luôn cao cả 
+Cao cả hơn mọi danh khắp đất trời 
+Nhờ Danh Thánh, và trong Danh Thánh 
+Thánh Danh Ngài, ơn cứu độ muôn dân.
+
+Ôi Giêsu, Danh Ngài tiếng gọi mời 
+Tiếng kêu mời của tình yêu muôn loài 
+Nhờ Danh Thánh, và trong Danh Thánh 
+Danh Ngài, niềm tin cứu độ chúng ta.
+
+Ôi Giêsu, Danh hợp nhất chúng con 
+Danh ban sự sống, Danh chúc lành chúng con 
+Nhờ Danh Thánh, và trong Danh Thánh 
+Nhân danh Chúa Cha, Con và Thánh Thần. Amen.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 2 Tx 1, 11-12
+Vì thế, lúc nào chúng tôi cũng cầu nguyện cho anh em: xin Thiên Chúa chúng ta làm cho anh em được xứng đáng với ơn gọi, và xin Người dùng quyền năng mà hoàn thành mọi thiện chí của anh em và mọi công việc anh em làm vì lòng tin. Như vậy, danh của Chúa chúng ta là Đức Giêsu, sẽ được tôn vinh nơi anh em, và anh em được tôn vinh nơi Người, chiếu theo ân sủng của Thiên Chúa chúng ta và của Chúa Giêsu Kitô.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Hãy ngợi khen Thiên Chúa với tôi.
+* Tất cả chúng ta hãy ngợi khen danh Chúa.
+<strong>X</strong> Hãy nếm thử, hãy nhìn xem Chúa tốt lành biết mấy!*
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Chị vui vẻ trao hiến cho kẻ đói nghèo,
+đức công chính chị tồn tại mãi mãi.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -8204,9 +8281,19 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
+      Khởi đầu ngày mới này, cùng với chân phước Mác-ta, người đã dành cả đời mình cho việc phục vụ “những người bị tổn thương sự sống”, chúng ta hãy chúc tụng Con Người:
+      <i>Lạy Chúa, chúng con xin chúc tụng Chúa!</i>
+      Lạy Chúa Kitô, Chúa đã chịu đói, chịu khát <i>- vì những người hôm nay sẽ cho Chúa ăn, cho Chúa uống: </i>
+      Lạy Chúa Kitô, Chúa đã là khách lạ, <i>- vì những người hôm nay sẽ tiếp rước Chúa: </i>
+      Lạy Chúa Kitô, Chúa đã chịu mình trần, <i>- vì những người hôm nay sẽ cho Chúa áo mặc: </i>
+      Lạy Chúa Kitô, Chúa đã từng bị ở tù, <i>- vì những người hôm nay sẽ viếng thăm Chúa: </i>
+      Lạy Chúa Kitô, Chúa đã từng bị ốm đau, <i>- vì những người hôm nay sẽ an ủi Chúa: </i>
+      Lạy Chúa Kitô, Chúa đã hiện diện nơi những kẻ bé mọn nhất, <i>- vì những người hôm nay sẽ nhận ra Chúa và phục vụ Chúa vì yêu thương: </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho chân phước Mác-ta biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch Ơn Cứu Độ.
+      <i>Chúng con cầu xin...</i>
       
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
@@ -8293,13 +8380,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> GI 5, 13-14
+Quả thế, thưa anh em, anh em đã được gọi để hưởng tự do. Có điều là đừng lợi dụng tự do để sống theo tính xác thịt, nhưng hãy lấy đức mến mà phục vụ lẫn nhau. Vì tất cả lề luật được nên trọn trong điều răn duy nhất này: Ngươi phải yêu người thân cận như chính mình.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Hãy tạ ơn Chúa và cầu khẩn thánh danh;
+<strong>Đ</strong> Hãy loan báo kỳ công Người giữa muôn dân.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho chân phước Mác-ta biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch Ơn Cứu Độ.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -8338,15 +8428,42 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Ôi lạy Chúa, mở cho con đôi mắt 
+Thấy tình yêu kỳ diệu Chúa khắp nơi 
+Con mù lòa bên vệ đường hành khất 
+Xin chữa con để con thấy mặt Ngài.
+
+Cúi lạy Ngài, xin mở rộng tay con 
+Những bàn tay giữ khư khư tất cả 
+Trước cửa nhà có người nghèo đói lả 
+Xin dạy con biết chia sẻ vui lòng.
+
+Cúi lạy Ngài, cho chân con vững bước 
+Để tiến lên dầu đường sá hiểm nguy 
+Nguyện theo Ngài, thập giá đâu ngại chi 
+Chúa cầm tay mà dẫn bước con đi.
+
+Cúi lạy Ngài, cho tai con nghe rõ 
+Tiếng tha nhân cầu khẩn lượng hải hà 
+Họ đau khổ, họ kêu gào than thở 
+Đừng để con cứ giả điếc làm ngơ.
+
+Cúi lạy Ngài, giữ lòng con tin tưởng 
+Mặc ai bảo: Chúa đã chết đâu còn 
+Khi chiều về, gánh thời gian trĩu nặng 
+Xin dừng chân ở lại với con luôn.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Ga 3,16-18
+      Căn cứ vào điều này, chúng ta biết được tình yêu là gì: đó là Đức Kitô đã thí mạng vì chúng ta. Như vậy, cả chúng ta nữa, chúng ta cũng phải thí mạng vì anh em. Nếu ai có của cải thế gian và thấy anh em mình lâm cảnh túng thiếu, mà chẳng động lòng thương, thì làm sao tình yêu Thiên Chúa ở lại trong người ấy được? Hỡi anh em là những người con bé nhỏ, chúng ta đừng yêu thương nơi đầu môi chót lưỡi, nhưng phải yêu thương cách chân thật, và bằng việc làm.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Ai yêu thương anh em,
+* thì ở trong ánh sáng.
+<strong>X</strong> Ai sống luật yêu thương và giữ các giới răn. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Phúc thay ai thương người nghèo;
+ai tin tưởng vào Chúa, và biết xót thương.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -8381,10 +8498,19 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Cùng với chân phước Mác-ta, người đã hiến cả đời cho việc phục vụ bệnh nhân, chúng ta hãy cầu nguyện cho bao người nam nữ đang đương đầu với bệnh tật.
+      <i>Xin Chúa thương xót chúng con. </i>
+      Xin Chúa nhớ đến những người ốm liệt giường, những người bại liệt, và tất cả những ai đang ốm không có hy vọng được chữa lành:
+      Xin Chúa nhớ đến những người bị thương nặng, những người được giải phẫu, những bệnh nhân đang trong phòng hồi sức:
+      Xin Chúa nhớ đến những người bệnh tâm thần, các người thiểu năng tâm trí, gia đình họ và những người chăm sóc họ: 
+      Xin Chúa nhớ đến các nhà bác học, các nhóm đang nghiên cứu, và những ai đang tìm kiếm những cách trị liệu mới:
+      Xin Chúa nhớ đến các y bác sĩ, những nhân viên săn sóc, và tất cả những người thăm viếng bệnh nhân, những ai đang đồng hành với người hấp hối:
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa. Chúa đã ban cho chân phước Mác-ta biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch Ơn Cứu Độ.
+      <i>Chúng con cầu xin...</i>
+      
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
