@@ -8816,21 +8816,31 @@ Họ nhận được Gia Tài trong vinh quang.
 Lời Chúa trong sách Huấn Ca </strong>
       Con xin cảm tạ và ca ngợi Đức Chúa, và xin chúc tụng danh Ngài. Thời còn trẻ, trước khi bôn ba đây đó, tôi đã công nhiên tìm đức khôn ngoan khi dâng lời cầu nguyện. Nơi thánh điện, tôi hằng cầu xin, và cho đến mãn đời, tôi vẫn tìm kiếm đức khôn ngoan. Như hoa tươi nở, tựa chùm nho chín, đức khôn ngoan làm hoan hỉ lòng tôi. Chân tiến bước trên đường ngay nẻo chính, tôi dõi theo đức khôn ngoan từ thuở còn thanh xuân. Chỉ lắng tai một chút mà tôi đã hấp thụ được, và tìm thấy cho bản thân một giáo huấn dồi dào. Trong đức khôn ngoan, tôi tiến lên mãi, và tôi sẽ tôn vinh Thiên Chúa, Đấng cho tôi được khôn ngoan. Vì tôi cương quyết sống theo đức khôn ngoan, tôi hăng say tìm điều thiện, và sẽ không xấu hổ thẹn thùng. Trong đức khôn ngoan, hồn đã phấn đấu, và chuyên cần tuân giữ lề luật. Tôi đã giơ tay lên trời, tôi khóc than vì thiếu hiểu biết. Tôi đã hướng lòng về đức khôn ngoan, và khi giữ mình trong sạch, tôi tìm được đức khôn ngoan. Tôi đã để tâm ngay từ đầu, nên tôi sẽ không bị ruồng bỏ. Hãy để mắt mà xem, tuy không mệt mấy mà tôi đã được hưởng an nhàn lớn lao.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Mọi ân ban hoàn thiện được tuôn xuống từ Cha Ánh Sáng,
+nơi Người chẳng hề có sự thay đổi nào.
+* Ai tìm kiếm đức khôn ngoan, Thiên Chúa sẽ ban cho. 
+<strong>X</strong> Nếu ai thiếu đức khôn ngoan, 
+người ấy hãy xin Thiên Chúa
+Vì Thiên Chúa ban khôn ngoan cách quảng đại. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Người nghèo là những ông chủ bà chúa của chúng ta; phục vụ họ là được tử đạo
+      Trích những bài nói chuyện của thánh Vinh Sơn, Coste IX.119-120, 270 </strong>
+      Chị em phải thường xuyên nghĩ rằng công việc chủ yếu của chị em và việc Thiên Chúa kêu gọi chị em cách đặc biệt là: hết sức quan tâm phục vụ người nghèo, họ là những ông chủ của chúng ta. Ôi! Đúng vậy chị em ơi, họ là những người thầy của chúng ta, vì Thiên Chúa ngự trong họ. Vì thế chị em phải cư xử với họ một cách dịu hiền và thân tình; chị em phải lo liệu sao cho họ không thiếu thốn gì về sức khỏe thân xác cũng như về phần rỗi linh hồn. Các con ơi, các con thật hạnh phúc biết bao được Thiên Chúa dành cho công việc đó suốt đời các con. Các vua chúa quan quyền trên thế gian lấy làm hạnh phúc khi bỏ ra chút ít thời giờ cho việc phục vụ người nghèo, và làm cách nhiệt tình và Bác Ái. Các con phải quí mến hiện trạng của mình, vì các con đang có cơ may thực thi, hằng ngày, hằng giờ, những công trình Bác Ái, và chính nay là phương thế Thiên Chúa dùng để thánh hóa nhiều tâm hồn! Thánh Lu-i (Louis) lại đã không phục vụ những người nghèo ở Bệnh Viện Trung Ương (l'Hôtel-Dieu) tại Paris một cách thật khiêm nhường để thánh hóa mình đó ư? Tất cả các thánh, hoặc đa số, đã lấy làm hạnh phúc làm hài lòng Chúa nhờ phương thế này.
+      Hiến thân cho Chúa trong việc phục vụ những người bị bỏ rơi nhất, đó không phải là đi chịu tử đạo đó sao? Chắc chắn là thế, chị em ơi. Một Đức Giáo Hoàng đã nói rằng: người nào hiến mình cho Chúa phục vụ tha nhân và tự nguyện chịu đựng tất cả những gì khó khăn gặp phải là người tử đạo. Các vị tử đạo, họ đã chịu đau khổ hơn những người ấy ư? Chắc chắn không; vì các vị tử đạo dù đã phải chịu những hình khổ lớn lao, song các hình khổ không kéo dài lâu; các hình khổ chấm dứt ngay lúc chết. Còn người hiến thân cho Chúa, để, hoặc ở giữa những bệnh nhân đầy hôi thối và lở loét và thường hay giận dữ, hoặc ở với trẻ em nghèo phải làm mọi việc cho chúng, đến với những người tù khổ sai mang xiềng xích và nhiều phiền sầu, người ấy lại không đáng kính trọng và đáng quí mến sao?
+      Nếu chúng ta thấy nơi một vị tử đạo đã đi qua, chúng ta chỉ đến gần cách kính trọng và thành kính hôn nơi ấy; sao chúng ta có thể khinh rẻ các chị em của chúng ta, những người mà Thiên Chúa gìn giữ và cho sống trong tình trạng tử đạo? Ôi các con yêu quí của cha, hãy yêu quí họ thật nhiều, hãy giữ gìn sự quí mến này dù có thế nào đi nữa, và hãy ngắm nhìn họ như là các người tử đạo của Đức Giêsu Kitô, vì họ đang phục vụ tha nhân vì tình yêu Chúa.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Thánh ý Chúa là bài thánh ca của con nơi đất khách.
+* ALạy Chúa, con mở lòng đón nhận lời ánh sáng của Chúa.
+<strong>X</strong> Phúc cho những ai khiêm nhường,
+phúc cho những ai nghèo khổ,
+Chúa mạc khải cho họ bí nhiệm Nước Trời. *
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho các chân phước Maria Mát-len, Maria Phanxica, Têrêxa và Gio-an-na được can đảm chịu chết vì tự do đức tin. Nhờ lời chuyển cầu của các ngài, xin cho chúng con ơn biết chịu đựng mọi nghịch cảnh vì tình yêu Đức Kitô, và hết sức vươn cao.
+      <i>Người là Đấng hằng sống và hiển trị...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -8864,7 +8874,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa đã ban cho các ngài vinh quang chiến thắng, 
+Vì đức Khôn ngoan mạnh hơn tất cả.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -8902,17 +8913,43 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Phúc thay bao người nghèo trước đám tiệc 
+Lâu đài của Chúa, họ được thỏa thuê 
+Phúc thay người không vướng bận kim tiền 
+Kho tàng của Chúa dồi dào thiên thu.
+
+Phúc thay bao người dõi tìm ánh sáng 
+Hào quang của Chúa rạng ngời muôn nơi 
+Phúc thay bao người khao khát tình yêu 
+Đại dương tình Chúa vẫn luôn dạt dào.
+
+Phúc thay tiếng kêu than từ đáy ngục 
+Thành đô của Chúa vang dội niềm vui 
+Phúc thay bao người tử đạo vô danh 
+Vườn hoa của Chúa nở rộ niềm vui.
+
+Phúc thay đôi tay dang rộng tình thương 
+Ủ ấp bên lòng Chúa niềm cậy trông 
+Phúc thay bao trẻ, cha mẹ bỏ rơi 
+Bàn tay của Chúa dịu dàng đỡ nâng.
+
+Phúc thay bao người công chính khổ đau 
+Lòng thương của Chúa vẫn luôn tràn đầy 
+Phúc thay người bị khinh khi ruồng bỏ 
+Tình yêu của Chúa cho họ nghỉ ngơi.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 2 Cr 1,3-5
+      Chúc tụng Thiên Chúa là Thân Phụ Đức Giêsu Kitô, Chúa chúng ta. Người là Cha giàu lòng từ bi lân ái, và là Thiên Chúa hằng sẵn sàng nâng đỡ ủi an. Người luôn nâng đỡ ủi an chúng ta trong mọi cơn gian nan thử thách, để sau khi đã được Thiên Chúa nâng đỡ, chính chúng ta cũng biết an ủi những ai lâm cảnh gian nan khốn khó. Vì cũng như chúng ta chia sẻ muôn vàn nỗi khổ đau của Đức Kitô, thì nhờ Người, chúng ta cũng được chứa chan niềm an ủi.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Tôi chỉ được nghỉ yên trong Chúa.
+* Nguồn hy vọng của tôi đến từ Đức Chúa.
+<strong>X</strong> Chỉ có Chúa là đá tảng, là phần rỗi của tôi. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Ai theo Thầy không đi trong tối tăm:
+người ấy sẽ có ánh sáng ban sự sống.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -8952,10 +8989,19 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
-
+      Chúng ta hãy tôn vinh Đức Kitô Giêsu. Qua đời sống các chân phước tử đạo thành A-ra (Arras), Chúa khuyến khích chúng ta trung thành và tin tưởng.
+      <i>Chúc tụng Chúa, lạy Chúa,
+      Thiên Chúa trìu mến và yêu thương. </i>
+      Vì các chị tử đạo thành A-ra đã ngợi khen Chúa mỗi ngày khi cầu nguyện, chúng con chúc tụng Chúa, <i>- xin cho lời cầu nguyện của chúng con trở thành một cuộc đối thoại thân mật với Chúa. </i>
+      Vì các chị tử đạo thành A-ra đã chọn Đức Trinh Nữ Maria, để dẫn dắt các chị tới Con của Người, chúng con chúc tụng Chúa, <i>- xin cho chúng con được tiến đến với Đức Maria, Mẹ của Chúa, trong cuộc lữ hành đức tin. </i>
+      Vì các chị tử đạo thành A-ra đã làm chứng, bằng sự tin tưởng vui tươi trên đường khổ hình, chúng con chúc tụng Chúa, <i>- xin mở lòng chúng con đón nhận niềm vui tin tưởng ấy khi chúng con bị sỉ nhục và đau đớn. </i>
+      Vì các chị tử đạo thành A-ra đã tỏ bày tình yêu Chúa trong đời sống khiêm tốn hằng ngày, chúng con chúc tụng Chúa, <i>- xin ban cho tất cả các môn đệ Đức Kitô tình yêu khiêm nhường và đơn sơ khiến họ gần gũi với anh chị em mình. </i>
+      
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho các chân phước Maria Mát-len, Maria Phanxica, Têrêxa và Gio-an-na, được can đảm chịu chết vì tự do đức tin. Nhờ lời chuyển cầu của các ngài, xin cho chúng con ơn biết chịu đựng mọi nghịch cảnh vì tình yêu Đức Kitô và hết sức vươn cao.
+      <i>Người là Đấng hằng sống và hiển trị…</i>
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -9041,12 +9087,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 5,10-11
+      Thiên Chúa là nguồn mọi ân sủng, cũng là Đấng đã kêu gọi anh em vào vinh quang đời đời của Người trong Đức Kitô. Phần anh em là những kẻ phải chịu khổ ít lâu, chính Thiên Chúa sẽ cho anh em được nên hoàn thiện, vững vàng, mạnh mẽ và kiên cường. Kính dâng Người vinh quang và uy quyền đến muôn thuở muôn đời. Amen.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> đang cập nhật...
+<strong>Đ</strong> đang cập nhật...
 
 <strong>Lời nguyện</strong>
+      Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho các chân phước Maria Mát-len, Maria Phanxica, Têrêxa và Gio-an-na, được can đảm chịu chết vì tự do đức tin. Nhờ lời chuyển cầu của các ngài, xin cho chúng con ơn biết chịu đựng mọi nghịch cảnh vì tình yêu Đức Kitô và hết sức vươn cao.
+      <i>Người là Đấng hằng sống và hiển trị…</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -9086,15 +9136,37 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Nơi đâu nổi dậy sự oán thù 
+Tình yêu sáng tạo sự bình an. 
+Nơi đâu thổi lên gió xúc phạm 
+Tình yêu trao hiến lòng thứ thả.
+
+Nơi đâu bùng cháy lửa bất hòa 
+Tình yêu sẽ mang lại niềm vui. 
+Nơi đâu lảng vảng sự dối gian 
+Tình yêu sẽ hô vang sự thật.
+
+Nơi đâu xuất hiện mối nghi ngờ 
+Tình yêu sẽ khơi dậy đức tin. 
+Nơi đâu đầy chán nản cô đơn 
+Tình yêu sẽ vãn hồi hạnh phúc.
+
+Nơi đâu có than khóc u sầu 
+Tình yêu sẽ thắp lên hy vọng.
+Nơi đâu ngự trị sự tối tăm
+Tình yêu hát lên ánh dương hồng.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 14,7-9
+      Thật vậy, không ai trong chúng ta sống cho chính mình, cũng như không ai chết cho chính mình. Chúng ta có sống là sống cho Chúa, mà có chết cũng là chết cho Chúa. Vậy, dù sống, dù chết, chúng ta vẫn thuộc về Chúa; vì Đức Kitô đã chết và sống lại chính là để làm Chúa kẻ sống cũng như kẻ chết.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Nguồn mạch sự sống ở nơi Thiên Chúa.
+* Nhờ ánh sáng của Chúa, chúng con nhìn thấy ánh sáng.
+<strong>X</strong> Lạy Chúa, tình yêu Người quí giá dường bao. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Ánh sáng Chúa sẽ chiếu soi trên họ, 
+một ánh sáng vĩnh cửu.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -9129,9 +9201,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Hiệp thông với các chân phước tử đạo Marie Mát- len, Maria Phanxica, Têrêxa và Gio-an-na, chúng ta hãy cầu xin Chúa kẻ sống ban cho Hội Thánh ơn trung thành với Tin Mừng.
+      <i>Lạy Chúa kẻ sống, xin nhậm lời chúng con. </i>
+      Nhờ ơn Chúa, các chân phước tử đao thành A-ra luôn <i>- xin Chúa gìn giữ chúng luôn vững mạnh trong đức tin, con trung thành trong những giây phút khó khăn. </i>
+      Nhờ ơn Chúa, các chị đã tìm thấy trong cộng đoàn huynh đệ một sức mạnh cho lòng trung thành của các chị, <i>- xin Chúa khơi dậy trong Giáo Hội những cơ hội lắng nghe và chia sẻ. </i>
+      Nhờ ơn Chúa, các chị đã biết trả lại niềm hy vọng cho dân chúng mất phương hướng, đang làm các chị khổ tâm, <i>- xin Chúa mở lòng chúng con đón nhận những người chỉ trích hoặc quấy rầy chúng con. </i>
+      Nhờ ơn Chúa, các chị đã dâng hiến trọn vẹn đời sống để phục vụ Chúa trong người nghèo, <i>- xin Chúa ban cho giới trẻ được ước ao tận hiến như vậy. </i>
+      Nhờ ơn Chúa, các chị đã hy sinh mạng sống trong bình an, <i>- xin Chúa ban sự nâng đỡ huynh đệ cho những người nam nữ hôm nay đang tiến tới sự sống đời đời. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Thiên Chúa toàn năng hằng hữu, Chúa đã ban cho các chân phước Maria Mát-len, Maria Phanxica, Têrêxa và Gio-an-na được can đảm chịu chết vì tự do đức tin. Nhờ lời chuyển cầu của các ngài, xin cho chúng con ơn biết chịu đựng mọi nghịch cảnh vì tình yêu Đức Kitô và hết sức vươn cao. 
+      <i>Người là Đấng hằng sống và hiển trị…</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
