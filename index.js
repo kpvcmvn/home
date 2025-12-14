@@ -8510,7 +8510,7 @@ Và cho con cháu đến muôn đời.
 <strong>Lời nguyện</strong>
       Lạy Chúa. Chúa đã ban cho chân phước Mác-ta biết bắt chước tình yêu và sự ân cần của Đức Kitô đối với người ốm đau. Theo gương chân phước, xin Chúa cho chúng con biết nâng đỡ các anh em đang đau khổ, và biết hướng các tâm hồn về với Chúa, là nguồn mạch Ơn Cứu Độ.
       <i>Chúng con cầu xin...</i>
-      
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -8745,15 +8745,76 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Phúc cho ai vào hưởng ánh sáng 
+Nhờ đêm đen của Đức Kitô.
+Phúc cho ai buông mình trọn vẹn 
+Vào trong bàn tay Thiên Chúa.
+Phúc cho ai đi tìm sự sống 
+Trong cái chết của Đức Giêsu.
+
+Những con đường đã được mở ra 
+Họ không sợ cái chết lần nữa 
+Trên nơi vĩnh phúc của Thiên Chúa 
+Họ nhận sự sống trong vinh quang.
+
+Phúc cho ai được sinh từ trời 
+Từ Máu châu báu Đức Giêsu. 
+Phúc cho ai luôn được tháp nhập 
+Vào Thân Mình Nhiệm Mầu Đức Kitô. 
+Phúc cho ai sẵn sàng tiếp nhận 
+Thần Khí Đức Giêsu Kitô.
+
+Những con đường đã được mở ra 
+Họ niếm hưởng Mana từ trời 
+Trên nơi vĩnh phúc của Thiên Chúa 
+Họ nhận bảng vàng trong vinh quang.
+
+Phúc cho ai được đặt tên mình 
+Tên lấy từ Danh Thánh Giêsu. 
+Phúc cho ai được hưởng vinh quang 
+Từ cội nguồn ân phúc Giêsu. 
+Phúc cho ai đặt bước chân mình 
+Vào những vết chân của Giêsu.
+
+Những con đường đã được mở ra 
+Họ nắm quyền trên các quốc gia 
+Trên nơi vĩnh phúc của Thiên Chúa 
+Họ nhận Sao Mai trong vinh quang.
+
+Phúc cho ai thấy mình an mạnh 
+Khi nhận lấy ách của Giêsu. 
+Phúc cho ai tín thác nơi Ngài 
+Sống theo Thánh Ý chẳng đổi thay. 
+Phúc cho ai hy sinh mạng sống 
+Noi gương thầy Chí Thánh Giêsu.
+
+Những con đường đã được mở ra 
+Họ sẽ ngồi trên ngai Con Chiên 
+Trên nơi vĩnh phúc của Thiên Chúa 
+Họ nhận Áo Mới trong vinh quang.
+
+Phúc cho ai đánh mất mạng sống 
+Trên đường thập giá Đức Giêsu. 
+Phúc cho ai đón nhận mọi sự 
+Từ bàn tay quan phòng của Chúa. 
+Phúc cho ai biết chết vì yêu 
+Trong tình yêu của Đức Giêsu.
+
+Những con đường đã được mở ra 
+Họ uống trọn nguồn nước Trường Sinh 
+Trên nơi vĩnh phúc của Thiên Chúa 
+Họ nhận được Gia Tài trong vinh quang.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tâm hồn chúng tôi đợi trông Chúa,
+<strong>Đ</strong> Bởi Người luôn che chở phù trì.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Hc 51, 12-20, 27
+<strong>Tạ Ơn
+Lời Chúa trong sách Huấn Ca </strong>
+      Con xin cảm tạ và ca ngợi Đức Chúa, và xin chúc tụng danh Ngài. Thời còn trẻ, trước khi bôn ba đây đó, tôi đã công nhiên tìm đức khôn ngoan khi dâng lời cầu nguyện. Nơi thánh điện, tôi hằng cầu xin, và cho đến mãn đời, tôi vẫn tìm kiếm đức khôn ngoan. Như hoa tươi nở, tựa chùm nho chín, đức khôn ngoan làm hoan hỉ lòng tôi. Chân tiến bước trên đường ngay nẻo chính, tôi dõi theo đức khôn ngoan từ thuở còn thanh xuân. Chỉ lắng tai một chút mà tôi đã hấp thụ được, và tìm thấy cho bản thân một giáo huấn dồi dào. Trong đức khôn ngoan, tôi tiến lên mãi, và tôi sẽ tôn vinh Thiên Chúa, Đấng cho tôi được khôn ngoan. Vì tôi cương quyết sống theo đức khôn ngoan, tôi hăng say tìm điều thiện, và sẽ không xấu hổ thẹn thùng. Trong đức khôn ngoan, hồn đã phấn đấu, và chuyên cần tuân giữ lề luật. Tôi đã giơ tay lên trời, tôi khóc than vì thiếu hiểu biết. Tôi đã hướng lòng về đức khôn ngoan, và khi giữ mình trong sạch, tôi tìm được đức khôn ngoan. Tôi đã để tâm ngay từ đầu, nên tôi sẽ không bị ruồng bỏ. Hãy để mắt mà xem, tuy không mệt mấy mà tôi đã được hưởng an nhàn lớn lao.
 
 <strong>XĐ</strong> 
 * 
