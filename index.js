@@ -4017,6 +4017,53 @@ Trích những bài nói chuyện của thánh Vinh Sơn - Coste XII.260-263 </s
 * Ai ở trong tình yêu là ở trong Thiên Chúa và Thiên Chúa ở trong người ấy.
 <strong>X</strong> Chúng ta hãy yêu thương nhau vì tình yêu từ Thiên Chúa mà đến. *
 
+<strong>Thánh thi tạ ơn</strong>
+Lạy Thiên Chúa,
+Tuyên xưng Ngài là Đức Chúa.
+Chúng con xin ca ngợi hát mừng, 
+Chúa là Cha, Đấng trường tồn vạn đại, 
+hoàn vũ này kính cẩn suy tôn.
+
+Trước nhan Chúa, các tổng thần phủ phục,* 
+Mọi thiên thần và đạo binh Thiên Quốc 
+Đều cảm tạ và cung chúc tôn thờ, 
+Chẳng khi ngừng vang dậy tiếng tung hô:
+
+Thánh ! Thánh! Chí thánh!
+Chúa Tể càn khôn là Đấng Thánh.* 
+Trời đất rạng ngời vinh quang Chúa uy linh.
+
+Bậc Tông Đồ đồng thanh ca ngợi Chúa,
+Bao vị ngôn sứ tán tụng Ngài,
+Đoàn tử đạo quang huy hùng dũng 
+Máu đào đổ ra minh chứng về Ngài,
+
+Và trải rộng khắp nơi trần thế, 
+Hội thánh Ngài hoan hỷ tuyên xưng:
+
+Chúa là Cha lẫm liệt oai hùng, 
+Và Con Một Ngài chí tôn chí ái, 
+Cùng Thánh Thần, Đấng an ủi yêu thương.
+
+Lạy Đức Kitô, Con Chúa Trời hằng sống, 
+Ngài là Chúa hiển vinh.
+
+Đã chẳng nề mặc lấy xác phàm
+Nơi cung lòng Trinh nữ 
+Hầu giải phóng nhân loại lầm than.
+
+Ngài đã ra tay chiến thắng tử thần, 
+Mở cửa trời cho những ai tin tưởng.
+
+Ngài hiển trị bên hữu Chúa Cha, 
+Ngày cuối cùng sẽ giáng lâm thẩm phán.
+
+Cúi lạy Chúa, xin phù hộ bầy tôi 
+Ngài cứu chuộc bằng bửu huyết tuôn tràn.
+
+Xin được hợp đoàn cùng muôn thần thánh,
+Phúc miên trường vui hưởng ánh vinh quang.
+
 <strong>Lời nguyện</strong>
       Lạy Cha chí thánh giàu lòng thương xót, Cha đã lấy lòng Bác Ái nung đốt thánh Vinh Sơn, để thánh nhân cứu giúp bao nỗi khốn khổ của người thời đại mình; hôm nay, ngày tưởng nhớ việc di chuyển hài cốt của thánh nhân, chúng con nài xin Cha, ban cho chúng con được thấm nhuần Thần Khí của Cha, để chúng con cũng biết tôn kính Con yêu dấu Cha, và phụng sự Ngài nơi những người nghèo.
      <i>Chúng con cầu xin...</i>
@@ -17262,6 +17309,7 @@ Tự ngàn xưa tới muôn đời muôn thuở.
 <strong>Lời nguyện</strong>
       Lạy Chúa, Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ biết phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa trong người nghèo, và làm chứng cho tình yêu Chúa trên trần gian.
       <i>Chúng con cầu xin...</i>
+
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
