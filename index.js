@@ -9784,15 +9784,45 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Phúc thay bao người nghèo trước đám tiệc 
+Lâu đài của Chúa, họ được thỏa thuê 
+Phúc thay người không vướng bận kim tiền 
+Kho tàng của Chúa dồi dào thiện thu.
+
+Phúc thay bao người dõi tìm ánh sáng 
+Hào quang của Chúa rạng ngời muôn nơi 
+Phúc thay bao người khao khát tình yêu 
+Đại dương tình Chúa vẫn luôn dạt dào.
+
+Phúc thay tiếng kêu than từ đáy ngục 
+Thành đô của Chúa vang dội niềm vui 
+Phúc thay bao người tử đạo vô danh 
+Vườn hoa của Chúa nở rộ niềm vui.
+
+Phúc thay đôi tay giang rộng tình thương 
+Ủ ấp bên lòng Chúa niềm cậy trông 
+Phúc thay bao trẻ, cha mẹ bỏ rơi 
+Bàn tay của Chúa dịu dàng đỡ nâng.
+
+Phúc thay bao người công chính khổ đau 
+Lòng thương của Chúa vẫn luôn tràn đầy 
+Phúc thay người bị khinh khi ruồng bỏ 
+Tình yêu của Chúa cho họ nghỉ ngơi.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 4,13-14
+      Được chia sẻ những đau khổ của Đức Kitô bao nhiêu, anh em hãy vui mừng bấy nhiêu, để khi vinh quang Người tỏ hiện, anh em cùng được vui mừng hoan hỷ. Nếu bị sỉ nhục vì danh Đức Kitô, anh em thật có phúc, bởi lẽ Thần Khí vinh hiển và uy quyền, là Thần Khí của Thiên Chúa, ngự trên anh em.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Chúa đã thử thách chúng con, lạy Chúa 
+Như kim loại được tinh luyện.
+* Chúng con được đưa qua nước và lửa,
+<strong>X</strong> Như kim loại được tinh luyện. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Trong cơn bão táp,
+ngài củng cố anh em mình, 
+ngài từ chối vi phạm luật Thiên Chúa, 
+vui mừng được đổ máu vì Chúa. Halêluia.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -9827,10 +9857,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Chúng ta hãy cầu xin Chúa giữ gìn kho tàng quí giá đức tin nơi chúng ta. Chúng ta hãy xin Chúa, nhờ lời chuyển cầu của thánh Phanxicô Rê-gi Clê, tìm được nơi trú ẩn để không đánh mất đức tin.
+      <i>Lạy Chúa, chúng con tin tưởng nơi Chúa, xin làm cho đức tin chúng con được vững mạnh.</i>
+      “Thiên Chúa kiên nhẫn, chúng ta cũng hãy kiên nhẫn và bình tĩnh." <i>- thánh Phanxicô Rê-gi Clê đã biết phó thác vào Chúa Quan phòng. Chúng ta hãy xin Chúa hướng dẫn Hội Thánh Chúa và mỗi người chúng ta trên con đường đức tin ấy. </i>
+      “Chúng ta hãy bước theo các Tông đồ.” <i>- khi lắng nghe thánh Phanxicô Rê-gi Clê, xin cho Hội Thánh có được can đảm và sức mạnh làm chứng cho Tin Mừng trong thế giới người nghèo. </i>
+      “Chúng ta hãy sống đạo đức.” <i>- khi lắng nghe thánh Phanxicô Rê-gi Clê, xin cho tâm hồn chúng con tràn đầy lòng trắc ẩn đối với anh chị em bị chà đạp về nhân phẩm. </i>
+      “Chúng ta hãy trung thành với những việc đạo đức, thiêng liêng.” <i>- khi lắng nghe thánh Phanxicô Rê-gi Clê, xin cho chúng con không ngừng cầu xin Chúa và xin cho đời sống chúng con chỉ thuộc về Chúa vì sứ mạng truyền giáo. </i>
+      “Tất cả chúng ta hãy đồng tâm và nhất trí.” <i>- khi lắng nghe thánh Phanxicô Rê-gi Clê, xin cho trái tim chúng con rập khuôn theo trái tim Chúa Kitô, thủ lãnh các mục tử. Như thế, chúng con sẽ nhận được, cùng với các môn đệ đã qua đời, triều thiên vinh quang không hề hư nát. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã sai tôi tớ Chúa là thánh Phanxicô Rê-gi Clê đi rao giảng Tin Mừng cho các quốc gia, và sau cuộc đời hoạt động tông đồ lâu dài của ngài, Chúa đã ban cho ngài triều thiên tử đạo. Xin Chúa đoái thương, dùng sức mạnh Thần Khí Chúa, củng cố đức tin cho chúng con trong việc loan báo Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
