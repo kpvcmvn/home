@@ -241,7 +241,8 @@ Trong Ngài bạn sẽ luôn sáng ngời.
 <strong>Hãy vui luôn</strong>
 <strong>Trích thư thánh Phaolô tông đồ gửi tín hữu Phi-líp-phê</strong>
       Những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Kitô, tôi cho là thiệt thòi. Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Kitô và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Mô-sê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, nhờ nên đồng hình đồng dạng với Người trong cái chết của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết. Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Kitô Giêsu chiếm đoạt. Thưa anh em, tôi không nghĩ mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước. Tôi chạy thẳng tới đích, để chiếm phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Kitô Giêsu.
-<strong>Xướng đáp</strong>
+
+      <strong>Xướng đáp</strong>
 <strong>X</strong> Tôi làm được mọi sự trong Đấng đã tăng sức cho tôi,
 * Dù trong yếu đuối, lăng nhục, cưỡng bức, ngược đãi và khắc khoải.
 <strong>Đ</strong> Khi tôi yếu chính là lúc tôi mạnh. *
@@ -254,6 +255,7 @@ Trong Ngài bạn sẽ luôn sáng ngời.
       Hành trình dài về tới thành đô... Mỗi bước chân tôi: càng gần phố xá, càng gần nhà tạm; càng gần lúc mà Ngài bước vào nơi nghèo nàn, nhỏ bé thảm hại, đến mức hoàn toàn thuộc về Ngài! ...
       Và khi Ngài đã ở đó! Ý nghĩ đầu tiên đến trong trí nhớ tôi: “Thiên Chúa đứng lên, quân địch Ngài chạy tán loạn”. Bởi, dường như, thay vì sự tiếp rước khiêm nhường, đầy dịu dàng mà tôi đợi chờ dâng Ngài, thì đó chỉ là sự vui mừng và hân hoan của chiến thắng, bởi vì Ngài đã đến, Ngài, Đấng giải Phóng, Sự bảo vệ, khiên thuẫn của tôi, sức mạnh và ơn cứu độ của tôi, trở thành sở hữu của tôi vì thế giới này và vì tha nhân...
       Hai dặm đường quay về với kho tàng của tâm hồn tôi... Cái hôn đầu tiên và sự cầu phúc đầu tiên dành cho năm con yêu quí của tôi, khi đem về chỗ ở bé nhỏ của chúng tôi một Bậc Thầy thật vĩ đại”.
+
 <strong>Xướng đáp</strong>
 <strong>X</strong> Sự hân hoan thuộc về những ai ẩn náu nơi Chúa, Niềm Vui Sướng đời đời.
 * Chúa bảo vệ họ, nhờ Chúa, họ mừng vui.
@@ -261,7 +263,7 @@ Trong Ngài bạn sẽ luôn sáng ngời.
 
 <strong>Lời nguyện</strong>
       Lạy Chúa, thánh nữ E-li-za-bét An-na Xe-tơn đã tha thiết ước ao tìm thấy Chúa, nên Chúa đã ban cho thánh nữ Ánh Sáng sức sống của Chúa. Xin ban cho chúng con, theo gương thánh nữ để lại mà biết đáp trả tiếng gọi của Tin Mừng, và sống kiên vững trong đức tin và nhiệt thành trong đức mến.
-      Chúng con cầu xin…
+      <i>Chúng con cầu xin…</i>
         
         `,
 
@@ -305,6 +307,8 @@ chư dân phải đồng thanh cảm tạ Ngài.
 Chúa Trời, Chúa chúng ta, đã ban phúc lộc. *
 Nguyện Chúa Trời ban phúc lộc cho ta
 ước chi toàn cõi đất kính sợ Người !
+
+<strong>ĐC</strong> Lạy Chúa Chí Thánh, mọi sự thánh thiện đều bắt nguồn từ Chúa.
 
 <strong>Thánh thi</strong>
 Nguồn mạch hy vọng tuôn trào 
@@ -416,6 +420,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> “Điều duy nhất lôi cuốn linh hồn tôi,
+là ước nguyện làm đẹp lòng một mình Chúa thôi".
 
 <strong>Lời cầu</strong>
       Chúng ta hãy chúc tụng Đức Giêsu Kitô, vị Thầy của chúng ta. Trong ngày lễ thánh nữ E-li-sa-bét, Người mời gọi chúng ta dâng lời ngợi khen.
@@ -947,6 +954,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Đức Kitô là Vua các anh hùng tử đạo, 
+nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
 Không có tình yêu nào 
 Lớn hơn tình hy sinh 
@@ -980,7 +990,9 @@ Cho Chúa, cho tha nhân.
 <strong>X</strong> Chúng ta sẽ đến ở trong người ấy. *
 
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> Ta không đến để được phục vụ, nhưng đến để phục vụ và hiến mạng sống mình làm giá chuộc cho nhiều người.
+<strong>ĐC</strong> Ta không đến để được phục vụ, 
+nhưng đến để phục vụ và hiến mạng sống mình 
+làm giá chuộc cho nhiều người.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -1018,6 +1030,10 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Ta không đến để được phục vụ, 
+nhưng đến để phục vụ và hiến mạng sống mình 
+làm giá chuộc cho nhiều người.
 
 <strong>Lời cầu</strong>
       Chúng ta hãy tạ ơn Chúa vì nữ tỳ Người, chân phước Lin-dan-ba, nơi chân phước Tin Mừng đã rực sáng.
@@ -1231,6 +1247,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> “Hạnh phúc thay được bước theo Chúa Giêsu! 
+Thật là hồng ân đặc biệt! 
+Thật không thể chống lại tình yêu của Ngài".
 
 <strong>Lời cầu</strong>
       Nhân ngày lễ kính chân phước Lin-dan-ba, chúng ta hãy cầu xin Đức Giêsu, vị chứng nhân trung thành, chính Ngài đã ban cho chúng ta chứng từ cao đẹp nhất.
@@ -1952,6 +1972,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Lạy Chúa, Chúa luôn trung tín 
+đối với những ai trông cậy nơi Ngài.
+
 <strong>Thánh thi</strong>
 Đoàn dân thánh vui vẻ đang tiến bước 
 Rộn ràng vang muôn khúc khải hoàn ca 
@@ -2027,6 +2050,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Ai đánh mất mạng sống mình, 
+sẽ được sự sống đời đời làm gia nghiệp.
 
 <strong>Lời cầu</strong>
       Cùng với chị Maria Anna và chị Ô-đi-la đã hy sinh mạng sống mình để tuyên xưng đức tin vào Đức Giêsu Con Chúa, lạy Chúa, chúng con ngợi khen Ngài:
@@ -2243,6 +2269,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Các ngài đã hy sinh chính mình đến sẵn sàng chịu chết,
+các ngài đã tẩy trắng áo mình trong máu Con Chiên, 
+các ngài đứng trước ngai Thiên Chúa.
 
 <strong>Lời cầu</strong>
       Chúng ta nhớ lại, vào cuối ngày hôm nay, bữa tiệc Vua các vị tử đạo đã hiến dâng mạng sống vì chúng ta, và thập giá nơi đó Người phó thác linh hồn trong tay Chúa Cha, chúng ta hãy cầu xin Chúa.
@@ -2607,6 +2637,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Đức Kitô là Vua các trình nữ, 
+nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
 Niềm hoan lạc tuyệt hảo ở nơi Chúa 
 Ơn an bình dâng lên tựa bình minh 
@@ -2673,6 +2706,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> “Tình yêu Chúa của chúng ta
+là thước đo tình yêu tha nhân của chúng ta”
 
 <strong>Lời cầu</strong>
       Bắt đầu ngày mới này, cùng với chân phước Gio-sép- phin, người đã dành cả đời cho việc phục vụ trẻ em, chúng ta hãy chúc tụng và khẩn cầu Chúa:
@@ -2870,7 +2906,9 @@ Tiến vào chốn thảnh thơi muôn đời.
 * Ai sống theo sự thật thì đến cùng ánh sáng.
 <strong>X</strong> Ai yêu mến thì được sinh ra bởi Thiên Chúa và nhận biết Thiên Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong> “Ta hãy phụng sự Chúa với niềm vui, luôn tín thác vào Ngài, phó thác hoàn toàn nơi Ngài"
+<strong>ĐC</strong> “Ta hãy phụng sự Chúa với niềm vui, 
+luôn tín thác vào Ngài, 
+phó thác hoàn toàn nơi Ngài"
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -2903,6 +2941,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> “Ta hãy phụng sự Chúa với niềm vui, 
+luôn tín thác vào Ngài, 
+phó thác hoàn toàn nơi Ngài"
 
 <strong>Lời cầu</strong>
       Hiệp với chân phước Gio-sép-phin, chúng ta hãy cầu xin cho Giáo Hội được trung thành với Tin Mừng tình yêu:
@@ -3182,7 +3224,6 @@ Sẽ tồn tại mãi mãi
 Trong đời sống chứng nhân.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
 <strong>Xướng đáp</strong>
 <strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn Là Đấng cứu chuộc con.
 <strong>Đ</strong> Tiếng lòng con thầm thĩ, mong được thấu đến Ngài.
@@ -3194,7 +3235,7 @@ Trong đời sống chứng nhân.
 
 <strong>XĐ</strong> Ai ở trong tình yêu thì ở trong Thiên Chúa, và Thiên Chúa ở trong người ấy.
 * Không có gì dịu ngọt hơn là gắn bó với giới răn của Chúa.
-<strong>X</strong> Chúng ta đã nhận biết tình yêu của Chúađối với chúng ta và chúng ta đã tin vào Chúa. *
+<strong>X</strong> Chúng ta đã nhận biết tình yêu của Chúa đối với chúng ta và chúng ta đã tin vào Chúa. *
 
 <strong>Bài đọc 2</strong>
 <strong>Tính ngôn sứ của đời sống thánh hiến 
@@ -3283,6 +3324,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa uy linh giữa triều thần thánh, 
+nào ta đến phủ phục tôn thờ.
+
 <strong>Thánh thi</strong>
 Trong trái tim sâu thẳm của Chúa Cha 
 Bén rễ sâu trong suốt cả cuộc đời 
@@ -3305,7 +3349,6 @@ Giúp chúng con tiến bước đường Ngài đi
 Dẫn chúng con về quên nhà Thiên Quốc.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
 <strong>Lời Chúa</strong> Rm 12, 1-2
       Thưa anh em, vì Thiên Chúa thương xót chúng ta, tôi khuyên nhủ anh em hãy hiến dâng thân mình làm của lễ sống động, thánh thiện và đẹp lòng Thiên Chúa. Đó là cách thức xứng hợp để anh em thờ phượng Người. Anh em đừng có rập theo đời này, nhưng hãy cải biến con người anh em bằng cách đổi mới tâm thần, hầu có thể nhận ra đâu là ý Thiên Chúa: cái gì là tốt, cái gì đẹp lòng Chúa, cái gì hoàn hảo.
 
@@ -3353,6 +3396,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Chúa là phần gia nghiệp của con,
+Người nhân lành đối với ai tìm kiếm Người.
 
 <strong>Lời cầu</strong>
       Lạy Chúa, Chúa đã muốn chị Rô-za-li ở giữa chúng con, như biểu tượng sống động của tình yêu nhân hậu Chúa. Chúng ta cùng dâng lên Chúa lời ngợi khen:
@@ -3577,6 +3623,8 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Phúc cho ai nghĩ tới người nghèo và giúp đỡ anh em mình.
 
 <strong>Lời cầu</strong>
       Chúng ta hãy ca mừng các kỳ công Chúa thực hiện nơi những ai được Chúa kêu gọi phục vụ Chúa. Nhờ lời chuyển cầu của chân phước Rô-za-li, chúng ta hãy xin Người cho chúng ta sức mạnh ban sự sống của Tình yêu Đức Kitô.
@@ -3887,6 +3935,10 @@ Nẻo đường người công chính,
 Còn đường lối ác nhân 
 Đưa tới chỗ diệt vong.
 
+<strong>ĐC</strong> Vinh Sơn, người của Thiên Chúa,
+đã vứt bỏ mọi ơn huệ thế gian,
+và chỉ bừng cháy lửa yêu Đức Kitô.
+
 <strong>Tv 40
 Lời kinh trông cậy của người ốm</strong>
 <strong>ĐC</strong> Phúc thay kẻ lưu tâm đến người nghèo khổ
@@ -3926,12 +3978,14 @@ Xin thương xót và nâng con chỗi dậy,
 Để con trả chúng mối hận nay.
 
 Con sẽ nhận biết rằng Chúa thương con thật,
- Nếu kẻ thù không đắc thắng hò reo.* 
- Chúa nâng đỡ con vì con vô tội 
- Và đặt con ở mãi trước nhan Ngài.
+Nếu kẻ thù không đắc thắng hò reo.* 
+Chúa nâng đỡ con vì con vô tội 
+Và đặt con ở mãi trước nhan Ngài.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en, 
 Từ muôn thuở cho đến muôn đời. Amen. Amen.
+
+<strong>ĐC</strong> Phúc thay kẻ lưu tâm đến người nghèo khổ
 
 <strong>Tv 83
 Hướng về Đền thánh Chúa ở Sion</strong>
@@ -3985,6 +4039,8 @@ Người chẳng nỡ từ chối ơn lành.
 
 Lạy Chúa Tể càn khôn,
 Phúc thay người tin tưởng vào Chúa!
+
+<strong>ĐC</strong> Lạy Chúa, Phúc thay người ở trong thánh điện Chúa
 
 <strong>Xướng đáp</strong>
 <strong>X</strong> Chúa dẫn dắt người lành trên đường ngay nẻo chính,
@@ -4138,6 +4194,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Tin Mừng được rao giảng cho người nghèo! 
+Chúa sẽ cứu độ dân Người. Halêluia.
+
 <strong>Thánh thi</strong>
 Nếu tình yêu là một ngọn lửa mới 
 Lời vâng của bạn làm cháy bừng lên 
@@ -4201,6 +4260,9 @@ nương bóng Ngài, con hớn hở reo vui.
 Trót cả tâm tình, con cùng Ngài gắn bó,
 giơ tay quyền lực, Ngài che chở phù trì.
 
+<strong>ĐC</strong> Thiên Chúa đã ban cho họ vinh quang vô tận,
+Tên tuổi họ sẽ chẳng bị quên lãng bao giờ.
+
 <strong>Tc Đn 3
 Thánh thi ba trẻ nhỏ</strong>
 <strong>ĐC</strong> Hỡi tôi tớ Chúa,
@@ -4260,6 +4322,8 @@ Lạy Chúa,
 chúc tụng Chúa trên cõi trời cao thẳm, *
 muôn ngàn đời, xin ca tụng suy tôn.
 <i>(Chú ý: không đọc kinh "Vinh danh" cuối thánh ca này.)</i>
+<strong>ĐC</strong> Hỡi tôi tớ Chúa,
+muôn ngàn đời hãy chúc tụng Chúa.
 
 <strong>Tv 149
 Ngợi khen Chúa bằng những bài ca chiến thắng</strong>
@@ -4293,6 +4357,9 @@ và xích cổ vương hầu,
 Chúa đã viết từ xưa.
 Ðó là niềm vinh dự
 cho mọi kẻ trung hiếu với Người.
+
+<strong>ĐC</strong> Kẻ kiên trung, hãy vui mừng rạng rỡ,
+đến giờ toàn thắng hãy cất tiếng reo hò.
 
 <strong>Lời Chúa</strong> Cl 3,14-15
       Trên hết mọi đức tính, anh em phải có lòng Bác Ái: đó là mối dây liên kết tuyệt hảo. Ước gì ơn bình an của Đức Kitô điều khiển tâm hồn anh em, vì trong một thân thể duy nhất, anh em đã được kêu gọi đến hưởng ơn bình an đó. Bởi vậy, anh em hãy hết dạ tri ân.
@@ -4341,6 +4408,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Thánh Vinh Sơn là người an ủi kẻ ưu phiền, 
+Là người bênh vực cô nhi quả phụ.
 
 <strong>Lời cầu</strong>
       Hiệp nhất trong sức mạnh của Thánh Thần Chúa, chúng ta hãy tin tưởng cầu xin Đức Giêsu Kitô là quy luật của việc truyền giáo.
@@ -4466,6 +4536,10 @@ Tôi vốn chuộng hòa bình.
 Nhưng hễ tôi nói tới
 Thì phe họ lại muốn chiến tranh.
 
+<strong>ĐC</strong> Hãy hòa hảo với Thiên Chúa, 
+Chúa sẽ là mọi sự cho chúng ta, 
+và với Ngài, chúng ta sẽ có mọi sự.
+
 <strong>Tv 120
 Chúa là Đấng bảo vệ các tín hữu</strong>
 <strong>ĐC</strong> Chúng ta phải tôn thờ đường lối Chúa 
@@ -4494,6 +4568,9 @@ Giữ gìn cho sinh mệnh an toàn.*
 Chúa giữ gìn bạn lúc ra vào lui tới, 
 Từ giờ đây cho tới mãi muôn đời.
 
+<strong>ĐC</strong> Chúng ta phải tôn thờ đường lối Chúa 
+và tín thác vào lòng nhân từ Chúa.
+
 <strong>Tv 124
 Chúa ngự đến giúp dân Ngài chống kẻ thù</strong>
 <strong>ĐC</strong> “Hãy để Thiên Chúa làm gì thì làm!
@@ -4521,6 +4598,10 @@ Và những ai lòng dạ thẳng ngay.
 Nhưng kẻ ngả theo đường tà vạy, 
 Xin Chúa đuổi đi cùng bọn làm điều ác.* 
 Nguyện chúc Ít-ra-en được thái bình.
+
+<strong>ĐC</strong> “Hãy để Thiên Chúa làm gì thì làm!
+Chúa Quan phòng không bao giờ quên chúng ta 
+khi chúng ta chu toàn phận sự phụng sự Ngài”
 
 <strong>Lời Chúa</strong> 1Pr 1,22-23
       Nhờ vâng phục sự thật, anh em đã thanh luyện tâm hồn để thực thi tình huynh đệ chân thành. Anh em hãy tha thiết yêu mến nhau với tất cả tâm hồn. Vì anh em đã được tái sinh, không phải do hạt giống mục nát, mà do hạt giống bất diệt, nhờ Lời Thiên Chúa hằng sống và tồn tại mãi.
@@ -4621,6 +4702,10 @@ mà hại đến người ngay.
 Phàm ai làm những điều này, 
 không hề nao núng chuyển lay bao giờ.
 
+<strong>ĐC</strong> Lạy Chúa, 
+phúc thay kẻ được Ngài tuyển chọn 
+để ở lại trước nhan ngài.
+
 <strong> Tv 111
 Ca tụng lòng kính sợ Chúa </strong>
 <strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
@@ -4655,6 +4740,9 @@ Thấy cảnh này ác nhân tức giận,
 nghiến răng nghiến lợi và mòn mỏi héo hon, * 
 ước vọng của ác nhân sẽ chẳng còn.
 
+<strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
+Đức công chính của họ tồn tại muôn đời.
+
 <strong>Tc Kh 15,3-4
 Thánh ca thờ phượng </strong>
 <strong>ĐC</strong> Chúa đã ban cho người vinh quang vô tận 
@@ -4673,6 +4761,9 @@ Người muôn nước sẽ về
 phủ phục trước tôn nhan, * 
 vì ai ai cũng đều thấy rõ 
 những phán quyết công minh của Ngài.
+
+<strong>ĐC</strong> Chúa đã ban cho người vinh quang vô tận 
+Hạnh phúc vĩnh cửu là cơ nghiệp của người.
 
 <strong>Lời Chúa</strong> 1Cr 13,4-7
       Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả.
@@ -4717,6 +4808,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Điều gì các ngươi đã làm
+cho một trong những anh em bé nhỏ nhất của Ta, 
+là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời cầu</strong>
       Trong lời kinh cuối ngày này, chúng ta hãy cảm tạ Chúa và khẩn cầu Người gìn giữ chúng ta trong bình an của Người.
@@ -6178,9 +6273,12 @@ hàng quyền quý dân Người.
 Người làm cho đàn bà son sẻ 
 thành mẹ đông con, vui cửa vui nhà.
 
+<strong>ĐC</strong> “Tôi muốn sống kết hiệp mật thiết với Đức Giêsu Kitô"
+
 <strong>Tv 147</strong>
 <strong>Thành Giêrusalem mới</strong>
-<strong>ĐC</strong> “Tôi phó thác cho thánh ý Chúa, tôi tin tưởng vào lòng nhân từ của Người”
+<strong>ĐC</strong> “Tôi phó thác cho thánh ý Chúa, 
+tôi tin tưởng vào lòng nhân từ của Người”
 
 Giê-ru-sa-lem hỡi, nào tôn vinh Chúa, 
 này Xi-on, hãy ca ngợi Thiên Chúa của ngươi!
@@ -6205,9 +6303,15 @@ chiếu chỉ luật điều cho Ít-ra-en. *
 Chúa không đối xử với dân nào như vậy, 
 không cho họ biết những điều luật của Người.
 
+<strong>ĐC</strong> “Tôi phó thác cho thánh ý Chúa, 
+tôi tin tưởng vào lòng nhân từ của Người”
+
 <strong>Tc Ep 1,3-10</strong>
 <strong>Thiên Chúa cứu độ</strong>
-<strong>ĐC</strong> “Thiên Chúa Cha đã muốn chứng tỏ cho chúng ta tình yêu của Người khi ban cho chúng ta Con của Người"
+<strong>ĐC</strong> “Thiên Chúa Cha đã muốn 
+chứng tỏ cho chúng ta tình yêu của Người 
+khi ban cho chúng ta Con của Người"
+
 Chúc tụng Thiên Chúa
 là Thân Phụ Đức Giêsu Kitô, Chúa chúng ta.
 
@@ -6244,6 +6348,10 @@ Người đã định từ trước trong Đức Kitô
 Đó là đưa thời gian tới hồi viên mãn, * 
 là qui tụ muôn loài trong trời đất, 
 dưới quyền một thủ lãnh là Đức Kitô.
+
+<strong>ĐC</strong> “Thiên Chúa Cha đã muốn 
+chứng tỏ cho chúng ta tình yêu của Người 
+khi ban cho chúng ta Con của Người"
 
 <strong>Lời Chúa</strong> Rm 11, 33-36
       Sự giàu có, khôn ngoan và thông suốt của Thiên Chúa sâu thẳm dường nào! Quyết định của Người, ai dò cho thấu! Đường lối của Người, ai theo dõi được! Thật vậy, ai đã biết tư tưởng của Chúa? Ai đã làm cố vấn cho Người? Ai đã cho Người trước, để Người phải trả lại sau? Vì muôn vật đều do Người mà có, nhờ Người mà tồn tại và quy hướng về Người. Xin tôn vinh Thiên Chúa đến muôn đời! A-men.
@@ -6288,6 +6396,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> “Ngay trên thế gian này, 
+ước gì con được tuôn chảy 
+trong đại dương của thần tính Chúa!"
 
 <strong>Lời cầu</strong>
       Lạy Chúa, Chúa đã khiến cho tình yêu Chúa tỏ hiện trong đời sống của thánh nữ Lu-i-xa Ma-ri-ắc. Với lòng biết ơn, chúng con cầu xin Chúa:
@@ -6424,9 +6536,12 @@ Từ chân trời này, thái dương xuất hiện,
 Rồi chuyển vẫn mãi đến chân trời kia,* 
 Chẳng có chỉ tránh khỏi ánh dương nồng.
 
+<strong>ĐC</strong> “Lời Ngài như lửa thiêu"
+
 <strong>Tv 44</strong>
 <strong>Hôn lễ Quân Vương</strong>
-<strong>ĐC</strong> “Lạy Chúa là Thiên Chúa của con, con mong mỏi Chúa hết cả tâm hồn"
+<strong>ĐC</strong> “Lạy Chúa là Thiên Chúa của con, 
+con mong mỏi Chúa hết cả tâm hồn"
 
 Lòng trào dâng những lời cẩm tú, 
 Miệng ngâm thơ mừng chúc thánh quân,* 
@@ -6460,8 +6575,12 @@ Hàng cung nữ có những vì công chúa,*
 Bên hữu Ngài, hoàng hậu sánh vai, 
 Trang điểm vàng Ô-phia lộng lẫy.
 
+<strong>ĐC</strong> “Lạy Chúa là Thiên Chúa của con, 
+con mong mỏi Chúa hết cả tâm hồn"
+
 <strong>II</strong>
-<strong>ĐC</strong> “Ôi lạy Chúa, Ngài biết con, tình thương Ngài dẫn dắt con"
+<strong>ĐC</strong> “Ôi lạy Chúa, Ngài biết con, 
+tình thương Ngài dẫn dắt con"
 
 Tôn nương hơi, xin hãy nghe nào, 
 Đưa mắt nhìn và hãy lắng tai,* 
@@ -6487,6 +6606,9 @@ Danh thơm Ngài, thần xin truyền tụng
 Thế hệ này tới thế hệ kia,*
 Vì thế, dân dân sẽ nức lòng ca ngợi,
 Tiếng ngợi ca bất tận muôn đời.
+
+<strong>ĐC</strong> “Ôi lạy Chúa, Ngài biết con, 
+tình thương Ngài dẫn dắt con"
 
 <strong>Xướng đáp</strong>
 <strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn, là Đấng cứu chuộc con.
@@ -6646,6 +6768,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Lạy Chúa, Chúc tụng Chúa, 
+Thiên Chúa nhân từ và yêu thương.
+
 <strong>Thánh thi</strong>
 Ai yêu mến thì sinh bởi Cha
 Ai biết mến yêu thì biết Người
@@ -6702,6 +6827,9 @@ nương bóng Ngài, con hớn hở reo vui.
 
 Trót cả tâm tình, con cùng Ngài gắn bó,
 giơ tay quyền lực, Ngài che chở phù trì.
+
+<strong>ĐC</strong> Ôi Thiên Chúa, 
+Chính Chúa muốn hiệp thông sâu xa với chúng con.
 
 <strong>Tc Đn 3</strong>
 <strong>Thánh thi ba trẻ nhỏ </strong>
@@ -6765,6 +6893,11 @@ Lạy Chúa,
 Chúc tụng Chúa trên cõi trời cao thẳm, *
 muôn ngàn đời , xin ca tụng suy tôn.
 <i>(Chú ý: không đọc kinh "Vinh Danh" cuối thánh ca này.)</i>
+<strong>ĐC</strong> “Ôi tình yêu tuyệt vời,
+ôi bí mật được giấu kín. 
+Chúa đã muốn làm cho chúng con 
+hiểu được tình yêu cao cả của Chúa, 
+khi tạo dựng con người"
 
 <strong>Tv 149<s/trong>
 <strong>Ngợi khen Chúa bằng những bài ca chiến thắng </strong>
@@ -6800,6 +6933,10 @@ Chúa đã viết từ xưa.
 Ðó là niềm vinh dự
 cho mọi kẻ trung hiếu với Người.
 
+<strong>ĐC</strong> “Ôi lạy Chúa,
+không vui sướng nào hơn vui sướng
+yêu mến và ước ao được làm vui lòng Chúa”
+
 <strong>Lời Chúa</strong> 1 Ga 4,10-12
       Tình yêu cốt ở điều này: không phải chúng ta đã yêu mến Thiên Chúa, nhưng chính Người đã yêu thương chúng ta, và sai Con của Người đến làm của lễ đền tội cho chúng ta. Anh em thân mến, nếu Thiên Chúa đã yêu thương chúng ta như thế, chúng ta cũng phải yêu thương nhau. Thiên Chúa chưa ai được chiêm ngưỡng bao giờ. Nếu chúng ta yêu thương nhau, thì Thiên Chúa ở lại trong chúng ta, và tình yêu của Người nơi chúng ta mới nên hoàn hảo.
 
@@ -6809,7 +6946,9 @@ cho mọi kẻ trung hiếu với Người.
 <strong>X</strong> Không có gì dịu dàng hơn khi gắn bó với các điều răn của Chúa. *
 
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> “Sức mạnh của Tình yêu, kho tàng cao quí được giấu kín nơi sâu thẳm nhất của tâm hồn”.
+<strong>ĐC</strong> “Sức mạnh của Tình yêu, 
+kho tàng cao quí được giấu kín 
+nơi sâu thẳm nhất của tâm hồn”.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -6847,6 +6986,10 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> “Sức mạnh của Tình yêu, 
+kho tàng cao quí được giấu kín 
+nơi sâu thẳm nhất của tâm hồn”.
 
 <strong>Lời cầu</strong>
       Chúa đã đổ tràn đầy hồng ân Chúa trên thánh nữ Lu-i-xa Ma-ri-ắc và ban cho thánh nữ đầy lòng nhiệt thành phục vụ Chúa, Chúng ta hãy cầu xin Chúa lôi kéo chúng ta bước theo thánh nữ.
@@ -6972,6 +7115,9 @@ Tôi vốn chuộng hoà bình,
 nhưng hễ tôi nói tới
 thì phe họ lại muốn chiến tranh.
 
+<strong>ĐC</strong> Lạy Thiên Chúa của con, 
+xin kết hiệp ý con theo thánh ý Chúa.
+
 <strong>Tv 120</strong>
 <strong>Chúa là Đấng bảo vệ các tín hữu </strong>
 <strong>ĐC</strong> Lạy Thiên Chúa của con, 
@@ -7000,9 +7146,13 @@ Giữ gìn cho sinh mệnh an toàn.*
 Chúa giữ gìn bạn lúc ra vào lui tới, 
 Từ giờ đây cho tới mãi muôn đời.
 
+<strong>ĐC</strong> Lạy Thiên Chúa của con, 
+con muốn được ở trước Nhan thánh Ngài.
+
 <strong>Tv 124</strong>
 <strong>Chúa ngự đến giúp dân Ngài chống kẻ thù.</strong>
-<strong>ĐC</strong> Lạy Chúa, xin ngự đến chiếm ngự trọn vẹn trái tim con.
+<strong>ĐC</strong> Lạy Chúa, 
+xin ngự đến chiếm ngự trọn vẹn trái tim con.
 
 Ai tin tưởng vào Chúa, 
 Khác nào núi Xion 
@@ -7024,6 +7174,9 @@ Và những ai lòng dạ thẳng ngay.
 Nhưng kẻ ngả theo đường tà vạy, 
 Xin Chúa đuổi đi cùng bọn làm điều ác.* 
 Nguyện chúc Ít-ra-en được thái bình.
+
+<strong>ĐC</strong> Lạy Chúa, 
+xin ngự đến chiếm ngự trọn vẹn trái tim con.
 
 <strong>Lời Chúa</strong> Gc 2,5,12-13
       Anh em thân mến của tôi, anh em hãy nghe đây: nào Thiên Chúa đã chẳng chọn những kẻ nghèo khó trước mặt người đời, để họ trở nên giàu đức tin và thừa hưởng vương quốc Người đã hứa cho những ai yêu mến Người hay sao? Anh em hãy nói năng và hành động như những người sẽ bị xét xử theo luật tự do. Vì Thiên Chúa không thương xót khi xét xử kẻ không biết thương xót. Còn ai thương xót, thì chẳng quan tâm đến việc xét xử.
@@ -7153,6 +7306,11 @@ tôi nói rằng: "Chúc thành đô an lạc." *
 Nghĩ tới đền thánh Chúa, Thiên Chúa chúng ta thờ,
 tôi ước mong thành được hạnh phúc, hỡi thành đô.
 
+<strong>ĐC</strong> “Tâm hồn tôi, 
+tràn ngập niềm vui, 
+không ngừng ca hát: 
+Chúa là Thiên Chúa của con"
+
 <strong>Tv 126
 Thiên Chúa, niềm cậy trông duy nhất của ta</strong>
 <strong>ĐC</strong> “Chúng ta là ai,
@@ -7179,6 +7337,10 @@ Hạnh phúc thay người nào
 Họ sẽ không nhục nhã
 khi phải đến cửa công
 tranh tụng với địch thù.
+
+<strong>ĐC</strong> “Chúng ta là ai,
+lại muốn tự mình chọn lấy con đường mình đi?
+Hãy để Thiên Chúa hành động”
 
 <strong>Tc Ep 1, 3-10
 Thiên Chúa cứu độ</strong>
@@ -7223,6 +7385,9 @@ Người đã định từ trước trong Ðức Ki-tô.
 là quy tụ muôn loài trong trời đất
 dưới quyền một thủ lãnh là Ðức Ki-tô.
 
+<strong>ĐC</strong> “Lạy Thiên Chúa của con, 
+sự sống của Chúa chính là tình yêu”
+
 <strong>Lời Chúa</strong> Rm 8, 14-17
       Quả vậy, phàm ai được Thần Khí Thiên Chúa hướng dẫn đều là con cái Thiên Chúa. Phần anh em, anh em đã không lãnh nhận Thần Khí khiến anh em trở thành nô lệ và phải sợ sệt như xưa, nhưng là Thần Khí làm cho anh em nên nghĩa tử, nhờ đó chúng ta được kêu lên “Áp-ba! Cha ơi!” Chính Thần Khí chứng thực cho thần trí chúng ta rằng chúng ta là con cái Thiên Chúa. Vậy đã là con, thì cũng là thừa kế, mà được Thiên Chúa cho thừa kế, thì tức là đồng thừa kế với Đức Kitô; vì một khi cùng chịu đau khổ với Người, chúng ta sẽ cùng được hưởng vinh quang với Người.
 
@@ -7264,6 +7429,8 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> “Tình yêu Đức Giêsu chịu đóng đinh thúc bách chúng ta".
 
 <strong>Lời cầu</strong>
       Hiệp với thánh nữ Lu-i-xa, chúng ta hãy cầu xin cho Giáo Hội trung thành với Tin Mừng của Đức Giêsu Kitô.
@@ -8209,6 +8376,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa là Vua các trinh nữ, 
+nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
 Ôi Giêsu, Danh Ngài vang vọng mãi 
 Ngài là ký ức sống động Chúa Cha 
@@ -8279,6 +8449,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Chị vui vẻ trao hiến cho kẻ đói nghèo,
+đức công chính chị tồn tại mãi mãi.
 
 <strong>Lời cầu</strong>
       Khởi đầu ngày mới này, cùng với chân phước Mác-ta, người đã dành cả đời mình cho việc phục vụ “những người bị tổn thương sự sống”, chúng ta hãy chúc tụng Con Người:
@@ -8496,6 +8669,9 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Phúc thay ai thương người nghèo;
+ai tin tưởng vào Chúa, và biết xót thương.
 
 <strong>Lời cầu</strong>
       Cùng với chân phước Mác-ta, người đã hiến cả đời cho việc phục vụ bệnh nhân, chúng ta hãy cầu nguyện cho bao người nam nữ đang đương đầu với bệnh tật.
@@ -8912,6 +9088,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa đã ban cho các ngài vinh quang chiến thắng, 
+Vì đức Khôn ngoan mạnh hơn tất cả.
+
 <strong>Thánh thi</strong>
 Phúc thay bao người nghèo trước đám tiệc 
 Lâu đài của Chúa, họ được thỏa thuê 
@@ -8987,6 +9166,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Ai theo Thầy không đi trong tối tăm:
+người ấy sẽ có ánh sáng ban sự sống.
 
 <strong>Lời cầu</strong>
       Chúng ta hãy tôn vinh Đức Kitô Giêsu. Qua đời sống các chân phước tử đạo thành A-ra (Arras), Chúa khuyến khích chúng ta trung thành và tin tưởng.
@@ -9199,6 +9381,9 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Ánh sáng Chúa sẽ chiếu soi trên họ, 
+một ánh sáng vĩnh cửu.
 
 <strong>Lời cầu</strong>
       Hiệp thông với các chân phước tử đạo Marie Mát- len, Maria Phanxica, Têrêxa và Gio-an-na, chúng ta hãy cầu xin Chúa kẻ sống ban cho Hội Thánh ơn trung thành với Tin Mừng.
@@ -9558,6 +9743,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo, 
+Nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
 Dâng tim hồng hy sinh mạng sống 
 Trao thân mình đổ máu vì yêu 
@@ -9636,6 +9824,10 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> “Đến lượt tôi, tôi muốn nói với các giáo hội:
+các bạn là anh chị em của nhau, 
+xin bình an của Chúa ở giữa anh chị em”.
 
 <strong>Lời cầu</strong>
       Cùng với thánh Phanxicô Rê-gi Clê, người đã hy sinh mạng sống mình vì loan báo Tin Mừng và vì phần rỗi thế gian, chúng ta hãy ngợi khen Đấng Cứu độ nhân loại.
@@ -9855,6 +10047,11 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Trong cơn bão táp,
+ngài củng cố anh em mình, 
+ngài từ chối vi phạm luật Thiên Chúa, 
+vui mừng được đổ máu vì Chúa. Halêluia.
 
 <strong>Lời cầu</strong>
       Chúng ta hãy cầu xin Chúa giữ gìn kho tàng quí giá đức tin nơi chúng ta. Chúng ta hãy xin Chúa, nhờ lời chuyển cầu của thánh Phanxicô Rê-gi Clê, tìm được nơi trú ẩn để không đánh mất đức tin.
@@ -13386,6 +13583,259 @@ en: `<strong>MASS</strong>
 
 `,    
 },
+eveningprayer1:{
+        vi: `
+<strong>Giáo đầu</strong>
+<strong>Chủ sự</strong> Lạy Chúa Trời, xin tới giúp con.
+<strong>Cộng đoàn</strong> Muôn lạy Chúa, xin mau phù trợ.
+Vinh danh Chúa Cha và Chúa Con,
+cùng vinh danh Thánh Thần Thiên Chúa,
+<i>tự muôn đời và chính hiện nay
+luôn mãi đến thiên thu vạn đại. A-men.</i>
+Ha-lê-lui-a.
+
+<strong>Thánh thi</strong>
+
+
+<strong>Ca vịnh</strong>
+<strong>Tv 112</strong>
+<strong>Thiên Chúa tối cao và đầy yêu thương</strong>
+<strong>ĐC</strong> Lạy Chúa, chúc tụng Chúa là Đấng cất nhắc kẻ nghèo
+
+Hỡi tôi tớ Chúa, hãy dâng lời ca ngợi, 
+nào ca ngợi danh thánh Chúa đi!
+
+Chúc tụng danh thánh Chúa, 
+tự giờ đây cho đến mãi muôn đời! * 
+ca ngợi danh thánh Chúa 
+từ rạng đông tới lúc chiều tà!
+
+Chúa siêu việt trên hết mọi dân, 
+vinh quang Người vượt xa trời cao thẳm. *
+ Ai sánh tày Thượng Đế Chúa ta, 
+Đấng ngự chốn cao vời, 
+cúi xuống để nhìn xem bầu trời trái đất !
+
+Kẻ mọn hèn, Chúa kéo ra khỏi nơi cát bụi, 
+ai nghèo túng, Người cất nhắc từ đống phân tro, * 
+đặt ngồi chung với hàng quyền quý, 
+hàng quyền quý dân Người.
+
+Người làm cho đàn bà son sẻ 
+thành mẹ đông con, vui cửa vui nhà.
+
+<strong>ĐC</strong> Lạy Chúa, chúc tụng Chúa là Đấng cất nhắc kẻ nghèo
+
+<strong>Tv 145</strong>
+<strong>Thiên Chúa là Đấng tạo thành, phù trợ và thống trị đến muôn đời</strong>
+<strong>ĐC</strong> Chúa lắng nghe tiếng kêu của người nghèo, 
+Xử công minh cho người cùng khốn.
+
+Ca tụng Chúa đi, hồn tôi hỡi ! *
+suốt cuộc đời, tôi xin hát mừng Chúa,
+sống bao lâu, nguyện đàn ca kính Chúa Trời !
+
+Ðừng tin tưởng nơi hàng quyền thế,
+nơi người phàm chẳng cứu nổi ai. *
+Họ tắt hơi là trở về cát bụi,
+dự định bao điều: ngày ấy tiêu tan.
+
+Phúc thay người được Chúa Trời nhà Giacóp phù hộ
+và cậy trông Chúa, Thiên Chúa họ thờ. *
+Người là Ðấng tạo thành trời đất với biển khơi,
+cùng muôn loài trong đó.
+
+Người là Ðấng giữ lòng trung tín mãi muôn đời,
+xử công minh cho người bị áp bức,
+ban lương thực cho kẻ đói ăn.
+
+Chúa giải phóng những ai tù tội,
+Chúa mở mắt cho kẻ mù lòa, *
+Chúa cho kẻ bị dìm xuống đứng thẳng lên,
+Chúa yêu chuộng những người công chính.
+
+Chúa phù trợ những khách ngoại kiều, *
+Người nâng đỡ cô nhi quả phụ,
+nhưng phá vỡ mưu đồ bọn ác nhân.
+
+<strong>ĐC</strong> Chúa lắng nghe tiếng kêu của người nghèo, 
+Xử công minh cho người cùng khốn.
+
+<strong>Tc Ep 1,3-10</strong>
+<strong>Thiên Chúa cứu độ</strong>
+<strong>ĐC</strong> Chúc tụng Thiên Chúa,
+Đấng đã kêu gọi chúng ta bước đi
+không có gì đáng trách trước nhan Ngài.
+
+Chúc tụng Thiên Chúa
+là Thân Phụ Đức Giêsu Kitô, Chúa chúng ta.
+
+Trong Đức Kitô
+từ cõi trời, Người đã thi ân giáng phúc 
+cho ta hưởng muôn vàn ơn phúc của Thánh Thần.
+
+Trong Đức Kitô
+Người đã chọn ta trước cả khi tạo thành vũ trụ,
+để trước thánh nhan Người,
+ta trở nên tỉnh tuyền thánh thiện,
+nhờ tình thương của Người.
+
+Theo ý muốn và lòng nhân ái của Người,
+Người đã tiền định cho ta làm nghĩa tử, 
+nhờ Đức Giêsu Kitô.
+
+để ta hằng ngợi khen ân sủng rạng ngời, * 
+ân sủng Người ban tặng cho ta 
+trong Thánh Tử yêu dấu.
+
+Trong Thánh Tử, nhờ máu Thánh Tử đổ ra, 
+chúng ta được cứu chuộc, *
+được thứ tha tội lỗi
+theo lượng ân sủng rất phong phú của Người.
+
+Ân sủng này, Thiên Chúa đã rộng ban cho ta 
+cùng với tất cả sự khôn ngoan thông hiểu.
+
+Người cho ta được biết thiên ý nhiệm mầu: * 
+thiên ý này là kế hoạch yêu thương, 
+Người đã định từ trước trong Đức Kitô
+
+Đó là đưa thời gian tới hồi viên mãn, * 
+là qui tụ muôn loài trong trời đất, 
+dưới quyền một thủ lãnh là Đức Kitô.
+
+<strong>ĐC</strong> Chúc tụng Thiên Chúa,
+Đấng đã kêu gọi chúng ta bước đi
+không có gì đáng trách trước nhan Ngài.
+
+<strong>Lời Chúa</strong> Rm 11, 33-36
+      Sự giàu có, khôn ngoan và thông suốt của Thiên Chúa sâu thẳm dường nào! Quyết định của Người, ai dò cho thấu! Đường lối của Người, ai theo dõi được! Thật vậy, ai đã biết tư tưởng của Chúa? Ai đã làm cố vấn cho Người? Ai đã cho Người trước, để Người phải trả lại sau? Vì muôn vật đều do Người mà có, nhờ Người mà tồn tại và quy hướng về Người. Xin tôn vinh Thiên Chúa đến muôn đời! A-men.
+
+<strong>Xướng đáp</strong>
+<strong>XĐ</strong> Lạy Chúa, vinh quang Chúa chiếu tỏa đến muôn đời.
+* Chúa đã cho chúng con biết chiều sâu của tình yêu Chúa.
+<strong>X</strong> Chúa xứng đáng muôn lời ngợi khen. *
+<strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
+<strong>ĐC</strong> “Ngay trên thế gian này, 
+ước gì con được tuôn chảy 
+trong đại dương của thần tính Chúa!"
+
+Linh hồn tôi ngợi khen Đức Chúa
+Thần trí tôi hớn hở vui mừng
+Vì Thiên Chúa, Đấng cứu độ tôi.
+
+Phận nữ tỳ hèn mọn,
+Người đoái thương nhìn tới ;
+Từ nay hết mọi đời
+Sẽ khen tôi diễm phúc.
+
+Đấng Toàn Năng đã làm cho tôi
+Biết bao điều cao cả.
+Danh Người thật chí thánh chí tôn !
+
+Đời nọ tới đời kia,
+Chúa hằng thương xót những ai kính sợ Người.
+
+Chúa giơ tay biểu dương sức mạnh
+Dẹp tan phường lòng trí kiêu căng.
+
+Chúa hạ bệ những ai quyền thế,
+Người nâng cao mọi kẻ khiêm nhường.
+
+Kẻ đói nghèo, Chúa ban của đầy dư,
+Người giàu có, lại đuổi về tay trắng.
+
+Chúa độ trì Ít-ra-en, tôi tớ của Người,
+Như đã hứa cùng cha ông chúng ta.
+
+Vì Người nhớ lại lòng thương xót
+Dành cho tổ phụ Áp-ra-ham
+Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> “Ngay trên thế gian này, 
+ước gì con được tuôn chảy 
+trong đại dương của thần tính Chúa!"
+
+<strong>Lời cầu</strong>
+      Lạy Chúa, Chúa đã khiến cho tình yêu Chúa tỏ hiện trong đời sống của thánh nữ Lu-i-xa Ma-ri-ắc. Với lòng biết ơn, chúng con cầu xin Chúa:
+      <i>Lạy Chúa, xin dạy chúng con biết đường dẫn tới Chúa. </i>
+      Như thánh nữ Lu-i-xa đã khám phá Chúa nơi sâu thẳm nhất đêm tối của ngài, <i>- xin Chúa hãy để cho tất cả những ai tìm kiếm Chúa được thấy Chúa. </i>
+      Như thánh nữ Lu-i-xa đã biết đáp trả bằng tình yêu lời mời gọi bất chợt của Chúa, <i>- xin cho chúng con can đảm đi theo Chúa bằng đức tin. </i>
+      Như thánh nữ Lu-i-xa đã gặp được thánh nhan Chúa trên khuôn mặt người yếu đuối và kẻ bé nhỏ, <i>- xin Chúa hướng chúng con nhìn đến những người không ai nhìn nhận. </i>
+      Như thánh nữ Lu-i-xa đã kinh ngạc khi được lãnh nhận Chúa trong Phép Thánh Thể, <i>- xin Chúa làm cho những lần chúng con rước lễ khơi dậy nơi chúng con sức mạnh của tình yêu Chúa. </i>
+      Như thánh nữ Lu-i-xa đã chuẩn bị trong an bình để gặp Chúa, <i>- xin Chúa cho tất cả những người hấp hối không cảm thấy sợ hãi khi đi gặp Chúa. </i>
+
+<strong>Kinh Lạy Cha</strong>
+<strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã cho thánh nữ Louise de Marillac nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ cách kính trọng và yêu thương.
+      <i>Chúng con cầu xin...</i>
+
+<strong>Kết thúc </strong>
+<i>Chủ sự là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
+<strong>Cộng đoàn</strong>  Và ở cùng cha (thầy).
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng là Chúa Cha và Chúa Con, và Chúa Thánh Thần ban phúc lành cho anh (chị) em.
+<strong>Cộng đoàn</strong>  A-men.
+<i>Chủ sự không là linh mục hoặc phó tế</i>
+<strong>Chủ sự</strong>  Xin Thiên Chúa toàn năng ban phúc lành cho tất cả chúng ta, xin Người che chở chúng ta khỏi mọi sự dữ, và dẫn đưa chúng ta đến cuộc sống muôn đời.
+<strong>Cộng đoàn</strong>  A-men.
+
+        `,
+
+        en: `
+God, come to my assistance.
+<strong>—</strong> <i>Lord, make haste to help me.</i>
+Glory to the Father, and to the Son, and to the Holy Spirit:
+<strong>—</strong> <i>as it was in the beginning, is now, and will be for ever. Amen.</i> Alleluia.
+
+<strong>HYMN</strong>
+Loading…
+<strong>PSALMODY</strong>
+Loading…
+<strong>READING</strong>
+Loading...
+<strong>RESPONSORY</strong>
+Loading...
+<strong>Luke 1:46-55
+The soul rejoices in the Lord</strong>
+<strong>Ant.</strong>
+
+My soul proclaims the greatness of the Lord,
+my spirit rejoices in God my Savior
+for he has looked with favor on his lowly servant.
+
+From this day all generations will call me blessed:
+the Almighty has done great things for me,
+and holy is his Name.
+
+He has mercy on those who fear him
+in every generation.
+
+He has shown the strength of his arm,
+he has scattered the proud in their conceit.
+
+He has cast down the mighty from their thrones,
+and has lifted up the lowly.
+
+He has filled the hungry with good things,
+and the rich he has sent away empty.
+
+He has come to the help of his servant Israel
+for he has remembered his promise of mercy,
+the promise he made to our fathers,
+to Abraham and his children for ever.
+
+<strong>INTERCESSIONS</strong>
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth, as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+<strong>CONCLUDING PRAYER</strong>
+
+        
+        `
+
+},
+
        officeOfReadings: {
 vi: `
 <strong>Giáo đầu</strong>
