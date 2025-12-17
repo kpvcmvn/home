@@ -13941,6 +13941,10 @@ Nẻo đường người công chính,
 Còn đường lối ác nhân 
 Đưa tới chỗ diệt vong.
 
+<strong>ĐC</strong> Vinh Sơn, người của Thiên Chúa,
+đã vứt bỏ mọi ơn huệ thế gian,
+và chỉ bừng cháy lửa yêu Đức Kitô.
+
 <strong>Tv 40
 Lời kinh trông cậy của người ốm</strong>
 <strong>ĐC</strong> Phúc thay kẻ lưu tâm đến người nghèo khổ
@@ -13980,12 +13984,14 @@ Xin thương xót và nâng con chỗi dậy,
 Để con trả chúng mối hận nay.
 
 Con sẽ nhận biết rằng Chúa thương con thật,
- Nếu kẻ thù không đắc thắng hò reo.* 
- Chúa nâng đỡ con vì con vô tội 
- Và đặt con ở mãi trước nhan Ngài.
+Nếu kẻ thù không đắc thắng hò reo.* 
+Chúa nâng đỡ con vì con vô tội 
+Và đặt con ở mãi trước nhan Ngài.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en, 
 Từ muôn thuở cho đến muôn đời. Amen. Amen.
+
+<strong>ĐC</strong> Phúc thay kẻ lưu tâm đến người nghèo khổ
 
 <strong>Tv 83
 Hướng về Đền thánh Chúa ở Sion</strong>
@@ -14039,6 +14045,8 @@ Người chẳng nỡ từ chối ơn lành.
 
 Lạy Chúa Tể càn khôn,
 Phúc thay người tin tưởng vào Chúa!
+
+<strong>ĐC</strong> Lạy Chúa, Phúc thay người ở trong thánh điện Chúa
 
 <strong>Xướng đáp</strong>
 <strong>X</strong> Chúa dẫn dắt người lành trên đường ngay nẻo chính,
@@ -14217,6 +14225,9 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Tin Mừng được rao giảng cho người nghèo! 
+Chúa sẽ cứu độ dân Người. Halêluia.
+
 <strong>Thánh thi</strong>
 Nếu tình yêu là một ngọn lửa mới 
 Lời vâng của bạn làm cháy bừng lên 
@@ -14280,6 +14291,9 @@ nương bóng Ngài, con hớn hở reo vui.
 Trót cả tâm tình, con cùng Ngài gắn bó,
 giơ tay quyền lực, Ngài che chở phù trì.
 
+<strong>ĐC</strong> Thiên Chúa đã ban cho họ vinh quang vô tận,
+Tên tuổi họ sẽ chẳng bị quên lãng bao giờ.
+
 <strong>Tc Đn 3
 Thánh thi ba trẻ nhỏ</strong>
 <strong>ĐC</strong> Hỡi tôi tớ Chúa,
@@ -14339,6 +14353,8 @@ Lạy Chúa,
 chúc tụng Chúa trên cõi trời cao thẳm, *
 muôn ngàn đời, xin ca tụng suy tôn.
 <i>(Chú ý: không đọc kinh "Vinh danh" cuối thánh ca này.)</i>
+<strong>ĐC</strong> Hỡi tôi tớ Chúa,
+muôn ngàn đời hãy chúc tụng Chúa.
 
 <strong>Tv 149
 Ngợi khen Chúa bằng những bài ca chiến thắng</strong>
@@ -14372,6 +14388,9 @@ và xích cổ vương hầu,
 Chúa đã viết từ xưa.
 Ðó là niềm vinh dự
 cho mọi kẻ trung hiếu với Người.
+
+<strong>ĐC</strong> Kẻ kiên trung, hãy vui mừng rạng rỡ,
+đến giờ toàn thắng hãy cất tiếng reo hò.
 
 <strong>Lời Chúa</strong> Cl 3,14-15
       Trên hết mọi đức tính, anh em phải có lòng Bác Ái: đó là mối dây liên kết tuyệt hảo. Ước gì ơn bình an của Đức Kitô điều khiển tâm hồn anh em, vì trong một thân thể duy nhất, anh em đã được kêu gọi đến hưởng ơn bình an đó. Bởi vậy, anh em hãy hết dạ tri ân.
@@ -14420,6 +14439,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> Thánh Vinh Sơn là người an ủi kẻ ưu phiền, 
+Là người bênh vực cô nhi quả phụ.
 
 <strong>Lời cầu</strong>
       Hiệp nhất trong sức mạnh của Thánh Thần Chúa, chúng ta hãy tin tưởng cầu xin Đức Giêsu Kitô là quy luật của việc truyền giáo.
@@ -14545,6 +14567,10 @@ Tôi vốn chuộng hòa bình.
 Nhưng hễ tôi nói tới
 Thì phe họ lại muốn chiến tranh.
 
+<strong>ĐC</strong> Hãy hòa hảo với Thiên Chúa, 
+Chúa sẽ là mọi sự cho chúng ta, 
+và với Ngài, chúng ta sẽ có mọi sự.
+
 <strong>Tv 120
 Chúa là Đấng bảo vệ các tín hữu</strong>
 <strong>ĐC</strong> Chúng ta phải tôn thờ đường lối Chúa 
@@ -14573,6 +14599,9 @@ Giữ gìn cho sinh mệnh an toàn.*
 Chúa giữ gìn bạn lúc ra vào lui tới, 
 Từ giờ đây cho tới mãi muôn đời.
 
+<strong>ĐC</strong> Chúng ta phải tôn thờ đường lối Chúa 
+và tín thác vào lòng nhân từ Chúa.
+
 <strong>Tv 124
 Chúa ngự đến giúp dân Ngài chống kẻ thù</strong>
 <strong>ĐC</strong> “Hãy để Thiên Chúa làm gì thì làm!
@@ -14600,6 +14629,10 @@ Và những ai lòng dạ thẳng ngay.
 Nhưng kẻ ngả theo đường tà vạy, 
 Xin Chúa đuổi đi cùng bọn làm điều ác.* 
 Nguyện chúc Ít-ra-en được thái bình.
+
+<strong>ĐC</strong> “Hãy để Thiên Chúa làm gì thì làm!
+Chúa Quan phòng không bao giờ quên chúng ta 
+khi chúng ta chu toàn phận sự phụng sự Ngài”
 
 <strong>Lời Chúa</strong> 1Pr 1,22-23
       Nhờ vâng phục sự thật, anh em đã thanh luyện tâm hồn để thực thi tình huynh đệ chân thành. Anh em hãy tha thiết yêu mến nhau với tất cả tâm hồn. Vì anh em đã được tái sinh, không phải do hạt giống mục nát, mà do hạt giống bất diệt, nhờ Lời Thiên Chúa hằng sống và tồn tại mãi.
@@ -14700,6 +14733,10 @@ mà hại đến người ngay.
 Phàm ai làm những điều này, 
 không hề nao núng chuyển lay bao giờ.
 
+<strong>ĐC</strong> Lạy Chúa, 
+phúc thay kẻ được Ngài tuyển chọn 
+để ở lại trước nhan ngài.
+
 <strong> Tv 111
 Ca tụng lòng kính sợ Chúa </strong>
 <strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
@@ -14734,6 +14771,9 @@ Thấy cảnh này ác nhân tức giận,
 nghiến răng nghiến lợi và mòn mỏi héo hon, * 
 ước vọng của ác nhân sẽ chẳng còn.
 
+<strong>ĐC</strong> Kẻ túng nghèo, họ rộng tay làm phúc 
+Đức công chính của họ tồn tại muôn đời.
+
 <strong>Tc Kh 15,3-4
 Thánh ca thờ phượng </strong>
 <strong>ĐC</strong> Chúa đã ban cho người vinh quang vô tận 
@@ -14752,6 +14792,9 @@ Người muôn nước sẽ về
 phủ phục trước tôn nhan, * 
 vì ai ai cũng đều thấy rõ 
 những phán quyết công minh của Ngài.
+
+<strong>ĐC</strong> Chúa đã ban cho người vinh quang vô tận 
+Hạnh phúc vĩnh cửu là cơ nghiệp của người.
 
 <strong>Lời Chúa</strong> 1Cr 13,4-7
       Đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả.
@@ -14796,6 +14839,10 @@ Như đã hứa cùng cha ông chúng ta.
 Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
+
+<strong>ĐC</strong> Điều gì các ngươi đã làm
+cho một trong những anh em bé nhỏ nhất của Ta, 
+là các ngươi đã làm cho chính Ta vậy.
 
 <strong>Lời cầu</strong>
       Trong lời kinh cuối ngày này, chúng ta hãy cảm tạ Chúa và khẩn cầu Người gìn giữ chúng ta trong bình an của Người.
