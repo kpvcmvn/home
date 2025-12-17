@@ -17742,15 +17742,47 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Kẻ bé nhỏ đó là người đang đói
+Đứng ngóng trông có được chút thức ăn
+Người hành khất là chính Chúa ẩn thân
+Kẻ đói nghèo dẫn ta đến Thiên Chúa.
+
+Kẻ bé nhỏ đó là người đang khát
+Đứng chờ mong được ly nước mát lòng
+Ấy là Chúa đang khao khát ngóng trông
+Ban nước trường sinh cho ai tìm đến.
+
+Kẻ bé nhỏ đó là người tù tội
+Hằng ước mong người đời chớ lãng quên
+Được mau chóng thoát khỏi chốn đêm đen
+Và đợi trông tình yêu thương tha thứ.
+
+Kẻ bé nhỏ đó là người trần trụi
+Là bệnh nhân không được chút ủi an
+Mấy ai biết tâm hồn họ nát tan,
+Luôn mong ước được đôi chút sẻ san.
+
+Kẻ bé nhỏ đó là người khách lạ
+Đang lắng lo tìm một chốn tựa nương
+Được đón nhận tôn trọng không khinh thường
+Rước vào nhà cho no thỏa yêu thương.
+
+Chúa Giêsu ở nơi người bé nhỏ
+Luôn chờ mong nhận được chút tình thương
+Đến mai sau ngày chung thẩm tỏ tường
+Ai là kẻ hưởng phút vinh vĩnh cửu!
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 8,28-30
+      Chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì Người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Hạnh phúc thay kẻ được Chúa kêu mời
+* vào hưởng phúc vinh quang Thiên Quốc.
+<strong>X</strong> Người công chính hãy hớn hở vui mừng,*
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Tâm hồn tôi hớn hở vui mừng 
+Vì Thiên Chúa Đấng Cứu Độ tôi.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -17785,10 +17817,18 @@ Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
 <strong>Lời cầu</strong>
+      Trong ngày mừng kính thánh nữ Ca-ta-ri-na, người đã được tác thành bởi tình yêu Chúa. Cùng với thánh nữ, chúng ta hãy nài xin Chúa ban ân sủng cho chúng ta để bước theo Ngài:
+      <i>Lạy Chúa, xin chỉ cho chúng con đường đến với Chúa. </i>
+      Chị Ca-ta-ri-na đã trở nên nữ tỳ của người nghèo với một tình yêu đơn sơ và khiêm nhường, <i>- xin ban cho chúng con tinh thần yêu thương và phục vụ ấy để người nghèo được tràn đầy tình yêu Chúa. </i>
+      Chị Ca-ta-ri-na đã biết nuôi dưỡng sự tận hiến cho Thiên Chúa vào mỗi biến cố của đời mình, <i>- xin ban cho chúng con khả năng làm chứng về niềm hy vọng của cuộc sống trong mọi hoàn cảnh. </i>
+      Chị Ca-ta-ri-na đã tìm thấy sức mạnh trong lời cầu nguyện với Đức Maria để chu toàn và đổi mới cuộc sống khiêm tốn hằng ngày, <i> - xin cho chúng con biết đón nhận cuộc sống mỗi ngày với cái nhìn mới. </i>
+      Chị Ca-ta-ri-na không bao giờ lùi bước trước cảnh bạo lực và khốn khổ của thời đại chị, <i>- xin gợi hứng cho chúng con biết dùng cử chỉ chân thành, để an ủi và xoa dịu “những người bị thương tổn trong cuộc sống”. </i>
+      Chị Ca-ta-ri-na đã đón nhận cái chết cách vui tươi và tin tưởng, <i>- xin cũng ban sự tin tưởng ấy cho những ai đang chuẩn bị đến gặp Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho thánh nữ Ca-ta-ri-na được đặc ân sống thân mật gần gũi với Đức Maria, thân mẫu Chúa. Chúa đã dạy cho thánh nữ biết phục vụ người nghèo cách khiêm nhường vui tươi. Hôm nay, nhân ngày kính nhớ thánh nữ, xin cho chúng con được nhận ra hình ảnh Chúa trong người nghèo, và ban cho chúng con được làm chứng nhân cho tình yêu Chúa trên thế giới.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
