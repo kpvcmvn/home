@@ -9416,30 +9416,76 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Phúc cho ai run sợ 
+Trong Thần Khí Ki-tô 
+Phúc cho ai chăm lo 
+Người anh em cùng khổ.
+
+Phúc cho người đầy tớ 
+Canh thức giữa đêm khuya 
+Nhân danh Đức Ki-tô 
+Giữa đêm trường nhân thế.
+
+Phúc cho ai được sống 
+Trong bình an Ki-tô 
+Vẫn vui sống yên hàn 
+Khi bóng đêm dần xuống.
+
+Phúc cho người đầy tớ 
+Canh thức giữa đêm khuya 
+Ở bên Chúa Giê-su 
+Nguồn an ủi muôn thu.
+
+Phúc cho ai khám phá 
+Trong cái chết Ki-tô 
+Nơi đêm trường đau khổ 
+Nhân loại vẫn đi về.
+
+Phúc cho người đầy tớ 
+Canh thức giữa đêm khuya 
+Sẵn sàng chờ Chúa đến 
+Vào ngày Đấng Quang Lâm.
+
+Phúc cho ai run sợ 
+Trong Thần Khí Ki-tô 
+Phúc cho ai tôn vinh 
+Chúc tụng Đấng Cửu Trùng.
+
+Phúc cho người đầy tớ 
+Canh thức giữa đêm khuya 
+Trong kiên tâm, đợi chờ 
+Sẽ thấy Ngày của Chúa.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>Bài đọc 1</strong> Rm 8,18-39
+<strong>Không gì có thể tách chúng ta ra khỏi tình yêu của Đức Kitô
+Trích thư thánh Phaolô tông đồ gửi tín hữu Rôma </strong>
+      Thật vậy, tôi nghĩ rằng: những đau khổ chúng ta chịu bây giờ sánh sao được với vinh quang mà Thiên Chúa sẽ mạc khải nơi chúng ta. Muôn loài thọ tạo những ngong ngóng đợi chờ ngày Thiên Chúa mạc khải vinh quang của con cái người. Quả thế, muôn loài đã lâm vào cảnh hư ảo, không phải vì chúng muốn, nhưng là vì Thiên Chúa bắt chịu vậy; tuy nhiên, vẫn còn niềm trông cậy là có ngày cũng sẽ được giải thoát, không phải lệ thuộc vào cảnh hư nát, mà được cùng con cái Thiên Chúa chung hưởng tự do và vinh quang. Thật vậy, chúng ta biết rằng: cho đến bây giờ, muôn loài thọ tạo cùng rên siết và quằn quại như sắp sinh nở. Không phải muôn loài mà thôi, cả chúng ta cũng rên siết trong lòng: chúng ta đã lãnh nhận Thần Khí như ân huệ mở đầu, nhưng còn trông đợi Thiên Chúa ban cho trọn quyền làm con, nghĩa là cứu chuộc thân xác chúng ta nữa. Quả thế chúng ta đã được cứu độ, nhưng vẫn còn phải trông mong. Thấy được điều trông mong, thì không phải là điều trông mong nữa: vì ai lại trông mong điều mình đã thấy rồi? Nhưng nếu chúng ta trông mong điều mình chưa thấy, thì đó là chúng ta bền chí đợi chờ.
+      Hơn nữa, lại có Thần Khí giúp đỡ chúng ta là những kẻ yếu hèn, vì chúng ta không biết cầu nguyện thế nào cho phải; nhưng chính Thần Khí cầu thay nguyện giúp chúng ta, bằng những tiếng rên siết khôn tả. Và Thiên Chúa, Đấng thấu suốt tâm can, biết Thần Khí muốn nói gì, vì Thần Khí cầu thay nguyện giúp cho các thánh theo đúng ý Thiên Chúa.
+      Anh em thân mến, chúng ta biết rằng: Thiên Chúa làm cho mọi sự đều sinh lợi ích cho những ai yêu mến Người, tức là cho những kẻ được Người kêu gọi theo như ý Người định. Vì những ai Người đã biết từ trước, thì Người đã tiền định cho họ nên đồng hình đồng dạng với Con của Người, để Con của Người làm trưởng tử giữa một đàn em đông đúc. Những ai Thiên Chúa đã tiền định, thì Người cũng kêu gọi; những ai Người đã kêu gọi, thì Người cũng làm cho nên công chính; những ai Người đã làm cho nên công chính, thì Người cũng cho hưởng phúc vinh quang.
+      Vậy còn phải nói gì thêm nữa? Có Thiên Chúa bênh đỡ chúng ta, ai còn chống lại được chúng ta? Đến như chính Con Một, Thiên Chúa cũng chẳng tha, nhưng đã trao nộp vì hết thảy chúng ta. Một khi đã ban Người Con đó, lẽ nào Thiên Chúa lại chẳng rộng ban tất cả cho chúng ta? Ai sẽ buộc tội những người Thiên Chúa đã chọn? Chẳng lẽ Thiên Chúa Đấng làm cho nên công chính? Ai sẽ kết án họ? Chẳng lẽ Đức Giêsu Kitô, Đấng đã chết, hơn nữa đã sống lại, và đang ngự bên hữu Thiên Chúa mà chuyển cầu cho chúng ta?
+      Ai có thể tách chúng ta ra khỏi tình yêu của Đức Kitô? Phải chăng là gian truân, khốn khổ, đói rách, hiểm nguy, bắt bớ, gươm giáo? Như có lời chép: Chính vì Ngài mà mỗi ngày chúng con bị giết, bị coi như bầy cừu để sát sinh.
+      Nhưng trong mọi thử thách ấy, chúng ta toàn thắng nhờ Đấng đã yêu mến chúng ta.
+      Đúng thế, tôi tin chắc rằng: cho dầu là sự chết hay sự sống, thiên thần hay ma vương quỷ lực, hiện tại hay tương lai, hoặc bất cứ sức mạnh nào, trời cao hay vực thẳm hay bất cứ một loài thọ tạo nào khác, không có gì tách được chúng ta ra khỏi tình yêu của Thiên Chúa thể hiện nơi Đức Kitô Giêsu, Chúa chúng ta.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
-
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Không có tình yêu nào cao cả cho bằng tình yêu đã hiến mạng sống cho người mình yêu.
+* Các con sẽ là bạn hữu của Ta, nếu các con làm theo Ý Ta.
+<strong>X</strong> Ta là Thầy là Chúa, Ta đã nêu gương cho các con. Phúc cho các con, nếu các con biết hiến mạng sống mình. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Sự khích lệ gửi các anh em thừa sai
+      Trích bút tích của thánh Phan-xi-cô Rê-gi Clê </strong>
+      “Dây chập ba không dễ đứt” (Sách Giảng viên 4,12). Những lời này của Chúa Thánh Thần chứng tỏ, theo nghĩa bóng, rằng sự hòa hợp và sự hiệp thông giữa nhiều người là phương thế chắc chắn nhất để đưa công việc đạt mục đích tốt đẹp. Qui luật của chúng ta đáp ứng châm ngôn này (chương XII, đoạn 7): “Tất cả và nhất là từng người hãy cố gắng, theo khả năng, luôn hòa hợp về giáo thuyết, về lời nói, về chữ viết, làm sao, theo lời khuyên của thánh Tông đồ, tất cả chúng ta đều có cùng một lối suy nghĩ, cùng một lối cảm nhận và cùng một lối nói”. Nếu sự hòa hợp này là cần thiết trong mọi công việc, thì càng cần thiết trong công việc siêu nhiên có đích nhắm là phần rỗi các linh hồn, mà cách hành xử được thánh Grê-gô-ri-ô gọi là “nghệ thuật của các nghệ thuật”. Để đạt được sự hòa hợp này, không có nó, các chiên của chúng ta sẽ bị phân chia, và, mỗi con chiều theo bản năng tự nhiên của nó, sẽ gắn bó với linh mục này hơn là linh mục kia, và sẽ nói như trong thời Hội Thánh tiên khởi: “Tôi, tôi thuộc về Phaolô; tôi, tôi thuộc về Apôlo; còn tôi, tôi thuộc về Kê-pha” (1Cr 1,12), tốt cho tôi đang khi tôi còn sống, và trước cái chết đang đến mau đem tôi khỏi thế gian để ra trước Vị Quan Tòa đáng sợ; tốt cho tôi khi cho anh em tôi, mà sự chăm lo cho họ được giao phó cho tôi dù tôi không xứng và còn cưỡng lại, vài lời khuyên, để tất cả chúng ta đều hòa hợp và nhất trí về những gì liên quan đến việc quản trị các con chiên, và như vậy chúng hợp thành “một đoàn chiên duy nhất” vì chỉ có “một chủ chiên duy nhất” (Ga 10,16). Đó chính là Đức Giêsu Kitô Chúa chúng ta .
+      Tuy nhiên, tất cả những lời dạy này, và những lời khác người ta thêm vào, sẽ chẳng lợi ích bao nhiêu, hoặc chẳng lợi ích gì, nếu chúng ta không lo tỏ cho con chiên mình, chúng ta là những thừa tác viên đích thật của Thiên Chúa và là những người quản lý xứng đáng các mầu nhiệm của Thiên Chúa (1Cr 4,1) tới mức, mỗi người chúng ta có thể nói như thánh Phaolô: anh em hãy bắt chước tôi, như chính tôi đã bắt chước Đức Kitô (1Cr 4,16). Chúng ta hãy nhớ những lời này: “Bạc với thân thì hậu với ai?” (Hc 14,5). Hết sức cảnh giác không để những công việc mục vụ chiếm hết thời gian, lấy cớ vì lòng nhiệt thành nhưng sắp xếp không khéo. Hãy bước theo các Tông đồ, các ngài nói: phần chúng tôi, chúng tôi không ngừng chuyên tâm cầu nguyện và phục vụ Lời (Cv 6,4). Hãy gắn bó với lòng đạo đức, như thánh Tông đồ nói, “lòng đạo đức thì lợi ích mọi bề và có được những lời hứa ban sự sống hiện tại và sự sống tương lai” (1Tm 4,8). Phương thế nắm giữ lòng đạo đức, đó là sự trung thành với các việc đạo đức đang có trong Tu Hội chúng ta, như là việc nguyện gẫm, xét mình riêng, việc đọc Tân Ước, đọc sách thiêng liêng, và, mỗi năm, các buổi tĩnh tâm. Quả thật, đó là những kho tàng nơi chúng ta sẽ kín múc được tất cả những gì hữu ích cho phần rỗi các linh hồn. Theo lối nói của thánh Bernard, chúng ta chớ là những con kênh để nước chảy qua, mà hãy là những nguồn nước chan chứa trao ban; Sau hết, chúng ta hãy là những gương sáng cho các tín hữu bằng lời nói, cách đi đứng, lòng Bác Ái của chúng ta, đức tin, sự thanh khiết (1Tm 4,12). Hãy chăn dắt đoàn chiên mà Chúa đã trao phó bằng cách nêu gương sáng cho họ, và chúng ta sẽ lãnh triều thiên vinh hiển không bao giờ hư nát khi Vị Mục Tử tối cao xuất hiện (1Pr 5,4).
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Anh em sẽ là những gương sáng cho đoàn chiên khi bị trao nộp làm trò cười cho thiên hạ.
+* Đức Kitô Giêsu đã chuộc lấy Giáo Hội bằng chính giá máu của Ngài.
+<strong>X</strong> Anh em hãy lưu tâm đến đoàn chiên mà Thánh Thần đã giao cho anh em coi sóc. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã sai tôi tớ Chúa là thánh Phanxicô Rê-gi Clê đi rao giảng Tin Mừng cho các quốc gia, và sau cuộc đời hoạt động tông đồ lâu dài của ngài, Chúa đã ban cho ngài triều thiên tử đạo. Xin Chúa đoái thương, dùng sức mạnh Thần Khí Chúa, củng cố đức tin cho chúng con trong việc loan báo Tin Mừng.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -9474,7 +9520,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo, 
+Nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -9512,17 +9559,46 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Dâng tim hồng hy sinh mạng sống 
+Trao thân mình đổ máu vì yêu 
+Làm nhân chứng thay muôn lời 
+Tình yêu Chúa đến trong đời mọi dân.
+
+Lạy thánh Phan-xi-cô Rê-gi 
+Ngài đã vâng phục đến hy sinh 
+Khơi dậy trong lòng chúng con 
+Sự sống vĩnh hằng vẫn còn trong tim.
+
+Lạy thánh Phan-xi-cô Rê-gi 
+Chứng nhân trung thành của Ki-tô 
+Hướng về Chúa, đường sự sống 
+Đi theo Ngài, đoàn con sống yêu thương.
+
+Lạy thánh Phan-xi-cô Rê-gi 
+Hướng về Thánh Linh, Nguồn An Ủi 
+Đấng thiêu hủy mọi sợ hãi 
+Vượt nẻo hành trình với lại anh em.
+
+Ngài theo Vinh Sơn làm môn đệ 
+Xin mở rộng tâm hồn chúng con 
+Tiếp nhận người nghèo bé mọn 
+Trong tình yêu thương tiếp đón người nghèo.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Pl 3,1. 8-11
+      Thưa anh em, anh em hãy vui mừng vì Chúa. Viết đi viết lại cho anh em cũng bấy nhiêu điều, đối với tôi không phải là một gánh nặng, còn đối với anh em thì đó lại là một bảo đảm. Hơn nữa tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Kitô Giêsu, Chúa của tôi. Vì Người tôi đành mất hết và tôi coi tất cả như rác, để được Đức Kitô, và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Mô-sê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Kitô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin. Vấn đề là được biết chính Đức Kitô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, nhờ nên đồng hình đồng dạng với Người trong cái chết của Người, với hy vọng có ngày cũng được sống lại từ trong cõi chết.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Nhận biết Đức Kitô,
+quyền năng sự Phục sinh của Người, 
+và sự hiệp thông với các đau khổ của Người.
+* Vì Người, tôi đành mất tất cả, và tôi chạy tới đích duy nhất.
+<strong>X</strong> Người đã bắt lấy tôi trước, tôi hết lòng muốn nắm bắt Người. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Đến lượt tôi, tôi muốn nói với các giáo hội:
+các bạn là anh chị em của nhau, 
+xin bình an của Chúa ở giữa anh chị em”.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -9562,10 +9638,18 @@ Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
 <strong>Lời cầu</strong>
-
+      Cùng với thánh Phanxicô Rê-gi Clê, người đã hy sinh mạng sống mình vì loan báo Tin Mừng và vì phần rỗi thế gian, chúng ta hãy ngợi khen Đấng Cứu độ nhân loại.
+      <i>Chúng con ngợi khen Chúa, lạy Thiên Chúa hằng sống!</i>
+      Vì Hội Thánh Chúa đã lan rộng khắp hoàn cầu.
+      Vì các nhà thừa sai của Tin Mừng đang dâng hiến đời sống vì phần rỗi thế gian.
+      Vì các tân tòng làm cho Hội Thánh Chúa phát triển trong niềm vui.
+      Vì các hội đoàn Vinh Sơn đang làm chứng trên thế giới về tình thương và niềm hy vọng.
+      Vì tất cả chúng con được kêu gọi phụng sự Chúa, xin cho mọi người chúng con, trung thành với Thần Khí Chúa, ra sức trở nên giống Chúa.
+    
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã sai tôi tớ Chúa là thánh Phanxicô Rê- gi Clê đi rao giảng Tin Mừng cho các quốc gia, và sau cuộc đời hoạt động tông đồ lâu dài của ngài, Chúa đã ban cho ngài triều thiên tử đạo. Xin Chúa đoái thương, dùng sức mạnh Thần khí Chúa, củng cố đức tin chúng con trong việc loan báo Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -9651,13 +9735,17 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Gc 2, 5
+      Anh em thân mến của tôi, anh em hãy nghe đây: nào Thiên Chúa đã chẳng chọn những kẻ nghèo khó trước mặt người đời, để họ trở nên giàu đức tin và thừa hưởng Vương quốc Người đã hứa cho những ai yêu mến Người hay sao?
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Xin mở cho con đôi mắt
+để con thấy những kỳ công của Ngài,
+<strong>Đ</strong> và vẻ huy hoàng của huấn lệnh Chúa.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã sai tôi tớ Chúa là thánh Phanxicô Rê- gi Clê đi rao giảng Tin Mừng cho các quốc gia, và sau cuộc đời hoạt động tông đồ lâu dài của ngài, Chúa đã ban cho ngài triều thiên tử đạo. Xin Chúa đoái thương, dùng sức mạnh Thần khí Chúa, củng cố đức tin chúng con trong việc loan báo Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
