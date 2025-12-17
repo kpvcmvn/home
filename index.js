@@ -13595,7 +13595,45 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Lữ hành không mệt đường xa, 
+Khổ đau nhân thế dày vò tâm can. 
+Vinh Sơn thấy Chúa hiện thân 
+Trong người nghèo khổ kêu than đợi chờ.
 
+Trên đường hiu quạnh nắng khô, 
+Kìa ai đang khát đang mơ tình người. 
+Vinh Sơn ghé mắt vui tươi. N
+hư niềm hạnh phúc, nét cười thân thương.
+
+Chiến tranh, quyền lực cản đường, 
+Không gì ngăn nổi lòng thương người nghèo. 
+Cha mang sứ điệp tình yêu: 
+Khoan dung, nhân ái, mọi điều thứ tha.
+
+Bình an, ánh sáng chan hòa 
+Cho người dưới ách quỷ ma tủi sầu. 
+Tình yêu thương tổn nơi đâu. 
+Chữa cho lành vết, quản nào gian nan.
+
+Giê-ri-cô, nẻo bạo tàn, 
+Quanh co, cướp bóc, muôn vàn hiểm nguy, 
+Nạn nhân được cứu cấp kỳ 
+Cha theo đường Chúa bước đi khiêm nhường.
+
+Bao nhiêu đau khổ đoạn trường 
+Được mang lấy áo Tin Mừng hân hoan. 
+Bao nhiêu tội lỗi ngập tràn, 
+Được tha thứ cả, nhẹ nhàng sống vui.
+
+Yêu thương dù hết một đời, 
+Ai đâu dám bảo “đủ rồi” yên tâm. 
+Hồng ân mưa đổ thấm nhuần 
+Ngày đêm như suối Thánh Thần trào dâng.
+
+Kho tàng Thần Khí Chúa ban 
+Khác nào dấu chỉ ẩn tàng đẹp xinh, 
+Sống như Thánh Phụ Vinh Sơn, Mến, Tin, 
+Trông cậy, xin ơn trung thành.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 112</strong>
@@ -13708,17 +13746,17 @@ dưới quyền một thủ lãnh là Đức Kitô.
 Đấng đã kêu gọi chúng ta bước đi
 không có gì đáng trách trước nhan Ngài.
 
-<strong>Lời Chúa</strong> Rm 11, 33-36
-      Sự giàu có, khôn ngoan và thông suốt của Thiên Chúa sâu thẳm dường nào! Quyết định của Người, ai dò cho thấu! Đường lối của Người, ai theo dõi được! Thật vậy, ai đã biết tư tưởng của Chúa? Ai đã làm cố vấn cho Người? Ai đã cho Người trước, để Người phải trả lại sau? Vì muôn vật đều do Người mà có, nhờ Người mà tồn tại và quy hướng về Người. Xin tôn vinh Thiên Chúa đến muôn đời! A-men.
+<strong>Lời Chúa</strong>
+      Chúng ta hãy yêu thương vì Thiên Chúa đã yêu thương chúng ta trước. Nếu ai nói: “tôi yêu mến Thiên Chúa” mà lại ghét anh em mình, người ấy là kẻ nói dối; vì ai không yêu thương người anh em mà họ trông thấy, thì không thể yêu mến Thiên Chúa mà họ không trông thấy. Đây là điều răn mà chúng ta nhận được từ Người: Ai yêu mến Thiên Chúa thì cũng yêu thương anh em mình.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> Lạy Chúa, vinh quang Chúa chiếu tỏa đến muôn đời.
-* Chúa đã cho chúng con biết chiều sâu của tình yêu Chúa.
-<strong>X</strong> Chúa xứng đáng muôn lời ngợi khen. *
+<strong>XĐ</strong> Được Chúa thương,
+* con hớn hở vui mừng.
+<strong>X</strong> Chúa đã đoái nhìn phận con cùng khốn. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong> “Ngay trên thế gian này, 
-ước gì con được tuôn chảy 
-trong đại dương của thần tính Chúa!"
+<strong>ĐC</strong> Thần Khí Chúa ngự trên tôi,
+Chúa đã thánh hiến tôi,
+sai tôi đi công bố bình an và niềm vui.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -13752,22 +13790,23 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
-<strong>ĐC</strong> “Ngay trên thế gian này, 
-ước gì con được tuôn chảy 
-trong đại dương của thần tính Chúa!"
+<strong>ĐC</strong> Thần Khí Chúa ngự trên tôi,
+Chúa đã thánh hiến tôi,
+sai tôi đi công bố bình an và niềm vui.
 
 <strong>Lời cầu</strong>
-      Lạy Chúa, Chúa đã khiến cho tình yêu Chúa tỏ hiện trong đời sống của thánh nữ Lu-i-xa Ma-ri-ắc. Với lòng biết ơn, chúng con cầu xin Chúa:
-      <i>Lạy Chúa, xin dạy chúng con biết đường dẫn tới Chúa. </i>
-      Như thánh nữ Lu-i-xa đã khám phá Chúa nơi sâu thẳm nhất đêm tối của ngài, <i>- xin Chúa hãy để cho tất cả những ai tìm kiếm Chúa được thấy Chúa. </i>
-      Như thánh nữ Lu-i-xa đã biết đáp trả bằng tình yêu lời mời gọi bất chợt của Chúa, <i>- xin cho chúng con can đảm đi theo Chúa bằng đức tin. </i>
-      Như thánh nữ Lu-i-xa đã gặp được thánh nhan Chúa trên khuôn mặt người yếu đuối và kẻ bé nhỏ, <i>- xin Chúa hướng chúng con nhìn đến những người không ai nhìn nhận. </i>
-      Như thánh nữ Lu-i-xa đã kinh ngạc khi được lãnh nhận Chúa trong Phép Thánh Thể, <i>- xin Chúa làm cho những lần chúng con rước lễ khơi dậy nơi chúng con sức mạnh của tình yêu Chúa. </i>
-      Như thánh nữ Lu-i-xa đã chuẩn bị trong an bình để gặp Chúa, <i>- xin Chúa cho tất cả những người hấp hối không cảm thấy sợ hãi khi đi gặp Chúa. </i>
+      Nhờ lời chuyển cầu của thánh Vinh Sơn, chúng ta khẩn khoản xin Chúa ban cho chúng ta lòng ước ao yêu mến, và phục vụ Chúa nơi người nghèo, là anh em chúng ta.
+      <i>Xin nghe lời chúng con cầu xin, lạy Chúa, xin nhậm lời chúng con.</i>
+      Lạy Chúa, xin ban cho chúng con “tính đơn sơ như bồ câu” để hành động cách trung thực, chỉ nhìn một mình Chúa thôi.
+      Lạy Chúa, xin dạy chúng con “lòng nhiệt thành đối với các linh hồn” để làm chứng cho Tin Mừng “theo tâm tình và phán đoán của Đức Giêsu Kitô”.
+      Lạy Chúa, xin dạy chúng con “sự dịu dàng”. Xin cho chúng con, theo Chân lý của Chúa, “tìm cách thu phụctrái tìm con người”; và để thế gian sẽ tin rằng Chúa là hạnh phúc duy nhất và ơn cứu độ của họ.
+      Lạy Chúa, xin cho chúng con sống “khiêm nhường như Đức Giêsu Kitô vẫn thường khuyên bảo chúng con, để đạt tới sự hoàn hảo Phúc Âm”; xin cho Hội Thánh Chúa trở thành dấu chỉ hữu hình của lòng thương xót Chúa.
+      Lạy Chúa, xin hướng dẫn chúng con trên con đường “khổ chế hằng ngày”, để sống trong Thần Khí; xin cho chúng con, khi được sai đến thế giới này, chúng con chỉ sống vì Chúa.
+      Lạy Chúa, xin đón nhận anh chị em chúng con đã qua đời “vào sứ mạng trên trời là sứ mạng tình yêu đời đời”.
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      Lạy Chúa, Chúa đã cho thánh nữ Louise de Marillac nhận ra và tôn vinh Đức Kitô nơi người nghèo, xin cho chúng con, theo gương thánh nữ, biết nhìn nhận những người đang đau khổ và túng thiếu là anh chị em mình; xin cho chúng con biết phục vụ họ cách kính trọng và yêu thương.
+      Lạy Chúa, Chúa đã ban cho tôi trung của Chúa là thánh Vinh Sơn Phaolô mọi đức tính xứng bậc tông đồ, để thánh nhân phục vụ người cùng khốn và đào tạo các linh mục; xin cho chúng con là những kẻ noi theo lời Người dạy, luôn cháy bừng đức ái của Người để yêu mến những gì Người đã yêu mến và thực hành những gì Người đã dạy.
       <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc </strong>
