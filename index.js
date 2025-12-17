@@ -7676,30 +7676,82 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Gio-an-na An-ti-đa 
+Chị đã đi theo Chúa 
+Suốt cuộc đời trần thế 
+Chị vâng theo ý Người.
+
+Trong thế giới nhiễu nhương 
+Chị nhắn nhủ chúng tôi: 
+Hãy theo Đức Kitô 
+Bằng tình yêu táo bạo.
+
+Gio-an-na An-ti-đa 
+Chị sống bằng tình 
+Chúa Suốt cuộc đời trần thế 
+Làm chứng chân lý Người.
+
+Trong thế giới hư vong 
+Chị nhắn nhủ chúng tôi: 
+Hãy hát ca cuộc sống 
+Bằng tình yêu táo bạo
+
+Gio-an-na An-ti-đa 
+Sống gần người bé nhỏ 
+Suốt cuộc đời trần thế 
+Xoa dịu nỗi khổ đau.
+
+Thế giới đầy thương tích 
+Chị nhắn nhủ chúng tôi: 
+Hãy reo rắc niềm vui 
+Bằng tình yêu táo bạo.
+
+Gio-an-na An-ti-đa 
+Chị rao giảng Tin Mừng 
+Để loan báo đức tin 
+Chị vượt ngàn trùng dương.
+
+Thế giới vắng tình yêu 
+Chị nhắn nhủ chúng tôi: 
+Hãy về với anh em 
+Bằng tình yêu táo bạo.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Lạy Chúa là núi đá cho con nương ẩn, 
+Là Đấng cứu chuộc con.
+<strong>Đ</strong> tiếng lòng con thầm thĩ, 
+Mong được thấu đến Ngài.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Kn 6, 12-16
+<strong>Khôn ngoan là nguồn sự sống và niềm vui
+Trích sách khôn ngoan </strong>
+      Đức khôn ngoan sáng chói và không hề tàn tạ. Ai mến chuộng Đức khôn ngoan, thì Đức Khôn Ngoan dễ dàng cho chiêm ngưỡng. Ai tìm kiếm Đức Khôn Ngoan, thì Đức Khôn Ngoan cho gặp. Ai khao khát Đức Khôn Ngoan, thì Đức khôn ngoan đi bước trước mà tỏ mình cho biết. Ai từ sáng sớm đã tìm Đức Khôn Ngoan, thì không phải nhọc nhằn vất vả. Họ sẽ thấy Đức Khôn Ngoan ngồi ngay trước cửa nhà. Để tâm suy niệm về Đức Khôn Ngoan là đạt được sự minh mẫn toàn hảo. Ai vì Đức khôn ngoan mà thức khuya dậy sớm, sẽ mau trút được mọi lo âu. Vì những ai xứng đáng với Đức Khôn Ngoan, thì Đức Khôn Ngoan rảo quanh tìm kiếm. Trên các nẻo đường họ đi, Đức khôn Ngoan đều đến với họ.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Thiên Chúa ban khôn ngoan cho ai tìm kiếm đức khôn ngoan.
+* Ai trong anh em thiếu đức khôn ngoan, họ hãy cầu xin Chúa, vì Chúa trao ban đức khôn ngoan cách quảng đại.
+<strong>X</strong> Mọi trao ban tuyệt hảo, đều đến từ Thiên Chúa. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Lạy Chúa, mọi sự trông cậy của con ở nơi một mình Chúa!
+Lời kinh của Gio-an-na An-ti-đa Tu-rê </strong>
+      Ôi Thiên Chúa của con, Chúa Tể trời đất, duy nhất cao cả, duy nhất thánh thiện, duy nhất toàn năng, trước tôn nhan không ai có thể đứng vững; xin Chúa đứng dậy, xin hãy làm bùng nổ lòng nhân từ Chúa và lòng xót thương cố hữu của Chúa. Xin Chúa đứng giữa con và thù địch của con. Này đây chúng đến để đuổi con khỏi Tu Hội, và khỏi gia đình mà Chúa đã giao phó cho con. Chúng làm hết sức để chia cắt Tu Hội và làm cho Tu Hội chống lại con và chống lại Hội Thánh Chúa. Chúng đã hành động chống lại con vì con tuân phục Vị Đại Diện của Chúa, Đức Thánh Cha, Tu Hội này và qui luật mà Chúa đã đọc cho con viết ra để hướng dẫn tất cả các ái nữ mà Chúa đã qui tụ lại với con.
+      Chúa đã linh ứng cho Vị Đại Diện của Chúa chuẩn nhận Tu Hội; ngài đã được Thần Khí Chúa hướng dẫn, Đấng đã làm cho ngài cũng chuẩn y những sự thay đổi mà ngài đã tin là theo công lý và công bình. Chỉ nơi một mình Chúa, lạy Chúa, Thiên Chúa của con, con đặt để tất cả lòng trông cậy và hy vọng tuyệt đối của con: ai tin tưởng nơi Chúa, sẽ không phải hổ ngươi. Lạy Chúa, xin đừng xét đến sự bất xứng của con. Ôi Cha hằng hữu, xin Cha trông đến các công nghiệp vô cùng, những thương đau và sự chết của Đức Giêsu Kitô. Nhân Danh và vì các công nghiệp của Đức Giêsu Kitô chiu đóng đinh mà con kêu xin Chúa. Chúa đã hứa tất cả những gì người ta xin nhân Danh Thánh Ngài thì đều được nhậm lời.
+      Lạy Thiên Chúa con, xin thương xót con, xin hướng dẫn và điều hướng con theo Thần Khí Chúa. Con tha thứ cho thù địch con sự dữ họ đã làm cho con vì yêu Chúa; và con sẵn sàng chịu đựng tất cả những gì đẹp lòng Chúa, với sự trợ giúp của ơn Chúa con ước muốn vì vinh quang cao cả hơn của Chúa và vì việc thánh hóa của con.
+      Chúa đã đoái thương dùng con để thành lập Tu Hội này; con không nản lòng vì tất cả những sự mâu thuẫn này: đó không phải là những chống đối đầu tiên. Chúa đã biết tất cả những chống đối mà con đã phải chịu trong quá khứ. Chúa đã nâng đỡ con bằng sự toàn năng của Chúa, và con vững lòng trông cậy Chúa sẽ còn giúp đỡ con trong những chống đối hiện tại. Chúa là Thiên Chúa mạnh mẽ, con chỉ biết cậy nhờ vào Chúa. Chúa chớ bỏ con, chính Chúa là sức mạnh và là sự đỡ nâng con. Nếu Chúa đoái thương ở với con, con chẳng còn gì phải sợ quân thù địch, Chúa sẽ chiến thắng chúng.
+      Ôi lạy Chúa Giêsu đầy lòng thương xót, Chúa có mọi quyền năng trên các con tim; Chúa có thể hoán cải họ. Con xin Chúa hoán cải họ và con trông chờ việc đó. Xin làm cho con biết thánh ý Chúa, dự tính, và tất cả những gì Chúa muốn con làm; con sẽ làm được vì con tin chắc con có thể làm mọi sự với Chúa và với ơn Chúa; và con cũng tin rằng không có Chúa con chẳng làm được gì, vì con yếu hèn, tội lỗi và dốt nát. Con phó thác mọi sự cho lòng nhân từ từ phụ của Chúa mà con tin tưởng tuyệt đối và mãi mãi. Amen.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Ai gieo trong Thần Khí,
+sẽ gặt được sự sống đời đời từ Thần Khí.
+* Chúa sẽ giải thoát những người
+có lòng trung kiên khỏi cơn thử thách.
+<strong>X</strong> Vì Thần Khí là sự sống,
+anh chị em hãy để cho Thần Khí hướng dẫn. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, xin tuôn đổ trên chúng con ngọn lửa Bác Ái, mà Chúa đã thắp sáng trong tâm hồn thánh nữ Gio-an- na An-ti-đa (Jeanne Antide), để việc phục vụ khiêm tốn của chúng con góp phần làm cháy sáng ngọn lửa, mà Con Chúa đã mang đến thế gian.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -7734,7 +7786,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Lạy Chúa, Chúa là Đấng thánh,
+chúng con thờ lạy Chúa.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -7771,18 +7824,43 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Lạy Chúa, Chúa là Đấng thánh,
+chúng con thờ lạy Chúa.
+
 <strong>Thánh thi</strong>
+Hạnh phúc thay, vui mừng biết bao
+Được thuộc về Chúa, Đấng Cứu Độ
+Hạnh phúc thay, vui mừng biết bao 
+Được phụng thờ Chúa, Chúa của con.
+
+Con đặt tin tưởng nơi Đức Chúa 
+Chỉ nương tựa một mình Người thôi 
+Chúa là Ánh Dương soi bước đường 
+Xua tan sợ hãi với lo âu.
+
+Chúa là niềm vui, là hy vọng 
+Xin chúc tụng Người từ buổi mai 
+Chúa là nguồn thánh thiện duy nhất 
+Cho con vui sống và vững tâm.
+
+Trong thinh lặng, tim con vui sướng 
+Chỉ nơi Người, dâng trọn niềm tin 
+Hạnh phúc thay được phụng thờ Chúa 
+Giữa đau khổ của con cái Người.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Kn 8,1-3
+      Từ chân trời này, Đức Khôn Ngoan vươn mạnh tới chân trời kia, cai quản mọi loài thật tốt đẹp. Từ thời trai trẻ, tôi đã yêu quý và tìm kiếm đức Khôn Ngoan. Nguồn gốc cao sang của mình, đức Khôn Ngoan làm rạng ngời vinh hiển, bởi đức Khôn Ngoan luôn sống cùng Thiên Chúa; và Chúa Tể muôn loài vẫn hằng yêu quý đức Khôn Ngoan.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Thần Khí sự thật sẽ hướng dẫn anh em tới chân
+lý toàn diện.
+* Đức khôn ngoan dạy bảo tôi, tôi có thể làm được mọi sự.
+<strong>X</strong> Những ai tìm kiếm chân lý thì sẽ được thấy. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Chúa đã làm người như chúng ta
+để dạy chúng ta biết yêu thương
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -7821,11 +7899,22 @@ Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
+<strong>ĐC</strong> Chúa đã làm người như chúng ta
+để dạy chúng ta biết yêu thương
+
 <strong>Lời cầu</strong>
+      Chúng ta hãy tạ ơn Chúa, là Cha chúng ta, vì nơi thánh nữ Gio-an-na An-ti-đa đã tỏa sáng tình yêu Chúa đối với người nghèo.
+      <i>Ngợi khen Chúa, lạy Chúa hằng sống.</i>
+      Khi quyền tự do bị loại bỏ, khi hòa bình bị đe dọa, Chúa khơi dậy, lạy Chúa, những người nam và nữ của niềm hy vọng, <i>- cùng với thánh nữ Gio-an-na An-ti-đa, chúng con tạ ơn Chúa. </i>
+      Khi các dân tộc bị áp bức, khi người nghèo phải chịu đựng bạo lực, Chúa kêu gọi, lạy Chúa, những ngôn sứ của lòng Bác Ái, <i>- cùng với thánh nữ Gio-an-na An-ti-đa, chúng con tạ ơn Chúa. </i>
+      Khi các Kitô hữu bị bách hại, khi những người nam nữ thiện chí bị khinh miệt, Chúa sai đi, lạy Chúa, những chứng nhân đức tin, <i>- cùng với thánh nữ Gio-an-na An-ti-đa, chúng con tạ ơn Chúa. </i>
+      Khi trẻ em bị đánh đập, khi bệnh nhân bị lãng quên, Chúa thánh hiến, lạy Chúa, những phụ nữ để biểu lộ tình thương yêu của Chúa, <i>- cùng với thánh nữ Gio-an-na An- ti-đa, chúng con tạ ơn Chúa. </i>
+      Khi Giáo Hội bị chống đối, khi các gương xấu làm cho Giáo Hội biến dạng, Chúa đổ đầy Thần Khí Chúa, lạy Chúa, trên những tông đồ sự thật, <i>- cùng với thánh nữ Gio- an-na An-ti-đa, chúng con tạ ơn Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, xin tuôn đổ trên chúng con ngọn lửa Bác Ái, mà Chúa đã thắp sáng trong tâm hồn thánh nữ Gio-an- na An-ti-đa (Jeanne Antide), để việc phục vụ khiêm tốn của chúng con góp phần làm cháy sáng ngọn lửa mà Con Chúa đã mang đến thế gian.
+      <i>Chúng con cầu xin...</i>      
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -7911,13 +8000,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Gl 6,8
+      Thật vậy, ai gieo giống nào thì sẽ gặt giống ấy. Ai theo tính xác thịt mà gieo điều xấu, thì sẽ gặt được hậu quả của tính xác thịt, là sự hư nát. Còn ai theo Thần Khí mà gieo điều tốt, thì sẽ gặt được hậu quả của Thần Khí, là sự sống đời đời.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Hạnh phúc thay ai sống theo luật của Chúa.
+<strong>Đ</strong> Hạnh phúc thay ai tìm kiếm Chúa hết lòng.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, xin tuôn đổ trên chúng con ngọn lửa Bác Ái, mà Chúa đã thắp sáng trong tâm hồn thánh nữ Gio-an- na An-ti-đa (Jeanne Antide), để việc phục vụ khiêm tốn của chúng con góp phần làm cháy sáng ngọn lửa mà Con Chúa đã mang đến thế gian.
+      <i>Chúng con cầu xin...</i>   
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -7956,15 +8048,43 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Theo gương Thầy Chí Thánh Giêsu 
+Hãy yêu mến Chúa Cha không ngừng 
+Hãy chăm lo phục vụ người nghèo 
+Vì Chúa chính nguồn sống của ta.
+
+Người nghèo là Chúa, là Chủ ta 
+Ta hãy mau chóng phục vụ họ 
+Cứu họ thoát khỏi cơn nguy khốn 
+Giúp đỡ họ trong suốt cuộc đời ta.
+
+Sống trên đời với ngàn mơ ước 
+Nhưng chỉ ước tuân giữ Ý Người 
+Khi Chúa gọi, ta mau đáp lời 
+Người sẽ ban mọi của đầy dư.
+
+Trên khắp mọi dân của vũ hoàn 
+Người nghèo là Thân Mình Kitô 
+Tiếng họ vang vọng trong cõi đất 
+Khao khát sự sống và tình yêu.
+
+Hãy phục vụ người nghèo luôn mãi 
+Trong nhiệt tâm, trong sự kính trọng 
+Hãy làm nhân chứng, làm tông đồ 
+Làm sứ giả tình yêu hiến dâng.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Ga 4,9-10
+      Tình yêu của Thiên Chúa đối với chúng ta được biểu lộ như thế này: Thiên Chúa đã sai Con Một đến thế gian để nhờ Con Một của Người mà chúng ta được sống. Tình yêu cốt ở điều này: không phải chúng ta đã yêu mến Thiên Chúa, nhưng chính Người đã yêu thương chúng ta, và sai Con của Người đến làm của lễ đền tội cho chúng ta.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Đức Kitô là hình ảnh Thiên Chúa vô hình.
+* Ngài là khởi nguyên.
+<strong>X</strong> Sinh ra trước mọi thọ tạo,
+là Trưởng tử từ trong kẻ chết. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Hãy tự hào vì danh Chúa chí thánh: 
+niềm vui cho các tâm hồn tìm kiếm Chúa.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -7998,11 +8118,23 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong> Hãy tự hào vì danh Chúa chí thánh: 
+niềm vui cho các tâm hồn tìm kiếm Chúa.
+
 <strong>Lời cầu</strong>
+      Trong sự hiệp thông của toàn thể Hội Thánh, cùng với thánh nữ Gio-an-na An-ti-đa, chúng ta hãy cầu xin Đức Giêsu, Chúa của người thấp hèn và nghèo khó.
+      <i>Lạy Chúa vinh hiển, xin nhậm lời chúng con. </i>
+      Cầu cho các phụ nữ đang kín múc sức mạnh nơi Chúa và đem tình bạn, niềm an ủi cho các bệnh nhân và những ai bị loại trừ, <i>- xin Chúa ban cho họ niềm vui và bình an. </i> 
+      Cầu cho những người nam nữ thiện chí đang yêu thương tiếp nhận người nghèo và người bị sỉ nhục, <i>- xin Chúa ban cho họ can đảm và sức mạnh. </i>
+      Cầu cho những người làm việc xã hội, những người xây dựng tình liên đới đang đấu tranh cho việc thừa nhận và xác định quyền lợi của những người bé nhỏ, <i>- xin Chúa ban cho họ sự trung thành và hy vọng. </i>
+      Cầu cho những người thánh hiến đang sống đời cầu nguyện và phục vụ anh chị em, <i>- xin Chúa ban cho họ sự thánh thiện và lòng nhân hậu. </i>
+      Cầu cho Giáo Hội, nữ tỳ và người nghèo, đang hăng say loan báo Tin Mừng, <i>- xin Chúa ban cho Giáo Hội sự hiệp nhất và tình Bác Ái. </i>
+      Cầu cho tất cả mọi người nam nữ hôm nay ra trước mặt Chúa, <i>- xin Chúa ban cho họ ơn tha thứ và đời sống bên Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, xin tuôn đổ trên chúng con ngọn lửa Bác Ái, mà Chúa đã thắp sáng trong tâm hồn thánh nữ Gio-an- na An-ti-da (Jeanne Antide), để việc phục vụ khiêm tốn của chúng con góp phần làm cháy sáng ngọn lửa, mà Con Chúa đã mang đến thế gian.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
