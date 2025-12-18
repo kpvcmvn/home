@@ -11618,7 +11618,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo, 
+nào ta hãy đến bái thờ Người!
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -11656,17 +11657,44 @@ Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
 <strong>Thánh thi</strong>
+Thật hạnh phúc dường bao 
+Ai tìm bình an Chúa 
+Thật hạnh phúc dường bao 
+Họ trong trái tim Người.
+
+Thật hạnh phúc dường bao 
+Những tâm hồn nghèo khổ 
+Thật hạnh phúc dường bao 
+Mở hướng đời nhân loại.
+
+Thật hạnh phúc dường bao 
+Ai gieo trong nước mắt 
+Thật hạnh phúc dường bao 
+Thấy núi non chuyển dời.
+
+Thật hạnh phúc dường bao 
+Ai tha thứ luôn mãi 
+Thật hạnh phúc dường bao 
+Hồi sinh niềm trông cậy.
+
+Thật hạnh phúc dường bao 
+Ai thiệt thân vì Người 
+Thật hạnh phúc dường bao 
+Họ là cửa Nước Trời.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Ga 5,1-5
+Phàm ai tin rằng Đức Giêsu là Đấng Kitô, thì đã được Thiên Chúa sinh ra. Và ai yêu mến Đấng sinh thành, thì cũng yêu thương kẻ được Đấng ấy sinh ra. Căn cứ vào điều này, chúng ta biết được mình yêu thương con cái Thiên Chúa: đó là chúng ta yêu mến Thiên Chúa và thi hành các điều răn của Người. Quả thật, yêu mến Thiên Chúa là tuân giữ các điều răn của Người. Mà các điều răn của Người có nặng nề gì đâu, vì mọi kẻ đã được Thiên Chúa sinh ra đều thắng được thế gian. Và điều làm cho chúng ta thắng được thế gian, đó là lòng tin của chúng ta. Ai là kẻ thắng được thế gian, nếu không phải là người tin rằng Đức Giêsu là Con Thiên Chúa?
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Vinh danh Cha của Đức Giêsu
+* vinh danh Thiên Chúa chúng ta!
+<strong>X</strong> Người đã yêu chúng ta đầu tiên.
+Người đã giải thoát chúng ta khỏi tội lỗi. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Thầy là sự sống lại và là sự sống.
+Ai tin Thầy, cho dù chết đi, cũng sẽ sống”
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -11704,6 +11732,9 @@ Cho Vầng Đông tự chốn cao vời viếng thăm ta,
 Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
+
+<strong>ĐC</strong> “Thầy là sự sống lại và là sự sống.
+Ai tin Thầy, cho dù chết đi, cũng sẽ sống”
 
 <strong>Lời cầu</strong>
 
