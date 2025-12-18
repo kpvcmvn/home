@@ -13600,30 +13600,79 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Lạy thánh Gio-an Ga-bri-en 
+Ngài là người con của trần thế
+Xin chỉ cho chúng con đường lên trời 
+Con đường ngập tràn ánh hào quang.
+
+Ngày hôm ấy, ngài đã nhận ra 
+Tiếng gọi và lòng nhân của Chúa 
+Nhờ Giêsu, ngài đã nhận biết 
+Tin Mừng là mọi lẽ khôn ngoan.
+
+Ngài dứt áo giã biệt quê hương 
+Từ biệt gia đình quyết dấn thân 
+Ngài đã theo gương anh đi trước 
+Tiến về hạnh phúc chốn thiên cung.
+
+Rồi hôm ấy, ngài đặt chân đến 
+Vùng đất lạ, miền đất xa xôi 
+Tại Trung Quốc, ngài đã học biết 
+Sự sống là ân sủng Chúa ban.
+
+Tại nơi ấy, ngài chịu khổ hình 
+Thập giá Chúa, ngài đã chọn theo 
+Trút thần khí, ngài bỏ gian trần 
+Chư thánh tử tiếp nhận hân hoan.
+
+Ngày hôm nay, xin dạy chúng con 
+Biết nhận ra con đường truyền giáo 
+Xin dìu chúng con trong đêm tối 
+Ngăn dòng lệ thắm, cất lời ca.
+
+Xin đoái nhìn các bạn gần xa 
+Nơi quê hương đang dõi theo ngài 
+Đang quy tụ cất cao giọng hát 
+Ca khen Chúa, Đấng yêu thương ngài.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tâm hồn chúng tôi đợi trông Chúa,
+<strong>Đ</strong> Bởi Người luôn che chở phù trì.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1Cr 4,1-15
+<strong>Gương Các Tông Đồ
+Trích thư thứ nhất của thánh Phaolô gửi tín hữu Cô-rin-tô </strong>
+      Thưa anh em, chớ gì thiên hạ coi chúng tôi như những đầy tớ của Đức Kitô, những người quản lý các mầu nhiệm của Thiên Chúa. Mà người ta chỉ đòi hỏi ở người quản lý một điều, là phải chứng tỏ lòng trung thành. Đối với tôi, dù có bị anh em hay toà đời xét xử, tôi cũng chẳng coi là gì. Mà tôi, tôi cũng chẳng tự xét xử lấy mình. Quả thật, tôi không thấy lương tâm áy náy điều gì, nhưng đâu phải vì thế mà tôi đã được kể là người công chính. Đấng xét xử tôi chính là Chúa. Vậy xin anh em đừng vội xét xử điều gì trước kỳ hạn, trước ngày Chúa đến. Chính Người sẽ đưa ra ánh sáng những gì ẩn khuất trong bóng tối, và phơi bày những ý định trong thâm tâm con người. Bấy giờ, mọi người sẽ được Thiên Chúa khen thưởng đích đáng.
+      Thưa anh em, anh em phải theo gương tôi và anh A- pô-lô, mà học cho biết "đừng có đi ra ngoài những gì đã viết", kẻo sinh ra kiêu ngạo, theo người này mà chống người khác. Thật vậy, nào có ai coi bạn hơn kẻ khác đâu? Bạn có gì mà bạn đã không nhận lãnh? Nếu đã nhận lãnh, tại sao lại vênh vang như thể đã không nhận lãnh? Anh em đã no nê rồi, đã giầu có rồi! Không có chúng tôi anh em đã làm vua rồi! Phải chi anh em làm vua, để chúng tôi cũng được làm vua với anh em! Thật vậy, tôi thiết nghĩ: Thiên Chúa đã đặt chúng tôi làm tông đồ hạng chót như những kẻ bị án tử hình, bởi vì chúng tôi đã nên trò cười cho thế gian, cho thiên thần và loài người! Chúng tôi điên dại vì Đức Ki-tô, còn anh em thì khôn ngoan trong Đức Ki- tô; chúng tôi yếu đuối, còn anh em thì mạnh mẽ; anh em được kính trọng, còn chúng tôi thì bị khinh khi. Cho đến giờ này, chúng tôi vẫn bị đói khát, trần truồng, bị hành hạ và lang thang phiêu bạt; chúng tôi phải vất vả làm lụng. Bị nguyền rủa, chúng tôi chúc lành; bị bắt bớ, chúng tôi cam chịu; bị vu khống, chúng tôi đem lời an ủi. Cho đến bây giờ, chúng tôi đã nên như rác rưởi của trần gian, như phế vật đối với mọi người.
+      Tôi viết những lời đó không phải để anh em xấu hổ, nhưng là để sửa dạy anh em như những người con yêu quí của tôi. Thật thế, cho dầu anh em có ngàn vạn giám thị trong Đức Kitô, anh em cũng không có nhiều cha đâu, bởi vì trong Đức Giêsu Kitô, nhờ Tin Mừng, chính tôi đã sinh ra anh em.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Lạy Chúa, con người là chi mà Chúa cần nhớ đến, phàm nhân là gì mà Chúa phải lưu tâm.
+* Ân sủng Chúa thật lạ lùng!
+Chúa giao phó cho loài người những bí ẩn của Cha.
+<strong>X</strong> Các sứ giả của Tin Mừng
+Họ loan báo bình an đến tận cùng thế giới.
+Hạnh phúc cho dân nào được như vậy,
+Hạnh phúc cho dân được Thiên Chúa là Chúa! *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Bắt chước Đức Ki-tô
+Trích bài huấn đức của thánh Gioan Ga-bri-en Pec-boa </strong>
+      Chỉ có một sự cần thiết duy nhất, đó là Đức Giêsu Kitô. Hãy suy niệm không ngừng về đề tài này, vì nó không thể tát cạn được. Chúa chúng ta đã phán: "Ta là đường, là sự thật, và là sự sống". Ta là đường, nhưng đường nào? Đường khiêm nhu, đường Bác Ái, đường vâng phục, đường kiên tâm, đường hy sinh hãm mình, đường thiện toàn, đường hạnh phúc và đường vinh quang. Nếu chúng ta muốn trở nên hoàn thiện, nếu chúng ta muốn đạt được hạnh phúc và vinh quang thiên quốc, dứt khoát chúng ta phải bước đi trên con đường này. Nhưng để khỏi lạc đường, chúng ta cần một bó đuốc soi đường. Thì này lại chính là Người làm đuốc soi đường cho chúng ta, vì Người là sự thật, và Người đã công bố: ai đi theo Người sẽ không đi trong tăm tối, nhưng có ánh sáng ban sự sống.
+      Chúng ta cũng cần sức mạnh để đứng vững và kiên trì trên đường này. Cũng chính Đức Giêsu Kitô là sức mạnh của chúng ta; Người đã trở thành lương thực bằng cách hiến mình cho chúng ta trong Bí tích Thánh Thể, và vì thế Người đã phán: "Ta là sự sống". Nơi Thánh Giá, trong Tin Mừng và trong Thánh Thể, chúng ta tìm được tất cả những gì chúng ta có thể muốn. Không có con đường nào khác, sự thật nào khác, sự sống nào khác; vì thế Người chính là Đấng chúng ta phải gắn bó, chúng ta phải học hỏi, chúng ta phải chạy tới không ngừng.
+      "Chỉ có một sự cần thiết", trong Tin Mừng Chúa đã nói thế; nhưng sự cần thiết duy nhất đó là sự gì? Đó là bắt chước Người. Chúng ta chỉ đạt được ơn cứu độ bằng việc đồng hình đồng dạng với Đức Giêsu Kitô. Sau khi chúng ta chết, người ta không hỏi chúng ta để biết chúng ta thông thái hay đã nắm giữ những việc quan trọng, đã làm cho người ta khen ngợi chúng ta, mà hỏi xem chúng ta đã có học biết Đức Giêsu Kitô và có bắt chước Người hay không. Nếu Thiên Chúa không tìm thấy nơi chúng ta những nét giống với Khuôn Mẫu thần linh, chúng ta sẽ bị loại bỏ; trái lại, chúng ta sẽ được tôn vinh, nếu chúng ta đã trở nên đồng hình đồng dạng với Người. Đức Giêsu Kitô là khuôn mẫu của những người được tiền định; các thánh ở trên trời chỉ là những chân dung của Đức Giêsu Kitô phục sinh vinh hiển, như khi tại thế các vị là chân dung của Đức Giêsu Kitô đau khổ, khiêm nhu và lao động.
+      Mắt hãy luôn gắn chặt vào Đức Giêsu Kitô. Chúng ta chớ bằng lòng chiếm hữu một đôi nét của Khuôn Mẫu. Hãy bước vào mọi tâm tư của Người, chúng ta hãy chiếm hữu mọi nhân đức của Người. Mỗi ngày, chúng ta hãy bắt đầu lại và hãy tiếp tục không bao giờ biết chán nản.
+        
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Chiếc neo niềm cậy trông của chúng ta, chính là Đức Kitô ngự bên Cha.
+* Lạy Đức Giêsu hằng sống,
+Xin chuyển cầu cho chúng con nơi Cha.
+<strong>X</strong> Hãy noi theo những người
+nhận lãnh gia nghiệp lời hứa nhờ kiên trì và lòng tin. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa làm cho vinh quang Chúa tỏa sáng rực rỡ trong các việc tông đồ của thánh Gioan Ga-bri-en, và Chúa đã gắn kết chặt chẽ thánh nhân với thập giá Con Chúa, xin Chúa cho chúng con, theo gương ngài, được hiệp thông với cuộc khổ nạn của Đức Kitô, để vui mừng loan báo ơn cứu độ cho mọi dân tộc.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -13658,7 +13707,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo,
+nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -13695,18 +13745,63 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo,
+nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
+Hy sinh mạng sống, dâng hiến tim hồng 
+Trao nộp thân mình, đổ máu vì yêu 
+Truyền rao Tin Vui đến miền đất lạ 
+Sống chứng nhân về Thiên Chúa tình yêu.
+
+Gio-an Ga-bri-en, người con của trái đất 
+Ngài đã chín như hạt lúa được gieo 
+Từ đáy hồn ngài nảy mầm tươi tốt 
+Một tiếng gọi tha thiết của trời cao.
+
+Ngài lớn lên giữa cảnh vườn nho đẹp 
+Trong lòng dân tộc quảng đại đáng yêu 
+Và ngài sắp ra đi, rời bỏ hết 
+Vì tình yêu dành cho Chúa Kitô.
+
+Ngài sẽ đến sống giữa những anh em 
+Những con cái của cha thánh Vinh Sơn 
+Ngài đã trở nên một người hướng dẫn 
+Dắt đưa họ trên đường nẻo đức tin.
+
+Nhưng trong lòng luôn vang lên tiếng gọi 
+Của các dân tộc, các nước xa xôi 
+Họ chưa biết Đấng đáng yêu tuyệt đối 
+Chối từ ơn cứu chuộc của Ngôi Hai.
+
+Ngài muốn đi như đàn anh đi trước 
+Muốn đổ máu như một số anh em. 
+Xin cho chúng con đầy lòng ao ước 
+Cháy lửa tình yêu, lạy thánh Ga-bri-en.
+
+Hỡi người anh thánh thiện và anh dũng 
+Chết treo thập giá giống Chúa Kitô 
+Xin giúp chúng con kiên cường đứng vững 
+Giữa cam go thử thách đời tông đồ.
+
+Khẩn thiết chúng ta phải đi loan báo 
+Sứ điệp tình yêu của Đức Kitô 
+Xin cho chúng con hăng say, mạnh bạo 
+Sứ mạng truyền giáo, từng bước chăm lo.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Lời Chúa</strong>
+      Quả thế, tại vì lề luật mà tôi đã chết đối với lề luật, để sống cho Thiên Chúa. Tôi cùng chịu đóng đinh với Đức Kitô vào thập giá. Tôi sống, nhưng không còn phải là tôi, mà là Đức Kitô sống trong tôi. Hiện nay tôi sống kiếp phàm nhân trong niềm tin vào con Thiên Chúa, Đấng đã yêu mến tôi và hiến mạng vì tôi. Tôi không làm cho ân huệ của Thiên Chúa ra vô hiệu, vì nếu người ta được nên công chính do lề luật, thì hóa ra Đức Kitô đã chết vô ích.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Chúa Kitô đã yêu chúng ta.
+* Người đã nộp thân mình vì chúng ta.
+<strong>X</strong> Chính Người đã vác lỗi lầm chúng ta trên thập giá. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Tôi sẽ không bao giờ biết mệt mỏi chúc tụng Chúa,
+về ơn Chúa ban cho tôi được đi loan báo thánh danh Người,
+và tôi hy vọng sẽ chúc tụng Chúa muôn đời với anh em".
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -13745,11 +13840,22 @@ Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
+<strong>ĐC</strong> “Tôi sẽ không bao giờ biết mệt mỏi chúc tụng Chúa,
+về ơn Chúa ban cho tôi được đi loan báo thánh danh Người,
+và tôi hy vọng sẽ chúc tụng Chúa muôn đời với anh em".
+
 <strong>Lời cầu</strong>
+      Hôm nay, nhân ngày Giáo Hội mời gọi chúng ta tưởng nhớ cuộc tử đạo của thánh Gioan Ga-bri-en, chúng ta hãy cầu xin Chúa Sự Thật ban cho chúng ta sức mạnh loan báo Tin Mừng cho đến hơi thở cuối cùng.
+      <i>Lời Chúa là ánh sáng soi bước chân con, là ngọn đèn rọi đường con đi. </i>
+      “Trên thánh giá, trong Phúc Âm và phép Thánh Thể, chúng ta tìm thấy tất cả những gì chúng ta có thể ước muốn. Không có con đường nào khác, chân lý nào khác, sự sống nào khác". <i>- xin Tình Yêu Chúa dạy chúng con chỉ ước muốn Chúa thôi và xin cho chúng con được ngợi khen Chúa suốt đời. </i>
+      “Không cần phải làm những điều quan trọng để đẹp lòng Chúa; chúng ta chỉ cần làm tốt điều chúng ta làm”. <i>- xin Sự Hiện Diện của Chúa cư ngụ trong tâm hồn chúng con, để chúng con trở nên “tất cả cho mọi người”, nhất là “cho người nghèo, các ông chủ bà chúa của chúng con” để xây dựng Nước Chúa. </i>
+      “Đức Giêsu Kitô là bậc thầy kiến thức. Chỉ một mình Người mới cho ánh sáng thật”. <i> - xin Ánh Sáng Chúa soi sáng đường chúng con đi, để chúng con biết bắt đầu lắng nghe Lời Chúa đỡ dậy và sưởi ấm. </i>
+      “Nhờ phép rửa, chúng ta đã trở thành chi thể Đức Giêsu Kitô”. <i>- xin Thần Khí Chúa ban sức sống cho Hội Thánh Chúa, để Hội Thánh luôn luôn là nơi đón tiếp và khoan dung đối với tất cả mọi người. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa làm cho vinh quang Chúa tỏa sáng rực rỡ trong các việc tông đồ của thánh Gioan Ga-bri-en, và Chúa đã gắn kết chặt chẽ thánh nhân với thập giá Con Chúa, xin Chúa cho chúng con, theo gương ngài, được hiệp thông với cuộc khổ nạn của Đức Kitô, để vui mừng loan báo ơn cứu độ cho mọi dân tộc.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -13835,13 +13941,12 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>Lời Chúa</strong> 1Tm 1,12
+      Tôi tạ ơn Đức Giêsu Kitô, Chúa chúng ta, Đấng đã ban sức mạnh cho tôi, vì Người đã tín nhiệm mà gọi tôi đến phục vụ Người.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa làm cho vinh quang Chúa tỏa sáng rực rỡ trong các việc tông đồ của thánh Gioan Ga-bri-en, và Chúa đã gắn kết chặt chẽ thánh nhân với thập giá Con Chúa, xin Chúa cho chúng con, theo gương ngài, được hiệp thông với cuộc khổ nạn của Đức Kitô, để vui mừng loan báo ơn cứu độ cho mọi dân tộc.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -13880,15 +13985,56 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Hy sinh mạng sống, dâng hiến tim hồng
+Trao nộp thân mình, đổ máu vì yêu
+Truyền rao Tin Vui đến miền đất lạ 
+Sống chứng nhân về Thiên Chúa tình yêu.
+
+Gio-an Ga-bri-en, người con của trái đất 
+Ngài đã chín như hạt lúa được gieo 
+Từ đáy hồn ngài nảy mầm tươi tốt 
+Một tiếng gọi tha thiết của trời cao.
+
+Ngài lớn lên giữa cảnh vườn nho đẹp 
+Trong lòng dân tộc quảng đại đáng yêu 
+Và ngài sắp ra đi, rời bỏ hết 
+Vì tình yêu dành cho Chúa Kitô.
+
+Ngài sẽ đến sống giữa những anh em 
+Những con cái của cha thánh Vinh Sơn 
+Ngài đã trở nên một người hướng dẫn 
+Dắt đưa họ trên đường nẻo đức tin.
+
+Nhưng trong lòng luôn vang lên tiếng gọi 
+Của các dân tộc, các nước xa xôi 
+Họ chưa biết Đấng đáng yêu tuyệt đối 
+Chối từ ơn cứu chuộc của Ngôi Hai.
+
+Ngài muốn đi như đàn anh đi trước 
+Muốn đổ máu như một số anh em 
+Xin cho chúng con đầy lòng ao ước 
+Cháy lửa tình yêu, lạy thánh Ga-bri-en.
+
+Hỡi người anh thánh thiện và anh dũng 
+Chết treo thập giá giống Chúa Kitô 
+Xin giúp chúng con kiên cường đứng vững 
+Giữa cam go thử thách đời tông đồ.
+
+Khẩn thiết chúng ta phải đi loan báo
+Sứ điệp tình yêu của Đức Kitô
+Xin cho chúng con hăng say, mạnh bạo 
+Sứ mạng truyền giáo, từng bước chăm lo.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Pr 3,15-17
+      Đức Kitô là Đấng Thánh, hãy tôn Người làm Chúa ngự trị trong lòng anh em. Hãy luôn luôn sẵn sàng trả lời cho bất cứ ai chất vấn về niềm hy vọng của anh em. Nhưng phải trả lời cách hiền hòa và với sự kính trọng. Hãy giữ lương tâm ngay thẳng, khiến những kẻ phỉ báng anh em vì anh em ăn ở ngay thẳng trong Đức Kitô, thì chính họ phải xấu hổ vì những điều họ vu khống, bởi lẽ thà chịu khổ vì làm việc lành, nếu đó là ý của Thiên Chúa, còn hơn là vì làm điều ác.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Đức Giêsu Kitô là Ánh sáng soi bước chúng ta đi, là đường chân lý!
+* Ai làm sự thật thì đến cùng ánh sáng.
+<strong>X</strong> Ai yêu mến thì được Chúa sinh ra và người ấy biết Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong>  “Hạnh phúc thật của chúng ta không phải là có mọi thứ an ủi trên thế gian này, mà là làm theo thánh ý Chúa, phục vụ Chúa và làm cho người khác phục vụ Chúa trong mức độ có thể”
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -13922,11 +14068,21 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong>  “Hạnh phúc thật của chúng ta không phải là có mọi thứ an ủi trên thế gian này, mà là làm theo thánh ý Chúa, phục vụ Chúa và làm cho người khác phục vụ Chúa trong mức độ có thể”
+
 <strong>Lời cầu</strong>
+      Chiều nay, chiều ngày chúng ta mừng lễ thánh Gioan Ga-bri-en Pec-boa, chúng ta hãy phó thác đời sống chúng ta trong tay Chúa vinh quang:
+      <i>Chúa vĩ đại, lạy Chúa, xin chúc tụng Chúa đến muôn đời. </i>
+      "Xin cho tay con là tay của Chúa”. <i>- cám ơn Chúa vì đã cho phép các tôi tớ là chúng con đây, được làm chứng nhân của tình yêu Chúa bằng các việc làm thực hiện hôm nay. </i>
+      "Xin cho mắt con là mắt của Chúa”. <i>- cám ơn Chúa vì đã đặt trong lòng chúng con, sức mạnh của Chúa Thánh Thần cho phép chúng con nhìn thấy Chúa trong anh em chúng con, những người nghèo nhất. </i>
+      “Xin Chúa biến đổi linh hồn con và mọi năng lực của nó”. <i>- cám ơn Chúa vì hồng ân Hội Thánh Chúa, mỗi ngày, dùng các bí tích thanh luyện chúng con và giúp chúng con yêu mến Chúa hơn. </i>
+      “Ước gì Chúa nói được về con: đây là con Ta yêu dấu”. <i>- cám ơn Chúa vì Lời Chúa chúng con đã nghe hôm nay, và mời gọi chúng con trở nên giống Chúa bằng sự dâng hiến hoàn toàn cho Chúa Cha. </i>
+      “Ước gì, lạy Chúa, Chúa nói được về con Người, Ta đặt hết tình yêu Ta”. <i>- cám ơn Chúa vì Chúa tiếp nhận, trong bình an của Chúa, những người thân chúng con đã qua đời; tất cả những người thiện chí được Chúa yêu mến, và hôm nay trình diện trước mặt Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa làm cho vinh quang Chúa tỏa sáng rực rỡ trong các việc tông đồ của thánh Gioan Ga-bri-en, và Chúa đã gắn kết chặt chẽ thánh nhân với thập giá Con Chúa, xin Chúa cho chúng con, theo gương ngài, được hiệp thông với cuộc khổ nạn của Đức Kitô, để vui mừng loan báo ơn cứu độ cho mọi dân tộc.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
