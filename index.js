@@ -12893,32 +12893,70 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Đâu có tình yêu thương 
+Nơi đó Thiên Chúa ngự 
+Bởi tình yêu khởi đi 
+Từ suối nguồn Thiên Chúa.
+
+Không phải do chúng ta 
+Nhưng Thiên Chúa yêu trước 
+Đã sai Người Con Một 
+Làm của lễ đền thay.
+
+Để nhờ Con Duy Nhất 
+Mà chúng ta được sống 
+Và Thần Khí của Người 
+Cũng được ban cho ta.
+
+Thiên Chúa đã yêu trước 
+Chúng ta phải thương yêu 
+Có ai được diễm phúc 
+Chiêm ngưỡng Người bao giờ.
+
+Nếu chúng ta thương yêu
+Tình yêu của Thiên Chúa
+Sẽ tồn tại mãi mãi
+Trong đời sống chứng nhân.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Chúa dẫn dắt người lành Trên đường ngay nẻo chính,
+<strong>Đ</strong> và cho họ được thấy Nước Trời.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1Ga 4,7-21
+<strong>Chúng ta hãy yêu thương nhau
+Trích thư thứ nhất của thánh Gioan tông đồ </strong>
+      Anh em thân mến, chúng ta hãy yêu thương nhau, vì tình thương bắt nguồn từ Thiên Chúa. Phàm ai yêu thương, thì được Thiên Chúa sinh ra, và người ấy biết Thiên Chúa. Ai không yêu thương, thì không biết Thiên Chúa, vì Thiên Chúa là tình yêu. Tình yêu của Thiên Chúa đối với chúng ta dược biểu lộ như thế này: Thiên Chúa đã sai Con Một đến thế gian, để nhờ Con Một của Người mà chúng ta được sống. Tình yêu cốt ở điều này: không phải chúng ta đã yêu mến Thiên Chúa, nhưng chính Người đã yêu thương chúng ta, và sai Con của Người đến làm của lễ đền tội cho chúng ta.
+      Anh em thân mến, nếu Thiên Chúa đã yêu thương chúng ta như thế, chúng ta cũng phải yêu thương nhau. Thiên Chúa chưa ai được chiêm ngưỡng bao giờ. Nếu chúng ta yêu thương nhau, thì Thiên Chúa ở lại trong chúng ta, và tình yêu của Người nơi chúng ta mới nên hoàn hảo. Căn cứ vào điều này, chúng ta biết được rằng chúng ta ở lại trong Người và người ở lại trong chúng ta: đó là Người đã ban Thần Khí của Người cho chúng ta. Phần chúng tôi, chúng tôi đã chiêm ngưỡng và làm chứng rằng: Chúa Cha đã sai con của người đến làm Đấng cứu độ trần gian. Hễ ai tuyên xưng Đức Giêsu là Con Thiên Chúa, thì Thiên Chúa ở lại trong người ấy và người ấy ở lại trong Thiên Chúa. Còn chúng ta, chúng ta biết tình yêu của Thiên Chúa nơi chúng ta, và đã tin vào tình yêu đó. Thiên Chúa là tình yêu; ai ở lại trong tình yêu thì ở lại trong Thiên Chúa, và Thiên Chúa ở lại trong người ấy. Căn cứ vào điều này mà tình yêu đã nên hoàn hảo với chúng ta: đó là chúng ta được mạnh dạn trong ngày phán xét, vì Đức Giêsu thế nào thì chúng ta cũng được như vậy ở thế gian này. Tình yêu không biết đến sợ hãi; trái lại, tình yêu hoàn hảo loại trừ sợ hãi, vì sợ hãi gắn liền với hình phạt và ai sợ hãi thì không đạt tới tình yêu hoàn hảo.
+      Phần chúng ta, chúng ta hãy yêu thương, vì Thiên Chúa đã yêu thương chúng ta trước. Nếu ai nói: “Tôi yêu mến Thiên Chúa” mà lại ghét anh em mình, người ấy là kẻ nói dối; vì ai không yêu thương người anh em mà họ trông thấy, thì không thể yêu mến Thiên Chúa mà họ không thấy. Đây là điều răn mà chúng ta đã nhận từ nơi Người: ai yêu mến Thiên Chúa, thì cũng yêu thương anh em mình.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Chúng ta biết tình yêu của Chúa nơi chúng ta
+và chúng ta đã tin nơi Người.
+* Ai ở trong tình yêu
+thì người ấy ở trong Thiên Chúa,
+và Thiên Chúa ở trong người ấy.
+<strong>X</strong> Không gì dịu ngọt
+bằng gắn bó với những giới răn của Chúa. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Người nghèo, chúng ta luôn có họ bên cạnh
+Trích thư của chân phước Phê-đê-rích Ô-za-nam </strong>
+      Các thánh là những người điên vì tình yêu. Tình yêu vô biên của các thánh ôm chặt lấy Thiên Chúa, ôm nhân loại, ôm thiên nhiên và khi thấy rằng Thiên Chúa đã hoá nên nghèo hèn để ở trên trần gian, rằng phần đông nhân loại là nghèo khổ, và rằng chính thiên nhiên cũng nghèo nàn giữa những lộng lẫy của nó, vì thiên nhiên cũng chịu cảnh hư vong: các thánh đã muốn trở nên khó nghèo: cái đặc thù của tình yêu là muốn đồng hoá mình thành những gì mình yêu càng nhiều càng tốt..
+      Còn chúng ta, bạn thân mến của tôi ơi, chúng ta sẽ không làm gì để nên giống các thánh mà chúng ta yêu quí ư? và chúng ta sẽ bằng lòng rên than cái mùa gặt hiện nay không năng suất? Đang khi, mỗi người trong chúng ta đều mang trong tim một mầm sự thánh thiện mà ý muốn đơn sơ cũng đủ làm nó nở hoa? Nếu chúng ta không biết yêu Chúa như các thánh, đương nhiên, điều đó phải là một lý do trách phạt chúng ta, song sự yếu đuối của chúng ta có thể tìm ra được một chút lý do để tạ tội, vì xem ra phải nhìn thấy mới yêu, mà chúng ta chỉ nhìn Thiên Chúa bằng con mắt đức tin, và Đức Tin của chúng ta lại quá yếu!
+      Nhưng còn những con người, những người nghèo, chúng ta nhìn thấy họ bằng con mắt xác thịt cơ mà, họ hiện hữu ở đó, và chúng ta có thể đưa ngón tay và bàn tay thọc vào những vết thương của họ, và những dấu vết mão gai còn nguyên hình trên trán họ; và nơi đây không thể còn chỗ cho lòng cứng tin và chúng ta phải quì dưới chân họ, rồi nói với họ cùng với thánh Tông Đồ: “Bạn là ông chủ của tôi và là Chúa của tôi”. Các vị là chủ chúng tôi và chúng tôi là tôi tớ các vị, đối với chúng tôi các vị là những hình ảnh thánh thiêng về một Thiên Chúa mà chúng tôi không nhìn thấy, và đang lúc không biết yêu Người cách nào khác hơn, thì chúng tôi yêu Người nơi bản thân các vị ". Ôi! nếu, vào thời trung cổ, cái xã hội bệnh hoạn chỉ có thể được chữa lành bởi tình yêu dạt dào của thánh Phanxicô Assisie đổ ra, và nếu sau đó những đau khổ mới thét gào những bàn tay cứu giúp của thánh Philíp Nêri, của thánh Gioan Thiên Chúa và của thánh Vinh Sơn Phaolô, thì ngày nay, lại không càng cần biết bao Bác Ái, sự tận tâm, sự kiên nhẫn để chữa lành những đau thương của những đám dân nghèo này, còn nghèo hơn bao giờ hết vì họ đã từ chối lương thực nuôi linh hồn, đồng thời họ thiếu cả bánh nuôi thân xác sao? Vấn đề chia cắt con người thời chúng ta bây giờ không còn phải là các hình thái chính trị nữa, đó là vấn đề xã hội, đó là vấn đề biết thắng tinh thần ích kỷ hoặc là vấn đề tinh thần hy sinh; xã hội sẽ chỉ là sự bóc lột vì lợi nhuận của những kẻ mạnh hơn hoặc là một sự dâng hiến của từng người cho thiện ích của mọi người và đặc biệt cho sự bảo vệ những người yếu thế. Có nhiều người có quá nhiều và muốn có thêm nữa; đông hơn, nhiều người còn thiếu thốn, nhiều người không có gì, và họ muốn lấy cắp nếu người ta không cho họ. Giữa hai hạng người này, một cuộc chiến đang được chuẩn bị; và cuộc chiến sẽ khủng khiếp: một bên là sức mạnh của vàng bạc, bên kia là sức mạnh của sự tuyệt vọng. Giữa hai đạo quân thù nghịch này chúng ta phải xông vào, ít ra là làm yếu đi sự va chạm nếu không ngăn chận được chúng. Tuổi trẻ thời đại chúng ta, địa vị cấp trung lưu của chúng ta làm cho vai trò trung gian này dễ dàng cho chúng ta, hơn là danh hiệu Ki-tô hữu của chúng ta bó buộc chúng ta. Đó là lợi ích có thể có của Hiệp hội Bác Ái thánh Vinh Sơn.
+      Bạn đã thực hiện một việc tuyệt vời khi thành lập hội ở đấy, và bạn đã dùng một bản năng đáng khen, khi bạn đưa ra cho họ làm mục đích, việc đi thăm viếng những người Pháp nghèo trong các bệnh viện ở Rô-ma. Thiên Chúa sẽ ban cho bạn phúc lành mà chính Người ban cho các công việc đầu tiên của Người: "Hãy tăng triển và sinh sôi nảy nở". Song, chính khi ít tăng triển thì cùng lúc phải đoàn kết với nhau, chu vi càng rộng thì mỗi điểm của nó càng phải liên hệ với trung tâm bằng những tia không đứt đoạn.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Chúng ta hãy yêu thương nhau 
+vì Thiên Chúa là Tình yêu.
+* Ai ở trong tình yêu thì người ấy ở trong Thiên Chúa, và Thiên Chúa ở trong người ấy.
+<strong>X</strong> Đây là giới răn của Chúa:
+Ai yêu mến Thiên Chúa thì cũng yêu mến anh em mình. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã làm cho chân phước Phê-đê-rích Ô-za-nam thành chứng nhân sự thật và chứng nhân lòng Bác Ái, để khuyến khích, các Kitô hữu và mọi người trong thế giới biết quan tâm giúp đỡ những người nghèo khổ theo gương ngài, xin Chúa cho chúng con biết tuân giữ giới răn yêu thương của Chúa để trở nên men công lý và men lòng xót thương trên đường đời.
      <i>Chúng con cầu xin...</i>
-
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -12951,7 +12989,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúng ta hãy thờ lạy Đức Kitô, Vua chúng ta, 
+Đấng luôn nâng đỡ người thấp hèn.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -12988,18 +13027,42 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúng ta hãy thờ lạy Đức Kitô, Vua chúng ta, 
+Đấng luôn nâng đỡ người thấp hèn.
+
 <strong>Thánh thi</strong>
+Phúc thay người nghèo khó vì Chúa: 
+Vì họ đã chiếm được Nước Trời. 
+Phúc thay người khiêm nhu hiền hậu 
+Họ sẽ được sự sống đời đời.
+
+Phúc thay ai sẵn lòng tha thứ 
+Họ sẽ đầy Thần Khí yêu thương 
+Phúc ai công chính và trong sạch 
+Họ sẽ thấy nhan Chúa tỏ tường.
+
+Phúc thay ai đem lại hòa bình 
+Họ sẽ là con Chúa phúc vinh 
+Phúc thay ai đơn sơ và ngay thẳng 
+Sẽ được vinh quang chốn thiên đình.
+
+Phúc thay anh em bị bách hại 
+Chứng nhân của Chúa trong khổ hình 
+Chúa sẽ là niềm vui êm ái 
+Của các ngài trong cõi trường sinh.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Cr 13,4-7
+      Thưa anh em, đức mến thì nhẫn nhục, hiền hậu, không ghen tương, không vênh vang, không tự đắc, không làm điều bất chính, không tìm tư lợi, không nóng giận, không nuôi hận thù, không mừng khi thấy sự gian ác, nhưng vui khi thấy điều chân thật. Đức mến tha thứ tất cả, tin tưởng tất cả, hy vọng tất cả, chịu đựng tất cả.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Phúc cho ai nghĩ tới người nghèo và người hèn yếu.
+* Chúa cứu thoát họ, trong ngày khốn khổ.
+<strong>X</strong> Chúa sẽ cho họ hạnh phúc trên trần gian. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> Chính khi anh em yêu thương nhau 
+mà người ta sẽ nhận ra anh em là môn đệ Thầy.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -13038,11 +13101,21 @@ Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
+<strong>ĐC</strong> Chính khi anh em yêu thương nhau 
+mà người ta sẽ nhận ra anh em là môn đệ Thầy.
+
 <strong>Lời cầu</strong>
+      Họp nhau tưởng niệm chân phước Phê-đê-rích Ô-za- nam và nhớ lại tình yêu ngài đối với những người nghèo nhất, chúng ta hãy dâng lên Chúa Cha lời cầu nguyện với một tâm hồn đầy niềm vui.
+      <i>Lạy Chúa, xin ban cho con tình yêu Chúa. </i>
+      Lạy Thiên Chúa nhân lành, xin cho ngày mới này tỏa sáng tình thương: <i>- xin cho những ai chúng con gặp gỡ, nhận được nơi chúng con một dấu chỉ tình yêu. </i>
+      Lạy Thiên Chúa nhân lành, Chúa cho chúng con tham gia sứ mạng ngôn sứ của Đức Kitô: <i>- xin cho chúng con biết loan báo, bằng lời nói và hành động, các kỳ công của tình yêu Chúa. </i>
+      Lạy Thiên Chúa nhân lành, xin cho chúng con biết làm điều thiện cho tất cả mọi người nhân danh Chúa: <i>- xin cho ánh sáng Hội Thánh Chúa càng ngày càng rực sáng trên gia đình nhân loại. </i>
+      Lạy Thiên Chúa nhân lành, xin cho chúng con biết hợp tác xây dựng một thế giới mới: <i>- xin cho công lý và hòa bình của Đức Kitô ngự trị trên toàn cõi trái đất. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã làm cho chân phước Phê-đê-rích Ô-za-nam thành chứng nhân sự thật và chứng nhân lòng Bác Ái, để khuyến khích, các Kitô hữu và mọi người trong thế giới biết quan tâm giúp đỡ những người nghèo khổ theo gương ngài, xin Chúa cho chúng con biết tuân giữ giới răn yêu thương của Chúa để trở nên men công lý và men lòng xót thương trên đường đời.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -13128,13 +13201,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Is 58,7-8
+      Hãy chia cơm cho người đói, rước vào nhà những người nghèo không nơi trú ngụ; thấy ai mình trần thì cho áo che thân, không ngoảnh mặt làm ngơ trước những anh em cốt nhục. Bấy giờ ánh sáng ngươi sẽ bừng lên như rạng đông, vết thương ngươi sẽ mau lành. Đức công chính ngươi sẽ mở đường phía trước, vinh quang Đức Chúa bao bọc phía sau ngươi.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Phúc cho ai nghĩ tới người nghèo và yếu đau.
+<strong>Đ</strong> Chúa sẽ cứu họ trong ngày khốn quẫn.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã làm cho chân phước Phê-đê-rích Ô-za-nam thành chứng nhân sự thật và chứng nhân lòng Bác Ái, để khuyến khích, các Kitô hữu và mọi người trong thế giới biết quan tâm giúp đỡ những người nghèo khổ theo gương ngài, xin Chúa cho chúng con biết tuân giữ giới răn yêu thương của Chúa để trở nên men công lý và men lòng xót thương trên đường đời.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -13173,15 +13249,36 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Con người được Chúa dựng nên 
+Giống hình ảnh Chúa với quyền làm con 
+Chúa dùng hơi thở Thánh Thần 
+Ban cho sự sống, ban phần tự do. 
+
+Hồng ân cao trọng vô bờ 
+Tình yêu Thiên Chúa tặng cho con người 
+Tội hư giam hãm cuộc đời 
+Bất công, thù hận xa rời Tình Yêu.
+
+Chúa thương ban chính Con Yêu
+Giêsu cứu thế đến liều tấm thân
+Chết trên thập giá nhục nhằn
+Thứ tha, thánh hiến muôn dân muôn loài.
+
+Ai sẽ nhận Chúa làm Thầy?
+Cùng đi với bạn đường dài, Giêsu?
+Là người tôi tớ khiêm nhu
+Cứu người dương thế, phụng thờ Chúa trên.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 <strong>Lời Chúa</strong>
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Anh em sẽ là môn đệ Thầy.
+* nếu anh em yêu thương nhau.
+<strong>X</strong> Tất cả sẽ nhận ra Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Điều gì anh em đã làm
+cho kẻ bé nhỏ nhất trong anh em Thầy, 
+chính là anh em đã làm cho Thầy.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -13215,11 +13312,26 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong> Điều gì anh em đã làm
+cho kẻ bé nhỏ nhất trong anh em Thầy, 
+chính là anh em đã làm cho Thầy.
+
 <strong>Lời cầu</strong>
+      Chúng ta hãy hướng về Cha, là nơi xuất phát mọi ơn hoàn hảo: xin Cha giúp đỡ Hội Thánh Cha trong sự thật và làm cho Hội Thánh lớn lên trong đức ái.
+      <i>Xin Cha làm cho chúng con. </i>
+      thành chứng nhân tình yêu của Cha.
+      Cầu cho các nhà nghiên cứu, cho giới đại học, lạy Cha, xin Cha ban cho họ Thần Khí thông minh của Cha, <i>- xin cho họ biết đem lý trí phục vụ đức tin và đức tin phục vụ lý trí vì ánh sáng rực rỡ của chân lý. </i>
+      Cầu cho các nhà giáo, những người giảng dạy, lạy Cha, xin Cha ban cho họ Thần Khí khôn ngoan của Cha, <i>- xin cho họ biết tìm kiếm chân, thiện, mỹ để làm phát sinh nền văn minh của tình yêu. <i>
+      Cầu cho giới trẻ, sinh viên và công nhân, lạy Cha, xin Cha ban cho họ Thần Khí quảng đại của Cha, <i>- xin cho họ nhiệt thành dấn thân để có thêm tình liên đới giữa loài người. </i>
+      Cầu cho các nhà cầm quyền, lạy Cha, xin Cha ban cho họ Thần Khí công bằng của Cha, <i>- xin cho họ ra sức xây dựng hòa bình vì lợi ích chung của con người và các dân tộc. </i>
+      Cầu cho những người yêu thương và phục vụ người nghèo, lạy Cha, xin Cha ban cho họ Thần Khí tình yêu của Cha, <i>- xin cho họ đem hy vọng trở lại cho anh em đau khổ của chúng con. </i>
+      Cầu cho Hội Thánh, lạy Cha, xin Cha ban Thần Khí hiệp nhất của Cha, <i>- xin cho Hội Thánh biết làm chứng về tính phổ quát của ơn cứu độ vì vinh quang danh Cha. </i>
+      Cầu cho tất cả mọi người sắp qua đời, lạy Cha, xin Cha ban cho họ ơn tha thứ, <i>- xin cho họ được đón nhận vào trong Nước Cha. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã làm cho chân phước Phê-đê-rích Ô-za-nam thành chứng nhân sự thật và chứng nhân lòng Bác Ái, để khuyến khích, các Kitô hữu và mọi người trong thế giới biết quan tâm giúp đỡ những người nghèo khổ theo gương ngài, xin Chúa cho chúng con biết tuân giữ giới răn yêu thương của Chúa để trở nên men công lý và men lòng xót thương trên đường đời.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
