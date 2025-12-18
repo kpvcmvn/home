@@ -10839,6 +10839,40 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Tình yêu trao hiến thân mình 
+Tình yêu lan rộng khắp vùng gần xa.
+
+Hỡi muôn dân, muôn nước 
+Chúng ta được sinh ra 
+Cộng tác với Thiên Chúa 
+Đấng vẫn đang cứu độ: 
+Tình yêu hướng dẫn ta 
+Bằng Thần Khí quyền năng 
+Của Giêsu Hằng Sống.
+
+Hỡi muôn dân muôn nước 
+Chúng ta được sinh ra 
+Canh thức với Thiên Chúa 
+Đấng vẫn đang canh thức: 
+Đức tin dẫn dắt ta 
+Bằng Thần Khí hiện diện 
+Của Giêsu Hằng Sống.
+
+Hỡi muôn dân muôn nước 
+Chúng ta được sinh ra 
+Gieo trồng với Thiên Chúa 
+Đấng vẫn đang gieo trồng: 
+Niềm hy vọng dẫn dắt 
+Bằng Thần Khí thúc đẩy 
+Của Giêsu Hằng Sống.
+
+Hỡi muôn dân muôn nước 
+Chúng ta được sinh ra 
+Trao ban với Thiên Chúa 
+Đấng vẫn đang trao ban: 
+Con tim dẫn dắt ta 
+Bằng Thần Khí yêu thương 
+Của Giêsu Hằng Sống.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
@@ -10846,23 +10880,39 @@ Ha-lê-lui-a.
 <strong>X</strong> 
 <strong>Đ</strong> 
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> 1Cr 2,1-16
+<strong>Sự Khôn ngoan của Thiên Chúa
+Trích thư thứ nhất của thánh Phaolô gửi tín hữu Cô-rin-tô </strong>
+      Thưa anh em, khi tôi đến với anh em, tôi đã không dùng lời lẽ hùng hồn hoặc triết lý cao sâu mà loan báo mầu nhiệm của Thiên Chúa. Vì hồi còn ở giữa anh em, tôi đã không muốn biết đến chuyện gì khác ngoài Đức Giêsu Kitô, mà Đức Giêsu Kitô chịu đóng đinh vào thập giá. Vì thế, khi đến với anh em, tôi thấy mình yếu kém, sợ sệt và run rẩy. Tôi nói, tôi giảng mà chẳng có dùng lời lẽ khôn khéo hấp dẫn, nhưng chỉ dựa vào bằng cớ xác thực của Thần Khí và quyền năng Thiên Chúa. Có vậy, đức tin của anh em mới không dựa vào lẽ khôn ngoan người phàm, nhưng dựa vào quyền năng Thiên Chúa.
+      Thế mà điều chúng tôi giảng dậy cho các tín hữu trưởng thành cũng là một lẽ khôn ngoan, nhưng không phải là lẽ khôn ngoan của thế gian, cũng không phải là của các thủ lãnh thế gian này, là những kẻ sớm nuộn gì cũng phải diệt vong. Trái lại, chúng tôi giảng dậy lẽ khôn ngoan nhiệm mầu của Thiên Chúa đã được giữ bí mật, lẽ khôn ngoan mà Thiên Chúa đã tiền định từ trước muôn đời, cho chúng ta được vinh hiển. Không một ai trong các thủ lãnh thế gian này đã được biết lẽ khôn ngoan ấy, vì nếu biết, họ đã chẳng đóng đinh Đức Chúa hiển vinh vào thập giá. Nhưng, như đã chép: Điều mắt chẳng hề thấy, tai chẳng hề nghe, lòng người không hề nghĩ tới, đó lại là điều Thiên Chúa đã dọn sẵn cho những ai yêu mến người.
+      Còn chúng ta, chúng ta đã được Thiên Chúa mạc khải, nhờ Thần khí. Thật vậy, Thần Khí thấu suốt mọi sự, ngay cả những gì sâu thẳm nơi Thiên Chúa. Vậy ai trong loài người biết được những gì nơi con người, nếu không phải là thần trí của con người trong con người? Cũng thế, không ai biết được gì nơi Thiên Chúa, nếu không phải là Thần khí của Thiên Chúa. Phần chúng ta, chúng ta đã không lãnh nhận thần trí của thế gian, nhưng là Thần Khí phát xuất từ Thiên Chúa, để nhận biết những ân huệ Thiên Chúa ban cho chúng ta. Để nói về những điều đó, chúng tôi không dùng lời lẽ đã học được nơi trí khôn ngoan của loài người, nhưng dùng những lời lẽ học được nơi Thần Khí; chúng tôi dùng lời lẽ Thần Khí linh ứng để diễn tả thực tại thuộc về Thần Khí. Con người sống theo tính tự nhiên thì không đón nhận những gì của Thần Khí Thiên Chúa, vì cho đó là sự điên rồ; họ không thể biết được, bởi vì phải nhờ Thần Khí mới có thể xét đoán. Nhưng con người sống theo Thần Khí thì xét đoán được mọi sự, mà chẳng có ai xét đoán được người đó Thật vậy, ai đã biết tư tưởng của Chúa, để chỉ vẽ cho Người? Còn chúng tôi, chúng tôi biết được tư tưởng của Đức Kitô.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Tất cả những gì Thiên Chúa
+đã chuẩn bị cho những ai yêu mến Người, 
+thì Người đã mạc khải cho chúng ta nhờ Thần Khí.
+* Điều bí mật của Thiên Chúa
+được giao phó cho những ai kính sợ Người, 
+giao ước của Người được bày tỏ cho họ.
+<strong>X</strong> Tôi đã không muốn biết gì nơi anh em ngoài Đức Giêsu Kitô, 
+mà Đức Giêsu chịu đóng định. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong> Anh em là những người chủ cuộc sống tôi
+Đoạn trích một bài giảng của thánh Giút-ti-nô Gia-cô-bi</strong>
+      Miệng là cửa của cõi lòng, lời nói là chìa khóa của cõi lòng. Khi tôi mở miệng nói, tôi mở cửa cõi lòng tôi. Khi tôi nói với anh em, tôi trao cho anh em chìa khóa cõi lòng tôi. Hãy đến xem...Trong lòng tôi, Thánh Thần đã làm nảy sinh một tình yêu lớn lao dành cho các kitô hữu xứ E-thi-ô-pi (Ethiopie). Lúc tôi còn ở quê tôi; còn ở quê nhà mà tôi đã biết ở nước E-thi-ô-pi có các kitô hữu và tôi đã thưa với bố mẹ tôi: “Bố ơi, xin bố chúc phúc cho con; mẹ ơi, xin mẹ chúc phúc cho con vì con muốn ra đi, con muốn đi gặp các anh em quí yêu của con ở A-být-si-ni (Abyssinie). Con muốn đến đó với các kitô hữu này rằng con yêu họ nhiều lắm".
+      Thiên Chúa đã nhậm lời tôi; Thiên Chúa đã gìn giữ tôi khỏi chết, cho tôi gặp được những kitô thân thương ở A-být-si-ni. Bây giờ, tôi đã gặp anh em, bây giờ tôi biết anh em, bây giờ tôi thỏa lòng; bây giờ, lạy Thiên Chúa của con, con chúc tụng Chúa và con thưa cùng Chúa: nếu đẹp lòng Chúa, con xin được chết, vì bây giờ, con đang hạnh phúc. Nếu Chúa cho tôi một ngày, hai ngày, bao nhiêu ngày sống thì tôi phải sống cho anh em, vì Chúa đã cho tôi những ngày tháng sống là để sống cho anh em. Anh em là những người chủ cuộc sống tôi, bởi Chúa ban cho tôi cuộc sống này vì anh em. Nếu anh em cần máu tôi, hãy đến, hãy cắt mở mạch máu ra, cho chảy hết ra. Nó hoàn toàn thuộc về anh em; anh em là những chủ nhân; tôi bằng lòng chết do tay anh em. Nếu anh em không muốn ban cho tôi cái chết cách này mà tôi ước muốn, thì cả cuộc sống còn lại của tôi, tôi muốn sống vì anh em. Nếu anh em buồn phiền, tôi sẽ đến an ủi anh em nhân danh Đức Giêsu Kitô. Nếu anh em mình trần tôi sẽ cho anh em áo mặc.
+      Nếu anh em đói, tôi sẽ cho anh em ăn bánh của tôi; nếu anh em đau ốm, tôi sẽ đến thăm anh em. Nếu anh em muốn tôi dạy cho anh em những gì ít ỏi mà tôi biết, tôi sẽ hết sức vui lòng dạy anh em. Trên đất này, tôi không còn cha, không còn mẹ, không còn quê hương nào nữa. Chỉ còn Thiên Chúa, chỉ còn dân kitô giáo A-bys-si-ni. Lòng này thuộc về ai? Thuộc về Thiên Chúa và dân kitô giáo A- bys-si-ni. Giờ đây, chính anh em là bạn hữu, là anh chị em, là cha là mẹ của tôi. Ước gì các kitô hữu E-thi-ô-pi thấy được những gì trong trái tim tôi: là Thiên Chúa và dân kitô giáo E-thi-ô-pi. Tôi sẽ luôn làm những gì làm anh em hài lòng. Anh em muốn tôi ở lại xứ này? Tôi sẽ ở lại. Anh em muốn tôi đi khỏi đây? Tôi sẽ đi. Anh em muốn tôi thinh lặng? Tôi sẽ thinh lặng. Tôi làm linh mục vì anh em, ngồi tòa vì anh em, vì anh em tôi làm người rao giảng. Anh em muốn tôi dâng lễ? Tôi sẽ dâng.. Anh em không muốn? Tôi sẽ không dâng..Anh em muốn tôi giải tội? Tôi sẽ giải tội. Anh em không muốn tôi giảng? Tôi sẽ không giảng. Tôi đã nói với anh em, giờ đây anh em biết tôi là ai. Giờ đây, tôi đã mở trái tim tôi cho anh em xem, tôi đã giao chìa khóa trái tim tôi cho anh em. Giờ đây, anh em biết tôi là ai. Nếu anh em hỏi vậy tôi là ai? Tôi trả lời: “ là một kitô hữu Rôma yêu quí các kitô hữu A-bys-si-ni”. Nếu có ai hỏi anh em: “Người nước ngoài này là ai?”. Hãy trả lời: “một kitô hữu Rôma yêu quí các kitô hữu E-thi-ô-pi hơn cả mẹ cha mình vì người đó đã bỏ bạn bè, bà con, anh em ruột thịt, cha, mẹ để đến đây gặp chúng ta, để cho chúng ta biết tình yêu của người ấy”.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Xin Thiên Chúa, Cha chúng ta, 
+gìn giữ anh em tỉnh thức 
+chờ ngày Quang Lâm của Chúa Chúng ta, 
+Đức Giêsu Kitô cùng với các thánh của Người.
+* Phúc thay cho những ai nghe và tuân giữ lời Chúa.
+<strong>X</strong> Ước gì Chúa cho anh em tăng triển và dồi dào tình huynh đệ. *
 
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã muốn cho thánh Giám mục Giút- ti-nô trở thành tất cả cho mọi người để đem Tin Mừng đến nước E-thi-ô-pi. Xin Chúa cho chúng con, nhờ lời ngài chuyển cầu, biết công bố Tin Mừng và qui tụ các dân tộc trong sự hiệp nhất của đức tin.
      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
@@ -10897,7 +10947,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúng con ngợi khen Chúa, lạy Chúa Giêsu, 
+đấng chăn dắt và hướng dẫn chúng con.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -10934,18 +10985,68 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúng con ngợi khen Chúa, lạy Chúa Giêsu, 
+đấng chăn dắt và hướng dẫn chúng con.
+
 <strong>Thánh thi</strong>
+Không ai làm môn đệ 
+Mà không làm Tôi tớ 
+Không ai là ánh sáng 
+Mà không có tình yêu.
+
+Nhờ tình yêu khôn tả 
+Ta nhận diện ra Người 
+Thiên Chúa trong anh em 
+Trong khắp cả vũ hoàn.
+
+Không ai biết an ủi 
+Nếu chưa từng đau khổ 
+Không ai biết làm chứng 
+Nếu chưa sống Lời Ngài.
+
+Trong Lời Ngài muôn thuở 
+Ta tìm thấy niềm vui 
+Khi cảm thấy cô đơn 
+Lời Ngài luôn an ủi.
+
+Không ai biết dịu dàng 
+Nếu chưa từng thương tổn 
+Không ai biết thứ tha 
+Nếu chưa từng yếu đuối.
+
+Sự yếu đuối miên trường 
+Đưa ta vào vòng tay 
+Đấng đã bị đâm thâu 
+Treo thân trên thập giá.
+
+Không ai nói lên được 
+Sự điên rồ Sứ Điệp 
+Nếu không tự hiến mình 
+Cho đến cuối hành trình.
+
+Không ai là hạt giống 
+Nếu chưa từng gieo vãi. 
+Không có thời giặt hái 
+Nếu không có vùi chôn.
+
+Những ai là tông đồ 
+Điều phải là hạt giống 
+Hạt giống phải thối đi 
+Để sinh nhều hoa trái.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1 Tx 2,8-9.11-13
+      Chúng tôi đã quí mến anh em, đến nỗi sẵn sàng hiến cho anh em, không những Tin Mừng của Thiên Chúa, mà cả mạng sống của chúng tôi nữa, vì anh em đã trở nên những người thân yêu của chúng tôi. Thưa anh em, hẳn anh em còn nhớ nỗi khó nhọc vất vả của chúng tôi: đêm ngày chúng tôi đã làm việc để khỏi thành gánh nặng cho một người nào trong anh em, suốt thời gian chúng tôi loan báo Tin Mừng của Thiên Chúa cho anh em. Anh em biết: chúng tôi đã cư xử với mọi người trong anh em như cha với con; chúng tôi đã khuyên nhủ, khích lệ, van nài anh em sống xứng đáng với Thiên Chúa, Đấng kêu gọi anh em vào Nước của Người và chia sẻ vinh quang với Người,
+      Bởi thế, về phần chúng tôi, chúng tôi không ngừng tạ ơn Thiên Chúa, vì khi chúng tôi nói cho anh em Lời Thiên Chúa, anh em đã đón nhận, không phải như lời người phàm, nhưng như lời Thiên Chúa, đúng theo bản tính của lời ấy, Lời đó tác động nơi anh em là những tín hữu.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Chúa là đường, là sự thật, là sự sống.
+* Lạy Chúa Giêsu, Con Thiên Chúa!
+<strong>X</strong> Ai muốn thấy Chúa Cha đều phải qua Chúa. Chúa dẫn người ấy đi tới niềm vui không suy giảm. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> “Thầy là Đường, là Sự Thật và là Sự Sống, 
+không ai đi đến cùng Cha mà không qua Thầy”.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -10984,11 +11085,21 @@ Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
+<strong>ĐC</strong> “Thầy là Đường, là Sự Thật và là Sự Sống, 
+không ai đi đến cùng Cha mà không qua Thầy”.
+
 <strong>Lời cầu</strong>
+      Nhờ các môn đệ Chúa Giêsu và quyền năng Chúa Thánh Thần, Tin Mừng đã lan rộng khắp địa cầu, chúng ta hãy tạ ơn Chúa vì Ân ban chính Con Yêu dấu của Người:
+      <i>Chúng con chúc tụng Chúa đến muôn đời. </i>
+      “Miệng là cửa tâm hồn, lời nói là chìa khóa tâm hồn". Theo gương thánh Giút-ti-nô Gia-cô-bi, <i>- xin Chúa sai chúng con đi trên mọi nẻo đường thế gian, để loan báo Lời Chân lý Chúa cho loài người thời đại này. </i>
+      “Anh em là chủ đời tôi, chính Chúa đã cho tôi đời sống này vì anh em”. Theo gương thánh Giút-ti-nô Gia-cô- bi, <i>- xin Chúa làm cho chúng con trở thành tôi tớ tình yêu Chúa để chúng con là “tất cả cho mọi người”. </i>
+      “Chỉ có Chúa ở lại với tôi và người Kitô hữu A-být-si- ni”. Theo gương thánh Giút-ti-nô Gia-cô-bi, <i>- xin Chúa đến cư ngụ trong đời sống chúng con, để chúng con xứng đáng được gọi là “con cái Chúa”. </i>
+      “Nếu anh em bị đói, tôi sẽ đến an ủi anh em nhân danh Đức Giêsu Kitô”. Theo gương thánh Giút-ti-nô Gia- cô-bi, <i>- xin Chúa dẫn chúng con đến với các anh chị em nghèo nhất để nơi họ và với họ chúng con có thể ngợi khen Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã muốn cho thánh Giám mục Giút- ti-nô trở thành tất cả cho mọi người để đem Tin Mừng đến nước E-thi-ô-pi. Xin Chúa cho chúng con, nhờ lời ngài chuyển cầu, biết công bố Tin Mừng và qui tụ các dân tộc trong sự hiệp nhất của đức tin.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -11074,13 +11185,16 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
-<strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>Lời Chúa</strong> 1V 8,60-61
+      Mọi dân trên mặt đất sẽ nhìn nhận ĐỨC CHÚA chính là Thiên Chúa, không có Chúa nào khác. Các ngươi phải hết lòng với ĐỨC CHÚA, Thiên Chúa chúng ta, mà bước đi theo các giới răn và tuân giữ các mệnh lệnh của Người như ngày hôm nay.
+
+<strong>Xướng đáp</strong> 
+<strong>X</strong> Lạy Chúa, xin tỏ cho con đường lối Chúa.
+<strong>Đ</strong> Xin dẫn con đi theo chân lý Ngài.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã muốn cho thánh Giám mục Giút- ti-nô trở thành tất cả cho mọi người để đem Tin Mừng đến nước E-thi-ô-pi. Xin Chúa cho chúng con, nhờ lời ngài chuyển cầu, biết công bố Tin Mừng và qui tụ các dân tộc trong sự hiệp nhất của đức tin.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -11119,15 +11233,37 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Bạn nói ngôn ngữ nào 
+Bạn thuộc sắc tộc nào 
+Dù giọng nói không hay 
+Dù nét mặt không đẹp.
+
+Nếu là người công chính 
+Luôn sống trong tình yêu 
+Thì Chúa sẽ cho bạn 
+Được nghĩa thiết với Ngài.
+
+Chúa ban cho chúng ta 
+Được làm bạn với Ngài 
+Người cũng cho chúng ta 
+Được tràn đầy niềm vui.
+
+Ta không thể yêu Chúa 
+Nếu Chúa không yêu ta 
+Ta không thể chọn Ngài 
+Nếu Ngài không chọn ta.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1 Cr 2, 6-9
+      Thế mà điều chúng tôi giảng dạy cho các tín hữu trưởng thành cũng là một lẽ khôn ngoan, nhưng không phải là lẽ khôn ngoan của thế gian, cũng không phải của các thủ lãnh thế gian này, là những kẻ sớm muộn gì cũng phải diệt vong. Trái lại, chúng tôi giảng dạy lẽ khôn ngoan nhiệm mầu của Thiên Chúa đã được giữ bí mật, lẽ khôn ngoan mà Thiên Chúa đã tiền định từ trước muôn đời, cho chúng ta được vinh hiển. Không một ai trong các thủ lãnh thế gian này đã được biết lẽ khôn ngoan ấy, vì nếu biết, họ đã chẳng đóng đinh Đức Chúa hiển vinh vào thập giá. Nhưng, như đã chép: Điều mắt chẳng hề thấy, tai chẳng hề nghe, lòng người không hề nghĩ tới, đó lại là điều Thiên Chúa đã dọn sẵn cho những ai yêu mến Người.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Chúa chúng ta thật là vĩ đại,
+* quyền năng Ngài thật lớn lao.
+<strong>X</strong> Trí khôn Chúa sao đo lường được. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> Ai làm theo sự thật thì đến với ánh sáng,
+việc làm của họ là việc làm của Chúa.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -11161,11 +11297,22 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong> Ai làm theo sự thật thì đến với ánh sáng,
+việc làm của họ là việc làm của Chúa.
+
 <strong>Lời cầu</strong>
+      Lạy Chúa, với lòng thương xót của Chúa, Chúa cho con cái Chúa ngợi khen và chúc tụng Chúa để mừng kính người tôi tớ Chúa là thánh Giút-ti-nô Gia-cô-bi:
+      <i>Xin Chúa thương xót chúng con</i>
+      Cảm tạ Chúa, lạy Chúa, về lời chứng của các tôi tớ thừa sai truyền giáo của Chúa, <i>- xin Chúa thứ tha cho chúng con, vì thiếu dũng cảm chúng con xa cách gương các ngài. </i>
+      Chúc tụng Chúa, lạy Chúa, về những người đang làm việc phục vụ anh chị em túng thiếu, <i>- xin Chúa đừng để chúng con có những lo sợ có thể có đối với họ. </i>
+      Cảm tạ Chúa, lạy Chúa, về Tình Yêu Chúa đưa vào thế gian qua Hội Thánh Chúa, <i>- xin Chúa thứ tha cho chúng con, việc thiếu đức tin ngăn cản chúng con làm chứng thật sự. </i>
+      Chúc tụng Chúa, lạy Chúa, về Chúa Thánh Thần Đấng thánh hiến chúng con trong ánh sáng, <i>- xin Chúa đẩy xa chúng con những tối tăm đóng kín tâm hồn chúng con với Sự Sống. </i>
+      Cảm tạ Chúa, lạy Chúa, về các anh chị em đã đi vào sứ mạng thiên quốc, <i>- xin Chúa đừng nhìn các lỗi lầm của họ, nhưng hãy nhìn đến đức tin của Hội Thánh Chúa và đón nhận họ vào Nước Chúa. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã muốn cho thánh Giám mục Giút- ti-nô trở thành tất cả cho mọi người để đem Tin Mừng đến nước E-thi-ô-pi. Xin Chúa cho chúng con, nhờ lời ngài chuyển cầu, biết công bố Tin Mừng và qui tụ các dân tộc trong sự hiệp nhất của đức tin.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
