@@ -11737,10 +11737,17 @@ dẫn ta bước vào đường nẻo bình an.
 Ai tin Thầy, cho dù chết đi, cũng sẽ sống”
 
 <strong>Lời cầu</strong>
+      Vì chân phứơc Ghê-brê Mi-ca-e, chứng nhân của tình yêu lớn nhất, chúng ta hãy dâng lên Đức Kitô lời ngợi khen của chúng ta:
+      <i>Lạy Chúa Giêsu, vinh danh và ngợi khen Chúa! </i>
+      Ngài đã yêu mến Chúa hơn cả mạng sống mình, <i>- cái chết của ngài, ngài đã làm thành lễ vật. </i>
+      Ngài đã nhận ra Chúa trước mặt các quan tòa, <i>- với sức mạnh của Thánh Thần, ngài thách thức sự bất công. </i>
+      Ngài đã theo Chúa đến tận thập giá, <i>- chiến thắng của Chúa, ngài là chứng nhân. </i>
+      Ngài đã tin vào lời Chúa hứa, <i>- vinh quang Chúa, ngài hướng mắt nhìn. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, với lòng thương xót, Chúa đã hướng dẫn chân phước Tử đạo Ghê-brê Mi-ca-e đến chỗ nhận biết đức tin chân thật, và Chúa đã ban cho ngài một lòng can đảm đáng khâm phục để làm chứng cho Chúa. Nhờ công nghiệp và lời chuyển cầu của ngài, xin Chúa ban cho tất cả các quốc gia được nhận biết Chúa, Thiên Chúa thật duy nhất, và Đấng được Chúa sai đến, Đức Giêsu Kitô, Con Chúa, Chúa chúng con. Người hằng sống...
+
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -11826,12 +11833,15 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1V 2,2b-3
+      Con hãy can đảm lên, và sống cho xứng bậc nam nhi. Hãy tuân giữ các huấn lệnh của Đức Chúa, Thiên Chúa của con, mà đi theo đường lối của Người, là giữ các giới răn, mệnh lệnh, luật pháp, và chỉ thị của Người, (như đã ghi trong luật Môisê). Như thế con sẽ thành công trong mọi việc con làm và trong mọi hướng con đi.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Lạy Chúa, xin dẫn con theo đường thánh ý Ngài,
+<strong>Đ</strong> Luật pháp Ngài làm con vui thỏa.
 
 <strong>Lời nguyện</strong>
+      Lạy Chúa, với lòng thương xót, Chúa đã hướng dẫn chân phước Tử đạo Ghê-brê Mi-ca-e đến chỗ nhận biết đức tin chân thật, và Chúa đã ban cho ngài một lòng can đảm đáng khâm phục để làm chứng cho Chúa. Nhờ công nghiệp và lời chuyển cầu của ngài, xin Chúa ban cho tất cả các quốc gia được nhận biết Chúa, Thiên Chúa thật duy nhất, và Đấng được Chúa sai đến, Đức Giêsu Kitô, Con Chúa, Chúa chúng con. Người hằng sống...
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -11871,15 +11881,32 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Niềm vui của Chúa chẳng hề qua 
+Tất cả thành hy vọng chan hòa 
+Từ khi Con Người trên thập giá 
+Phó dâng niềm tin tưởng nơi Cha.
+
+Không thiếu chứng nhân ở khắp nơi 
+Những niềm vui ấy trải bao đời 
+Và khi Hội Thánh vui nhớ tới 
+Bao chứng nhân khác ở chân trời.
+
+Sứ điệp hạnh phúc duy có một 
+Bao cuộc đời đã biết lộ ra 
+Khuôn mặt Đức Kitô duy nhất
+Bao thánh nhân đã phản chiếu qua.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 1Ga 3,2-3
+      Anh em thân mến, hiện giờ chúng ta là con Thiên Chúa; nhưng chúng ta sẽ như thế nào, điều ấy chưa được bày tỏ. Chúng ta biết rằng khi Đức Kitô xuất hiện, chúng ta sẽ nên giống như Người, vì Người thế nào, chúng ta sẽ thấy như vậy. Phàm ai đặt hy vọng như thế vào Đức Kitô, thì làm cho mình nên thanh sạch như Người là Đấng Thanh Sạch.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Một hạnh phúc bất tận sẽ chiếu sáng khuôn mặt họ.
+* Halêluia, Halêluia!
+<strong>X</strong> Không còn chết chóc, cũng không còn than khóc không còn tiếng la, cũng không còn đau khổ. Tâm hồn họ hỉ hoan vui sướng. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> “Không có hạnh phúc nào lớn hơn 
+hạnh phúc trở nên niềm vui của Chúa”
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -11913,10 +11940,21 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong> “Không có hạnh phúc nào lớn hơn 
+hạnh phúc trở nên niềm vui của Chúa”
+
 <strong>Lời cầu</strong>
+      Chúng ta hãy cầu xin Chúa Giêsu, Đấng Phục Vụ, Người đã ban cho chúng ta lời chứng tốt đẹp nhất trong ngày lễ kính chân phước Ghê-brê Mi-ca-e.
+      <i>Chúa đã chiến thắng sự chết, xin nghe lời chúng con cầu xin. </i>
+      Lạy Chúa, Chúa đã sai Thần Khí ánh sáng của Chúa xuống trên chân phước Ghê-brê Mi-ca-e, và Chúa làm cho ngài trở thành chứng nhân chân lý của Chúa, <i>- xin Chúa soi sáng những ai đang phải xác tín lại đức tin của mình. </i>
+      Lạy Chúa, Chúa đã sai Thần Khí sức mạnh của Chúa xuống trên chân phước Ghê-brê Mi-ca-e, và ngài đã kiên vững cho đến chết, <i>- xin Chúa củng cố những ai phải chiến đấu vì đức tin của mình. </i>
+      Lạy Chúa, Chúa đã sai Thần Khí tình yêu của Chúa xuống trên chân phước Ghê-brê Mi-ca-e, và ngài đã cho Chúa lời chứng tốt đẹp nhất của tình yêu, <i>- xin Chúa ôm vào lòng Chúa những ai phải đau khổ vì Chúa. </i>
+      Lạy Chúa, Chúa đã sai Thần Khí nhiệt thành của Chúa xuống trên chân phước Ghê-brê Mi-ca-e, và máu ngài đã làm cho Hội Thánh Chúa trở nên phì nhiêu, <i>- xin Chúa làm phấn khởi những ai loan báo Tin Mừng của Chúa. </i>
+      Lạy Chúa, Chúa đã sai Thần Khí bình an của Chúa xuống trên chân phước Ghê-brê Mi-ca-e, và ngài đã hy sinh mạng sống vì bạn hữu mình, <i>- xin Chúa đón nhận những anh chị em đã qua đời, mà chỉ có Chúa mới biết lòng tin của họ. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, với lòng thương xót, Chúa đã hướng dẫn chân phước Tử đạo Ghê-brê Mi-ca-e đến chỗ nhận biết đức tin chân thật, và Chúa đã ban cho ngài một lòng can đảm đáng khâm phục, để làm chứng cho Chúa. Nhờ công nghiệp và lời chuyển cầu của ngài, xin Chúa ban cho tất cả các quốc gia được nhận biết Chúa, Thiên Chúa thật duy nhất, và Đấng được Chúa sai đến, Đức Giêsu Kitô, Con Chúa, Chúa chúng con. Đấng...
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
