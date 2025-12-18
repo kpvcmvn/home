@@ -26045,15 +26045,10 @@ All-powerful God keep us united with your Son in his death and burial so that we
 
               en: `
 Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the virtue that he developed during his life as a priest serving You in the poor.
-
 St. Vincent de Paul, you began your path to the priesthood at a young age. Even though you were not immediately drawn to reach for holiness in this vocation, you opened yourself up to God’s will and learned how to serve Him worthily. Pray that I can do the same.
-
 You remained faithful to your vocation as a priest your whole life, even though you initially only sought a comfortable lifestyle from it. Later in your life, you answered God’s call to serve Him in a particular way through the poor.
-
 Pray for me, that I may serve God as worthily as I can, in whatever manner He calls me to.
-
 Please also pray for (mention your intentions here).
-
 St. Vincent de Paul, pray for us!
 
       `,   
@@ -26092,19 +26087,13 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the openness to Your will that he showed when he realized that You were calling him to serve the poor in a particular way.
-
-St. Vincent de Paul, you began your life as a priest with little more ambition than to live comfortably and provide for your family members. You did not immediately begin looking for ways to serve God more deeply.
-
-I see how I’ve done this in my life as well… Please pray that God helps me to overcome my desire to simply live a comfortable life.
-
-When you saw firsthand the plight of the poor as you worked among them on the Gondi estate, you realized that God was calling you to serve these poor. Rather than run away from this call, you threw yourself into it wholeheartedly, even organizing others to join you in this service.
-
-Pray for me, that I may respond as wholeheartedly to God’s call in my life as you did. Pray that I will see who God wants me to serve, and that I will follow-through.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the openness to Your will that he showed when he realized that You were calling him to serve the poor in a particular way.
+      St. Vincent de Paul, you began your life as a priest with little more ambition than to live comfortably and provide for your family members. You did not immediately begin looking for ways to serve God more deeply.
+      I see how I’ve done this in my life as well… Please pray that God helps me to overcome my desire to simply live a comfortable life.
+      When you saw firsthand the plight of the poor as you worked among them on the Gondi estate, you realized that God was calling you to serve these poor. Rather than run away from this call, you threw yourself into it wholeheartedly, even organizing others to join you in this service.
+      Pray for me, that I may respond as wholeheartedly to God’s call in my life as you did. Pray that I will see who God wants me to serve, and that I will follow-through.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
 
       `,   
                 }},
@@ -26140,17 +26129,12 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love for You that he showed by bringing others into his efforts to serve You in the poor.
-
-St. Vincent de Paul, you are well-known for the work you did to serve the poor. But you helped those who were blessed with material wealth as well. You helped the wealthy by bringing them into your service to the poor, that they might have the opportunity to gain heavenly reward by their charity.
-
-You knew that the poor would be best served if you enlisted the help of others. You organized societies for service to the poor that are still running today.
-
-Pray for me, that I may always be ready to put my gifts into God’s service. Pray that I may also not be afraid to invite others into Your service.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love for You that he showed by bringing others into his efforts to serve You in the poor.
+      St. Vincent de Paul, you are well-known for the work you did to serve the poor. But you helped those who were blessed with material wealth as well. You helped the wealthy by bringing them into your service to the poor, that they might have the opportunity to gain heavenly reward by their charity.
+      You knew that the poor would be best served if you enlisted the help of others. You organized societies for service to the poor that are still running today.
+      Pray for me, that I may always be ready to put my gifts into God’s service. Pray that I may also not be afraid to invite others into Your service.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
       `,   
                 }},
 { id: 'day4', title: { 
@@ -26184,19 +26168,13 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the deep charity he lived out in devoting his life to serving You in the poor.
-
-St. Vincent de Paul, you did not begin your life as a priest knowing that you were called to serve the poor in a special way. But after you saw firsthand what a great need there was for help to the poor in your society, you devoted your life to this service.
-
-Pray that I may see where there is great need around me, and that I may serve how and where I am needed.
-
-You saw that the less fortunate needed material help of many kinds. And you answered God’s call to establish charitable organizations and hospitals to carry out that help.
-
-Please pray for me, that I may always be conscious of the needs of those who are less fortunate than I am.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the deep charity he lived out in devoting his life to serving You in the poor.
+      St. Vincent de Paul, you did not begin your life as a priest knowing that you were called to serve the poor in a special way. But after you saw firsthand what a great need there was for help to the poor in your society, you devoted your life to this service.
+      Pray that I may see where there is great need around me, and that I may serve how and where I am needed.
+      You saw that the less fortunate needed material help of many kinds. And you answered God’s call to establish charitable organizations and hospitals to carry out that help.
+      Please pray for me, that I may always be conscious of the needs of those who are less fortunate than I am.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
 
 
       `,   
@@ -26236,20 +26214,14 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love of You that he lived out as he served You in the poor around him.
-
-St. Vincent de Paul, you saw firsthand that the poor in your society were in great need of help. Even though you did not set out at the beginning of your priesthood to be a servant of the poor, you responded generously when you realized that God was calling you to this service.
-
-Pray that I may respond generously to whatever God is calling me to do.
-
-You did all you could to help meet the needs of those suffering from poverty. You even organized others to join you in the effort to alleviate the sufferings of the poor. And you carried out this work for the love of God.
-
-Pray for me, that I may serve God first in whatever work I may do in my life.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
-      `,   
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love of You that he lived out as he served You in the poor around him.
+      St. Vincent de Paul, you saw firsthand that the poor in your society were in great need of help. Even though you did not set out at the beginning of your priesthood to be a servant of the poor, you responded generously when you realized that God was calling you to this service.
+      Pray that I may respond generously to whatever God is calling me to do.
+      You did all you could to help meet the needs of those suffering from poverty. You even organized others to join you in the effort to alleviate the sufferings of the poor. And you carried out this work for the love of God.
+      Pray for me, that I may serve God first in whatever work I may do in my life.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
+            `,   
                 }},
 { id: 'day6', title: { 
               vi: 'Ngày thứ sáu: Đức Giêsu Cư Ngụ Trên Đường Phố Của Chúng Ta',
@@ -26283,19 +26255,13 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the deep charity he lived out in his work and dedication to the poor.
-
-St. Vincent de Paul, you saw that there were many needs to be met among the poor in your society. Though you did not initially intend to devote your life to serving these poor, you responded readily when God called you to a life of charitable service.
-
-Pray that I may be as open as you were to the will of God.
-
-The many deep needs you saw must have seemed daunting, but you did not hesitate or fear to dive into your new mission. Instead, you wholeheartedly began serving God by working to meet the needs of your poor brothers and sisters.
-
-Pray for me, that I may be charitable towards those in need as you were.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the deep charity he lived out in his work and dedication to the poor.
+      St. Vincent de Paul, you saw that there were many needs to be met among the poor in your society. Though you did not initially intend to devote your life to serving these poor, you responded readily when God called you to a life of charitable service.
+      Pray that I may be as open as you were to the will of God.
+      The many deep needs you saw must have seemed daunting, but you did not hesitate or fear to dive into your new mission. Instead, you wholeheartedly began serving God by working to meet the needs of your poor brothers and sisters.
+      Pray for me, that I may be charitable towards those in need as you were.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
       `,   
                 }},
 { id: 'day7', title: { 
@@ -26331,19 +26297,13 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate St. Vincent’s love of You that he showed when he worked for reform and proper education among priests and seminarians.
-
-St. Vincent de Paul, you saw that the clergy in your time were not always acting in a holy and effective manner. When you saw that there were problems with abuse, laxity, and ignorance, you worked to improve these problems.
-
-St. Vincent, please pray for all of the priests in my life!
-
-Rather than remaining narrowly focused on your work among the poor, you put time and effort into work among the clergy and seminarians as well. You knew how instrumental holy priests were to the spread and strength of the faith.
-
-Pray for me, that I may be as dedicated to God as you were throughout all of your good works.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate St. Vincent’s love of You that he showed when he worked for reform and proper education among priests and seminarians.
+      St. Vincent de Paul, you saw that the clergy in your time were not always acting in a holy and effective manner. When you saw that there were problems with abuse, laxity, and ignorance, you worked to improve these problems.
+      St. Vincent, please pray for all of the priests in my life!
+      Rather than remaining narrowly focused on your work among the poor, you put time and effort into work among the clergy and seminarians as well. You knew how instrumental holy priests were to the spread and strength of the faith.
+      Pray for me, that I may be as dedicated to God as you were throughout all of your good works.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
       `,   
                 }},
 { id: 'day8', title: { 
@@ -26378,19 +26338,13 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the mastery of self and love of You that he showed by working to overcome his personal tendency toward anger and harshness.
-
-St. Vincent de Paul, you were not naturally inclined toward sympathy or gentleness. You were often tempted to give in to displays of anger toward others. Even those who considered you a friend readily admitted that you tended toward these faults.
-
-Pray that I may be humble in recognizing my faults and begging for God’s grace to improve.
-
-Despite these shortcomings in your nature, you worked to become kind-hearted and sympathetic. You allowed God’s grace to help you overcome your faults, and you served Him as faithfully as you could.
-
-Pray for me, that I may always seek God’s grace in overcoming my faults as you did.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the mastery of self and love of You that he showed by working to overcome his personal tendency toward anger and harshness.
+      St. Vincent de Paul, you were not naturally inclined toward sympathy or gentleness. You were often tempted to give in to displays of anger toward others. Even those who considered you a friend readily admitted that you tended toward these faults.
+      Pray that I may be humble in recognizing my faults and begging for God’s grace to improve.
+      Despite these shortcomings in your nature, you worked to become kind-hearted and sympathetic. You allowed God’s grace to help you overcome your faults, and you served Him as faithfully as you could.
+      Pray for me, that I may always seek God’s grace in overcoming my faults as you did.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
 
       `,   
                 }},
@@ -26427,17 +26381,12 @@ St. Vincent de Paul, pray for us!
       `, 
 
               en: `
-Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love of You that he lived out during his many good works toward the poor in his society.
-
-St. Vincent de Paul, you saw that the needs of the poor in your society were very great. You knew that God was calling you to serve these poor, and you dived into this task wholeheartedly. You even worked to organize others to help in the effort of serving the poor.
-
-Even today, societies dedicated to serving the poor in your memory still flourish. Assist the members of these societies to serve the poor for love of God.
-
-Pray for me, that I may always be conscious of the needs of my less fortunate brothers and sisters.
-
-Please also pray for (mention your intentions here).
-
-St. Vincent de Paul, pray for us!
+      Dear Lord, we thank You for giving us Your priest, St. Vincent de Paul, as an example of holiness. Help us to imitate the love of You that he lived out during his many good works toward the poor in his society.
+      St. Vincent de Paul, you saw that the needs of the poor in your society were very great. You knew that God was calling you to serve these poor, and you dived into this task wholeheartedly. You even worked to organize others to help in the effort of serving the poor.
+      Even today, societies dedicated to serving the poor in your memory still flourish. Assist the members of these societies to serve the poor for love of God.
+      Pray for me, that I may always be conscious of the needs of my less fortunate brothers and sisters.
+      Please also pray for (mention your intentions here).
+      St. Vincent de Paul, pray for us!
       `,   
                 }},
 
@@ -26474,7 +26423,7 @@ St. Vincent de Paul, pray for us!
           vi: 'Dự án này là một nỗ lực của tình yêu, được phát triển và duy trì bởi những người có lòng yêu mến di sản của Thánh Vinh Sơn Phaolô. Chúng tôi hy vọng bạn sẽ thấy nó hữu ích trong đời sống thiêng liêng của mình.',
           en: 'This project is a labor of love, developed and maintained by individuals passionate about the heritage of St. Vincent de Paul. We hope you find it useful in your spiritual life.'
       },
-      p4: { vi: 'Mọi ý kiến đóng góp xin vui lòng liên hệ với ban quản trị.', en: 'For any feedback or suggestions, please contact the administration.' },
+      p4: { vi: 'Mọi ý kiến đóng góp xin vui lòng liên hệ với Ban Truyền Thông.', en: 'For any feedback or suggestions, please contact the Communication.' },
       go_back: { vi: 'Quay Về', en: 'Go Back' }
     },
 };
