@@ -12196,31 +12196,69 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Như bình minh chiếu sáng muôn thụ tạo 
+Ánh sáng Chúa bừng cháy khuôn mặt ta 
+Như biển khơi lan truyền muôn con sóng 
+Sứ điệp Chúa truyền mãi qua sứ ngôn.
+
+Đức Chúa là Thiên Chúa của niềm vui 
+Là Thiên Chúa của muôn vàn ân sủng 
+Thiên Chúa là Cha giàu lòng nhân hậu 
+Người là Cha chúng ta, Cha muôn loài.
+
+Phúc thay dân nào quy tụ quanh Chúa 
+Dân tộc được hưởng niếm sự tự do 
+Nhờ ơn cứu chuộc của Máu Con Chiên 
+Phúc thay dân nào biết ca khen Chúa.
+
+Phúc thay dân nào được Người nhớ đến 
+Dân tộc đang lữ hành trên dương thế
+Theo dấu chân các vị thánh đã qua 
+Phúc thay dân nào biết ca khen Chúa.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tâm hồn chúng con đợi trông Chúa,
+<strong>Đ</strong> bởi Người luôn che chở phù trì.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Kn 3, 1-9
+<strong>Người Công Chính Ở Trong Tay Chúa
+Lời Chúa trong sách Khôn Ngoan </strong>
+      Linh hồn người công chính ở trong tay Thiên Chúa và chẳng cực hình nào động tới được nữa. Bọn ngu si coi họ như đã chết rồi; khi họ ra đi, chúng cho họ là gặp điều vô phúc. Lúc họ xa rời chúng ta, chúng tưởng là họ bị tiêu diệt, nhưng thực ra, họ đang hưởng bình an.
+      Người đời nghĩ rằng họ đã bị phạt, nhưng họ vẫn chứa chan hy vọng được trường sinh bất tử. Sau khi chịu sửa dạy đôi chút, họ sẽ được hưởng ân huệ lớn lao. Quả thế, Thiên Chúa đã thử thách họ và thấy họ xứng đáng với Người. Người đã tinh luyện họ như người ta luyện vàng trong lửa, và đón nhận họ như của lễ toàn thiêu. Khi đến giờ được Thiên Chúa viếng thăm, họ sẽ rực sáng như tia lửa bén nhanh khắp vùng sậy. Họ sẽ xét xử muôn dân, thống trị muôn nước. Và Đức Chúa sẽ là vua của họ đến muôn đời.
+      Những ai trông cậy vào Người, sẽ am tường sự thật; những ai trung thành, sẽ được Người yêu thương và cho ở gần Người, vì Người ban ân phúc và xót thương những ai Người tuyển chọn.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Thiên Chúa đã thử thách họ và thấy họ xứng đáng với Người.
+* Phúc cho những tấm lòng trong sạch:
+họ sẽ nhìn thấy Thiên Chúa.
+<strong>X</strong> Linh hồn những người công chính ở trong tay Chúa.
+Không cực hình nào động tới được họ.
+Vào ngày được Chúa viếng thăm, họ sẽ rực sáng, 
+Đức Chúa sẽ là vua của họ đến muôn đời. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Trước hết hãy tìm kiếm Nước Thiên Chúa
+Trích những bài nói chuyện của thánh Vinh Sơn. Coste XII, 131-132 & 145-146 </strong>
+      Kinh thánh nói: “Hãy tìm kiếm nước Thiên Chúa”. Tìm kiếm! Đó không chỉ là lời nói suông, nhưng dường như nó nói lên nhiều điều; Nó muốn bảo chúng ta bắt đầu làm sao luôn ao ước những điều nhắn bảo chúng ta; chuyên chăm làm việc không ngừng vì Nước Thiên Chúa, và chở ở lì trong cảnh ươn hèn và tù hãm; chú ý đến nội tâm mà chấn chỉnh lại, chớ đừng để ý vẻ bên ngoài mà vui chơi.
+      “Tìm kiếm”: Đó là nói đến quan tâm, nói đến hành động. Hãy tìm kiếm Chúa trong anh em, vì thánh Âu-gút- ti-nô thú nhận rằng khi ngài tìm kiếm Chúa bên ngoài mình thì ngài đã không tìm được. Hãy tìm kiếm Chúa trong tâm hồn anh em, là nơi ngự trị ưa thích của Chúa; đó là nền tảng cơ bản, mà các tôi tớ của Chúa muốn thực thi các nhân đức, đều phải xây dựng nó.
+      Phải có đời sống nội tâm, phải hướng về nó; thiếu đời sống nội tâm là thiếu tất cả... Thưa các cha, chúng ta hãy tìm trở về với đời sống nội tâm, tìm làm sao để Đức Giêsu Kitô ngự trị trong chúng ta; hãy tìm, chớ ở lì trong tình trạng bạc nhược hoặc phóng túng, trong tình trạng thế gian phàm tục, nó làm cho người ta chú tâm đến những sự xác thịt bày ra... không cầu nguyện để thoát những sự trần gian.
+      Hãy tìm kiếm vinh quang Thiên Chúa, hãy tìm kiếm vương quyền Đức Giêsu Kitô. Thế nên, Qui luật đã ghi: “Mỗi người hãy yêu thích những sự thiêng liêng hơn những sự trần gian, linh hồn hơn thân xác, Thiên Chúa hơn thế gian, và sau hết hãy chọn sự thiếu thốn, sự sỉ nhục, những khổ ải và ngay cả cái chết hơn bị tách khỏi Đức Giêsu Kitô”.
+      Khi ta ở trong những hoàn cảnh mà phải chọn sự thiêng liêng hay sự thế gian, thì phải chọn phần thiêng liêng và bỏ phần thế gian; đó là điều Chúa đòi chúng ta... Làm việc của Thiên Chúa hơn là việc của ta, yêu mến sự sống phần hồn hơn sự sống phần xác: Chính đó là việc làm cho Thiên Chúa ngự trong chúng ta. Thưa anh em, yêu quí linh hồn hơn thân xác...yêu quí vinh dự của Thiên Chúa hơn vinh dự trần gian: như thế là thuộc về nước Thiên Chúa. Hãy cam chịu chén đắng, hãy ôm lấy sự bối rối, với niềm tin nó sẽ trở nên tốt cho ta. Sau hết cùng với thánh Tông Đồ, chúng ta phải quyết tâm chọn những bách hại và cả cái chết, chứ không để bị tách khỏi tình yêu Thiên Chúa. Có thể xảy ra dịp đánh mất Đức Giêsu Kitô, hoặc chịu tù đày, hành hạ, lửa thiêu, chịu tử đạo; ôi những dịp hồng phúc đem lại phương thế làm cho Con Thiên Chúa ngự trị.
+      Thưa anh em, chúng ta hãy hiến mình cho Chúa, vì thánh danh Chúa tôi nài xin anh em, hãy hiến mình cho những gì đem lại cho chúng ta ơn yêu thích những khó nhọc, và ngay cả sự chết hơn sự nguy hại bất hạnh đánh mất tình yêu Chúa... Phải, lạy Chúa con.. Nếu xảy ra ta phải đánh mất danh dự, thú vui và sự sống để đức Giêsu Kitô được nhận biết và phụng sự, hằng sống và hiển trị khắp nơi, chúng ta hãy chuẩn bị, chúng ta hãy chuẩn bị nhờ lòng thương xót Chúa. Chúng ta hãy dâng trước hiến lễ này lên Chúa, dù tính tự nhiên phản đối; hãy tin tưởng rằng Thiên Chúa sẽ tăng sức cho chúng ta khi cần..
+      “Thầy sai các con đi như chiên vào giữa sói” (Mt 10, 16), Chúa chúng ta đã nói với các tông đồ như thế. Chúa không muốn các tông đồ chỉ nghĩ những câu trả lời phải nói trước mặt vua quan: “vì lúc đó, Chúa phán, các con sẽ được ban những điều phải nói”.
+      Thưa anh em, anh em chớ nghi ngờ Chúa cũng ở với anh em như vậy, để anh em nói và chịu đau khổ như những kitô hữu hoàn thiện. Hãy để Chúa làm, hãy chỉ nhìn thấy ý muốn tốt lành duy nhất và đáng mến của Chúa.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Hãy mặc lấy con người mới,
+được tạo dựng theo hình ảnh Chúa,
+trong công bình, trong sự thật thánh thiện.
+* Được sống lại với Đức Kitô, 
+chúng ta hãy tìm kiếm những sự trên trời.
+<strong>X</strong> Các bạn đã được tẩy rửa trong Đức Kitô là đã mặc lấy Đức Kitô. *
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Chúa, Chúa đã ban cho các chân phước tử đạo Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-nê một sức mạnh vô song, để tỏ hiện tình yêu các ngài đối với Hội Thánh, và bảo vệ các tự do của Hội Thánh; xin Chúa dạy chúng con, nhân hôm nay chúng con vui mừng cử hành cuộc khổ nạn vinh quang của các ngài, biết yêu mến Hội Thánh, Mẹ chúng con, và vững vàng công bố sứ điệp công bằng và chân lý của Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
@@ -12254,7 +12292,8 @@ Loading...
 <strong>Chủ sự</strong> Lạy Chúa Trời, xin mở miệng con,
 <strong>Cộng đoàn</strong> cho con cất tiếng ngợi khen Ngài.
 
-<strong>ĐC</strong>
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo, 
+nào ta hãy đến bái thờ Người.
 
 <strong><i>Tv 94 (95) </i> </strong>
 Hãy đến đây ta reo hò mừng Chúa,
@@ -12291,18 +12330,40 @@ chúng nào biết đến đường lối của Ta ! *
 Nên Ta mới thịnh nộ thề rằng :
 Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 
+<strong>ĐC</strong> Chúa là Vua các anh hùng tử đạo, 
+nào ta hãy đến bái thờ Người.
+
 <strong>Thánh thi</strong>
+Bạn hữu Chúa, hãy hân hoan tiến bước 
+Đám đông được mời, cành lá trong tay 
+Trước nhan thánh, hãy cùng nhau tập họp 
+Vì Người là thánh, Đấng Cao Cả quyền năng.
+
+Bạn hữu Chúa đầy vinh quang rực rỡ 
+Hãy tấu lên khúc nhạc thập huyền cầm 
+Chư thánh hiển vinh lòng đầy hoan hỉ 
+Hãy ca mừng Chúa hết dạ hết tâm.
+
+Bạn hữu Chúa, nghĩa tử Cha Chí Ai 
+Được thừa kế Vương Quốc Chúa hứa ban 
+Ngày qua ngày hãy tạ ơn mãi mãi 
+Trước ngai Chiên Thánh đã khải hoàn.
+
+Bạn hữu Chúa, dân được Cha thương chọn 
+Hãy hát lên bài ca mới vang lừng 
+Lòng hân hoan hãy cùng nhau chúc tụng: 
+Halêluia! Chúa cao cả muôn trùng.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 12,9-12
+      Lòng Bác Ái không được giả hình giả bộ. Anh em hãy gớm ghét điều dữ, tha thiết với điều lành, thương mến nhau với tình huynh đệ, coi người khác trọng hơn mình; nhiệt thành không trễ nải; lấy tinh thần sốt sắng mà phục vụ Chúa. Hãy vui mừng vì có niềm hy vọng, cứ kiên nhẫn lúc gặp gian truân và chuyên cần cầu nguyện.
 
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Xin Chúa hướng tâm hồn con về lời chứng của Chúa.
+* xin ban sức sống cho con bằng lời của Chúa.
+<strong>X</strong> Xin Chúa giữ gìn mắt con tránh những hình ảnh vô nghĩa. *
 <strong>Tc Tin Mừng</strong> “Chúc tụng Đức Chúa” (Benedictus)
-<strong>ĐC</strong> 
+<strong>ĐC</strong> "Vinh danh những ai, đã có phúc hoàn tất hy lễ của mình bằng cách chịu chết, vì một lý do hết sức cao đẹp”.
 
 Chúc tụng Đức Chúa là Thiên Chúa Ít-ra-en,
 Đã viếng thăm cứu chuộc dân Người.
@@ -12341,11 +12402,22 @@ Soi sáng những ai ngồi nơi tăm tối
 Và trong bóng tử thần,
 dẫn ta bước vào đường nẻo bình an.
 
+<strong>ĐC</strong> "Vinh danh những ai, đã có phúc hoàn tất hy lễ của mình bằng cách chịu chết, vì một lý do hết sức cao đẹp”.
+
 <strong>Lời cầu</strong>
+      Cùng với các chân phước Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-nê và các thánh tử đạo ở mọi thời đại, chúng ta hãy tạ ơn Chúa là Cha chúng ta.
+      <i>Chúng con tạ ơn Chúa, lạy Thiên Chúa chúng con. </i>
+      Vinh quang và danh dự cho những người nam nữ bị cầm tù vì đức tin, <i>- vì sức mạnh trong nghịch cảnh của các bạn Chúa, những chứng nhân trung thành của Hội Thánh. </i>
+      Vinh danh cho những kẻ bị lưu đày, cho những người biệt xứ vì Tin Mừng, <i>- vì ánh sáng rực rỡ của mầu nhiệm thập giá. </i>
+      Vinh danh những ai bị tra tấn, và mang trên thân xác các vết thương của Đức Giêsu Kitô, <i>- vì hồng ân phong phú của Chúa Thánh Thần. </i>
+      Vinh danh các vị tử đạo, vì tình yêu, hy sinh mạng sống cho bạn hữu mình, <i>- vì hạt lúa mì rơi vào lòng đất và các mùa gặt mai sau. </i>
+      Vinh danh những người nam nữ hoàn tất trong thân xác mình điều gì còn thiếu nơi sự đau đớn của Đức Kitô, cho Thân Thể của Người là Hội Thánh, <i>- vì ánh sáng đức tin đạt được bằng giá máu, và vì niềm vui phục vụ. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
-      
+      Lạy Chúa, Chúa đã ban cho các chân phước tử đạo Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-nê, một sức mạnh vô song để tỏ hiện tình yêu các ngài đối với Hội Thánh, và bảo vệ các tự do của Hội Thánh;
+      Xin Chúa dạy chúng con, nhân hôm nay chúng con vui mừng cử hành cuộc khổ nạn vinh quang của các ngài, biết yêu mến Hội Thánh, Mẹ chúng con, và vững vàng công bố sứ điệp công bằng và chân lý của Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
 <strong>Chủ sự</strong> Chúa ở cùng anh (chị) em.
@@ -12431,13 +12503,17 @@ Cậy nhờ Đức Ki-tô, Con Một Chúa,
 Tự ngàn xưa tới muôn đời muôn thuở.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> 2Tx 1,3b-5
+      Lòng tin của anh em đang phát triển mạnh, và nơi tất cả anh em, lòng yêu thương của mỗi người đối với người khác cũng gia tăng. Bởi thế chúng tôi hãnh diện về anh em trước mặt các Hội Thánh của Thiên Chúa, vì anh em kiên nhẫn và có lòng tin mỗi khi bị bắt bớ hay gặp cảnh gian truân. Đó là dấu cho thấy Thiên Chúa xét xử công minh: anh em sẽ được coi là xứng đáng tham dự Nước Thiên Chúa mà anh em chịu đau khổ.
+
 <strong>Xướng đáp</strong>
-<strong>X</strong>
-<strong>Đ</strong>
+<strong>X</strong> Tôi tựa nương vào Chúa
+<strong>Đ</strong> Không có gì làm tôi sợ hãi.
 
 <strong>Lời nguyện</strong>
-
+      Lạy Chúa, Chúa đã ban cho các chân phước tử đạo Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-nê, một sức mạnh vô song để tỏ hiện tình yêu các ngài đối với Hội Thánh, và bảo vệ các tự do của Hội Thánh;
+      Xin Chúa dạy chúng con, nhân hôm nay chúng con vui mừng cử hành cuộc khổ nạn vinh quang của các ngài, biết yêu mến Hội Thánh, Mẹ chúng con, và vững vàng công bố sứ điệp công bằng và chân lý của Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
 <strong>Cộng đoàn</strong> Tạ ơn Chúa.
@@ -12476,15 +12552,40 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Sứ giả niềm vui Chúa Phục Sinh 
+Các ngài bước đi dạ tín thành 
+Không hề lạc hướng đường theo Chúa 
+Cuộc đời đã dâng hiến Cha Nhân Lành.
+
+Lắng nghe tiếng nói của người nghèo 
+Tất cả mọi người sẽ được yêu 
+Không gì có thể làm chán nản 
+Mặt kẻ nghèo rạng ánh mỹ miều.
+
+Vất vả bởi những đêm canh thức 
+Dù bão táp họ chẳng sợ lo 
+Không gì có thể làm lay chuyển 
+Đặt hy vọng vào Thánh Thần Cha.
+
+Họ sáng soi con đường tăm tối 
+Đã luôn hướng dẫn Hội Thánh Ngài 
+Không ai đến gần các bạn ấy 
+Mà không tìm được lối thẳng ngay.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
-<strong>Lời Chúa</strong>
+<strong>Lời Chúa</strong> Rm 5,1-2.5
+      Vậy, một khi đã được nên cổng chính nhờ đức tin, chúng ta được bình an với Thiên Chúa nhờ Đức Giêsu Kitô, Chúa chúng ta. Vì chúng ta tin, nên Đức Giêsu đã mở lối cho chúng ta vào hưởng ân sủng của Thiên Chúa, như chúng ta đang được hiện nay; chúng ta lại còn tự hào về niềm hy vọng được hưởng vinh quang của Thiên Chúa. Trông cậy như thế, chúng ta sẽ không phải thất vọng, vì Thiên Chúa đã đổ tình yêu của Người vào lòng chúng ta nhờ Thánh Thần mà Người ban cho chúng ta.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong>
-*
-<strong>X</strong>
+<strong>XĐ</strong> Nguồn sự sống ở nơi Chúa
+* Nhờ ánh sáng của Chúa, 
+chúng con nhìn thấy ánh sáng.
+<strong>X</strong> xin bảo vệ tình yêu Chúa đã ban 
+cho những ai nhận biết Chúa. *
 <strong>Tc Tin Mừng</strong> “Linh hồn tôi ngợi khen Đức Chúa” (Magnificat)
-<strong>ĐC</strong>
+<strong>ĐC</strong> “Chúa đã cho phép tôi thấy, ở tòa án,
+người mẹ đáng thương của tôi, 
+bà đi đến đó như một người mẹ sầu bi”.
 
 Linh hồn tôi ngợi khen Đức Chúa
 Thần trí tôi hớn hở vui mừng
@@ -12518,10 +12619,24 @@ Vì Người nhớ lại lòng thương xót
 Dành cho tổ phụ Áp-ra-ham
 Và cho con cháu đến muôn đời.
 
+<strong>ĐC</strong> “Chúa đã cho phép tôi thấy, ở tòa án,
+người mẹ đáng thương của tôi, 
+bà đi đến đó như một người mẹ sầu bi”.
+
 <strong>Lời cầu</strong>
+      Cùng với các chân phước Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-Nê, những chứng nhân của tình yêu lớn nhất, chúng ta hãy vui mừng ca tụng Chúa.
+      <i>Lạy Chúa, chúng con cầu xin Chúa. </i>
+      Các ngài đã dùng cái chết làm lễ vật mà Chúa đã dâng lên Thiên Chúa, <i>- xin Chúa cho các Kitô hữu được đi vào sự Phục Sinh của Chúa. </i>
+      Trước các quan tòa, coi thường sự hận thù và bất công, các ngài đã công bố Danh Chúa với sức mạnh của Chúa Thánh Thần, <i>- xin Chúa giải thoát chúng con khỏi sự sợ hãi. </i>
+      Các ngài đã mang trong thân mình cuộc khổ nạn của Chúa và thà chết chứ không phạm tội, <i>- xin Chúa cho chúng con gắn bó với các giới răn Chúa. </i>
+      Chắc chắn về tình yêu và ơn Chúa, các ngài đã theo Chúa đến thập giá, <i>- xin Chúa làm cho đời sống và cái chết của các ngài trở nên phong phú cho Hội Thánh. </i>
+      Say mê chân lý Phúc Âm, các ngài đã luôn luôn trung thành với Chúa cho đến cùng, <i>- xin Chúa đón nhận ở bên Chúa anh chị em chúng con đã qua đời, họ đã cả đời trung thành với chân lý. </i>
 
 <strong>Kinh Lạy Cha</strong>
 <strong>Lời nguyện</strong>
+      Lạy Chúa, Chúa đã ban cho các chân phước tử đạo Lu-i Giuse, Gioan Hen-ri và Phêrô Rơ-nê, một sức mạnh vô song để tỏ hiện tình yêu các ngài đối với Hội Thánh, và bảo vệ các tự do của Hội Thánh;
+      Xin Chúa dạy chúng con, nhân hôm nay chúng con vui mừng cử hành cuộc khổ nạn vinh quang của các ngài, biết yêu mến Hội Thánh, mẹ chúng con, và vững vàng công bố sứ điệp công bằng và chân lý của Tin Mừng.
+      <i>Chúng con cầu xin...</i>
 
 <strong>Kết thúc </strong>
 <i>Chủ sự là linh mục hoặc phó tế</i>
