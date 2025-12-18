@@ -11536,31 +11536,55 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
+Lạy Chúa Giêsu, Ngài đã thắng sự chết 
+Chúng con cùng hát: Halêluia 
+Vũ trụ này được thay hình đổi dạng 
+Tấm bánh trở thành Thánh Thể uy linh.
+
+Đấng Giải Thoát đã phá đổ tội lỗi
+ Chúng con cùng hát: Halêluia 
+Từ tim Ngài tuôn tràn ơn cứu độ 
+Và từ nay chúng con được thứ tha.
+
+Chúa càn khôn đã ban Thần Khí Chúa
+Chúng con cùng hát: Halêluia
+Ngài hiện diện giữa chúng con luôn mãi
+Sự vô cùng nay được cầm trên tay.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
 <strong>Xướng đáp</strong>
-<strong>X</strong> 
-<strong>Đ</strong> 
+<strong>X</strong> Tâm hồn chúng con đợi trông Chúa.
+<strong>Đ</strong> bởi Người luôn che chở phù trì.
 
-<strong>Bài đọc 1</strong> 
-<strong> </strong>
+<strong>Bài đọc 1</strong> Hc 51,1-12
+<strong>Việc Tạ Ơn
+Lời Chúa trong sách Huấn Ca </strong>
+      Tôi xin tạ ơn Người, Gia-vê Vua của tôi, tôi xin ngợi khen Người, Thiên Chúa tế độ tôi, tôi xin tán tụng Danh Người, nơi mạng sống tôi ẩn náu. Vì Người đã chuộc mạng tôi khỏi tử thần, Người đã gìn giữ xác tôi khỏi hố, Người đã giựt chân tôi khỏi quyền âm phủ, Người đã bênh vực tôi khỏi dân vu khống, khỏi lưới của lưỡi đặt điều, khỏi môi những kẻ trí trá vu oan. Người đã ủng hộ tôi trước những kẻ chống đối. Chiếu theo lòng nhân hải hà, Người đã hộ giúp tôi khỏi mưu chước những kẻ rình tôi trợt ngã, khỏi tay những kẻ tìm hại mạng tôi. Khỏi bao quẫn bách Người đã cứu tôi, khỏi những nguy ngập hỏa hào bao quanh, khỏi vực lửa không tài dập tắt, khỏi cả uông mang chứ không chỉ nước, khỏi đứa lẻo môi, khỏi đứa trí trá đặt điều, khỏi những tên bắn của lưỡi điêu ngoa. Mạng tôi đã sát cận tử thần và mạng sống tôi gần đáy âm phủ. Tôi quay tứ phía không người đáp cứu, tôi tìm người chống đỡ, không có một ai. Bấy giờ tôi đã nhớ tới lòng thương xót của Giavê và những việc nghĩa từ ngàn xưa của Người, Đấng giựt thoát những kẻ chạy núp bên Người. Người đã cứu họ khỏi mọi sự dữ. Từ đất, tôi đã cất tiếng, từ cửa âm phủ, tôi đã kêu cứu. Tôi đã kêu lên: Giavê, Người là cha tôi, Thiên Chúa của tôi, anh hùng giải cứu tôi, xin đừng bỏ tôi trong ngày quẫn bách, trong ngày táng tận táng bại. Tôi xin ngợi khen Danh Người mãi mãi, và sẽ nhớ đến Người trong kinh nguyện khẩn cầu. Bấy giờ, Giavê đã nghe tiếng tôi, Người đã ghé tai đến lời tôi van xin. Người đã cứu tôi khỏi mọi sự dữ, ngày bĩ cực, Người đã giựt thoát tôi. Bởi thế, tôi sẽ cảm tạ, tôi sẽ ngợi khen. Tôi sẽ chúc tụng Danh Đức Giavê.
 
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Hãy bước đi, mắt thẳng nhìn Đức Kitô 
+làm nhân chứng cần mẫn cho Người.
+* Ai đành mất mạng sống mình thì sẽ tìm lại được!
+<strong>X</strong> Không có tình yêu nào lớn hơn tình yêu hiến mạng sống cho người mình yêu. *
 
 <strong>Bài đọc 2</strong>
-<strong> </strong>
-     
+<strong>Người đã đi tìm đức tin chân thật với lòng kiên nhẫn
+Trích “sự thương khó” của chân phước Ghê-brê Mi-ca-e của Đức cha Giút-ti-nô Gia-cô-bi </strong>
+      Cha Ghê-brê Mi-ca-e, thiên tài người A-být-si-ni, sáng suốt, ngay chính, năng động, nêu gương, xa lạ với mọi bè phái, đã kiên trì tìm kiếm nhận biết đức tin chân thật, bằng những nghiên cứu nghiêm ngặt. Sau gần nửa thế kỷ suy tư, người tân tòng của chúng ta đi Rôma, năm 1841, làm đặc sứ bên cạnh Đức Giáo Hoàng. Rốt cuộc, tại kinh thành Rôma, người đã tìm được chân lý, đối tượng tham vọng của mình; rồi từ đó, người gắn bó với chân lý mạnh mẽ hết cả tâm hồn, hết cả trí khôn, hết mọi hoạt động, đến nỗi năm 1844, người được phúc tuyên xưng nó trong xiềng xích và trong lao tù, vào thời cuộc bách hại đầu tiên do A- bu-na Sa-la-ma (Abouna Salama) khởi xướng chống các người mới theo đạo Công Giáo ở vùng A-být-si-ni.
+      Từ lúc này, đời sống của người hoàn toàn dành cho việc cầu nguyện, cho việc giáo dục công giáo, cho một cuộc tranh cãi quá vất vả, mà đã đem lại những thành quả tốt nhất. Vậy ai xứng hơn người này để chịu chức linh mục? Vì vậy, tôi thấy mình hạnh phúc, hôm nay, nhìn thấy nơi người mà tôi truyền chức, vị linh mục đầu tiên... Cùng bị bắt ở Gông-đa (Gondar), ngày 15 / 7 / 1854, và bị giam trong hai nhà tù khác nhau, ngày hôm đó là lần cuối cùng chúng tôi gặp nhau. Người lực sĩ quảng đại này, vừa mới bị quăng vào tù thì đã bị các tay chân của A-bu-na đánh đập dã man và lâu giờ bằng tay chân đấm đá và đòn vọt.
+      Sau 5 tháng khổ ải tù ngục, Ghê-brê được giải đến trại Casa. Vừa đến trại, người đã tuyên xưng Đức tin cao quí bằng một sự vững mạnh không thể tin được, trước mặt một đám đông dân chúng không đếm được. Rồi sau khi chiến thắng các luận cứ đưa ra để cám dỗ người, cuối cùng người bị án chém đầu. Nhưng việc thi hành án bị hoãn lại, hai người lính to khỏe nhất đã đánh vào mặt người, theo lệnh của Casa, 150 đấm, đang khi vị tử đạo lớn tiếng tuyên xưng lời dạy bất khả ngộ của Đức Giáo hoàng Lê-ô và của Công Đồng Can-xê-đoan (Chalcédoine), về tín điều Đức Giêsu Kitô có hai bản tính bằng những lời tuyệt vời; lính đánh thì vị tử đạo lớn tiếng tuyên xưng tín điều cho đến khi lính mệt không còn sức đánh. Người ta đã nghĩ rằng nạn nhân phải bị xé rách tả tơi, thì, trước sự sững sờ của mọi người, ông già đứng dậy và tự mình đi, trên mặt không mang một vết hành hạ nào, mắt sáng ngời một ánh sáng kỳ diệu. Cứ thế ông già trở vào phòng biệt giam với xiềng xích .
+      Hai ngày sau, bắt đầu cuộc hành trình dài 02 tháng, qua những chặng đường khổ ải: chân mang xiềng xích, ông già đi theo đoàn quân do vua Casa gửi đi chống vua Xi-o- ha (Scioha). Nhưng ông già lại phải ra tòa. Vua và cả A- bu-na Salama cũng tham dự tòa, trước toàn quân. Bị thẩm vấn lần thứ hai, ông già lại tuyên xưng Đức tin; lần thứ hai ông già bị án tử hình và tức thời bị điệu đến nơi hành hình để bị bắn. Nhưng đám dân xúc động vừa khóc vừa xin ơn vị tử đạo, và họ đã nhận được ơn.
+      Ông già đã hoàn toàn kiệt sức do biết bao nhiêu cực hình, thì một cơn đau dạ dày khủng khiếp lại ập đến, thêm bệnh lỵ cho đầy chén khổ hình. Đám lính sửng sốt cảm phục không gọi ông già bằng tên nữa, mà gọi ông già bằng tên Se-duy Ghi-e-ghi (Chedus Ghierghi), nghĩa là thánh Gióc (Geoges). Vị thánh này, theo truyền thuyết người A-být-si-ni, đã đành mất sự sống 7 lần vì đạo, và đã 7 lần lấy lại nó. Thiên Chúa nhân từ, dường như, đã muốn xác nhận tên đám lính gọi ông già, và lời ca khen của đám lính; vì chính ngày 13/7, ngày mà lịch A-být-si-ni ghi là lễ kính vị thánh tử đạo xưa, ngày Thiên Chúa đã gọi người tôi tớ về với Ngài, đang khi vị thánh hiển tu này đang trên đường và đã đang luôn mang xiềng xích vì Vinh Quang của Đức Giêsu Kitô.
+
 <strong>Xướng đáp</strong>
-<strong>XĐ</strong> 
-* 
-<strong>X</strong> 
+<strong>XĐ</strong> Thời giờ của con ở trong tay Chúa, xin giải thoát con;
+* Xin dãi sáng thiên nhan trên tôi tớ Chúa,
+<strong>X</strong> Lạy Chúa, con ẩn náu nơi Ngài, xin mau lắng tai nghe.
+Núi đá và thành lũy con, chính là Chúa, 
+vì danh Ngài, xin chỉ đường dẫn lối cho con.
 
 <strong>Lời nguyện</strong>
-      
-     <i>Chúng con cầu xin...</i>
+      Lạy Chúa, với lòng thương xót, Chúa đã hướng dẫn chân phước Tử đạo Ghê-brê Mi-ca-e đến chỗ nhận biết đức tin chân thật, và Chúa đã ban cho ngài một lòng can đảm đáng khâm phục để làm chứng cho Chúa; Nhờ công nghiệp và lời chuyển cầu của ngài, xin Chúa ban cho tất cả các quốc gia được nhận biết Chúa, Thiên Chúa thật duy nhất, và Đấng được Chúa sai đến, Đức Giêsu Kitô, Con Chúa, Chúa chúng con, Đấng …
 
 <strong>Kết thúc</strong>
 <strong>Chủ sự</strong> Nào ta chúc tụng Chúa.
