@@ -6227,24 +6227,24 @@ Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
 Khác nào ngọn lửa cháy lan,
-Dịu dàng mãnh liệt, ngút ngàn sức thiêu,
+Dịu dàng mãnh liệt, ngút ngàn lửa thiêng.
 Tình yêu Thiên Chúa dại điên,
-Thánh Thần, kho báu nhiệm mầu linh thiêng.
+Thánh Thần kho báu linh thiêng nhiệm mầu.
 
 Khác nào ngọn lửa cháy bừng,
-Hủy thiêu bằng sự khoan dung, khổ sầu,
-Tình yêu Thiên Chúa dại điên,
-Chính là thập giá Kitô cứu đời.
+Hủy thiêu bằng sự khoan dung khổ sầu.
+Tình yêu Thiên Chúa nhiệm mầu,
+Chính là thập giá nhiệm sâu cứu đời.
 
-Khác nào ngọn lửa ngút trời,
-Toàn thiêu cuộc sống lễ dâng cứu đời, 
-Tình yêu Thiên Chúa dại điên,
-Chúa ban Thánh Thể muôn trùng quý yêu.
+Khác nào ngọn lửa rạng ngời,
+Hiến dâng toàn vẹn, cứu đời nhân gian.
+Tình yêu Thiên Chúa chứa chan,
+Ban trong Thánh Thể muôn vàn quý yêu.
 
-Khác nào ngọn lửa bốc cao, 
+Khác nào lửa cháy dâng cao,
 Khôn ngoan soi sáng làm nguồn sức thiêng.
-Tình yêu Thiên Chúa dại điên, 
-Cha, Con cùng với Ngôi Ba Thánh Thần.
+Tình yêu Thiên Chúa dại điên,
+Cha, Con, cùng với Ba Ngôi Thánh Thần.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 112</strong>
@@ -6492,25 +6492,25 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Lạy Giêsu, chúng con tìm kiếm Chúa 
-Chúng con chờ mong, khao khát nhan Người 
-Được chiêm ngưỡng Chúa ngày dài đêm thâu 
-Lòng con no thỏa phúc ân nhiệm mầu.
+Lạy Giêsu, Thiên Chúa con tìm,
+Khát mong Nhan Thánh, lặng chìm đêm thâu.
+Được chiêm ngưỡng Chúa nhiệm mầu,
+Lòng con no thỏa, dạt dào ân ban.
 
-Như nguồn nước reo vui tuôn dào dạt 
-Những lời ca chiếm trọn cả đêm trường 
-Thánh Danh Người: Thiên Chúa là Tình Yêu 
-Từ nguyên thủy Cha hằng thương yêu Con.
+Như nguồn nước chảy chứa chan,
+Lời ca dâng Chúa vang tràn đêm khuya.
+Thánh Danh: Thiên Chúa Tình Yêu,
+Đấng từ nguyên thủy, Cha yêu Con mình.
 
-Trong âm thầm Hạt Giống đã hiến trao 
-Thánh Thể Chúa, loài người khôn diễn tả 
-Này bánh rượu biến thành Mình Máu Chúa 
-Làm thần lương nuôi sống toàn thế nhân.
+Âm thầm Hạt Giống hy sinh,
+Nhiệm mầu Thánh Thể hiển linh giữa đời.
+Bánh rượu biến hóa tuyệt vời,
+Thành Mình và Máu dưỡng nuôi nhân trần.
 
-Trong hân hoan Người đưa dẫn chúng ta
-Đến Bê-lem trong âm thầm lặng lẽ 
-Nơi mộ trống rực rỡ ánh Phục sinh 
-Nào ta tung hô Thiên Chúa sự sống.
+Trong niềm hoan lạc hồng ân,
+Người đưa ta đến âm thầm Bê-lem.
+Mộ trống rực sáng êm đềm,
+Phục Sinh chiếu tảo sáng đêm huy hoàng.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 18A</strong>
@@ -6772,30 +6772,30 @@ Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 Thiên Chúa nhân từ và yêu thương.
 
 <strong>Thánh thi</strong>
-Ai yêu mến thì sinh bởi Cha
-Ai biết mến yêu thì biết Người
-Ai sống trong tình yêu trao hiến 
-Họ sẽ được ở trong tình Cha.
+Ai yêu mến, thì sinh bởi Cha,
+Ai hay yêu mến, hiểu tình Cha con.
+Ai đem trao hiến vuông tròn,
+Ở trong tình Chúa, thật là phúc thay.
 
-Cao cả dường bao tình Chúa Cha 
-Cho ta được làm con của Người. 
-Khi Ki-tô xuất hiện tỏ tường 
-Ta trở nên giống Ngài mãi mãi.
+Cao vời tình Chúa dâng đầy,
+Cho ta nên nghĩa con Ngài từ đây.
+Khi Con xuất hiện tỏ bày,
+Ta nên giống Chúa, đổi thay muôn đời.
 
-Đức Giê-su hiến mạng vì ta 
-Ta cũng trao hiến vì anh em 
-Ai khép lòng trước nỗi cảm thông 
-Tình Chúa không ở lại trong họ.
+Giê-su hiến mạng vì người,
+Ta nên trao hiến cho đời anh em.
+Ai đành khép kín con tim,
+Tình Cha chẳng thể ở yên trong lòng.
 
-Ai yêu Chúa mà không yêu người 
-Ấy là kẻ nói dối nói gian 
-Ai không yêu anh em mình thấy 
-Không thể yêu Chúa, Đấng Vô Hình.
+Ai yêu Chúa, chẳng yêu người,
+Ắt là gian dối, nói lời chẳng ngay.
+Không yêu kẻ thấy hằng ngày,
+Sao yêu nổi Chúa tối cao vô hình?
 
-Ai được làm con Cha Hằng Hữu 
-Họ được thanh sạch trước nhan 
-Người Đức Ki-tô luôn gìn giữ họ 
-Khỏi ác thần cảm bẫy tử vong.
+Ai làm con Chúa hiển vinh,
+Sạch trong trước mặt uy linh của Ngài.
+Ki-tô gìn giữ đêm ngày,
+Giữ cho thoát khỏi họa tai tử thần.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 62</strong>
@@ -7227,50 +7227,50 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Lạy Cha, Đấng Toàn Năng 
-Ôi Chúa Cha Nhân Lành 
-Danh Ngài đáng chúc tụng 
-Chúc tụng muôn ngàn đời.
+Lạy Cha Chí Thánh Chí Tôn,
+Nhân lành, nguồn phúc trường tồn muôn nơi.
+Danh Cha chúc tụng rạng ngời,
+Ngàn thu vinh hiển, muôn đời hiển vinh.
 
-Vì phần rỗi chúng sinh 
-Chúa đã phái Con mình 
-Khi thời gian đã đến 
-Vì yêu thương mỗi người.
+Vì phần rỗi của chúng sinh,
+Cha sai Con Một giáng sinh cứu đời.
+Đúng khi thời điểm đến nơi,
+Vì yêu nhân thế, Con Trời hạ sinh.
 
-Chúa sai Con Yêu Dấu 
-Đến ở giữa thế gian 
-Trở nên kiếp phàm nhân 
-Sống như người trần thế.
+Sai Con yêu dấu quang vinh,
+Ở cùng nhân thế giữa ngàn thế nhân.
+Mang thân phận kiếp phàm trần,
+Sống như mọi kẻ, chia phần buồn vui.
 
-Lạy Ngôi Lời Chí Ái 
-Ôi Chúa, Đấng Yêu Thương 
-Danh Ngài đáng chúc tụng 
-Chúc tụng muôn ngàn đời.
+Lạy Ngôi Lời Chúa cao vời,
+Đấng hằng yêu dấu, rạng ngời tình thương.
+Danh Ngài chúc tụng muôn phương,
+Ngàn thu chúc tụng, thiên đường ngợi ca.
 
-Vì phần rỗi chúng sinh 
-Chúa mang lấy xác phàm 
-Giống hệt như người thế 
-Sinh hoạt giữa bao người.
+Vì phần rỗi của người ta,
+Chúa mang thân xác thật là giống nhân.
+Sống trong kiếp sống dương trần,
+Chia bao sinh hoạt muôn vàn người dân.
 
-Khi thời gian đã mãn 
-Vì yêu thương mỗi người
-Này Chúa đã xuất hiện 
-Giữa thế gian vô vọng.
+Khi thời viên mãn đã gần,
+Vì yêu nhân thế, hiến thân trọn tình.
+Chúa nay xuất hiện quang vinh,
+Soi nơi tăm tối, cứu sinh muôn loài.
 
-Lạy Thần Linh Cực Thánh 
-Ôi Lạy Chúa thi ân 
-Danh Ngài đáng chúc tụng 
-Chúc tụng muôn ngàn đời.
+Lạy Thánh Thần, Đấng cao vời,
+Ân thiêng tuôn đổ, sáng ngời tâm can.
+Danh Ngài chúc tụng chứa chan,
+Ngàn thu chúc tụng, hiệp đoàn ngợi ca.
 
-Vì phần rỗi chúng sinh 
-Ngài đã chọn Trinh Nữ 
-Khi thời kỳ đã mãn 
-Vì yêu thương mỗi người.
+Vì phần rỗi khắp muôn nhà,
+Ngài chọn Trinh Nữ sinh ra Con Trời.
+Đúng khi thời điểm hợp thời,
+Vì yêu nhân thế, rạng ngời hồng ân.
 
-Chúa đã gìn giữ Mẹ 
-Khiêm nhu dưới bóng 
-Ngài Ngoan ngùy trong cuộc sống 
-Theo hướng dẫn Thánh Linh.
+Chúa gìn giữ Mẹ chuyên cần,
+Khiêm nhu ẩn bóng, trong ngần đức tin.
+Sống theo hướng dẫn Thánh Linh,
+Trọn đời vâng phục, đẹp xinh ân tình.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 121
@@ -14350,45 +14350,47 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Lữ hành không mệt đường xa, 
-Khổ đau nhân thế dày vò tâm can. 
-Vinh Sơn thấy Chúa hiện thân 
-Trong người nghèo khổ kêu than đợi chờ.
+Kinh chiều I
+Lữ hành chẳng ngại đường xa,
+Dẫu bao nhân thế xót xa đoạn trường.
+Vinh Sơn thấy Chúa tỏ tường,
+Nơi người nghèo khổ, đau thương đợi chờ.
 
-Trên đường hiu quạnh nắng khô, 
+Giữa trời nắng cháy bơ vơ,
 Kìa ai đang khát đang mơ tình người. 
-Vinh Sơn ghé mắt vui tươi. N
-hư niềm hạnh phúc, nét cười thân thương.
+Vinh Sơn ghé mắt vui tươi, 
+Như niềm hạnh phúc, nét cười thân thương.
 
-Chiến tranh, quyền lực cản đường, 
-Không gì ngăn nổi lòng thương người nghèo. 
-Cha mang sứ điệp tình yêu: 
-Khoan dung, nhân ái, mọi điều thứ tha.
+Chiến tranh, quyền thế cản đường,
+Nào ngăn được lửa tình thương dạt dào.
+Cha mang sứ điệp ngọt ngào:
+Khoan dung, bác ái, dâng trao thứ tha.
 
-Bình an, ánh sáng chan hòa 
+Bình an rạng chiếu chan hòa,
 Cho người dưới ách quỷ ma tủi sầu. 
 Tình yêu thương tổn nơi đâu. 
-Chữa cho lành vết, quản nào gian nan.
+Chữa cho lành vết, quản nào gian nan. 
 
-Giê-ri-cô, nẻo bạo tàn, 
+Giê-ri-cô, những nẻo bạo tàn, 
 Quanh co, cướp bóc, muôn vàn hiểm nguy, 
-Nạn nhân được cứu cấp kỳ 
-Cha theo đường Chúa bước đi khiêm nhường.
+Nạn nhân được cứu cấp kỳ, 
+Cha theo đường Chúa bước đi khiêm nhường. 
 
-Bao nhiêu đau khổ đoạn trường 
-Được mang lấy áo Tin Mừng hân hoan. 
-Bao nhiêu tội lỗi ngập tràn, 
-Được tha thứ cả, nhẹ nhàng sống vui.
+Bao nhiêu đau khổ đoạn trường,
+Khoác lên áo mới Tin Mừng hân hoan.
+Bao nhiêu tội lỗi lan tràn,
+Được ơn tha thứ, bình an nhẹ nhàng.
 
-Yêu thương dù hết một đời, 
-Ai đâu dám bảo “đủ rồi” yên tâm. 
+Yêu thương trọn kiếp chẳng màng,
+Nào ai dám nói: “đủ rồi” an tâm.
 Hồng ân mưa đổ thấm nhuần 
-Ngày đêm như suối Thánh Thần trào dâng.
+Ngày đêm như suối Thánh Thần trào dâng. 
 
-Kho tàng Thần Khí Chúa ban 
-Khác nào dấu chỉ ẩn tàng đẹp xinh, 
-Sống như Thánh Phụ Vinh Sơn, Mến, Tin, 
-Trông cậy, xin ơn trung thành.
+
+Kho tàng Thần Khí Chúa ban,
+Ẩn trong dấu chỉ dịu dàng đẹp xinh.
+Theo gương Thánh Phụ Vinh Sơn,
+Mến, Tin, Trông cậy, xin ơn trung thành.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 112</strong>
@@ -14642,30 +14644,30 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Ôi Giêsu, Đấng khổ hình thập giá 
-Thần Khí Ngài xin ban xuống chúng con 
-Để chúng con luôn sẵn sàng rực cháy 
-Rực cháy luôn lửa tình yêu của Ngài.
+Ôi Giêsu, Đấng chịu khổ hình,
+Thập giá cứu độ, hiến mình vì con.
+Xin ban Thần Khí sắt son,
+Cho tim rực cháy lửa nồng mến yêu.
 
-Ôi Giêsu, Vị Cứu Tinh nhân loại 
-Đưa dẫn con trở thành người môn đệ 
-Rộng tình thương cho hết thảy chúng sinh 
-Và những ai đang tìm Thánh Ý Ngài.
+Ôi Giêsu, Thiên Chúa cao siêu,
+Cứu Tinh nhân thế, dắt dìu đời con.
+Cho con theo bước vuông tròn,
+Sống trong Thánh Ý, sắt son nghĩa tình.
 
-Ôi Giêsu, Vị Cứu Tinh nhân loại 
-Xin dạy cho con thấy Chúa nơi người nghèo 
-Phục vụ họ như ông hoàng, bà chúa 
-Yêu thương họ cũng là yêu mến Chúa.
+Ôi Giêsu, Vị Cứu Tinh nhân loại
+Cho con thấy Chúa nơi bao người nghèo.
+Biết yêu, phục vụ thật nhiều,
+Như yêu chính Chúa trong chiều hiến dâng.
 
-Ôi Giêsu, Vị Cứu Tinh nhân loại 
-In trong tim Đức Ái Thần Linh Ngài 
-Để con nên đơn sơ và quảng đại 
-Đầy niềm vui trong khiêm nhường thẳm sâu.
+Xin in Đức Ái vào lòng,
+Cho con nhuần thắm, Thánh Linh của Ngài.
+Để con quảng đại hôm mai
+An vui phục vụ, chẳng màng lợi danh.
 
-Ôi Giêsu, Vị Cứu Tinh nhân loại 
-Con trở thành sứ giả của Nước Trời 
-Thành thợ giỏi trong cánh đồng của 
-Chúa Nên bạn hữu của hết thảy thế nhân.
+Xin sai con bước chân lành,
+Ra đi loan báo Tin Mừng muôn nơi.
+Gặt mùa lúa chín cho đời,
+Kết tình nhân thế trong lời yêu thương.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 1
@@ -14984,37 +14986,33 @@ Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 Chúa sẽ cứu độ dân Người. Halêluia.
 
 <strong>Thánh thi</strong>
-Nếu tình yêu là một ngọn lửa mới 
-Lời vâng của bạn làm cháy bừng lên 
-Trong Kitô, Thiên Chúa đã tự hiến 
-Cho mọi người, cho hết mọi thế nhân 
-Khi lập nên bí tích của tình yêu
-Xin hãy nhớ:
-“Tình yêu luôn sáng tạo đến vô cùng”.
+Tình yêu là ngọn lửa thiêng,
+Lời vâng con cháy, sáng riêng rạng ngời.
+Giêsu tự hiến trọn đời,
+Cho người nhân thế mọi nơi, mọi thời.
+Tình yêu sáng tạo cao vời,
+Bí tích Chúa lập suốt đời con theo.
 
-Mười lần viếng thăm người nghèo, đau khổ 
-Mười lần bạn đã gặp Đức Kitô 
-Ngài đang đau yếu, đang gọi bạn đi 
-Hãy chạy đến mau, Chúa đang đợi chờ 
-Vắng bạn rồi, kinh lễ vẫn không sao 
-Xin hãy nhớ:
-Đó là “rời Chúa vì Chúa” mà thôi.
+Mười lần thăm viếng người nghèo,
+Mười lần gặp Chúa giữa bao đời thường.
+Ngài đang đau yếu liệt giường,
+Xin mau chân đến tỏ tường yêu thương.
+Tình yêu thúc bước lên đường,
+Rời Chúa để sống yêu thương vì Ngài.
 
-Chúng ta được sống trong Đức Kitô 
-Là nhờ vào cái chết của chính Ngài 
-Và để được chết như Đức Kitô 
-Chúng ta phải sống như Ngài đã sống 
-Tình yêu Ngài đang thôi thúc chúng ta
-Xin hãy nhớ:
-“Ta chỉ được mãn nguyện trong Ngài thôi”.
+Nhờ vào cái chết của Ngài,
+Chúng ta được sống với Ngài hiển vinh. 
+Nếu ta muốn được Phục Sinh.
+Theo gương Chúa chết hy sinh cho đời.
+Tình yêu thúc bách không nguôi,
+Để ta đẹp ý Chúa Trời thương ban.
 
-Nếu người thân cận tôi không yêu Chúa 
-Thì tình tôi yêu Chúa, ích gì đâu 
-Tôi đã sống và phục vụ suốt đời 
-Là niềm vui, là hạnh phúc bền lâu 
-Loan Tin Mừng cho muôn dân muôn nước
-Xin hãy nhớ:
-“Đó chính là theo Chúa trong Kitô”.
+Tôi yêu Thiên Chúa ngập tràn, 
+mà người thân cận chẳng màng, ích chi.
+Sống đời phục vụ kiên trì,
+Niềm vui hạnh phúc khắc ghi dâng đầy.
+Tin Mừng loan khắp đó đây,
+Chính là theo Chúa trong Thầy Giêsu.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 62
@@ -15439,25 +15437,25 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Là anh em cùng một Cha trên trời 
-Người nghèo, anh em ruột của chúng ta 
-Đang đợi chờ nơi ta sự dấn thân 
-Đó là sự công chính của tâm hồn.
+Là anh em một Cội một Nguồn
+Người nghèo ruột thịt, xin đừng bỏ rơi
+Họ chờ dấn bước không ngơi
+Tâm hồn công chính gương soi sáng ngời.
 
-Người nghèo đang đau khổ, đang cầu cứu 
-Họ đang chờ cánh tay bạn đỡ nâng 
-Tiếng kêu ấy vang vọng chung quanh bạn
- Đó là tiếng Giêsu đang kêu cầu.
+Người nghèo đau khổ van lời
+Chờ bàn tay bạn đỡ nâng ân cần
+Tiếng kêu vang vọng xa gần
+Giêsu đang gọi mau lần bước chân.
 
-Cảnh lầm than đang đeo bám người nghèo 
-Ngài thôi thúc, ta hãy mau tìm đến 
-Cứu thoát họ khỏi lầm than, cơ cực 
-Đó chính là Giêsu đang bần hàn.
+Giê su hình ảnh cơ bần
+Ngài nhắc ta tới ủi an vỗ về
+Cứu nguy thoát khỏi ề chề
+Người nghèo khổ cực mọi bề cần ta.
 
-Họ thức khuya dậy sớm lo cơm áo 
-Ngài đặt ta bên cạnh họ ủi an 
-Mở mắt nhìn chúng ta sẽ nhận ra 
-Đó chính là Giêsu đang héo hon.
+Họ lo cơm gạo cửa nhà
+Mong ta bên cạnh thương yêu hàng đầu.
+hướng nhìn về họ thật sâu,
+Chính là Con Chúa âu sầu héo hon.
 
 <strong>Ca vịnh</strong>
 <strong>Tv 14
