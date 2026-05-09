@@ -6294,9 +6294,9 @@ Tuyết tựa lông chiên, Chúa trải dài,
 sương giá như tro, Người rải rắc.
 
 Làm mưa đá, Chúa tung từng miếng nhỏ,
- chịu nổi làm sao giá lạnh của Người! * 
-Chúa phán một lời là băng giải tuyết tan, t
-hổi gió lên nước liền tuôn chảy.
+chịu nổi làm sao giá lạnh của Người! * 
+Chúa phán một lời là băng giải tuyết tan, 
+thổi gió lên nước liền tuôn chảy.
 
 Chúa bày tỏ lời Người cho nhà Gia-cóp, 
 chiếu chỉ luật điều cho Ít-ra-en. *
