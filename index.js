@@ -7677,45 +7677,45 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Gio-an-na An-ti-đa 
-Chị đã đi theo Chúa 
-Suốt cuộc đời trần thế 
-Chị vâng theo ý Người.
+Kinh sách
+Gio-an-na thắm nghĩa tình yêu,
+Theo chân Thiên Chúa sớm chiều không vơi, Chị vâng theo thánh ý Người,
+Cuộc đời sương gió tả tơi chẳng sờn.
 
-Trong thế giới nhiễu nhương 
-Chị nhắn nhủ chúng tôi: 
-Hãy theo Đức Kitô 
-Bằng tình yêu táo bạo.
+Sống trong nhân thế nhiễu nhương,
+Chị luôn nhắn nhủ khiêm nhường, yêu thương.
+Hay theo gương Chúa lên đường,
+Tình yêu mãnh mẽ tán dương Danh Ngài.
 
-Gio-an-na An-ti-đa 
-Chị sống bằng tình 
-Chúa Suốt cuộc đời trần thế 
-Làm chứng chân lý Người.
+Gio-an-na gìn giữ miệt mài,
+Hiến dâng trọn vẹn thân mình cho Cha.
+Trần gian bao nẻo phong ba,
+Lòng người vẫn sáng chàn hòa bình minh.
 
-Trong thế giới hư vong 
-Chị nhắn nhủ chúng tôi: 
-Hãy hát ca cuộc sống 
-Bằng tình yêu táo bạo
+Giữa nơi tăm tối điêu linh,
+Chị đem sự sống ân tình trao ban.
+Dịu xoa đau khổ cơ hàn,
+Cho bao người thế, ngập tràn cậy trông.
 
-Gio-an-na An-ti-đa 
-Sống gần người bé nhỏ 
-Suốt cuộc đời trần thế 
-Xoa dịu nỗi khổ đau.
+Gio-an-na bước đường thong dong,
+Mang theo lửa mến sưởi lòng thế nhân.
+Đường xa muôn dặm gian truân,
+Vẫn không ngăn nổi bước chân rao truyền.
 
-Thế giới đầy thương tích 
-Chị nhắn nhủ chúng tôi: 
-Hãy reo rắc niềm vui 
-Bằng tình yêu táo bạo.
+Thế gian lạnh lẽo ưu phiền,
+Chị mời nhân thế đi vào yêu thương.
+Cùng nhau xây đắp quê hương,
+Bằng tình táo bạo vấn vương Tin Mừng.
 
-Gio-an-na An-ti-đa 
-Chị rao giảng Tin Mừng 
-Để loan báo đức tin 
-Chị vượt ngàn trùng dương.
+Gio-an-na yêu mãi không ngừng,
+Tình yêu Thiên Chúa kết thành lời ca.
+Bao năm giữa chốn phong ba,
+Chị luôn phản chiếu chan hòa niềm tin.
 
-Thế giới vắng tình yêu 
-Chị nhắn nhủ chúng tôi: 
-Hãy về với anh em 
-Bằng tình yêu táo bạo.
+Xin cho con biết hy sinh,
+Làm cho thế giới thắm tình yêu thương.
+Để đời rực sáng muôn phương,
+Bằng tình yêu Chúa, thương anh em mình.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
@@ -7829,25 +7829,25 @@ Chúng sẽ không được vào chốn yên nghỉ của Ta.”
 chúng con thờ lạy Chúa.
 
 <strong>Thánh thi</strong>
-Hạnh phúc thay, vui mừng biết bao
-Được thuộc về Chúa, Đấng Cứu Độ
-Hạnh phúc thay, vui mừng biết bao 
-Được phụng thờ Chúa, Chúa của con.
+Hạnh phúc thay, vui mừng biết bao,
+Được thuộc về Đấng Tối Cao ngàn trùng.
+Hạnh phúc thay, bao nỗi vui mừng,
+Được phụng thờ Chúa cả đời con vui.
 
-Con đặt tin tưởng nơi Đức Chúa 
-Chỉ nương tựa một mình Người thôi 
-Chúa là Ánh Dương soi bước đường 
-Xua tan sợ hãi với lo âu.
+Con luôn tín thác nơi Người,
+Một lòng nương náu chẳng ngơi chút nào.
+Chúa soi lối bước dẫn vào,
+Xua tan sợ hãi đêm dài lo âu.
 
-Chúa là niềm vui, là hy vọng 
-Xin chúc tụng Người từ buổi mai 
-Chúa là nguồn thánh thiện duy nhất 
-Cho con vui sống và vững tâm.
+Chúa nguồn hy vọng cao sâu,
+Con chúc tụng Chúa sớm hôm nguyện cầu.
+Chúa là nguồn sống bền lâu,
+Cho con vui sống vững tâm an bình.
 
-Trong thinh lặng, tim con vui sướng 
-Chỉ nơi Người, dâng trọn niềm tin 
-Hạnh phúc thay được phụng thờ Chúa 
-Giữa đau khổ của con cái Người.
+Trong nơi thinh lặng con tim,
+Con xin phó trọn niềm tin nơi Người.
+Dẫu đời khốn khó muôn nơi,
+Con xin thờ phượng mình Người mà thôi.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 
@@ -8049,30 +8049,25 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Theo gương Thầy Chí Thánh Giêsu 
-Hãy yêu mến Chúa Cha không ngừng 
-Hãy chăm lo phục vụ người nghèo 
-Vì Chúa chính nguồn sống của ta.
+Theo gương Giêsu, Chúa Cứu đời
+Yêu mến Chúa Cha chẳng chút ngơi.
+Hết lòng phục vụ người nghèo khó,
+Vì Chúa nguồn vui của muôn người.
 
-Người nghèo là Chúa, là Chủ ta 
-Ta hãy mau chóng phục vụ họ 
-Cứu họ thoát khỏi cơn nguy khốn 
-Giúp đỡ họ trong suốt cuộc đời ta.
+Người nghèo là Chúa, và là Chủ,
+Hãy mau phục vụ và yêu thương.
+Cứu người cùng khốn cảnh đoạn trường,
+Suốt đời nâng đỡ vượt đường gian nan.
 
-Sống trên đời với ngàn mơ ước 
-Nhưng chỉ ước tuân giữ Ý Người 
-Khi Chúa gọi, ta mau đáp lời 
-Người sẽ ban mọi của đầy dư.
+Muôn ngàn ước vọng trần gian,
+Cho con vâng giữ ý Ngài mà thôi.
+Khi Chúa gọi, con mau đáp lời,
+Ngài ban ân phúc ngàn đời thương tha.
 
-Trên khắp mọi dân của vũ hoàn 
-Người nghèo là Thân Mình Kitô 
-Tiếng họ vang vọng trong cõi đất 
-Khao khát sự sống và tình yêu.
-
-Hãy phục vụ người nghèo luôn mãi 
-Trong nhiệt tâm, trong sự kính trọng 
-Hãy làm nhân chứng, làm tông đồ 
-Làm sứ giả tình yêu hiến dâng.
+Người nghèo là Chúa đang ở giữa ta,
+Tiếng kêu thảm thiết vang xa khắp miền. 
+Dục ta nhanh bước chạy liền,
+Nhiệt tâm loán báo Tin Mừng gần xa.
 
 <strong>Ca vịnh</strong> theo ngày trong tuần.
 <strong>Lời Chúa</strong> 1Ga 4,9-10
