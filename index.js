@@ -7677,7 +7677,6 @@ luôn mãi đến thiên thu vạn đại. A-men.</i>
 Ha-lê-lui-a.
 
 <strong>Thánh thi</strong>
-Kinh sách
 Gio-an-na thắm nghĩa tình yêu,
 Theo chân Thiên Chúa sớm chiều không vơi, Chị vâng theo thánh ý Người,
 Cuộc đời sương gió tả tơi chẳng sờn.
